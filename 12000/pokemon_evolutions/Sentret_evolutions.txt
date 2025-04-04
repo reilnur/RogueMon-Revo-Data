@@ -1,0 +1,37 @@
+Evolutions from Sentret (out of approximately 12000):
+Pokémon      | Count | Percentage
+----------------------------
+Delcatty     | 501 |   4.17%
+Munchlax     | 495 |   4.12%
+Raticate     | 493 |   4.11%
+Porygon      | 480 |   4.00%
+Watchog      | 475 |   3.96%
+Linoone      | 474 |   3.95%
+Farfetchâ€™d | 471 |   3.92%
+Gumshoos     | 469 |   3.91%
+Persian      | 440 |   3.67%
+Lickitung    | 425 |   3.54%
+Castform     | 423 |   3.52%
+Raticatea    | 421 |   3.51%
+Squawkbily   | 417 |   3.48%
+Vigoroth     | 416 |   3.47%
+Chatot       | 409 |   3.41%
+Audino       | 405 |   3.38%
+Eeveep       | 398 |   3.32%
+Dunsparce    | 394 |   3.28%
+Chansey      | 393 |   3.28%
+Terapagos    | 390 |   3.25%
+Purugly      | 374 |   3.12%
+Kecleon      | 372 |   3.10%
+Linooneg     | 364 |   3.03%
+Noctowl      | 332 |   2.77%
+Fearow       | 320 |   2.67%
+Diggersby    | 317 |   2.64%
+Swellow      | 309 |   2.57%
+Bibarel      | 287 |   2.39%
+Wigglytuff   | 277 |   2.31%
+Girafarig    | 258 |   2.15%
+Furfrou      |   1 |   0.01%
+----------------------------
+TOTAL        | 12000 | 100.00%
+

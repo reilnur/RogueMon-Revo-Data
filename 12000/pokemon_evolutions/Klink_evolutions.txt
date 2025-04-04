@@ -1,0 +1,38 @@
+Evolutions from Klink (out of approximately 12000):
+Pokémon    | Count | Percentage
+---------------------------
+Perrserker | 1006 |   8.38%
+Orthworm   |  947 |   7.89%
+Togedemaru |  861 |   7.17%
+Lairon     |  844 |   7.03%
+Dugtrioa   |  790 |   6.58%
+Doublade   |  785 |   6.54%
+Sandslasha |  743 |   6.19%
+Sliggooh   |  708 |   5.90%
+Mawilem    |  665 |   5.54%
+Magneton   |  660 |   5.50%
+Klefki     |  659 |   5.49%
+Stunfiskg  |  642 |   5.35%
+Skarmory   |  590 |   4.92%
+Metang     |  550 |   4.58%
+Wormadamt  |  505 |   4.21%
+Durant     |  470 |   3.92%
+Forretress |  447 |   3.72%
+Tinkatuff  |   20 |   0.17%
+Copperajah |   18 |   0.15%
+Bastiodon  |   10 |   0.08%
+Mawile     |   10 |   0.08%
+Tinkaton   |   10 |   0.08%
+Bisharp    |   10 |   0.08%
+Aegislashb |    9 |   0.07%
+Corvknight |    9 |   0.07%
+Aegislash  |    7 |   0.06%
+Revavroom  |    5 |   0.04%
+Ferrothorn |    4 |   0.03%
+Scizor     |    4 |   0.03%
+Escavalier |    4 |   0.03%
+Klinklang  |    4 |   0.03%
+Bronzong   |    4 |   0.03%
+---------------------------
+TOTAL      | 12000 | 100.00%
+

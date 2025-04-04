@@ -1,0 +1,50 @@
+Evolutions from Nosepass (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Lycanrocm  | 508 |   4.23%
+Stakataka  | 493 |   4.11%
+Nihilego   | 493 |   4.11%
+Lycanroc   | 489 |   4.08%
+Lycanrocd  | 488 |   4.07%
+Ironthorns | 484 |   4.03%
+Archeops   | 474 |   3.95%
+Garganacl  | 433 |   3.61%
+Gigalith   | 432 |   3.60%
+Rampardos  | 414 |   3.45%
+Ogerponr   | 398 |   3.32%
+Tyrantrum  | 380 |   3.17%
+Arcanineh  | 379 |   3.16%
+Bastiodon  | 355 |   2.96%
+Aggron     | 317 |   2.64%
+Rhydon     | 285 |   2.38%
+Carbink    | 280 |   2.33%
+Golem      | 278 |   2.32%
+Aurorus    | 277 |   2.31%
+Aerodactyl | 270 |   2.25%
+Miniorc    | 270 |   2.25%
+Rhyperior  | 269 |   2.24%
+Coalossal  | 265 |   2.21%
+Avaluggh   | 265 |   2.21%
+Carracosta | 263 |   2.19%
+Glimmora   | 262 |   2.18%
+Drednaw    | 257 |   2.14%
+Crustle    | 237 |   1.98%
+Golema     | 234 |   1.95%
+Kleavor    | 234 |   1.95%
+Omastar    | 233 |   1.94%
+Armaldo    | 224 |   1.87%
+Relicanth  | 218 |   1.82%
+Barbaracle | 216 |   1.80%
+Cradily    | 213 |   1.77%
+Kabutops   | 200 |   1.67%
+Shuckle    | 198 |   1.65%
+Diancie    |   5 |   0.04%
+Tyranitar  |   3 |   0.03%
+Ironbouldr |   2 |   0.02%
+Regirock   |   2 |   0.02%
+Terrakion  |   1 |   0.01%
+Stonjorner |   1 |   0.01%
+Klawf      |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

@@ -1,0 +1,50 @@
+Evolutions from Zigzagoong (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Mightyena  | 400 |   3.33%
+Persiana   | 367 |   3.06%
+Sableye    | 353 |   2.94%
+Liepard    | 348 |   2.90%
+Thievul    | 345 |   2.88%
+Delcatty   | 339 |   2.83%
+Porygon    | 339 |   2.83%
+Murkrow    | 337 |   2.81%
+Dunsparce  | 319 |   2.66%
+Gumshoos   | 315 |   2.62%
+Castform   | 307 |   2.56%
+Raticate   | 305 |   2.54%
+Lickitung  | 303 |   2.53%
+Furret     | 302 |   2.52%
+Munchlax   | 298 |   2.48%
+Watchog    | 295 |   2.46%
+Morpekoh   | 293 |   2.44%
+Linoone    | 290 |   2.42%
+Persian    | 289 |   2.41%
+Zangoose   | 282 |   2.35%
+Chatot     | 280 |   2.33%
+Sneasel    | 275 |   2.29%
+Morpeko    | 272 |   2.27%
+Qwilfishh  | 263 |   2.19%
+Eeveep     | 262 |   2.18%
+Chansey    | 260 |   2.17%
+Squawkbily | 257 |   2.14%
+Greedent   | 250 |   2.08%
+Kecleon    | 248 |   2.07%
+Vigoroth   | 247 |   2.06%
+Audino     | 245 |   2.04%
+Terapagos  | 233 |   1.94%
+Raticatea  | 233 |   1.94%
+Diggersby  | 226 |   1.88%
+Purugly    | 218 |   1.82%
+Fearow     | 214 |   1.78%
+Zweilous   | 211 |   1.76%
+Swellow    | 208 |   1.73%
+Wigglytuff | 203 |   1.69%
+Noctowl    | 203 |   1.69%
+Sharpedo   | 201 |   1.68%
+Bibarel    | 195 |   1.62%
+Girafarig  | 191 |   1.59%
+Lokix      | 179 |   1.49%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

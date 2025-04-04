@@ -1,0 +1,63 @@
+Evolutions from Skiddo (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Ogerpon    | 359 |   2.99%
+Tapu Bulu  | 352 |   2.93%
+Virizion   | 346 |   2.88%
+Tangrowth  | 318 |   2.65%
+Wo-Chien   | 305 |   2.54%
+Rillaboom  | 302 |   2.52%
+Brutebonet | 300 |   2.50%
+Kartana    | 288 |   2.40%
+Meganium   | 275 |   2.29%
+Sceptile   | 270 |   2.25%
+Cherrims   | 256 |   2.13%
+Leafeon    | 252 |   2.10%
+Simisage   | 252 |   2.10%
+Serperior  | 251 |   2.09%
+Ogerponr   | 251 |   2.09%
+Exeggutora | 246 |   2.05%
+Ogerponf   | 242 |   2.02%
+Chesnaught | 236 |   1.97%
+Tsareena   | 234 |   1.95%
+Bellossom  | 232 |   1.93%
+Lilligant  | 230 |   1.92%
+Lurantis   | 228 |   1.90%
+Exeggutor  | 224 |   1.87%
+Decidueye  | 217 |   1.81%
+Hydrapple  | 211 |   1.76%
+Appletun   | 210 |   1.75%
+Ogerponw   | 210 |   1.75%
+Meowscrada | 208 |   1.73%
+Flapple    | 206 |   1.72%
+Dipplin    | 202 |   1.68%
+Decidueyeh | 191 |   1.59%
+Sinistcha  | 191 |   1.59%
+Dhelmise   | 185 |   1.54%
+Gourgeistx | 183 |   1.52%
+Ferrothorn | 180 |   1.50%
+Lilliganth | 173 |   1.44%
+Bramblgast | 173 |   1.44%
+Gourgeists | 171 |   1.43%
+Shiftry    | 171 |   1.43%
+Whimsicott | 171 |   1.43%
+Gourgeist  | 169 |   1.41%
+Toedscruel | 168 |   1.40%
+Rotomm     | 160 |   1.33%
+Gourgeistl | 158 |   1.32%
+Calyrex    | 156 |   1.30%
+Electrodeh | 154 |   1.28%
+Cradily    | 153 |   1.27%
+Venusaur   | 153 |   1.27%
+Scovillain | 152 |   1.27%
+Roserade   | 149 |   1.24%
+Abomasnow  | 146 |   1.22%
+Victreebel | 145 |   1.21%
+Torterra   | 142 |   1.18%
+Vileplume  | 142 |   1.18%
+Arboliva   | 123 |   1.03%
+Leavanny   | 117 |   0.97%
+Ludicolo   | 111 |   0.92%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

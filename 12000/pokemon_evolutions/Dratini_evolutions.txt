@@ -1,0 +1,28 @@
+Evolutions from Dratini (out of approximately 12000):
+Pokémon    | Count | Percentage
+---------------------------
+Sliggoo    | 1648 |  13.73%
+Fraxure    | 1473 |  12.28%
+Shelgon    | 1418 |  11.82%
+Drakloak   | 1244 |  10.37%
+Sliggooh   | 1243 |  10.36%
+Zweilous   | 1164 |   9.70%
+Hakamo-O   | 1121 |   9.34%
+Arctibax   | 1081 |   9.01%
+Gabite     | 1049 |   8.74%
+Tyrunt     |  233 |   1.94%
+Vibrava    |   81 |   0.68%
+Tatsugiri  |   78 |   0.65%
+Druddigon  |   46 |   0.38%
+Dragalge   |   17 |   0.14%
+Flapple    |   16 |   0.13%
+Appletun   |   16 |   0.13%
+Dipplin    |   15 |   0.12%
+Zygarde10  |   14 |   0.12%
+Altaria    |   14 |   0.12%
+Turtonator |   14 |   0.12%
+Cyclizar   |   10 |   0.08%
+Drampa     |    5 |   0.04%
+---------------------------
+TOTAL      | 12000 | 100.00%
+

@@ -1,0 +1,48 @@
+Evolutions from Delibird (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Vanillish  | 597 |   4.98%
+Castformi  | 450 |   3.75%
+Murkrow    | 414 |   3.45%
+Archen     | 406 |   3.38%
+Eiscuen    | 399 |   3.33%
+Eiscue     | 389 |   3.24%
+Gligar     | 379 |   3.16%
+Emolga     | 374 |   3.12%
+Togetic    | 339 |   2.83%
+Sneasel    | 332 |   2.77%
+Chatot     | 329 |   2.74%
+Minior     | 328 |   2.73%
+Sandslasha | 325 |   2.71%
+Mothim     | 313 |   2.61%
+Squawkbily | 303 |   2.53%
+Piloswine  | 303 |   2.53%
+Skarmory   | 292 |   2.43%
+Xatu       | 286 |   2.38%
+Swoobat    | 286 |   2.38%
+Jynx       | 283 |   2.36%
+Fearow     | 283 |   2.36%
+Arctibax   | 275 |   2.29%
+Dartrix    | 274 |   2.28%
+Golbat     | 260 |   2.17%
+Beautifly  | 258 |   2.15%
+Mr. Mimeg  | 256 |   2.13%
+Ledian     | 256 |   2.13%
+Sealeo     | 253 |   2.11%
+Noctowl    | 253 |   2.11%
+Swellow    | 252 |   2.10%
+Butterfree | 251 |   2.09%
+Pelipper   | 242 |   2.02%
+Jumpluff   | 236 |   1.97%
+Swanna     | 229 |   1.91%
+Tropius    | 224 |   1.87%
+Yanma      | 223 |   1.86%
+Vivillon   | 218 |   1.82%
+Dodrio     | 217 |   1.81%
+Ninjask    | 208 |   1.73%
+Masquerain | 203 |   1.69%
+Altaria    |   1 |   0.01%
+Glalie     |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

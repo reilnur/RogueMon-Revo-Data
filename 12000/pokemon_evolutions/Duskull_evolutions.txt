@@ -1,0 +1,41 @@
+Evolutions from Duskull (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Corsolag   | 778 |   6.48%
+Banette    | 695 |   5.79%
+Misdreavus | 633 |   5.27%
+Cofagrigus | 554 |   4.62%
+Mismagius  | 552 |   4.60%
+Houndstone | 523 |   4.36%
+Rotom      | 510 |   4.25%
+Doublade   | 465 |   3.88%
+Marowaka   | 457 |   3.81%
+Drakloak   | 398 |   3.32%
+Aegislashb | 387 |   3.23%
+Sableyem   | 380 |   3.17%
+Aegislash  | 375 |   3.12%
+Mimikyu    | 357 |   2.97%
+Spiritomb  | 356 |   2.97%
+Oricoriog  | 354 |   2.95%
+Palossand  | 351 |   2.93%
+Golurk     | 348 |   2.90%
+Gourgeist  | 346 |   2.88%
+Gourgeistx | 344 |   2.87%
+Trevenant  | 343 |   2.86%
+Froslass   | 338 |   2.82%
+Gourgeistl | 328 |   2.73%
+Runerigus  | 325 |   2.71%
+Gourgeists | 322 |   2.68%
+Gengar     | 316 |   2.63%
+Bramblgast | 312 |   2.60%
+Drifblim   | 299 |   2.49%
+Jellicent  | 248 |   2.07%
+Lampent    |   1 |   0.01%
+Cursola    |   1 |   0.01%
+Poltegeist |   1 |   0.01%
+Dhelmise   |   1 |   0.01%
+Chandelure |   1 |   0.01%
+Haunter    |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

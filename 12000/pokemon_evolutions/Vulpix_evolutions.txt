@@ -1,0 +1,47 @@
+Evolutions from Vulpix (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Arcanine   | 447 |   3.72%
+Torkoal    | 442 |   3.68%
+Darmanitan | 427 |   3.56%
+Typhlosion | 421 |   3.51%
+Cinderace  | 405 |   3.38%
+Simisear   | 399 |   3.33%
+Magmar     | 394 |   3.28%
+Magmortar  | 358 |   2.98%
+Flareon    | 355 |   2.96%
+Heatmor    | 355 |   2.96%
+Rapidash   | 354 |   2.95%
+Typhlosioh | 342 |   2.85%
+Arcanineh  | 329 |   2.74%
+Delphox    | 324 |   2.70%
+Blaziken   | 310 |   2.58%
+Darmanitaz | 308 |   2.57%
+Oricorio   | 306 |   2.55%
+Skeledirge | 302 |   2.52%
+Emboar     | 300 |   2.50%
+Turtonator | 299 |   2.49%
+Infernape  | 299 |   2.49%
+Darmanitzg | 299 |   2.49%
+Incineroar | 297 |   2.48%
+Ogerponf   | 295 |   2.46%
+Ceruledge  | 283 |   2.36%
+Charizard  | 276 |   2.30%
+Camerupt   | 276 |   2.30%
+Chandelure | 259 |   2.16%
+Salazzle   | 258 |   2.15%
+Armarouge  | 255 |   2.12%
+Talonflame | 251 |   2.09%
+Taurospf   | 242 |   2.02%
+Houndoom   | 242 |   2.02%
+Volcarona  | 234 |   1.95%
+Coalossal  | 229 |   1.91%
+Centskorch | 225 |   1.88%
+Rotomh     | 223 |   1.86%
+Scovillain | 206 |   1.72%
+Pyroar     | 172 |   1.43%
+Magcargo   |   1 |   0.01%
+Moltres    |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

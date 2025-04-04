@@ -1,0 +1,30 @@
+Evolutions from Poochyena (out of approximately 12000):
+Pokémon   | Count | Percentage
+--------------------------
+Persiana  | 1140 |   9.50%
+Thievul   | 1047 |   8.72%
+Murkrow   | 1030 |   8.58%
+Sableye   | 1029 |   8.58%
+Liepard   | 1017 |   8.48%
+Morpekoh  |  938 |   7.82%
+Morpeko   |  860 |   7.17%
+Raticatea |  820 |   6.83%
+Sneasel   |  818 |   6.82%
+Qwilfishh |  797 |   6.64%
+Linooneg  |  740 |   6.17%
+Zweilous  |  660 |   5.50%
+Sharpedo  |  545 |   4.54%
+Lokix     |  524 |   4.37%
+Vullaby   |   10 |   0.08%
+Morgrem   |    8 |   0.07%
+Absol     |    4 |   0.03%
+Malamar   |    3 |   0.03%
+Maschiff  |    3 |   0.03%
+Cacturne  |    2 |   0.02%
+Sableyem  |    2 |   0.02%
+Scraggy   |    1 |   0.01%
+Crawdaunt |    1 |   0.01%
+Nuzleaf   |    1 |   0.01%
+--------------------------
+TOTAL     | 12000 | 100.00%
+

@@ -1,0 +1,45 @@
+Evolutions from Duraludon (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Iron Crown | 387 |   3.23%
+Metagross  | 375 |   3.12%
+Melmetal   | 368 |   3.07%
+Jirachi    | 364 |   3.03%
+Goodra     | 360 |   3.00%
+Magearna   | 356 |   2.97%
+Genesect   | 356 |   2.97%
+Scizorm    | 354 |   2.95%
+Heatran    | 348 |   2.90%
+Cobalion   | 346 |   2.88%
+Baxcalibur | 346 |   2.88%
+Salamence  | 341 |   2.84%
+Garchomp   | 337 |   2.81%
+Dragonite  | 334 |   2.78%
+Registeel  | 332 |   2.77%
+Kommo-O    | 330 |   2.75%
+Latios     | 325 |   2.71%
+Goodrah    | 319 |   2.66%
+Zygarde    | 315 |   2.62%
+Latias     | 304 |   2.53%
+Haxorus    | 303 |   2.53%
+Dragapult  | 302 |   2.52%
+Hydreigon  | 302 |   2.52%
+Stakataka  | 297 |   2.48%
+Regidrago  | 291 |   2.43%
+Ragingbolt | 291 |   2.43%
+Gouginfire | 279 |   2.33%
+Roarinmoon | 279 |   2.33%
+Celesteela | 278 |   2.32%
+Altariam   | 277 |   2.31%
+Walkinwake | 273 |   2.27%
+Kingambit  | 270 |   2.25%
+Guzzlord   | 266 |   2.22%
+Kartana    | 258 |   2.15%
+Irontreads | 258 |   2.15%
+Gholdengo  | 253 |   2.11%
+Hydrapple  | 240 |   2.00%
+Naganadel  | 215 |   1.79%
+Kingdra    | 171 |   1.43%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

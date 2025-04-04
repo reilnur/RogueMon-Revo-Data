@@ -1,0 +1,38 @@
+Evolutions from Gabite (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Landorust  | 483 |   4.03%
+Kommo-O    | 479 |   3.99%
+Hydreigon  | 459 |   3.82%
+Baxcalibur | 446 |   3.72%
+Zygarde    | 444 |   3.70%
+Landorus   | 442 |   3.68%
+Salamence  | 436 |   3.63%
+Dragonite  | 428 |   3.57%
+Goodra     | 423 |   3.52%
+Latios     | 417 |   3.48%
+Latias     | 413 |   3.44%
+Regidrago  | 409 |   3.41%
+Goodrah    | 407 |   3.39%
+Archaludon | 406 |   3.38%
+Haxorus    | 405 |   3.38%
+Dragapult  | 394 |   3.28%
+Great Tusk | 391 |   3.26%
+Roarinmoon | 384 |   3.20%
+Altariam   | 373 |   3.11%
+Walkinwake | 370 |   3.08%
+Irontreads | 368 |   3.07%
+Ragingbolt | 367 |   3.06%
+Sandyshock | 355 |   2.96%
+Guzzlord   | 342 |   2.85%
+Gouginfire | 334 |   2.78%
+Ting-Lu    | 332 |   2.77%
+Hydrapple  | 310 |   2.58%
+Naganadel  | 270 |   2.25%
+Cameruptm  | 269 |   2.24%
+Ursaluna   | 225 |   1.88%
+Kingdra    | 223 |   1.86%
+Ursalunab  | 196 |   1.63%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

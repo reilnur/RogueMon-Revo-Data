@@ -1,0 +1,84 @@
+Evolutions from Monferno (out of approximately 12000):
+Pokémon      | Count | Percentage
+----------------------------
+Entei        | 244 |   2.03%
+Zapdosg      | 242 |   2.02%
+Terrakion    | 229 |   1.91%
+Virizion     | 228 |   1.90%
+Iron Hands   | 224 |   1.87%
+Conkeldurr   | 221 |   1.84%
+Sirfetchâ€™d | 221 |   1.84%
+Cobalion     | 217 |   1.81%
+Mienshao     | 217 |   1.81%
+Moltres      | 215 |   1.79%
+Slithrwing   | 210 |   1.75%
+Machamp      | 205 |   1.71%
+Blacphalon   | 201 |   1.68%
+Buzzwole     | 195 |   1.62%
+Arcanine     | 194 |   1.62%
+Heatmor      | 189 |   1.57%
+Passimian    | 187 |   1.56%
+Magmar       | 186 |   1.55%
+Keldeo       | 185 |   1.54%
+Simisear     | 182 |   1.52%
+Typhlosion   | 181 |   1.51%
+Annihilape   | 180 |   1.50%
+Pheromosa    | 179 |   1.49%
+Magmortar    | 178 |   1.48%
+Urshifur     | 174 |   1.45%
+Okidogi      | 172 |   1.43%
+Chi-Yu       | 171 |   1.43%
+Taurosp      | 170 |   1.42%
+Lucario      | 168 |   1.40%
+Ninetales    | 165 |   1.38%
+Great Tusk   | 164 |   1.37%
+Iron Moth    | 160 |   1.33%
+Gallade      | 158 |   1.32%
+Cinderace    | 156 |   1.30%
+Darmanitaz   | 156 |   1.30%
+Cameruptm    | 155 |   1.29%
+Urshifu      | 155 |   1.29%
+Turtonator   | 154 |   1.28%
+Skeledirge   | 153 |   1.27%
+Lopunnym     | 148 |   1.23%
+Typhlosioh   | 148 |   1.23%
+Flareon      | 146 |   1.22%
+Medichamm    | 146 |   1.22%
+Rapidash     | 146 |   1.22%
+Emboar       | 143 |   1.19%
+Arcanineh    | 143 |   1.19%
+Delphox      | 137 |   1.14%
+Chandelure   | 137 |   1.14%
+Chesnaught   | 134 |   1.12%
+Decidueyeh   | 131 |   1.09%
+Darmanitzg   | 130 |   1.08%
+Scrafty      | 130 |   1.08%
+Blaziken     | 128 |   1.07%
+Armarouge    | 127 |   1.06%
+Ogerponf     | 126 |   1.05%
+Talonflame   | 126 |   1.05%
+Incineroar   | 125 |   1.04%
+Charizard    | 123 |   1.03%
+Quaquaval    | 121 |   1.01%
+Hawlucha     | 120 |   1.00%
+Ceruledge    | 119 |   0.99%
+Pangoro      | 118 |   0.98%
+Volcarona    | 117 |   0.97%
+Coalossal    | 114 |   0.95%
+Centskorch   | 108 |   0.90%
+Taurospf     | 107 |   0.89%
+Poliwrath    | 106 |   0.88%
+Houndoom     | 106 |   0.88%
+Heracross    | 105 |   0.88%
+Toxicroak    | 102 |   0.85%
+Sneasler     | 101 |   0.84%
+Flamigo      |  98 |   0.82%
+Pawmot       |  95 |   0.79%
+Pyroar       |  95 |   0.79%
+Taurospw     |  92 |   0.77%
+Bewear       |  90 |   0.75%
+Rotomh       |  88 |   0.73%
+Scovillain   |  83 |   0.69%
+----------------------------
+TOTAL        | 12000 | 100.00%
+

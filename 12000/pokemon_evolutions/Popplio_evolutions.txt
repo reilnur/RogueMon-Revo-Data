@@ -1,0 +1,42 @@
+Evolutions from Popplio (out of approximately 12000):
+Pokémon   | Count | Percentage
+-------------------------
+Poliwhirl | 507 |   4.23%
+Wartortle | 470 |   3.92%
+Frogadier | 464 |   3.87%
+Pyukumuku | 457 |   3.81%
+Wugtrio   | 456 |   3.80%
+Lumineon  | 453 |   3.77%
+Croconaw  | 453 |   3.77%
+Quaxwell  | 446 |   3.72%
+Wailmer   | 445 |   3.71%
+Prinplup  | 440 |   3.67%
+Palafin   | 438 |   3.65%
+Dewott    | 437 |   3.64%
+Basculin  | 435 |   3.62%
+Drizzile  | 431 |   3.59%
+Castformw | 426 |   3.55%
+Basculinb | 419 |   3.49%
+Basculinw | 408 |   3.40%
+Palpitoad | 403 |   3.36%
+Seaking   | 366 |   3.05%
+Corsola   | 358 |   2.98%
+Marshtomp | 353 |   2.94%
+Seadra    | 338 |   2.82%
+Azumarill | 325 |   2.71%
+Sealeo    | 321 |   2.67%
+Pelipper  | 307 |   2.56%
+Quagsire  | 300 |   2.50%
+Bibarel   | 294 |   2.45%
+Lanturn   | 289 |   2.41%
+Qwilfish  | 269 |   2.24%
+Sharpedo  | 261 |   2.17%
+Araquanid | 225 |   1.88%
+Alomomola |   2 |   0.02%
+Kabuto    |   1 |   0.01%
+Mantyke   |   1 |   0.01%
+Tatsugiri |   1 |   0.01%
+Clamperl  |   1 |   0.01%
+-------------------------
+TOTAL     | 12000 | 100.00%
+

@@ -1,0 +1,34 @@
+Evolutions from Bidoof (out of approximately 12000):
+Pokémon      | Count | Percentage
+----------------------------
+Porygon      | 541 |   4.51%
+Herdier      | 538 |   4.48%
+Watchog      | 538 |   4.48%
+Linoone      | 489 |   4.08%
+Furret       | 487 |   4.06%
+Raticate     | 475 |   3.96%
+Castform     | 474 |   3.95%
+Dunsparce    | 473 |   3.94%
+Munchlax     | 470 |   3.92%
+Delcatty     | 459 |   3.82%
+Farfetchâ€™d | 452 |   3.77%
+Chatot       | 450 |   3.75%
+Lickitung    | 441 |   3.67%
+Gumshoos     | 429 |   3.57%
+Vigoroth     | 416 |   3.47%
+Raticatea    | 407 |   3.39%
+Eeveep       | 403 |   3.36%
+Persian      | 402 |   3.35%
+Audino       | 396 |   3.30%
+Squawkbily   | 394 |   3.28%
+Kecleon      | 391 |   3.26%
+Chansey      | 388 |   3.23%
+Linooneg     | 385 |   3.21%
+Litleo       | 380 |   3.17%
+Terapagos    | 354 |   2.95%
+Fearow       | 344 |   2.87%
+Diggersby    | 336 |   2.80%
+Wigglytuff   | 288 |   2.40%
+----------------------------
+TOTAL        | 12000 | 100.00%
+

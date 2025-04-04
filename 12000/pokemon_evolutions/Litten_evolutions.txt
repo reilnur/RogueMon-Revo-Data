@@ -1,0 +1,27 @@
+Evolutions from Litten (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Braixen    | 938 |   7.82%
+Crocalor   | 928 |   7.73%
+Ponyta     | 913 |   7.61%
+Quilava    | 881 |   7.34%
+Raboot     | 879 |   7.32%
+Charmeleon | 860 |   7.17%
+Castformf  | 850 |   7.08%
+Magcargo   | 791 |   6.59%
+Flechinder | 789 |   6.58%
+Monferno   | 759 |   6.33%
+Marowaka   | 712 |   5.93%
+Carkol     | 702 |   5.85%
+Pignite    | 682 |   5.68%
+Combusken  | 672 |   5.60%
+Camerupt   | 624 |   5.20%
+Magby      |   6 |   0.05%
+Torkoal    |   5 |   0.04%
+Lampent    |   3 |   0.03%
+Litleo     |   2 |   0.02%
+Larvesta   |   2 |   0.02%
+Darmanitan |   2 |   0.02%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

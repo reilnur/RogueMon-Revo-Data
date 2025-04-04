@@ -1,0 +1,59 @@
+Evolutions from Ponytag (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Reuniclus  | 371 |   3.09%
+Espeon     | 369 |   3.08%
+Meowsticf  | 366 |   3.05%
+Grumpig    | 358 |   2.98%
+Gothitelle | 336 |   2.80%
+Chimecho   | 333 |   2.77%
+Hypno      | 330 |   2.75%
+Alakazam   | 330 |   2.75%
+Beheeyem   | 321 |   2.67%
+Espathra   | 318 |   2.65%
+Musharna   | 314 |   2.62%
+Darmanitaz | 293 |   2.44%
+Meowstic   | 288 |   2.40%
+Medichamm  | 277 |   2.31%
+Gardevoir  | 276 |   2.30%
+Hatterene  | 275 |   2.29%
+Delphox    | 274 |   2.28%
+Exeggutor  | 259 |   2.16%
+Mr. Rime   | 258 |   2.15%
+Gallade    | 251 |   2.09%
+Mr. Mime   | 248 |   2.07%
+Bronzong   | 247 |   2.06%
+Braviaryh  | 243 |   2.02%
+Jynx       | 239 |   1.99%
+Mr. Mimeg  | 238 |   1.98%
+Solrock    | 237 |   1.98%
+Malamar    | 228 |   1.90%
+Bruxish    | 222 |   1.85%
+Xatu       | 218 |   1.82%
+Sigilyph   | 216 |   1.80%
+Lunatone   | 212 |   1.77%
+Starmie    | 201 |   1.68%
+Rabsca     | 198 |   1.65%
+Girafarig  | 197 |   1.64%
+Orbeetle   | 195 |   1.62%
+Oricoriop  | 184 |   1.53%
+Armarouge  | 182 |   1.52%
+Claydol    | 178 |   1.48%
+Raichua    | 175 |   1.46%
+Slowbrog   | 174 |   1.45%
+Slowkingg  | 168 |   1.40%
+Veluza     | 168 |   1.40%
+Farigiraf  | 165 |   1.38%
+Wyrdeer    | 163 |   1.36%
+Calyrex    | 158 |   1.32%
+Indeedee   | 157 |   1.31%
+Slowking   | 156 |   1.30%
+Slowbro    | 150 |   1.25%
+Oranguru   | 146 |   1.22%
+Indeedeef  | 135 |   1.12%
+Screamtail |   3 |   0.03%
+Tapu Lele  |   1 |   0.01%
+Necrozma   |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

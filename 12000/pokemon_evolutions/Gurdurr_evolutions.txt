@@ -1,0 +1,48 @@
+Evolutions from Gurdurr (out of approximately 12000):
+Pokémon      | Count | Percentage
+----------------------------
+Hitmonlee    | 445 |   3.71%
+Hitmontop    | 438 |   3.65%
+Primeape     | 413 |   3.44%
+Falinks      | 410 |   3.42%
+Hariyama     | 402 |   3.35%
+Hitmonchan   | 402 |   3.35%
+Sirfetchâ€™d | 386 |   3.22%
+Mienshao     | 381 |   3.17%
+Machamp      | 379 |   3.16%
+Taurosp      | 364 |   3.03%
+Okidogi      | 361 |   3.01%
+Sawk         | 361 |   3.01%
+Passimian    | 336 |   2.80%
+Throh        | 335 |   2.79%
+Urshifu      | 334 |   2.78%
+Grapploct    | 327 |   2.73%
+Annihilape   | 281 |   2.34%
+Lucario      | 281 |   2.34%
+Chesnaught   | 280 |   2.33%
+Gallade      | 278 |   2.32%
+Decidueyeh   | 263 |   2.19%
+Infernape    | 262 |   2.18%
+Urshifur     | 260 |   2.17%
+Pangoro      | 257 |   2.14%
+Blaziken     | 255 |   2.12%
+Medichamm    | 253 |   2.11%
+Emboar       | 252 |   2.10%
+Crabminble   | 250 |   2.08%
+Breloom      | 240 |   2.00%
+Quaquaval    | 226 |   1.88%
+Flamigo      | 226 |   1.88%
+Taurospf     | 222 |   1.85%
+Scrafty      | 212 |   1.77%
+Toxicroak    | 206 |   1.72%
+Sneasler     | 193 |   1.61%
+Hawlucha     | 189 |   1.57%
+Lilliganth   | 189 |   1.57%
+Pawmot       | 188 |   1.57%
+Poliwrath    | 180 |   1.50%
+Taurospw     | 172 |   1.43%
+Heracross    | 165 |   1.38%
+Bewear       | 146 |   1.22%
+----------------------------
+TOTAL        | 12000 | 100.00%
+

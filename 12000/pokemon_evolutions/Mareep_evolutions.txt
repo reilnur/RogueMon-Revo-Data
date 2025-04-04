@@ -1,0 +1,22 @@
+Evolutions from Mareep (out of approximately 12000):
+Pokémon   | Count | Percentage
+--------------------------
+Luxio     | 1823 |  15.19%
+Pawmo     | 1723 |  14.36%
+Elekid    | 1699 |  14.16%
+Voltorb   | 1546 |  12.88%
+Chinchou  | 1504 |  12.53%
+Voltorbh  | 1429 |  11.91%
+Gravelera | 1284 |  10.70%
+Charjabug |  963 |   8.03%
+Minun     |    7 |   0.06%
+Joltik    |    6 |   0.05%
+Pikachu   |    6 |   0.05%
+Eelektrik |    3 |   0.03%
+Pikachuc  |    3 |   0.03%
+Magnemite |    2 |   0.02%
+Pachirisu |    1 |   0.01%
+Plusle    |    1 |   0.01%
+--------------------------
+TOTAL     | 12000 | 100.00%
+

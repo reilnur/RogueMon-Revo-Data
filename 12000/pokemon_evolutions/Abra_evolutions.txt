@@ -1,0 +1,32 @@
+Evolutions from Abra (out of approximately 12000):
+Pokémon   | Count | Percentage
+--------------------------
+Duosion   | 1461 |  12.17%
+Hattrem   | 1459 |  12.16%
+Gothorita | 1449 |  12.07%
+Ponytag   | 1412 |  11.77%
+Wobbuffet | 1335 |  11.12%
+Cosmoem   | 1322 |  11.02%
+Swoobat   | 1181 |   9.84%
+Medicham  | 1112 |   9.27%
+Metang    | 1014 |   8.45%
+Espurr    |   82 |   0.68%
+Chimecho  |   41 |   0.34%
+Mr. Mimeg |   22 |   0.18%
+Solrock   |   22 |   0.18%
+Mr. Mime  |   21 |   0.18%
+Jynx      |   17 |   0.14%
+Lunatone  |   13 |   0.11%
+Girafarig |    9 |   0.07%
+Dottler   |    6 |   0.05%
+Exeggcute |    5 |   0.04%
+Natu      |    4 |   0.03%
+Drowzee   |    3 |   0.03%
+Elgyem    |    3 |   0.03%
+Spoink    |    3 |   0.03%
+Unown     |    2 |   0.02%
+Meowstic  |    1 |   0.01%
+Woobat    |    1 |   0.01%
+--------------------------
+TOTAL     | 12000 | 100.00%
+

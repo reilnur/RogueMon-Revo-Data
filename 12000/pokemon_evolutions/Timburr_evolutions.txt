@@ -1,0 +1,26 @@
+Evolutions from Timburr (out of approximately 12000):
+Pokémon    | Count | Percentage
+---------------------------
+Machoke    | 1928 |  16.07%
+Farfetchdg | 1834 |  15.28%
+Kubfu      | 1788 |  14.90%
+Monferno   | 1174 |   9.78%
+Combusken  | 1098 |   9.15%
+Sneaselh   | 1084 |   9.03%
+Medicham   | 1032 |   8.60%
+Pignite    | 1025 |   8.54%
+Hakamo-O   |  916 |   7.63%
+Mienfoo    |   28 |   0.23%
+Sawk       |   15 |   0.12%
+Pancham    |   14 |   0.12%
+Hitmontop  |   14 |   0.12%
+Primeape   |   12 |   0.10%
+Scraggy    |    9 |   0.07%
+Pawmo      |    9 |   0.07%
+Throh      |    7 |   0.06%
+Hitmonchan |    5 |   0.04%
+Hitmonlee  |    4 |   0.03%
+Breloom    |    4 |   0.03%
+---------------------------
+TOTAL      | 12000 | 100.00%
+

@@ -1,0 +1,36 @@
+Evolutions from Rattata (out of approximately 12000):
+Pokémon      | Count | Percentage
+----------------------------
+Munchlax     | 525 |   4.38%
+Delcatty     | 515 |   4.29%
+Linoone      | 507 |   4.23%
+Castform     | 502 |   4.18%
+Lickitung    | 488 |   4.07%
+Furret       | 485 |   4.04%
+Porygon      | 484 |   4.03%
+Gumshoos     | 464 |   3.87%
+Dunsparce    | 463 |   3.86%
+Watchog      | 463 |   3.86%
+Vigoroth     | 458 |   3.82%
+Eeveep       | 452 |   3.77%
+Persian      | 443 |   3.69%
+Chatot       | 440 |   3.67%
+Farfetchâ€™d | 438 |   3.65%
+Raticatea    | 430 |   3.58%
+Audino       | 416 |   3.47%
+Squawkbily   | 415 |   3.46%
+Linooneg     | 414 |   3.45%
+Kecleon      | 407 |   3.39%
+Chansey      | 401 |   3.34%
+Purugly      | 375 |   3.12%
+Diggersby    | 362 |   3.02%
+Terapagos    | 359 |   2.99%
+Noctowl      | 339 |   2.83%
+Fearow       | 331 |   2.76%
+Wigglytuff   | 311 |   2.59%
+Bibarel      | 311 |   2.59%
+Litleo       |   1 |   0.01%
+Dolliv       |   1 |   0.01%
+----------------------------
+TOTAL        | 12000 | 100.00%
+

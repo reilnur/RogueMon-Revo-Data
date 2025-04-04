@@ -1,0 +1,38 @@
+Evolutions from Crabrawler (out of approximately 12000):
+Pokémon      | Count | Percentage
+----------------------------
+Hitmonlee    | 630 |   5.25%
+Hitmontop    | 558 |   4.65%
+Hitmonchan   | 526 |   4.38%
+Machamp      | 508 |   4.23%
+Sirfetchâ€™d | 506 |   4.22%
+Hariyama     | 490 |   4.08%
+Primeape     | 489 |   4.08%
+Mienshao     | 484 |   4.03%
+Falinks      | 478 |   3.98%
+Throh        | 471 |   3.92%
+Sawk         | 463 |   3.86%
+Conkeldurr   | 461 |   3.84%
+Taurosp      | 439 |   3.66%
+Grapploct    | 428 |   3.57%
+Passimian    | 411 |   3.43%
+Lucario      | 397 |   3.31%
+Gallade      | 333 |   2.77%
+Scrafty      | 297 |   2.48%
+Medichamm    | 295 |   2.46%
+Pangoro      | 288 |   2.40%
+Taurospf     | 280 |   2.33%
+Sneasler     | 275 |   2.29%
+Flamigo      | 275 |   2.29%
+Hawlucha     | 274 |   2.28%
+Breloom      | 265 |   2.21%
+Pawmot       | 264 |   2.20%
+Toxicroak    | 258 |   2.15%
+Poliwrath    | 256 |   2.13%
+Lilliganth   | 251 |   2.09%
+Taurospw     | 228 |   1.90%
+Bewear       | 211 |   1.76%
+Heracross    | 211 |   1.76%
+----------------------------
+TOTAL        | 12000 | 100.00%
+

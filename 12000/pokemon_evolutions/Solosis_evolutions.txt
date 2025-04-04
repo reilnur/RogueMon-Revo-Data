@@ -1,0 +1,16 @@
+Evolutions from Solosis (out of approximately 12000):
+Pokémon   | Count | Percentage
+--------------------------
+Elgyem    | 1627 |  13.56%
+Unown     | 1615 |  13.46%
+Dottler   | 1581 |  13.18%
+Espurr    | 1469 |  12.24%
+Hattrem   | 1247 |  10.39%
+Wobbuffet | 1142 |   9.52%
+Cosmoem   | 1126 |   9.38%
+Gothorita | 1099 |   9.16%
+Kadabra   | 1093 |   9.11%
+Slowpoke  |    1 |   0.01%
+--------------------------
+TOTAL     | 12000 | 100.00%
+

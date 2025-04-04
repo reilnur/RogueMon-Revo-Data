@@ -1,0 +1,20 @@
+Evolutions from Caterpie (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Silcoon    | 922 |   7.68%
+Wurmple    | 920 |   7.67%
+Spewpa     | 900 |   7.50%
+Snom       | 893 |   7.44%
+Scatterbug | 880 |   7.33%
+Weedle     | 855 |   7.12%
+Kricketot  | 854 |   7.12%
+Burmyt     | 839 |   6.99%
+Nymble     | 836 |   6.97%
+Cascoon    | 830 |   6.92%
+Kakuna     | 830 |   6.92%
+Tarountula | 827 |   6.89%
+Burmys     | 823 |   6.86%
+Burmy      | 791 |   6.59%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

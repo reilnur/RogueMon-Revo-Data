@@ -1,0 +1,70 @@
+Evolutions from Wigglytuff (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Florges    | 369 |   3.08%
+Screamtail | 364 |   3.03%
+Floettee   | 342 |   2.85%
+Enamorust  | 326 |   2.72%
+Enamorus   | 326 |   2.72%
+Fluttrmane | 323 |   2.69%
+Tapu Koko  | 310 |   2.58%
+Tapu Lele  | 310 |   2.58%
+Sylveon    | 310 |   2.58%
+Tapu Bulu  | 287 |   2.39%
+Clefable   | 261 |   2.17%
+Comfey     | 251 |   2.09%
+Togekiss   | 246 |   2.05%
+Fezandipti | 236 |   1.97%
+Alcremie   | 233 |   1.94%
+Silvally   | 228 |   1.90%
+Pidgeotm   | 222 |   1.85%
+Lopunnym   | 218 |   1.82%
+Tapu Fini  | 214 |   1.78%
+Gardevoir  | 201 |   1.68%
+Hatterene  | 187 |   1.56%
+Snorlax    | 181 |   1.51%
+Tinkaton   | 177 |   1.47%
+Blissey    | 176 |   1.47%
+Ninetalesa | 175 |   1.46%
+Grimmsnarl | 174 |   1.45%
+Rapidashg  | 174 |   1.45%
+Dubwool    | 173 |   1.44%
+Porygon-Z  | 168 |   1.40%
+Primarina  | 167 |   1.39%
+Type: Null | 164 |   1.37%
+Ambipom    | 164 |   1.37%
+Bouffalant | 162 |   1.35%
+Miltank    | 161 |   1.34%
+Oinkolognf | 159 |   1.32%
+Oinkologne | 157 |   1.31%
+Carbink    | 154 |   1.28%
+Tauros     | 153 |   1.27%
+Audinom    | 152 |   1.27%
+Drampa     | 152 |   1.27%
+Exploud    | 151 |   1.26%
+Ursaluna   | 147 |   1.23%
+Weezingg   | 145 |   1.21%
+Kangaskhan | 145 |   1.21%
+Stoutland  | 144 |   1.20%
+Staraptor  | 143 |   1.19%
+Ursaring   | 141 |   1.18%
+Porygon2   | 141 |   1.18%
+Ursalunab  | 141 |   1.18%
+Lickilicky | 139 |   1.16%
+Cyclizar   | 135 |   1.12%
+Obstagoon  | 134 |   1.12%
+Toucannon  | 131 |   1.09%
+Dudunsprce | 130 |   1.08%
+Zoroarkh   | 129 |   1.07%
+Unfezant   | 125 |   1.04%
+Bewear     | 120 |   1.00%
+Farigiraf  | 113 |   0.94%
+Grafaiai   | 113 |   0.94%
+Braviary   | 112 |   0.93%
+Wyrdeer    | 111 |   0.92%
+Pyroar     | 110 |   0.92%
+Arboliva   |  98 |   0.82%
+Oranguru   |  95 |   0.79%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

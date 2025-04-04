@@ -1,0 +1,30 @@
+Evolutions from Poliwag (out of approximately 12000):
+Pokémon   | Count | Percentage
+-------------------------
+Tirtouga  | 880 |   7.33%
+Kabuto    | 862 |   7.18%
+Omanyte   | 787 |   6.56%
+Frogadier | 656 |   5.47%
+Croconaw  | 631 |   5.26%
+Wartortle | 631 |   5.26%
+Prinplup  | 620 |   5.17%
+Pyukumuku | 616 |   5.13%
+Dewott    | 600 |   5.00%
+Wailmer   | 594 |   4.95%
+Quaxwell  | 580 |   4.83%
+Castformw | 567 |   4.72%
+Drizzile  | 550 |   4.58%
+Brionne   | 549 |   4.58%
+Palpitoad | 531 |   4.42%
+Marshtomp | 489 |   4.08%
+Azumarill | 478 |   3.98%
+Corsola   | 478 |   3.98%
+Sealeo    | 474 |   3.95%
+Bibarel   | 420 |   3.50%
+Frillish  |   3 |   0.03%
+Tentacool |   2 |   0.02%
+Lombre    |   1 |   0.01%
+Staryu    |   1 |   0.01%
+-------------------------
+TOTAL     | 12000 | 100.00%
+

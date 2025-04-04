@@ -1,0 +1,28 @@
+Evolutions from Ralts (out of approximately 12000):
+Pok�mon    | Count | Percentage
+--------------------------
+Morelull   | 587 |   4.89%
+Gothita    | 583 |   4.86%
+Inkay      | 575 |   4.79%
+Milcery    | 571 |   4.76%
+Beldum     | 571 |   4.76%
+Bronzor    | 556 |   4.63%
+Solosis    | 555 |   4.62%
+Jigglypuff | 552 |   4.60%
+Cottonee   | 549 |   4.58%
+Flittle    | 548 |   4.57%
+Chingling  | 547 |   4.56%
+Baltoy     | 547 |   4.56%
+Impidimp   | 543 |   4.52%
+Wynaut     | 542 |   4.52%
+Hatenna    | 540 |   4.50%
+Flabébé  | 538 |   4.48%
+Munna      | 533 |   4.44%
+Snubbull   | 532 |   4.43%
+Meditite   | 523 |   4.36%
+Smoochum   | 521 |   4.34%
+Tinkatink  | 499 |   4.16%
+Cutiefly   | 488 |   4.07%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

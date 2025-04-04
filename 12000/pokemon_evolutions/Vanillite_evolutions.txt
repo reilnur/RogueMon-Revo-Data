@@ -1,0 +1,21 @@
+Evolutions from Vanillite (out of approximately 12000):
+Pokémon    | Count | Percentage
+---------------------------
+Amaura     | 2773 |  23.11%
+Castformi  | 2578 |  21.48%
+Sneasel    | 2055 |  17.12%
+Sealeo     | 1699 |  14.16%
+Arctibax   | 1652 |  13.77%
+Sandslasha |  242 |   2.02%
+Piloswine  |  182 |   1.52%
+Cetoddle   |  167 |   1.39%
+Snover     |  152 |   1.27%
+Frigibax   |  151 |   1.26%
+Delibird   |  117 |   0.97%
+Eiscue     |   81 |   0.68%
+Eiscuen    |   67 |   0.56%
+Jynx       |   47 |   0.39%
+Mr. Mimeg  |   37 |   0.31%
+---------------------------
+TOTAL      | 12000 | 100.00%
+

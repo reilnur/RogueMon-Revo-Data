@@ -1,0 +1,45 @@
+Evolutions from Sliggooh (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Heatran    | 390 |   3.25%
+Magearna   | 369 |   3.08%
+Registeel  | 366 |   3.05%
+Melmetal   | 365 |   3.04%
+Jirachi    | 362 |   3.02%
+Scizorm    | 359 |   2.99%
+Genesect   | 350 |   2.92%
+Salamence  | 349 |   2.91%
+Metagross  | 346 |   2.88%
+Archaludon | 340 |   2.83%
+Dragonite  | 336 |   2.80%
+Zygarde    | 331 |   2.76%
+Iron Crown | 328 |   2.73%
+Garchomp   | 325 |   2.71%
+Cobalion   | 323 |   2.69%
+Hydreigon  | 317 |   2.64%
+Latios     | 314 |   2.62%
+Baxcalibur | 313 |   2.61%
+Stakataka  | 311 |   2.59%
+Haxorus    | 309 |   2.57%
+Kommo-O    | 306 |   2.55%
+Regidrago  | 305 |   2.54%
+Dragapult  | 301 |   2.51%
+Goodra     | 301 |   2.51%
+Gholdengo  | 299 |   2.49%
+Ragingbolt | 296 |   2.47%
+Gouginfire | 290 |   2.42%
+Latias     | 289 |   2.41%
+Altariam   | 285 |   2.38%
+Guzzlord   | 282 |   2.35%
+Celesteela | 278 |   2.32%
+Roarinmoon | 278 |   2.32%
+Walkinwake | 273 |   2.27%
+Kartana    | 269 |   2.24%
+Irontreads | 248 |   2.07%
+Kingambit  | 244 |   2.03%
+Naganadel  | 242 |   2.02%
+Hydrapple  | 221 |   1.84%
+Kingdra    | 190 |   1.58%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

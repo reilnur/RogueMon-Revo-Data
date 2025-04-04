@@ -1,0 +1,64 @@
+Evolutions from Cutiefly (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Granbull   | 409 |   3.41%
+Dachsbun   | 400 |   3.33%
+Alcremie   | 391 |   3.26%
+Aromatisse | 385 |   3.21%
+Clefable   | 375 |   3.12%
+Comfey     | 373 |   3.11%
+Slurpuff   | 364 |   3.03%
+Dedenne    | 317 |   2.64%
+Volbeat    | 287 |   2.39%
+Tinkaton   | 275 |   2.29%
+Klefki     | 261 |   2.17%
+Mawilem    | 251 |   2.09%
+Mimikyu    | 242 |   2.02%
+Ninetalesa | 240 |   2.00%
+Mr. Mime   | 237 |   1.98%
+Grimmsnarl | 232 |   1.93%
+Hatterene  | 230 |   1.92%
+Rapidashg  | 230 |   1.92%
+Mothim     | 229 |   1.91%
+Illumise   | 226 |   1.88%
+Accelgor   | 222 |   1.85%
+Pinsir     | 220 |   1.83%
+Weezingg   | 216 |   1.80%
+Wigglytuff | 210 |   1.75%
+Whimsicott | 208 |   1.73%
+Carbink    | 207 |   1.73%
+Vespiquen  | 206 |   1.72%
+Azumarill  | 205 |   1.71%
+Wormadams  | 196 |   1.63%
+Wormadamt  | 193 |   1.61%
+Scizor     | 188 |   1.57%
+Crustle    | 184 |   1.53%
+Venomoth   | 184 |   1.53%
+Kleavor    | 184 |   1.53%
+Escavalier | 184 |   1.53%
+Rabsca     | 183 |   1.52%
+Frosmoth   | 179 |   1.49%
+Scyther    | 174 |   1.45%
+Durant     | 169 |   1.41%
+Galvantula | 169 |   1.41%
+Orbeetle   | 168 |   1.40%
+Shuckle    | 167 |   1.39%
+Masquerain | 166 |   1.38%
+Forretress | 164 |   1.37%
+Lokix      | 162 |   1.35%
+Armaldo    | 161 |   1.34%
+Leavanny   | 154 |   1.28%
+Beedrillm  | 154 |   1.28%
+Ninjask    | 152 |   1.27%
+Scolipede  | 151 |   1.26%
+Heracross  | 149 |   1.24%
+Vikavolt   | 147 |   1.23%
+Wormadam   | 142 |   1.18%
+Araquanid  | 123 |   1.03%
+Sylveon    |   2 |   0.02%
+Spidops    |   1 |   0.01%
+Parasect   |   1 |   0.01%
+Beautifly  |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

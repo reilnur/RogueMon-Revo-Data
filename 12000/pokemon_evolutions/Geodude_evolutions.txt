@@ -1,0 +1,33 @@
+Evolutions from Geodude (out of approximately 12000):
+Pokémon   | Count | Percentage
+-------------------------
+Tyrunt    | 593 |   4.94%
+Naclstack | 592 |   4.93%
+Krokorok  | 584 |   4.87%
+Kabuto    | 553 |   4.61%
+Tirtouga  | 551 |   4.59%
+Omanyte   | 539 |   4.49%
+Lileep    | 529 |   4.41%
+Sudowoodo | 522 |   4.35%
+Amaura    | 519 |   4.32%
+Boldore   | 497 |   4.14%
+Mudbray   | 480 |   4.00%
+Nosepass  | 477 |   3.98%
+Marowak   | 471 |   3.92%
+Anorith   | 464 |   3.87%
+Dugtrio   | 458 |   3.82%
+Pupitar   | 411 |   3.43%
+Onix      | 409 |   3.41%
+Archen    | 406 |   3.38%
+Gravelera | 394 |   3.28%
+Dugtrioa  | 365 |   3.04%
+Palpitoad | 357 |   2.97%
+Carkol    | 339 |   2.83%
+Marshtomp | 337 |   2.81%
+Corsola   | 306 |   2.55%
+Diggersby | 303 |   2.53%
+Gabite    | 287 |   2.39%
+Wormadams | 257 |   2.14%
+-------------------------
+TOTAL     | 12000 | 100.00%
+

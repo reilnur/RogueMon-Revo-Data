@@ -1,0 +1,48 @@
+Evolutions from Torracat (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Entei      | 426 |   3.55%
+Arcanine   | 395 |   3.29%
+Moltres    | 389 |   3.24%
+Darmanitan | 389 |   3.24%
+Chi-Yu     | 377 |   3.14%
+Magmortar  | 358 |   2.98%
+Magmar     | 347 |   2.89%
+Heatmor    | 345 |   2.88%
+Typhlosion | 343 |   2.86%
+Blacphalon | 343 |   2.86%
+Cinderace  | 342 |   2.85%
+Flareon    | 334 |   2.78%
+Arcanineh  | 330 |   2.75%
+Rapidash   | 322 |   2.68%
+Simisear   | 318 |   2.65%
+Iron Moth  | 317 |   2.64%
+Ninetales  | 312 |   2.60%
+Turtonator | 294 |   2.45%
+Typhlosioh | 280 |   2.33%
+Blaziken   | 277 |   2.31%
+Cameruptm  | 276 |   2.30%
+Darmanitzg | 267 |   2.23%
+Skeledirge | 265 |   2.21%
+Ogerponf   | 263 |   2.19%
+Infernape  | 263 |   2.19%
+Delphox    | 262 |   2.18%
+Emboar     | 256 |   2.13%
+Volcarona  | 255 |   2.12%
+Chandelure | 254 |   2.12%
+Taurospf   | 240 |   2.00%
+Darmanitaz | 238 |   1.98%
+Coalossal  | 237 |   1.98%
+Charizard  | 235 |   1.96%
+Ceruledge  | 226 |   1.88%
+Armarouge  | 224 |   1.87%
+Salazzle   | 222 |   1.85%
+Centskorch | 219 |   1.82%
+Houndoom   | 213 |   1.77%
+Talonflame | 212 |   1.77%
+Rotomh     | 199 |   1.66%
+Scovillain | 194 |   1.62%
+Pyroar     | 142 |   1.18%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

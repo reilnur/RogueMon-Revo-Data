@@ -1,0 +1,52 @@
+Evolutions from Cranidos (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Lycanroc   | 580 |   4.83%
+Lycanrocd  | 553 |   4.61%
+Lycanrocm  | 543 |   4.52%
+Garganacl  | 523 |   4.36%
+Klawf      | 514 |   4.28%
+Stonjorner | 495 |   4.12%
+Gigalith   | 458 |   3.82%
+Tyrantrum  | 446 |   3.72%
+Aggron     | 392 |   3.27%
+Probopass  | 376 |   3.13%
+Bastiodon  | 357 |   2.97%
+Avaluggh   | 335 |   2.79%
+Rhyperior  | 333 |   2.77%
+Solrock    | 331 |   2.76%
+Lunatone   | 322 |   2.68%
+Glimmora   | 315 |   2.62%
+Aurorus    | 313 |   2.61%
+Rhydon     | 311 |   2.59%
+Carbink    | 307 |   2.56%
+Miniorc    | 302 |   2.52%
+Golem      | 294 |   2.45%
+Cradily    | 290 |   2.42%
+Aerodactyl | 280 |   2.33%
+Coalossal  | 269 |   2.24%
+Crustle    | 267 |   2.23%
+Golema     | 267 |   2.23%
+Armaldo    | 263 |   2.19%
+Shuckle    | 262 |   2.18%
+Kabutops   | 257 |   2.14%
+Drednaw    | 247 |   2.06%
+Relicanth  | 246 |   2.05%
+Omastar    | 246 |   2.05%
+Kleavor    | 233 |   1.94%
+Barbaracle | 230 |   1.92%
+Carracosta | 199 |   1.66%
+Lairon     |   9 |   0.07%
+Archeops   |   7 |   0.06%
+Magcargo   |   7 |   0.06%
+Arcanineh  |   7 |   0.06%
+Ogerponr   |   4 |   0.03%
+Minior     |   3 |   0.03%
+Pupitar    |   2 |   0.02%
+Sudowoodo  |   2 |   0.02%
+Terrakion  |   1 |   0.01%
+Ironbouldr |   1 |   0.01%
+Archen     |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

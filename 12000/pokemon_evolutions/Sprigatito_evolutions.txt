@@ -1,0 +1,41 @@
+Evolutions from Sprigatito (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Grovyle    | 801 |   6.68%
+Cherrim    | 798 |   6.65%
+Servine    | 785 |   6.54%
+Quilladin  | 754 |   6.28%
+Grotle     | 752 |   6.27%
+Bayleef    | 748 |   6.23%
+Sunflora   | 733 |   6.11%
+Thwackey   | 728 |   6.07%
+Tangela    | 685 |   5.71%
+Dartrix    | 660 |   5.50%
+Roselia    | 651 |   5.42%
+Ivysaur    | 630 |   5.25%
+Weepinbell | 612 |   5.10%
+Gloom      | 587 |   4.89%
+Shiinotic  | 532 |   4.43%
+Swadloon   | 489 |   4.08%
+Wormadam   | 451 |   3.76%
+Parasect   | 421 |   3.51%
+Skiddo     |  44 |   0.37%
+Lileep     |  30 |   0.25%
+Dolliv     |  26 |   0.22%
+Maractus   |  19 |   0.16%
+Eldegoss   |  15 |   0.12%
+Carnivine  |  15 |   0.12%
+Breloom    |   9 |   0.07%
+Tropius    |   7 |   0.06%
+Amoonguss  |   5 |   0.04%
+Jumpluff   |   5 |   0.04%
+Snover     |   2 |   0.02%
+Nuzleaf    |   1 |   0.01%
+Lombre     |   1 |   0.01%
+Appletun   |   1 |   0.01%
+Lilligant  |   1 |   0.01%
+Cacnea     |   1 |   0.01%
+Pumpkabool |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

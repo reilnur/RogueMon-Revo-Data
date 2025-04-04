@@ -1,0 +1,44 @@
+Evolutions from Growlithe (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Volcanion  | 580 |   4.83%
+Victini    | 512 |   4.27%
+Houndoomm  | 506 |   4.22%
+Heatran    | 479 |   3.99%
+Gouginfire | 412 |   3.43%
+Entei      | 406 |   3.38%
+Moltres    | 384 |   3.20%
+Magmortar  | 376 |   3.13%
+Typhlosion | 373 |   3.11%
+Iron Moth  | 372 |   3.10%
+Ninetales  | 354 |   2.95%
+Cinderace  | 346 |   2.88%
+Blacphalon | 339 |   2.83%
+Chi-Yu     | 317 |   2.64%
+Flareon    | 315 |   2.62%
+Rapidash   | 315 |   2.62%
+Arcanineh  | 310 |   2.58%
+Darmanitaz | 308 |   2.57%
+Emboar     | 290 |   2.42%
+Cameruptm  | 285 |   2.38%
+Typhlosioh | 284 |   2.37%
+Delphox    | 269 |   2.24%
+Charizard  | 269 |   2.24%
+Volcarona  | 266 |   2.22%
+Armarouge  | 266 |   2.22%
+Infernape  | 265 |   2.21%
+Incineroar | 261 |   2.17%
+Blaziken   | 261 |   2.17%
+Darmanitzg | 255 |   2.12%
+Skeledirge | 253 |   2.11%
+Ogerponf   | 247 |   2.06%
+Chandelure | 243 |   2.02%
+Ceruledge  | 237 |   1.98%
+Coalossal  | 233 |   1.94%
+Houndoom   | 226 |   1.88%
+Rotomh     | 204 |   1.70%
+Centskorch | 201 |   1.68%
+Pyroar     | 181 |   1.51%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

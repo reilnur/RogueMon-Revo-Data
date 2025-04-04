@@ -1,0 +1,54 @@
+Evolutions from Wooper (out of approximately 12000):
+Pokémon   | Count | Percentage
+-------------------------
+Dugtrio   | 381 |   3.17%
+Marowak   | 362 |   3.02%
+Sandslash | 355 |   2.96%
+Gligar    | 324 |   2.70%
+Castformw | 315 |   2.62%
+Croconaw  | 311 |   2.59%
+Frogadier | 299 |   2.49%
+Graveler  | 295 |   2.46%
+Pupitar   | 294 |   2.45%
+Prinplup  | 293 |   2.44%
+Pyukumuku | 292 |   2.43%
+Quaxwell  | 291 |   2.43%
+Brionne   | 289 |   2.41%
+Alomomola | 288 |   2.40%
+Palafin   | 275 |   2.29%
+Drizzile  | 271 |   2.26%
+Wartortle | 270 |   2.25%
+Wugtrio   | 268 |   2.23%
+Dugtrioa  | 267 |   2.23%
+Wailmer   | 265 |   2.21%
+Dewott    | 259 |   2.16%
+Piloswine | 259 |   2.16%
+Basculin  | 257 |   2.14%
+Seadra    | 255 |   2.12%
+Lumineon  | 254 |   2.12%
+Basculinw | 253 |   2.11%
+Clodsire  | 251 |   2.09%
+Basculinb | 246 |   2.05%
+Diggersby | 225 |   1.88%
+Stunfiskg | 225 |   1.88%
+Seaking   | 221 |   1.84%
+Sealeo    | 218 |   1.82%
+Corsola   | 214 |   1.78%
+Gabite    | 212 |   1.77%
+Marshtomp | 210 |   1.75%
+Azumarill | 209 |   1.74%
+Camerupt  | 208 |   1.73%
+Pelipper  | 203 |   1.69%
+Wormadams | 201 |   1.68%
+Whiscash  | 200 |   1.67%
+Bibarel   | 197 |   1.64%
+Sharpedo  | 191 |   1.59%
+Stunfisk  | 185 |   1.54%
+Crawdaunt | 183 |   1.52%
+Qwilfish  | 182 |   1.52%
+Lanturn   | 176 |   1.47%
+Swanna    | 165 |   1.38%
+Araquanid | 136 |   1.13%
+-------------------------
+TOTAL     | 12000 | 100.00%
+

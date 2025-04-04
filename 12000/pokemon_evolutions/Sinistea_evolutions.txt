@@ -1,0 +1,49 @@
+Evolutions from Sinistea (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Banettem   | 611 |   5.09%
+Dusknoir   | 497 |   4.14%
+Cofagrigus | 483 |   4.03%
+Houndstone | 455 |   3.79%
+Gholdengo  | 454 |   3.78%
+Mismagius  | 451 |   3.76%
+Cursola    | 449 |   3.74%
+Annihilape | 362 |   3.02%
+Skeledirge | 350 |   2.92%
+Decidueye  | 344 |   2.87%
+Typhlosioh | 334 |   2.78%
+Aegislash  | 333 |   2.77%
+Sableyem   | 319 |   2.66%
+Mimikyu    | 311 |   2.59%
+Aegislashb | 308 |   2.57%
+Spiritomb  | 304 |   2.53%
+Trevenant  | 301 |   2.51%
+Chandelure | 300 |   2.50%
+Gourgeistl | 294 |   2.45%
+Palossand  | 287 |   2.39%
+Golurk     | 281 |   2.34%
+Gourgeist  | 280 |   2.33%
+Froslass   | 280 |   2.33%
+Bramblgast | 278 |   2.32%
+Oricoriog  | 271 |   2.26%
+Drifblim   | 271 |   2.26%
+Basclegiof | 270 |   2.25%
+Runerigus  | 268 |   2.23%
+Gourgeistx | 265 |   2.21%
+Gengar     | 264 |   2.20%
+Sinistcha  | 264 |   2.20%
+Dhelmise   | 261 |   2.17%
+Ceruledge  | 259 |   2.16%
+Gourgeists | 249 |   2.08%
+Basclegion | 247 |   2.06%
+Zoroarkh   | 223 |   1.86%
+Jellicent  | 211 |   1.76%
+Misdreavus |   3 |   0.03%
+Fluttrmane |   2 |   0.02%
+Doublade   |   2 |   0.02%
+Spectrier  |   2 |   0.02%
+Rotom      |   1 |   0.01%
+Blacphalon |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

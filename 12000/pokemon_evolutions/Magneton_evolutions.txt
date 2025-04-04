@@ -1,0 +1,72 @@
+Evolutions from Magneton (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Xurkitree  | 291 |   2.43%
+Raikou     | 290 |   2.42%
+Klinklang  | 282 |   2.35%
+Regieleki  | 277 |   2.31%
+Registeel  | 273 |   2.27%
+Tapu Koko  | 264 |   2.20%
+Zapdos     | 258 |   2.15%
+Manectricm | 258 |   2.15%
+Thundurust | 255 |   2.12%
+Copperajah | 247 |   2.06%
+Cobalion   | 245 |   2.04%
+Thundurus  | 244 |   2.03%
+Iron Hands | 243 |   2.02%
+Duraludon  | 242 |   2.02%
+Kartana    | 221 |   1.84%
+Celesteela | 219 |   1.82%
+Irontreads | 215 |   1.79%
+Stakataka  | 212 |   1.77%
+Ironthorns | 212 |   1.77%
+Gholdengo  | 209 |   1.74%
+Electivire | 202 |   1.68%
+Sandyshock | 201 |   1.68%
+Bellibolt  | 200 |   1.67%
+Kingambit  | 194 |   1.62%
+Jolteon    | 194 |   1.62%
+Electrode  | 187 |   1.56%
+Eelektross | 181 |   1.51%
+Zebstrika  | 181 |   1.51%
+Bisharp    | 181 |   1.51%
+Aggron     | 179 |   1.49%
+Aegislashb | 178 |   1.48%
+Electabuzz | 176 |   1.47%
+Steelix    | 176 |   1.47%
+Lucario    | 173 |   1.44%
+Boltund    | 172 |   1.43%
+Luxray     | 170 |   1.42%
+Raichu     | 167 |   1.39%
+Tinkaton   | 164 |   1.37%
+Excadrill  | 163 |   1.36%
+Revavroom  | 162 |   1.35%
+Probopass  | 162 |   1.35%
+Bronzong   | 160 |   1.33%
+Ampharos   | 156 |   1.30%
+Bastiodon  | 156 |   1.30%
+Corvknight | 156 |   1.30%
+Escavalier | 147 |   1.23%
+Dracozolt  | 147 |   1.23%
+Rotomfr    | 146 |   1.22%
+Empoleon   | 140 |   1.17%
+Rotomfa    | 137 |   1.14%
+Ferrothorn | 135 |   1.12%
+Arctozolt  | 135 |   1.12%
+Aegislash  | 134 |   1.12%
+Golema     | 134 |   1.12%
+Scizor     | 133 |   1.11%
+Rotomh     | 131 |   1.09%
+Durant     | 122 |   1.02%
+Raichua    | 122 |   1.02%
+Pawmot     | 120 |   1.00%
+Rotomm     | 118 |   0.98%
+Toxtricitl | 118 |   0.98%
+Electrodeh | 114 |   0.95%
+Kilowattrl | 112 |   0.93%
+Toxtricity | 110 |   0.92%
+Vikavolt   | 101 |   0.84%
+Rotomw     |  96 |   0.80%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

@@ -1,0 +1,46 @@
+Evolutions from Honedge (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Corsolag   | 514 |   4.28%
+Banette    | 453 |   3.77%
+Klang      | 450 |   3.75%
+Perrserker | 428 |   3.57%
+Misdreavus | 413 |   3.44%
+Dusclops   | 413 |   3.44%
+Haunter    | 408 |   3.40%
+Cofagrigus | 397 |   3.31%
+Houndstone | 380 |   3.17%
+Orthworm   | 371 |   3.09%
+Togedemaru | 351 |   2.93%
+Rotom      | 351 |   2.93%
+Lairon     | 348 |   2.90%
+Sandslasha | 313 |   2.61%
+Dugtrioa   | 309 |   2.57%
+Mawilem    | 305 |   2.54%
+Marowaka   | 297 |   2.48%
+Klefki     | 291 |   2.43%
+Drakloak   | 290 |   2.42%
+Froslass   | 281 |   2.34%
+Magneton   | 268 |   2.23%
+Bisharp    | 263 |   2.19%
+Sableyem   | 258 |   2.15%
+Spiritomb  | 253 |   2.11%
+Trevenant  | 247 |   2.06%
+Oricoriog  | 246 |   2.05%
+Skarmory   | 244 |   2.03%
+Palossand  | 242 |   2.02%
+Sliggooh   | 240 |   2.00%
+Metang     | 238 |   1.98%
+Mimikyu    | 237 |   1.98%
+Stunfiskg  | 235 |   1.96%
+Golurk     | 232 |   1.93%
+Runerigus  | 213 |   1.77%
+Bramblgast | 213 |   1.77%
+Ferrothorn | 210 |   1.75%
+Wormadamt  | 210 |   1.75%
+Durant     | 203 |   1.69%
+Jellicent  | 194 |   1.62%
+Forretress | 191 |   1.59%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

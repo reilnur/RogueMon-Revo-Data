@@ -1,0 +1,35 @@
+Evolutions from Clefairy (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Sylveon    | 763 |   6.36%
+Aromatisse | 731 |   6.09%
+Dachsbun   | 714 |   5.95%
+Slurpuff   | 707 |   5.89%
+Granbull   | 701 |   5.84%
+Alcremie   | 672 |   5.60%
+Comfey     | 667 |   5.56%
+Tinkaton   | 510 |   4.25%
+Gardevoir  | 508 |   4.23%
+Klefki     | 505 |   4.21%
+Hatterene  | 487 |   4.06%
+Mawilem    | 484 |   4.03%
+Grimmsnarl | 478 |   3.98%
+Mr. Mime   | 458 |   3.82%
+Ninetalesa | 453 |   3.77%
+Rapidashg  | 438 |   3.65%
+Primarina  | 436 |   3.63%
+Mimikyu    | 421 |   3.51%
+Wigglytuff | 397 |   3.31%
+Whimsicott | 394 |   3.28%
+Carbink    | 370 |   3.08%
+Weezingg   | 361 |   3.01%
+Ribombee   | 327 |   2.73%
+Floettee   |   6 |   0.05%
+Fezandipti |   4 |   0.03%
+Florges    |   3 |   0.03%
+Dedenne    |   2 |   0.02%
+Togekiss   |   2 |   0.02%
+Audinom    |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

@@ -1,0 +1,58 @@
+Evolutions from Drowzee (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Espeon     | 406 |   3.38%
+Beheeyem   | 380 |   3.17%
+Alakazam   | 365 |   3.04%
+Meowsticf  | 364 |   3.03%
+Meowstic   | 362 |   3.02%
+Grumpig    | 352 |   2.93%
+Chimecho   | 350 |   2.92%
+Espathra   | 345 |   2.88%
+Gothitelle | 337 |   2.81%
+Musharna   | 326 |   2.72%
+Reuniclus  | 325 |   2.71%
+Gardevoir  | 322 |   2.68%
+Jynx       | 295 |   2.46%
+Mr. Rime   | 290 |   2.42%
+Gallade    | 280 |   2.33%
+Exeggutor  | 275 |   2.29%
+Mr. Mime   | 267 |   2.23%
+Medichamm  | 261 |   2.17%
+Hatterene  | 249 |   2.08%
+Malamar    | 247 |   2.06%
+Mr. Mimeg  | 246 |   2.05%
+Bronzong   | 244 |   2.03%
+Braviaryh  | 243 |   2.02%
+Solrock    | 242 |   2.02%
+Rapidashg  | 235 |   1.96%
+Lunatone   | 231 |   1.93%
+Armarouge  | 231 |   1.93%
+Slowbrog   | 215 |   1.79%
+Xatu       | 210 |   1.75%
+Oricoriop  | 208 |   1.73%
+Girafarig  | 204 |   1.70%
+Sigilyph   | 203 |   1.69%
+Starmie    | 200 |   1.67%
+Slowkingg  | 199 |   1.66%
+Farigiraf  | 196 |   1.63%
+Claydol    | 192 |   1.60%
+Indeedeef  | 191 |   1.59%
+Slowking   | 186 |   1.55%
+Raichua    | 183 |   1.52%
+Calyrex    | 181 |   1.51%
+Veluza     | 181 |   1.51%
+Bruxish    | 179 |   1.49%
+Oranguru   | 170 |   1.42%
+Rabsca     | 169 |   1.41%
+Orbeetle   | 167 |   1.39%
+Slowbro    | 166 |   1.38%
+Indeedee   | 163 |   1.36%
+Wyrdeer    | 162 |   1.35%
+Munkidori  |   2 |   0.02%
+Swoobat    |   1 |   0.01%
+Screamtail |   1 |   0.01%
+Metang     |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

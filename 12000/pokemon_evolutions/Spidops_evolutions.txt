@@ -1,0 +1,50 @@
+Evolutions from Spidops (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Volcarona  | 574 |   4.78%
+Pinsir     | 534 |   4.45%
+Accelgor   | 525 |   4.38%
+Centskorch | 424 |   3.53%
+Vespiquen  | 423 |   3.52%
+Yanmega    | 419 |   3.49%
+Scizor     | 417 |   3.48%
+Frosmoth   | 409 |   3.41%
+Rabsca     | 400 |   3.33%
+Scyther    | 383 |   3.19%
+Forretress | 381 |   3.17%
+Masquerain | 379 |   3.16%
+Galvantula | 378 |   3.15%
+Golisopod  | 377 |   3.14%
+Ninjask    | 377 |   3.14%
+Ribombee   | 377 |   3.14%
+Escavalier | 376 |   3.13%
+Orbeetle   | 371 |   3.09%
+Durant     | 370 |   3.08%
+Heracross  | 370 |   3.08%
+Kleavor    | 358 |   2.98%
+Shuckle    | 353 |   2.94%
+Crustle    | 350 |   2.92%
+Vikavolt   | 339 |   2.83%
+Armaldo    | 330 |   2.75%
+Leavanny   | 323 |   2.69%
+Beedrillm  | 316 |   2.63%
+Scolipede  | 312 |   2.60%
+Araquanid  | 277 |   2.31%
+Pheromosa  | 137 |   1.14%
+Buzzwole   | 133 |   1.11%
+Slithrwing | 132 |   1.10%
+Pinsirm    |  71 |   0.59%
+Heracrossm |  64 |   0.53%
+Genesect   |  62 |   0.52%
+Scizorm    |  54 |   0.45%
+Illumise   |  40 |   0.33%
+Volbeat    |  35 |   0.29%
+Venomoth   |  15 |   0.12%
+Lokix      |  15 |   0.12%
+Mothim     |  10 |   0.08%
+Wormadams  |   4 |   0.03%
+Vivillon   |   3 |   0.03%
+Wormadamt  |   3 |   0.03%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

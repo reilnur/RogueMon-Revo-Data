@@ -1,0 +1,16 @@
+Evolutions from Pawmi (out of approximately 12000):
+Pokémon   | Count | Percentage
+--------------------------
+Pikachu   | 1393 |  11.61%
+Luxio     | 1310 |  10.92%
+Pikachuc  | 1265 |  10.54%
+Joltik    | 1246 |  10.38%
+Magnemite | 1237 |  10.31%
+Flaaffy   | 1198 |   9.98%
+Elekid    | 1133 |   9.44%
+Voltorb   | 1090 |   9.08%
+Chinchou  | 1068 |   8.90%
+Voltorbh  | 1060 |   8.83%
+--------------------------
+TOTAL     | 12000 | 100.00%
+

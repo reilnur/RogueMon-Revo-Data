@@ -1,0 +1,20 @@
+Evolutions from Scatterbug (out of approximately 12000):
+Pokémon    | Count | Percentage
+---------------------------
+Wimpod     | 1033 |   8.61%
+Cascoon    |  902 |   7.52%
+Kakuna     |  886 |   7.38%
+Caterpie   |  870 |   7.25%
+Silcoon    |  869 |   7.24%
+Tarountula |  858 |   7.15%
+Burmyt     |  843 |   7.03%
+Burmys     |  834 |   6.95%
+Kricketot  |  831 |   6.93%
+Metapod    |  829 |   6.91%
+Burmy      |  826 |   6.88%
+Nymble     |  820 |   6.83%
+Weedle     |  801 |   6.68%
+Wurmple    |  798 |   6.65%
+---------------------------
+TOTAL      | 12000 | 100.00%
+

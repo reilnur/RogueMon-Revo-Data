@@ -1,0 +1,64 @@
+Evolutions from Floragato (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Virizion   | 366 |   3.05%
+Ogerpon    | 355 |   2.96%
+Brutebonet | 327 |   2.73%
+Tapu Bulu  | 318 |   2.65%
+Wo-Chien   | 304 |   2.53%
+Gogoat     | 297 |   2.48%
+Kartana    | 296 |   2.47%
+Tangrowth  | 295 |   2.46%
+Leafeon    | 284 |   2.37%
+Sceptile   | 283 |   2.36%
+Exeggutora | 278 |   2.32%
+Rillaboom  | 275 |   2.29%
+Serperior  | 265 |   2.21%
+Meganium   | 260 |   2.17%
+Cherrims   | 255 |   2.12%
+Lurantis   | 254 |   2.12%
+Ogerponr   | 251 |   2.09%
+Bellossom  | 248 |   2.07%
+Ogerponf   | 233 |   1.94%
+Tsareena   | 233 |   1.94%
+Hydrapple  | 232 |   1.93%
+Decidueyeh | 230 |   1.92%
+Simisage   | 213 |   1.77%
+Lilligant  | 212 |   1.77%
+Chesnaught | 212 |   1.77%
+Decidueye  | 211 |   1.76%
+Dipplin    | 211 |   1.76%
+Appletun   | 205 |   1.71%
+Ogerponw   | 196 |   1.63%
+Flapple    | 188 |   1.57%
+Exeggutor  | 187 |   1.56%
+Gourgeists | 186 |   1.55%
+Whimsicott | 178 |   1.48%
+Shiftry    | 176 |   1.47%
+Sinistcha  | 174 |   1.45%
+Toedscruel | 171 |   1.43%
+Venusaur   | 170 |   1.42%
+Torterra   | 168 |   1.40%
+Gourgeistx | 167 |   1.39%
+Gourgeist  | 165 |   1.38%
+Lilliganth | 163 |   1.36%
+Cradily    | 163 |   1.36%
+Dhelmise   | 161 |   1.34%
+Gourgeistl | 161 |   1.34%
+Ferrothorn | 156 |   1.30%
+Abomasnow  | 155 |   1.29%
+Victreebel | 153 |   1.27%
+Roserade   | 151 |   1.26%
+Bramblgast | 148 |   1.23%
+Calyrex    | 148 |   1.23%
+Vileplume  | 142 |   1.18%
+Scovillain | 138 |   1.15%
+Electrodeh | 136 |   1.13%
+Leavanny   | 133 |   1.11%
+Rotomm     | 126 |   1.05%
+Ludicolo   | 119 |   0.99%
+Arboliva   | 117 |   0.97%
+Shaymin    |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

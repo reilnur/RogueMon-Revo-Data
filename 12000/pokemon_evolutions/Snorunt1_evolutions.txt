@@ -1,0 +1,37 @@
+Evolutions from Snorunt1 (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Beartic    | 700 |   5.83%
+Avalugg    | 669 |   5.58%
+Eiscuen    | 646 |   5.38%
+Cryogonal  | 636 |   5.30%
+Glaceon    | 633 |   5.27%
+Eiscue     | 623 |   5.19%
+Cetitan    | 612 |   5.10%
+Darmanitag | 601 |   5.01%
+Sandslasha | 518 |   4.32%
+Weavile    | 465 |   3.88%
+Mr. Rime   | 465 |   3.88%
+Piloswine  | 458 |   3.82%
+Crabminble | 442 |   3.68%
+Jynx       | 432 |   3.60%
+Ninetalesa | 414 |   3.45%
+Mr. Mimeg  | 411 |   3.43%
+Avaluggh   | 405 |   3.38%
+Aurorus    | 400 |   3.33%
+Arctozolt  | 388 |   3.23%
+Cloyster   | 368 |   3.07%
+Dewgong    | 354 |   2.95%
+Rotomfr    | 352 |   2.93%
+Frosmoth   | 341 |   2.84%
+Arctovish  | 331 |   2.76%
+Abomasnow  | 326 |   2.72%
+Sneasel    |   3 |   0.03%
+Vanilluxe  |   2 |   0.02%
+Mamoswine  |   2 |   0.02%
+Castformi  |   1 |   0.01%
+Lapras     |   1 |   0.01%
+Arctibax   |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

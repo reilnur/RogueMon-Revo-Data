@@ -1,0 +1,43 @@
+Evolutions from Pansear (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Darmanitan | 534 |   4.45%
+Torkoal    | 528 |   4.40%
+Magmortar  | 462 |   3.85%
+Heatmor    | 454 |   3.78%
+Typhlosion | 445 |   3.71%
+Cinderace  | 442 |   3.68%
+Magmar     | 431 |   3.59%
+Ninetales  | 429 |   3.57%
+Rapidash   | 416 |   3.47%
+Flareon    | 382 |   3.18%
+Blaziken   | 370 |   3.08%
+Delphox    | 361 |   3.01%
+Darmanitaz | 359 |   2.99%
+Emboar     | 353 |   2.94%
+Infernape  | 348 |   2.90%
+Skeledirge | 337 |   2.81%
+Turtonator | 323 |   2.69%
+Charizard  | 322 |   2.68%
+Darmanitzg | 314 |   2.62%
+Oricorio   | 313 |   2.61%
+Incineroar | 311 |   2.59%
+Camerupt   | 309 |   2.57%
+Coalossal  | 303 |   2.53%
+Taurospf   | 300 |   2.50%
+Typhlosioh | 297 |   2.48%
+Talonflame | 296 |   2.47%
+Chandelure | 295 |   2.46%
+Armarouge  | 293 |   2.44%
+Ceruledge  | 272 |   2.27%
+Houndoom   | 263 |   2.19%
+Salazzle   | 255 |   2.12%
+Centskorch | 254 |   2.12%
+Scovillain | 226 |   1.88%
+Rotomh     | 214 |   1.78%
+Pyroar     | 187 |   1.56%
+Quilava    |   1 |   0.01%
+Arcanine   |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

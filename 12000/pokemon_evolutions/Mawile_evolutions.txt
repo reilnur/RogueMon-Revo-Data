@@ -1,0 +1,57 @@
+Evolutions from Mawile (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Perrserker | 365 |   3.04%
+Klang      | 356 |   2.97%
+Klinklang  | 351 |   2.93%
+Copperajah | 346 |   2.88%
+Aromatisse | 342 |   2.85%
+Granbull   | 326 |   2.72%
+Orthworm   | 324 |   2.70%
+Sylveon    | 314 |   2.62%
+Clefable   | 299 |   2.49%
+Slurpuff   | 298 |   2.48%
+Doublade   | 289 |   2.41%
+Comfey     | 285 |   2.38%
+Dachsbun   | 281 |   2.34%
+Alcremie   | 279 |   2.33%
+Togedemaru | 278 |   2.32%
+Lucario    | 267 |   2.23%
+Sandslasha | 247 |   2.06%
+Sliggooh   | 236 |   1.97%
+Gardevoir  | 234 |   1.95%
+Mawilem    | 224 |   1.87%
+Probopass  | 222 |   1.85%
+Excadrill  | 221 |   1.84%
+Bastiodon  | 218 |   1.82%
+Aegislash  | 218 |   1.82%
+Grimmsnarl | 216 |   1.80%
+Tinkaton   | 215 |   1.79%
+Skarmory   | 215 |   1.79%
+Hatterene  | 209 |   1.74%
+Corvknight | 208 |   1.73%
+Mimikyu    | 208 |   1.73%
+Klefki     | 208 |   1.73%
+Revavroom  | 207 |   1.73%
+Aegislashb | 205 |   1.71%
+Stunfiskg  | 204 |   1.70%
+Bisharp    | 200 |   1.67%
+Magneton   | 199 |   1.66%
+Rapidashg  | 198 |   1.65%
+Ninetalesa | 197 |   1.64%
+Whimsicott | 195 |   1.62%
+Bronzong   | 195 |   1.62%
+Steelix    | 193 |   1.61%
+Scizor     | 191 |   1.59%
+Mr. Mime   | 189 |   1.57%
+Wigglytuff | 187 |   1.56%
+Weezingg   | 183 |   1.52%
+Escavalier | 177 |   1.47%
+Carbink    | 174 |   1.45%
+Ferrothorn | 173 |   1.44%
+Ribombee   | 167 |   1.39%
+Forretress | 146 |   1.22%
+Durant     | 121 |   1.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

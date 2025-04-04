@@ -1,0 +1,48 @@
+Evolutions from Yamask (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Dusclops   | 522 |   4.35%
+Misdreavus | 519 |   4.32%
+Poltegeist | 486 |   4.05%
+Banette    | 477 |   3.98%
+Houndstone | 433 |   3.61%
+Dusknoir   | 426 |   3.55%
+Cursola    | 419 |   3.49%
+Rotom      | 411 |   3.43%
+Mismagius  | 405 |   3.38%
+Doublade   | 344 |   2.87%
+Aegislash  | 328 |   2.73%
+Decidueye  | 319 |   2.66%
+Aegislashb | 315 |   2.62%
+Froslass   | 315 |   2.62%
+Trevenant  | 305 |   2.54%
+Skeledirge | 296 |   2.47%
+Ceruledge  | 290 |   2.42%
+Sableyem   | 288 |   2.40%
+Spiritomb  | 287 |   2.39%
+Mimikyu    | 277 |   2.31%
+Gourgeist  | 275 |   2.29%
+Dhelmise   | 268 |   2.23%
+Sinistcha  | 267 |   2.23%
+Basclegiof | 265 |   2.21%
+Golurk     | 264 |   2.20%
+Oricoriog  | 263 |   2.19%
+Basclegion | 263 |   2.19%
+Palossand  | 263 |   2.19%
+Chandelure | 259 |   2.16%
+Gourgeistl | 258 |   2.15%
+Gourgeistx | 256 |   2.13%
+Bramblgast | 255 |   2.12%
+Gourgeists | 252 |   2.10%
+Runerigus  | 241 |   2.01%
+Gengar     | 239 |   1.99%
+Drifblim   | 226 |   1.88%
+Zoroarkh   | 212 |   1.77%
+Jellicent  | 206 |   1.72%
+Marowaka   |   2 |   0.02%
+Banettem   |   2 |   0.02%
+Annihilape |   1 |   0.01%
+Fluttrmane |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

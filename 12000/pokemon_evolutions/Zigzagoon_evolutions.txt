@@ -1,0 +1,38 @@
+Evolutions from Zigzagoon (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Delcatty   | 507 |   4.23%
+Lickitung  | 483 |   4.03%
+Gumshoos   | 474 |   3.95%
+Furret     | 472 |   3.93%
+Munchlax   | 464 |   3.87%
+Watchog    | 462 |   3.85%
+Castform   | 460 |   3.83%
+Porygon    | 454 |   3.78%
+Raticate   | 446 |   3.72%
+Dunsparce  | 442 |   3.68%
+Vigoroth   | 410 |   3.42%
+Squawkbily | 409 |   3.41%
+Eeveep     | 408 |   3.40%
+Chatot     | 405 |   3.38%
+Zangoose   | 398 |   3.32%
+Greedent   | 389 |   3.24%
+Raticatea  | 376 |   3.13%
+Kecleon    | 375 |   3.12%
+Persian    | 371 |   3.09%
+Linooneg   | 367 |   3.06%
+Purugly    | 359 |   2.99%
+Chansey    | 345 |   2.88%
+Fearow     | 342 |   2.85%
+Audino     | 322 |   2.68%
+Terapagos  | 320 |   2.67%
+Bibarel    | 318 |   2.65%
+Noctowl    | 307 |   2.56%
+Diggersby  | 303 |   2.53%
+Wigglytuff | 288 |   2.40%
+Swellow    | 272 |   2.27%
+Girafarig  | 251 |   2.09%
+Stantler   |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

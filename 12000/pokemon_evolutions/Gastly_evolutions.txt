@@ -1,0 +1,33 @@
+Evolutions from Gastly (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Corsolag   | 890 |   7.42%
+Nidorina   | 780 |   6.50%
+Sableye    | 775 |   6.46%
+Misdreavus | 745 |   6.21%
+Poipole    | 739 |   6.16%
+Nidorino   | 735 |   6.12%
+Lampent    | 704 |   5.87%
+Rotom      | 577 |   4.81%
+Sneaselh   | 539 |   4.49%
+Qwilfishh  | 535 |   4.46%
+Clodsire   | 530 |   4.42%
+Drakloak   | 525 |   4.38%
+Marowaka   | 516 |   4.30%
+Roselia    | 514 |   4.28%
+Ivysaur    | 475 |   3.96%
+Weepinbell | 446 |   3.72%
+Gloom      | 421 |   3.51%
+Beedrill   | 398 |   3.32%
+Qwilfish   | 388 |   3.23%
+Ariados    | 382 |   3.18%
+Dustox     | 374 |   3.12%
+Drifloon   |   4 |   0.03%
+Glimmet    |   3 |   0.03%
+Arbok      |   2 |   0.02%
+Doublade   |   1 |   0.01%
+Dusclops   |   1 |   0.01%
+Banette    |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

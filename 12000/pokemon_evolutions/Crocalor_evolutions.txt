@@ -1,0 +1,48 @@
+Evolutions from Crocalor (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Entei      | 412 |   3.43%
+Arcanine   | 411 |   3.43%
+Darmanitan | 385 |   3.21%
+Iron Moth  | 376 |   3.13%
+Magmar     | 374 |   3.12%
+Magmortar  | 369 |   3.08%
+Blacphalon | 361 |   3.01%
+Heatmor    | 346 |   2.88%
+Cinderace  | 345 |   2.88%
+Simisear   | 339 |   2.83%
+Moltres    | 339 |   2.83%
+Ninetales  | 332 |   2.77%
+Typhlosion | 328 |   2.73%
+Rapidash   | 327 |   2.73%
+Turtonator | 324 |   2.70%
+Arcanineh  | 323 |   2.69%
+Chi-Yu     | 311 |   2.59%
+Flareon    | 310 |   2.58%
+Cameruptm  | 282 |   2.35%
+Volcarona  | 272 |   2.27%
+Delphox    | 269 |   2.24%
+Typhlosioh | 268 |   2.23%
+Darmanitzg | 266 |   2.22%
+Darmanitaz | 265 |   2.21%
+Ogerponf   | 260 |   2.17%
+Incineroar | 258 |   2.15%
+Infernape  | 257 |   2.14%
+Emboar     | 253 |   2.11%
+Blaziken   | 251 |   2.09%
+Charizard  | 243 |   2.02%
+Coalossal  | 238 |   1.98%
+Chandelure | 234 |   1.95%
+Houndoom   | 226 |   1.88%
+Salazzle   | 223 |   1.86%
+Armarouge  | 223 |   1.86%
+Talonflame | 218 |   1.82%
+Taurospf   | 216 |   1.80%
+Ceruledge  | 211 |   1.76%
+Scovillain | 209 |   1.74%
+Centskorch | 208 |   1.73%
+Rotomh     | 191 |   1.59%
+Pyroar     | 147 |   1.23%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

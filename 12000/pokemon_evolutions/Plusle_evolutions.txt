@@ -1,0 +1,58 @@
+Evolutions from Plusle (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Electivire | 588 |   4.90%
+Manectric  | 495 |   4.12%
+Raichu     | 470 |   3.92%
+Ampharos   | 463 |   3.86%
+Boltund    | 459 |   3.82%
+Zebstrika  | 448 |   3.73%
+Electabuzz | 443 |   3.69%
+Jolteon    | 443 |   3.69%
+Luxray     | 439 |   3.66%
+Electrode  | 420 |   3.50%
+Eelektross | 406 |   3.38%
+Bellibolt  | 392 |   3.27%
+Dracozolt  | 385 |   3.21%
+Magnezone  | 376 |   3.13%
+Magneton   | 349 |   2.91%
+Oricorioe  | 334 |   2.78%
+Rotomfa    | 315 |   2.62%
+Raichua    | 309 |   2.57%
+Arctozolt  | 307 |   2.56%
+Stunfisk   | 306 |   2.55%
+Kilowattrl | 303 |   2.53%
+Pawmot     | 298 |   2.48%
+Rotomfr    | 298 |   2.48%
+Rotomh     | 289 |   2.41%
+Toxtricity | 284 |   2.37%
+Golema     | 275 |   2.29%
+Galvantula | 274 |   2.28%
+Lanturn    | 267 |   2.23%
+Toxtricitl | 259 |   2.16%
+Heliolisk  | 255 |   2.12%
+Rotomm     | 252 |   2.10%
+Rotomw     | 249 |   2.08%
+Electrodeh | 225 |   1.88%
+Vikavolt   | 225 |   1.88%
+Tapu Koko  |  12 |   0.10%
+Regieleki  |  11 |   0.09%
+Thundurust |   9 |   0.07%
+Zapdos     |   8 |   0.07%
+Manectricm |   8 |   0.07%
+Pikachup   |   8 |   0.07%
+Xurkitree  |   6 |   0.05%
+Sandyshock |   6 |   0.05%
+Thundurus  |   6 |   0.05%
+Ironthorns |   5 |   0.04%
+Iron Hands |   4 |   0.03%
+Rotom      |   3 |   0.03%
+Morpeko    |   3 |   0.03%
+Raikou     |   3 |   0.03%
+Togedemaru |   3 |   0.03%
+Pincurchin |   2 |   0.02%
+Dedenne    |   2 |   0.02%
+Morpekoh   |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

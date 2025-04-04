@@ -1,0 +1,24 @@
+Evolutions from Litwick (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Growlithe  | 889 |   7.41%
+Growlitheh | 833 |   6.94%
+Pumpkaboos | 820 |   6.83%
+Pumpkaboo  | 814 |   6.78%
+Frillish   | 813 |   6.78%
+Pumpkaboox | 788 |   6.57%
+Pumpkabool | 748 |   6.23%
+Magby      | 746 |   6.22%
+Drifloon   | 714 |   5.95%
+Sableye    | 652 |   5.43%
+Charmeleon | 593 |   4.94%
+Haunter    | 589 |   4.91%
+Quilava    | 547 |   4.56%
+Larvesta   | 511 |   4.26%
+Combusken  | 505 |   4.21%
+Litleo     | 492 |   4.10%
+Flechinder | 481 |   4.01%
+Monferno   | 465 |   3.88%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

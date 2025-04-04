@@ -1,0 +1,61 @@
+Evolutions from Smoochum (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Castformi  | 342 |   2.85%
+Meowsticf  | 324 |   2.70%
+Eiscuen    | 321 |   2.67%
+Grumpig    | 317 |   2.64%
+Glalie     | 309 |   2.57%
+Ponytag    | 305 |   2.54%
+Sneasel    | 299 |   2.49%
+Eiscue     | 299 |   2.49%
+Meowstic   | 298 |   2.48%
+Chimecho   | 298 |   2.48%
+Darmanitag | 296 |   2.47%
+Alakazam   | 291 |   2.43%
+Reuniclus  | 291 |   2.43%
+Espathra   | 290 |   2.42%
+Hypno      | 290 |   2.42%
+Gothitelle | 277 |   2.31%
+Beheeyem   | 270 |   2.25%
+Musharna   | 266 |   2.22%
+Froslass   | 236 |   1.97%
+Sandslasha | 235 |   1.96%
+Rapidashg  | 229 |   1.91%
+Metang     | 223 |   1.86%
+Swoobat    | 223 |   1.86%
+Piloswine  | 218 |   1.82%
+Medicham   | 215 |   1.79%
+Mr. Mimeg  | 215 |   1.79%
+Bronzong   | 214 |   1.78%
+Solrock    | 209 |   1.74%
+Mr. Mime   | 207 |   1.73%
+Sealeo     | 206 |   1.72%
+Crabminble | 204 |   1.70%
+Malamar    | 192 |   1.60%
+Xatu       | 186 |   1.55%
+Frosmoth   | 185 |   1.54%
+Abomasnow  | 182 |   1.52%
+Lunatone   | 179 |   1.49%
+Arctibax   | 179 |   1.49%
+Claydol    | 179 |   1.49%
+Rabsca     | 177 |   1.47%
+Dewgong    | 176 |   1.47%
+Girafarig  | 172 |   1.43%
+Bruxish    | 170 |   1.42%
+Sigilyph   | 170 |   1.42%
+Raichua    | 167 |   1.39%
+Oricoriop  | 166 |   1.38%
+Slowbrog   | 166 |   1.38%
+Slowkingg  | 164 |   1.37%
+Indeedee   | 157 |   1.31%
+Indeedeef  | 155 |   1.29%
+Slowking   | 144 |   1.20%
+Calyrex    | 137 |   1.14%
+Slowbro    | 137 |   1.14%
+Oranguru   | 126 |   1.05%
+Veluza     | 116 |   0.97%
+Beartic    |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

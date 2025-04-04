@@ -1,0 +1,40 @@
+Evolutions from Cubchoo (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Avalugg    | 630 |   5.25%
+Vanilluxe  | 628 |   5.23%
+Cetitan    | 596 |   4.97%
+Cryogonal  | 596 |   4.97%
+Glaceon    | 594 |   4.95%
+Eiscuen    | 563 |   4.69%
+Darmanitag | 551 |   4.59%
+Glalie     | 538 |   4.48%
+Eiscue     | 521 |   4.34%
+Mr. Rime   | 396 |   3.30%
+Crabminble | 383 |   3.19%
+Froslass   | 383 |   3.19%
+Ninetalesa | 379 |   3.16%
+Avaluggh   | 374 |   3.12%
+Weavile    | 366 |   3.05%
+Jynx       | 365 |   3.04%
+Darmanitzg | 361 |   3.01%
+Lapras     | 360 |   3.00%
+Mamoswine  | 349 |   2.91%
+Mr. Mimeg  | 338 |   2.82%
+Dewgong    | 332 |   2.77%
+Walrein    | 331 |   2.76%
+Cloyster   | 321 |   2.67%
+Rotomfr    | 319 |   2.66%
+Aurorus    | 318 |   2.65%
+Arctovish  | 294 |   2.45%
+Arctozolt  | 284 |   2.37%
+Abomasnow  | 263 |   2.19%
+Frosmoth   | 253 |   2.11%
+Regice     |   5 |   0.04%
+Glastrier  |   4 |   0.03%
+Glaliem    |   3 |   0.03%
+Articuno   |   1 |   0.01%
+Sneasel    |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

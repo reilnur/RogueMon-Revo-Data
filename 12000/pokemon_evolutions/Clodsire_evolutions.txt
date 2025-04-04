@@ -1,0 +1,74 @@
+Evolutions from Clodsire (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Nihilego   | 303 |   2.53%
+Fezandipti | 296 |   2.47%
+Great Tusk | 287 |   2.39%
+Munkidori  | 282 |   2.35%
+Okidogi    | 277 |   2.31%
+Donphan    | 272 |   2.27%
+Sandyshock | 265 |   2.21%
+Hippowdon  | 264 |   2.20%
+Ting-Lu    | 260 |   2.17%
+Irontreads | 252 |   2.10%
+Iron Moth  | 252 |   2.10%
+Mudsdale   | 243 |   2.02%
+Flygon     | 241 |   2.01%
+Weezing    | 234 |   1.95%
+Sandaconda | 227 |   1.89%
+Excadrill  | 217 |   1.81%
+Steelix    | 216 |   1.80%
+Cameruptm  | 215 |   1.79%
+Muk        | 208 |   1.73%
+Rhyperior  | 201 |   1.68%
+Revavroom  | 196 |   1.63%
+Overqwil   | 196 |   1.63%
+Runerigus  | 196 |   1.63%
+Naganadel  | 189 |   1.57%
+Dragalge   | 186 |   1.55%
+Mamoswine  | 183 |   1.52%
+Palossand  | 182 |   1.52%
+Gliscor    | 180 |   1.50%
+Zygarde10  | 179 |   1.49%
+Weezingg   | 178 |   1.48%
+Rhydon     | 177 |   1.47%
+Toxicroak  | 177 |   1.47%
+Crobat     | 176 |   1.47%
+Skuntank   | 174 |   1.45%
+Krookodile | 167 |   1.39%
+Ursalunab  | 166 |   1.38%
+Gengar     | 163 |   1.36%
+Golurk     | 163 |   1.36%
+Roserade   | 161 |   1.34%
+Venusaur   | 161 |   1.34%
+Sneasler   | 160 |   1.33%
+Torterra   | 158 |   1.32%
+Slowkingg  | 156 |   1.30%
+Golem      | 155 |   1.29%
+Swampert   | 153 |   1.27%
+Glimmora   | 152 |   1.27%
+Slowbrog   | 152 |   1.27%
+Toxtricity | 150 |   1.25%
+Salazzle   | 149 |   1.24%
+Claydol    | 147 |   1.23%
+Muka       | 144 |   1.20%
+Drapion    | 140 |   1.17%
+Nidoking   | 140 |   1.17%
+Beedrillm  | 139 |   1.16%
+Nidoqueen  | 138 |   1.15%
+Toxapex    | 129 |   1.07%
+Victreebel | 128 |   1.07%
+Seismitoad | 128 |   1.07%
+Ursaluna   | 127 |   1.06%
+Scolipede  | 122 |   1.02%
+Tentacruel | 121 |   1.01%
+Toedscruel | 119 |   0.99%
+Vileplume  | 116 |   0.97%
+Toxtricitl | 112 |   0.93%
+Grafaiai   | 100 |   0.83%
+Garchomp   |   1 |   0.01%
+Landorust  |   1 |   0.01%
+Zygarde    |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

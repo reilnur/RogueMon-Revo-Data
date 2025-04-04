@@ -1,0 +1,53 @@
+Evolutions from Burmy2 (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Spidops    | 660 |   5.50%
+Kricketune | 647 |   5.39%
+Illumise   | 574 |   4.78%
+Beautifly  | 570 |   4.75%
+Charjabug  | 561 |   4.67%
+Yanma      | 545 |   4.54%
+Butterfree | 539 |   4.49%
+Volbeat    | 535 |   4.46%
+Vivillon   | 528 |   4.40%
+Ledian     | 507 |   4.23%
+Dustox     | 495 |   4.12%
+Wormadamt  | 481 |   4.01%
+Ariados    | 473 |   3.94%
+Wormadams  | 456 |   3.80%
+Masquerain | 451 |   3.76%
+Lokix      | 437 |   3.64%
+Ninjask    | 437 |   3.64%
+Beedrill   | 432 |   3.60%
+Forretress | 423 |   3.52%
+Ribombee   | 415 |   3.46%
+Venomoth   | 403 |   3.36%
+Parasect   | 381 |   3.17%
+Araquanid  | 326 |   2.72%
+Anorith    | 102 |   0.85%
+Larvesta   |  85 |   0.71%
+Whirlipede |  73 |   0.61%
+Pinsir     |  44 |   0.37%
+Swadloon   |  43 |   0.36%
+Rabsca     |  32 |   0.27%
+Durant     |  32 |   0.27%
+Frosmoth   |  31 |   0.26%
+Accelgor   |  30 |   0.25%
+Vespiquen  |  30 |   0.25%
+Scyther    |  23 |   0.19%
+Scolipede  |  21 |   0.18%
+Crustle    |  21 |   0.18%
+Escavalier |  21 |   0.18%
+Armaldo    |  19 |   0.16%
+Galvantula |  19 |   0.16%
+Scizor     |  18 |   0.15%
+Heracross  |  16 |   0.13%
+Beedrillm  |  12 |   0.10%
+Kleavor    |  11 |   0.09%
+Shuckle    |  11 |   0.09%
+Vikavolt   |  11 |   0.09%
+Leavanny   |  10 |   0.08%
+Orbeetle   |   9 |   0.07%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

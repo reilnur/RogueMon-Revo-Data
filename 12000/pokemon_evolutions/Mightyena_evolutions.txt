@@ -1,0 +1,47 @@
+Evolutions from Mightyena (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Absolm     | 505 |   4.21%
+Ironjuglis | 470 |   3.92%
+Chien-Pao  | 439 |   3.66%
+Umbreon    | 435 |   3.62%
+Brutebonet | 421 |   3.51%
+Guzzlord   | 418 |   3.48%
+Zoroark    | 417 |   3.48%
+Mabosstiff | 405 |   3.38%
+Ting-Lu    | 383 |   3.19%
+Wo-Chien   | 368 |   3.07%
+Kingambit  | 355 |   2.96%
+Bisharp    | 344 |   2.87%
+Chi-Yu     | 336 |   2.80%
+Urshifu    | 317 |   2.64%
+Sharpedom  | 299 |   2.49%
+Grimmsnarl | 296 |   2.47%
+Spiritomb  | 286 |   2.38%
+Mandibuzz  | 285 |   2.38%
+Meowscrada | 285 |   2.38%
+Weavile    | 284 |   2.37%
+Incineroar | 283 |   2.36%
+Sableyem   | 280 |   2.33%
+Honchkrow  | 277 |   2.31%
+Krookodile | 267 |   2.23%
+Crawdaunt  | 263 |   2.19%
+Scrafty    | 256 |   2.13%
+Pangoro    | 256 |   2.13%
+Samurotth  | 252 |   2.10%
+Bombirdier | 247 |   2.06%
+Overqwil   | 244 |   2.03%
+Malamar    | 240 |   2.00%
+Shiftry    | 234 |   1.95%
+Houndoom   | 234 |   1.95%
+Skuntank   | 231 |   1.93%
+Cacturne   | 231 |   1.93%
+Drapion    | 217 |   1.81%
+Obstagoon  | 216 |   1.80%
+Muka       | 214 |   1.78%
+Greninja   | 208 |   1.73%
+Thievul    |   1 |   0.01%
+Persiana   |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

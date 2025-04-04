@@ -1,0 +1,47 @@
+Evolutions from Sobble (out of approximately 12000):
+Pokémon   | Count | Percentage
+-------------------------
+Poliwhirl | 510 |   4.25%
+Wartortle | 496 |   4.13%
+Prinplup  | 491 |   4.09%
+Wailmer   | 487 |   4.06%
+Quaxwell  | 478 |   3.98%
+Wugtrio   | 476 |   3.97%
+Croconaw  | 462 |   3.85%
+Frogadier | 443 |   3.69%
+Palafin   | 439 |   3.66%
+Lumineon  | 439 |   3.66%
+Palpitoad | 433 |   3.61%
+Pyukumuku | 410 |   3.42%
+Castformw | 406 |   3.38%
+Brionne   | 401 |   3.34%
+Dewott    | 400 |   3.33%
+Basculinb | 398 |   3.32%
+Seaking   | 378 |   3.15%
+Basculin  | 376 |   3.13%
+Seadra    | 375 |   3.12%
+Basculinw | 375 |   3.12%
+Marshtomp | 351 |   2.93%
+Sealeo    | 349 |   2.91%
+Pelipper  | 333 |   2.77%
+Corsola   | 331 |   2.76%
+Quagsire  | 321 |   2.67%
+Azumarill | 306 |   2.55%
+Bibarel   | 290 |   2.42%
+Sharpedo  | 281 |   2.34%
+Qwilfish  | 266 |   2.22%
+Lanturn   | 246 |   2.05%
+Araquanid | 238 |   1.98%
+Octillery |   3 |   0.03%
+Tirtouga  |   2 |   0.02%
+Kingler   |   2 |   0.02%
+Crawdaunt |   2 |   0.02%
+Alomomola |   1 |   0.01%
+Swanna    |   1 |   0.01%
+Phione    |   1 |   0.01%
+Clamperl  |   1 |   0.01%
+Politoed  |   1 |   0.01%
+Cramorant |   1 |   0.01%
+-------------------------
+TOTAL     | 12000 | 100.00%
+

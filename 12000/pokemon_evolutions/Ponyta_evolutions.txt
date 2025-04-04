@@ -1,0 +1,44 @@
+Evolutions from Ponyta (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Torkoal    | 476 |   3.97%
+Cinderace  | 468 |   3.90%
+Typhlosion | 454 |   3.78%
+Darmanitan | 451 |   3.76%
+Flareon    | 427 |   3.56%
+Magmar     | 425 |   3.54%
+Ninetales  | 415 |   3.46%
+Magmortar  | 414 |   3.45%
+Simisear   | 406 |   3.38%
+Heatmor    | 386 |   3.22%
+Turtonator | 360 |   3.00%
+Darmanitaz | 350 |   2.92%
+Oricorio   | 339 |   2.83%
+Volcarona  | 324 |   2.70%
+Infernape  | 322 |   2.68%
+Typhlosioh | 320 |   2.67%
+Darmanitzg | 313 |   2.61%
+Blaziken   | 311 |   2.59%
+Skeledirge | 310 |   2.58%
+Incineroar | 302 |   2.52%
+Ogerponf   | 300 |   2.50%
+Delphox    | 292 |   2.43%
+Ceruledge  | 290 |   2.42%
+Houndoom   | 289 |   2.41%
+Armarouge  | 282 |   2.35%
+Emboar     | 281 |   2.34%
+Camerupt   | 280 |   2.33%
+Taurospf   | 264 |   2.20%
+Chandelure | 260 |   2.17%
+Charizard  | 257 |   2.14%
+Salazzle   | 252 |   2.10%
+Coalossal  | 248 |   2.07%
+Rotomh     | 246 |   2.05%
+Talonflame | 243 |   2.02%
+Scovillain | 235 |   1.96%
+Centskorch | 221 |   1.84%
+Pyroar     | 186 |   1.55%
+Marowaka   |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

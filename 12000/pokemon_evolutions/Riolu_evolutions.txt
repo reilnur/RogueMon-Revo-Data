@@ -1,0 +1,45 @@
+Evolutions from Riolu (out of approximately 12000):
+Pokémon      | Count | Percentage
+----------------------------
+Iron Hands   | 499 |   4.16%
+Conkeldurr   | 430 |   3.58%
+Machamp      | 429 |   3.57%
+Pheromosa    | 422 |   3.52%
+Mienshao     | 422 |   3.52%
+Grapploct    | 406 |   3.38%
+Great Tusk   | 397 |   3.31%
+Slithrwing   | 385 |   3.21%
+Buzzwole     | 384 |   3.20%
+Okidogi      | 382 |   3.18%
+Hariyama     | 379 |   3.16%
+Passimian    | 376 |   3.13%
+Sirfetchâ€™d | 373 |   3.11%
+Urshifu      | 358 |   2.98%
+Annihilape   | 332 |   2.77%
+Infernape    | 320 |   2.67%
+Gallade      | 318 |   2.65%
+Taurosp      | 308 |   2.57%
+Chesnaught   | 308 |   2.57%
+Blaziken     | 302 |   2.52%
+Decidueyeh   | 294 |   2.45%
+Pangoro      | 288 |   2.40%
+Scrafty      | 274 |   2.28%
+Quaquaval    | 273 |   2.27%
+Medichamm    | 268 |   2.23%
+Emboar       | 264 |   2.20%
+Crabminble   | 260 |   2.17%
+Urshifur     | 249 |   2.08%
+Sneasler     | 240 |   2.00%
+Flamigo      | 238 |   1.98%
+Taurospf     | 234 |   1.95%
+Poliwrath    | 213 |   1.77%
+Pawmot       | 212 |   1.77%
+Toxicroak    | 212 |   1.77%
+Hawlucha     | 207 |   1.73%
+Taurospw     | 196 |   1.63%
+Heracross    | 194 |   1.62%
+Lilliganth   | 183 |   1.52%
+Bewear       | 171 |   1.43%
+----------------------------
+TOTAL        | 12000 | 100.00%
+

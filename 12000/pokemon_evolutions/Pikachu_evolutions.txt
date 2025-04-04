@@ -1,0 +1,53 @@
+Evolutions from Pikachu (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Rotom      | 567 |   4.72%
+Luxray     | 552 |   4.60%
+Manectric  | 546 |   4.55%
+Eelektross | 523 |   4.36%
+Electabuzz | 491 |   4.09%
+Electrode  | 490 |   4.08%
+Zebstrika  | 477 |   3.98%
+Boltund    | 469 |   3.91%
+Ampharos   | 464 |   3.87%
+Jolteon    | 462 |   3.85%
+Bellibolt  | 458 |   3.82%
+Dracozolt  | 405 |   3.38%
+Magneton   | 402 |   3.35%
+Oricorioe  | 339 |   2.83%
+Stunfisk   | 335 |   2.79%
+Rotomfa    | 332 |   2.77%
+Kilowattrl | 308 |   2.57%
+Lanturn    | 308 |   2.57%
+Arctozolt  | 307 |   2.56%
+Golema     | 304 |   2.53%
+Rotomh     | 300 |   2.50%
+Toxtricity | 298 |   2.48%
+Rotomfr    | 294 |   2.45%
+Toxtricitl | 294 |   2.45%
+Pawmot     | 285 |   2.38%
+Electrodeh | 284 |   2.37%
+Galvantula | 263 |   2.19%
+Rotomm     | 257 |   2.14%
+Rotomw     | 248 |   2.07%
+Vikavolt   | 237 |   1.98%
+Heliolisk  | 236 |   1.97%
+Raichu     | 218 |   1.82%
+Raichua    | 125 |   1.04%
+Pincurchin |  25 |   0.21%
+Pikachup   |  17 |   0.14%
+Electivire |  16 |   0.13%
+Dedenne    |  14 |   0.12%
+Morpeko    |  14 |   0.12%
+Emolga     |  13 |   0.11%
+Morpekoh   |  12 |   0.10%
+Togedemaru |   4 |   0.03%
+Magnezone  |   2 |   0.02%
+Xurkitree  |   1 |   0.01%
+Iron Hands |   1 |   0.01%
+Zapdos     |   1 |   0.01%
+Thundurust |   1 |   0.01%
+Pachirisu  |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

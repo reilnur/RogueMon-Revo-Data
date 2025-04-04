@@ -1,0 +1,28 @@
+Evolutions from Bagon (out of approximately 12000):
+Pokémon    | Count | Percentage
+---------------------------
+Sliggoo    | 1786 |  14.88%
+Dragonair  | 1425 |  11.88%
+Fraxure    | 1412 |  11.77%
+Drakloak   | 1242 |  10.35%
+Sliggooh   | 1216 |  10.13%
+Gabite     | 1116 |   9.30%
+Zweilous   | 1108 |   9.23%
+Arctibax   | 1091 |   9.09%
+Hakamo-O   | 1073 |   8.94%
+Tyrunt     |  231 |   1.93%
+Vibrava    |   76 |   0.63%
+Druddigon  |   65 |   0.54%
+Tatsugiri  |   55 |   0.46%
+Turtonator |   17 |   0.14%
+Flapple    |   15 |   0.12%
+Appletun   |   15 |   0.12%
+Dragalge   |   14 |   0.12%
+Zygarde10  |   12 |   0.10%
+Dipplin    |   10 |   0.08%
+Altaria    |    8 |   0.07%
+Drampa     |    7 |   0.06%
+Cyclizar   |    6 |   0.05%
+---------------------------
+TOTAL      | 12000 | 100.00%
+

@@ -1,0 +1,56 @@
+Evolutions from Horsea (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Croconaw   | 384 |   3.20%
+Frogadier  | 362 |   3.02%
+Pyukumuku  | 360 |   3.00%
+Wartortle  | 360 |   3.00%
+Wailmer    | 352 |   2.93%
+Prinplup   | 346 |   2.88%
+Palafin    | 336 |   2.80%
+Basculin   | 332 |   2.77%
+Basculinb  | 331 |   2.76%
+Wugtrio    | 330 |   2.75%
+Castformw  | 328 |   2.73%
+Quaxwell   | 326 |   2.72%
+Basculinw  | 325 |   2.71%
+Kingler    | 325 |   2.71%
+Drizzile   | 324 |   2.70%
+Alomomola  | 315 |   2.62%
+Dewott     | 306 |   2.55%
+Brionne    | 304 |   2.53%
+Seaking    | 303 |   2.53%
+Octillery  | 283 |   2.36%
+Tatsugiri  | 281 |   2.34%
+Lumineon   | 277 |   2.31%
+Marshtomp  | 272 |   2.27%
+Sealeo     | 272 |   2.27%
+Phione     | 263 |   2.19%
+Azumarill  | 260 |   2.17%
+Corsola    | 258 |   2.15%
+Pelipper   | 255 |   2.12%
+Quagsire   | 236 |   1.97%
+Bruxish    | 226 |   1.88%
+Crawdaunt  | 221 |   1.84%
+Dewgong    | 220 |   1.83%
+Cramorant  | 219 |   1.82%
+Bibarel    | 217 |   1.81%
+Swanna     | 215 |   1.79%
+Whiscash   | 212 |   1.77%
+Gastrodon  | 206 |   1.72%
+Qwilfish   | 194 |   1.62%
+Sharpedo   | 191 |   1.59%
+Jellicent  | 183 |   1.52%
+Lanturn    | 181 |   1.51%
+Ludicolo   | 178 |   1.48%
+Veluza     | 164 |   1.37%
+Araquanid  | 160 |   1.33%
+Palpitoad  |   2 |   0.02%
+Baraskewda |   1 |   0.01%
+Kabutops   |   1 |   0.01%
+Golduck    |   1 |   0.01%
+Gorebyss   |   1 |   0.01%
+Kabuto     |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

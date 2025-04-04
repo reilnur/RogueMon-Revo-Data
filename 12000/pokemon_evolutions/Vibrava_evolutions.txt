@@ -1,0 +1,61 @@
+Evolutions from Vibrava (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Haxorus    | 387 |   3.23%
+Druddigon  | 382 |   3.18%
+Sandyshock | 314 |   2.62%
+Duraludon  | 313 |   2.61%
+Great Tusk | 306 |   2.55%
+Noivern    | 292 |   2.43%
+Exeggutora | 281 |   2.34%
+Mudsdale   | 273 |   2.27%
+Sandaconda | 270 |   2.25%
+Hippowdon  | 267 |   2.23%
+Guzzlord   | 265 |   2.21%
+Ting-Lu    | 259 |   2.16%
+Donphan    | 252 |   2.10%
+Irontreads | 248 |   2.07%
+Altaria    | 244 |   2.03%
+Mamoswine  | 236 |   1.97%
+Tyrantrum  | 236 |   1.97%
+Tatsugiri  | 233 |   1.94%
+Turtonator | 233 |   1.94%
+Dracozolt  | 225 |   1.88%
+Cameruptm  | 223 |   1.86%
+Naganadel  | 221 |   1.84%
+Zygarde10  | 219 |   1.82%
+Kingdra    | 213 |   1.77%
+Hydrapple  | 212 |   1.77%
+Dipplin    | 208 |   1.73%
+Appletun   | 204 |   1.70%
+Dragalge   | 202 |   1.68%
+Steelix    | 202 |   1.68%
+Rhyperior  | 201 |   1.68%
+Stunfisk   | 198 |   1.65%
+Flapple    | 197 |   1.64%
+Excadrill  | 197 |   1.64%
+Stunfiskg  | 197 |   1.64%
+Palossand  | 192 |   1.60%
+Runerigus  | 191 |   1.59%
+Swampert   | 188 |   1.57%
+Rhydon     | 188 |   1.57%
+Krookodile | 184 |   1.53%
+Golurk     | 182 |   1.52%
+Dracovish  | 181 |   1.51%
+Toedscruel | 179 |   1.49%
+Drampa     | 176 |   1.47%
+Gliscor    | 175 |   1.46%
+Nidoking   | 173 |   1.44%
+Cyclizar   | 171 |   1.43%
+Claydol    | 167 |   1.39%
+Ursaluna   | 165 |   1.38%
+Golem      | 159 |   1.32%
+Ursalunab  | 159 |   1.32%
+Whiscash   | 156 |   1.30%
+Torterra   | 156 |   1.30%
+Gastrodon  | 152 |   1.27%
+Seismitoad | 150 |   1.25%
+Nidoqueen  | 146 |   1.22%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

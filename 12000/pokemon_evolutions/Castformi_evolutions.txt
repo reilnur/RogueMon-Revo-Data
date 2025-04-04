@@ -1,0 +1,38 @@
+Evolutions from Castformi (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Vanilluxe  | 600 |   5.00%
+Glalie     | 578 |   4.82%
+Cryogonal  | 533 |   4.44%
+Chien-Pao  | 532 |   4.43%
+Beartic    | 521 |   4.34%
+Glaceon    | 511 |   4.26%
+Avalugg    | 506 |   4.22%
+Cetitan    | 505 |   4.21%
+Eiscuen    | 500 |   4.17%
+Darmanitag | 491 |   4.09%
+Eiscue     | 467 |   3.89%
+Ironbundle | 430 |   3.58%
+Mamoswine  | 398 |   3.32%
+Weavile    | 385 |   3.21%
+Ninetalesa | 381 |   3.17%
+Froslass   | 364 |   3.03%
+Mr. Rime   | 358 |   2.98%
+Avaluggh   | 354 |   2.95%
+Crabminble | 351 |   2.93%
+Darmanitzg | 330 |   2.75%
+Aurorus    | 312 |   2.60%
+Rotomfr    | 307 |   2.56%
+Walrein    | 306 |   2.55%
+Lapras     | 302 |   2.52%
+Frosmoth   | 300 |   2.50%
+Cloyster   | 297 |   2.48%
+Dewgong    | 282 |   2.35%
+Abomasnow  | 280 |   2.33%
+Arctovish  | 263 |   2.19%
+Arctozolt  | 253 |   2.11%
+Glastrier  |   2 |   0.02%
+Glaliem    |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

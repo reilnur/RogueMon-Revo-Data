@@ -1,0 +1,35 @@
+Evolutions from Aron (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Sudowoodo  | 625 |   5.21%
+Klang      | 605 |   5.04%
+Boldore    | 597 |   4.98%
+Perrserker | 590 |   4.92%
+Archen     | 528 |   4.40%
+Klawf      | 515 |   4.29%
+Graveler   | 485 |   4.04%
+Stonjorner | 483 |   4.03%
+Pupitar    | 480 |   4.00%
+Gravelera  | 448 |   3.73%
+Togedemaru | 448 |   3.73%
+Minior     | 443 |   3.69%
+Doublade   | 421 |   3.51%
+Dugtrioa   | 409 |   3.41%
+Magcargo   | 407 |   3.39%
+Sliggooh   | 404 |   3.37%
+Sandslasha | 401 |   3.34%
+Carkol     | 377 |   3.14%
+Magneton   | 373 |   3.11%
+Klefki     | 369 |   3.08%
+Skarmory   | 364 |   3.03%
+Stunfiskg  | 363 |   3.02%
+Lunatone   | 344 |   2.87%
+Corsola    | 324 |   2.70%
+Solrock    | 322 |   2.68%
+Metang     | 321 |   2.67%
+Wormadamt  | 301 |   2.51%
+Forretress | 252 |   2.10%
+Orthworm   |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

@@ -1,0 +1,31 @@
+Evolutions from Floette (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Ironvalian | 674 |   5.62%
+Screamtail | 643 |   5.36%
+Magearna   | 639 |   5.33%
+Enamorus   | 638 |   5.32%
+Tapu Lele  | 619 |   5.16%
+Diancie    | 610 |   5.08%
+Enamorust  | 603 |   5.03%
+Floettee   | 588 |   4.90%
+Fluttrmane | 585 |   4.88%
+Tapu Koko  | 543 |   4.52%
+Tapu Bulu  | 518 |   4.32%
+Sylveon    | 512 |   4.27%
+Togekiss   | 475 |   3.96%
+Altariam   | 458 |   3.82%
+Fezandipti | 420 |   3.50%
+Tapu Fini  | 417 |   3.48%
+Grimmsnarl | 383 |   3.19%
+Tinkaton   | 380 |   3.17%
+Hatterene  | 354 |   2.95%
+Rapidashg  | 344 |   2.87%
+Gardevoir  | 338 |   2.82%
+Primarina  | 331 |   2.76%
+Audinom    | 317 |   2.64%
+Ninetalesa | 311 |   2.59%
+Carbink    | 300 |   2.50%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

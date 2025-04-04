@@ -1,0 +1,41 @@
+Evolutions from Darumakag (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Glalie     | 673 |   5.61%
+Avalugg    | 660 |   5.50%
+Beartic    | 616 |   5.13%
+Cryogonal  | 606 |   5.05%
+Cetitan    | 604 |   5.03%
+Glaceon    | 604 |   5.03%
+Eiscuen    | 596 |   4.97%
+Eiscue     | 572 |   4.77%
+Sandslasha | 476 |   3.97%
+Piloswine  | 470 |   3.92%
+Weavile    | 443 |   3.69%
+Jynx       | 440 |   3.67%
+Mr. Rime   | 436 |   3.63%
+Ninetalesa | 430 |   3.58%
+Crabminble | 423 |   3.52%
+Froslass   | 421 |   3.51%
+Mr. Mimeg  | 402 |   3.35%
+Aurorus    | 382 |   3.18%
+Dewgong    | 380 |   3.17%
+Avaluggh   | 377 |   3.14%
+Arctozolt  | 350 |   2.92%
+Rotomfr    | 343 |   2.86%
+Arctovish  | 324 |   2.70%
+Abomasnow  | 322 |   2.68%
+Frosmoth   | 320 |   2.67%
+Cloyster   | 314 |   2.62%
+Castformi  |   6 |   0.05%
+Mamoswine  |   2 |   0.02%
+Vanillish  |   2 |   0.02%
+Walrein    |   1 |   0.01%
+Sneasel    |   1 |   0.01%
+Lapras     |   1 |   0.01%
+Vanilluxe  |   1 |   0.01%
+Sealeo     |   1 |   0.01%
+Arctibax   |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

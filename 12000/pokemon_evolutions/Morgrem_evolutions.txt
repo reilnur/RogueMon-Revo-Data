@@ -1,0 +1,64 @@
+Evolutions from Morgrem (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Florges    | 371 |   3.09%
+Floettee   | 352 |   2.93%
+Mabosstiff | 302 |   2.52%
+Absol      | 301 |   2.51%
+Umbreon    | 297 |   2.48%
+Sylveon    | 291 |   2.43%
+Alcremie   | 286 |   2.38%
+Clefable   | 285 |   2.38%
+Slurpuff   | 284 |   2.37%
+Aromatisse | 281 |   2.34%
+Togekiss   | 275 |   2.29%
+Fezandipti | 275 |   2.29%
+Dachsbun   | 273 |   2.27%
+Zoroark    | 273 |   2.27%
+Comfey     | 254 |   2.12%
+Urshifu    | 253 |   2.11%
+Kingambit  | 233 |   1.94%
+Gardevoir  | 222 |   1.85%
+Bisharp    | 214 |   1.78%
+Weavile    | 209 |   1.74%
+Sharpedom  | 208 |   1.73%
+Tinkaton   | 204 |   1.70%
+Ninetalesa | 204 |   1.70%
+Spiritomb  | 197 |   1.64%
+Klefki     | 195 |   1.62%
+Mr. Mime   | 191 |   1.59%
+Mandibuzz  | 190 |   1.58%
+Sableyem   | 189 |   1.57%
+Hatterene  | 189 |   1.57%
+Malamar    | 187 |   1.56%
+Scrafty    | 187 |   1.56%
+Meowscrada | 183 |   1.52%
+Mawilem    | 181 |   1.51%
+Bombirdier | 181 |   1.51%
+Incineroar | 179 |   1.49%
+Skuntank   | 174 |   1.45%
+Pangoro    | 172 |   1.43%
+Honchkrow  | 172 |   1.43%
+Rapidashg  | 171 |   1.43%
+Overqwil   | 167 |   1.39%
+Muka       | 167 |   1.39%
+Krookodile | 163 |   1.36%
+Carbink    | 162 |   1.35%
+Samurotth  | 161 |   1.34%
+Cacturne   | 160 |   1.33%
+Houndoom   | 156 |   1.30%
+Drapion    | 156 |   1.30%
+Primarina  | 155 |   1.29%
+Whimsicott | 155 |   1.29%
+Mimikyu    | 155 |   1.29%
+Crawdaunt  | 153 |   1.27%
+Audinom    | 152 |   1.27%
+Weezingg   | 152 |   1.27%
+Shiftry    | 146 |   1.22%
+Ribombee   | 146 |   1.22%
+Greninja   | 142 |   1.18%
+Sharpedo   | 135 |   1.12%
+Obstagoon  | 132 |   1.10%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

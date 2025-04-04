@@ -1,0 +1,38 @@
+Evolutions from Wynaut (out of approximately 12000):
+Pokémon   | Count | Percentage
+--------------------------
+Duosion   | 1514 |  12.62%
+Hattrem   | 1483 |  12.36%
+Gothorita | 1398 |  11.65%
+Kadabra   | 1377 |  11.47%
+Ponytag   | 1360 |  11.33%
+Cosmoem   | 1357 |  11.31%
+Swoobat   | 1103 |   9.19%
+Medicham  | 1078 |   8.98%
+Metang    | 1043 |   8.69%
+Espurr    |  102 |   0.85%
+Chimecho  |   37 |   0.31%
+Mr. Mime  |   27 |   0.22%
+Mr. Mimeg |   22 |   0.18%
+Solrock   |   19 |   0.16%
+Lunatone  |   13 |   0.11%
+Jynx      |   13 |   0.11%
+Girafarig |   11 |   0.09%
+Drowzee   |    9 |   0.07%
+Spoink    |    5 |   0.04%
+Exeggcute |    5 |   0.04%
+Dottler   |    4 |   0.03%
+Grumpig   |    4 |   0.03%
+Unown     |    3 |   0.03%
+Hypno     |    3 |   0.03%
+Elgyem    |    2 |   0.02%
+Raichua   |    2 |   0.02%
+Malamar   |    1 |   0.01%
+Meowstic  |    1 |   0.01%
+Beheeyem  |    1 |   0.01%
+Meowsticf |    1 |   0.01%
+Bruxish   |    1 |   0.01%
+Espathra  |    1 |   0.01%
+--------------------------
+TOTAL     | 12000 | 100.00%
+

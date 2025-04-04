@@ -1,0 +1,57 @@
+Evolutions from Minun (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Electivire | 566 |   4.72%
+Luxray     | 493 |   4.11%
+Manectric  | 490 |   4.08%
+Jolteon    | 456 |   3.80%
+Ampharos   | 446 |   3.72%
+Electrode  | 440 |   3.67%
+Eelektross | 438 |   3.65%
+Bellibolt  | 435 |   3.62%
+Raichu     | 430 |   3.58%
+Zebstrika  | 424 |   3.53%
+Boltund    | 423 |   3.52%
+Electabuzz | 421 |   3.51%
+Magnezone  | 385 |   3.21%
+Dracozolt  | 384 |   3.20%
+Magneton   | 381 |   3.17%
+Oricorioe  | 325 |   2.71%
+Arctozolt  | 321 |   2.67%
+Rotomfr    | 312 |   2.60%
+Pawmot     | 302 |   2.52%
+Raichua    | 300 |   2.50%
+Stunfisk   | 299 |   2.49%
+Rotomfa    | 299 |   2.49%
+Kilowattrl | 288 |   2.40%
+Golema     | 279 |   2.33%
+Lanturn    | 274 |   2.28%
+Rotomh     | 273 |   2.27%
+Galvantula | 264 |   2.20%
+Toxtricity | 261 |   2.17%
+Rotomm     | 259 |   2.16%
+Toxtricitl | 254 |   2.12%
+Rotomw     | 253 |   2.11%
+Vikavolt   | 249 |   2.08%
+Heliolisk  | 249 |   2.08%
+Electrodeh | 226 |   1.88%
+Raikou     |  13 |   0.11%
+Pikachup   |   9 |   0.07%
+Iron Hands |   8 |   0.07%
+Xurkitree  |   8 |   0.07%
+Pincurchin |   7 |   0.06%
+Manectricm |   7 |   0.06%
+Thundurus  |   6 |   0.05%
+Ironthorns |   6 |   0.05%
+Tapu Koko  |   6 |   0.05%
+Regieleki  |   6 |   0.05%
+Thundurust |   5 |   0.04%
+Rotom      |   5 |   0.04%
+Morpekoh   |   4 |   0.03%
+Sandyshock |   4 |   0.03%
+Zapdos     |   4 |   0.03%
+Togedemaru |   2 |   0.02%
+Dedenne    |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

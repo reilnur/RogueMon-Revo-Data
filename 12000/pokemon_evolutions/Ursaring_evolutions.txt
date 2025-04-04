@@ -1,0 +1,55 @@
+Evolutions from Ursaring (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Terapagost | 874 |   7.28%
+Meloettap  | 846 |   7.05%
+Meloetta   | 821 |   6.84%
+Kangaskham | 751 |   6.26%
+Lopunnym   | 602 |   5.02%
+Silvally   | 580 |   4.83%
+Pidgeotm   | 575 |   4.79%
+Snorlax    | 509 |   4.24%
+Type: Null | 479 |   3.99%
+Blissey    | 446 |   3.72%
+Porygon-Z  | 434 |   3.62%
+Dudunsprce | 407 |   3.39%
+Audinom    | 404 |   3.37%
+Porygon2   | 400 |   3.33%
+Ursalunab  | 370 |   3.08%
+Cyclizar   | 367 |   3.06%
+Lickilicky | 364 |   3.03%
+Stoutland  | 357 |   2.97%
+Braviary   | 333 |   2.77%
+Wyrdeer    | 330 |   2.75%
+Obstagoon  | 297 |   2.48%
+Farigiraf  | 295 |   2.46%
+Bewear     | 292 |   2.43%
+Arboliva   | 278 |   2.32%
+Zoroarkh   | 274 |   2.28%
+Pyroar     | 271 |   2.26%
+Oinkologne |   3 |   0.03%
+Dubwool    |   3 |   0.03%
+Komala     |   3 |   0.03%
+Maushold   |   3 |   0.03%
+Furfrou    |   3 |   0.03%
+Pidgeot    |   3 |   0.03%
+Ambipom    |   3 |   0.03%
+Lopunny    |   2 |   0.02%
+Oranguru   |   2 |   0.02%
+Unfezant   |   2 |   0.02%
+Drampa     |   2 |   0.02%
+Oinkolognf |   2 |   0.02%
+Bouffalant |   2 |   0.02%
+Miltank    |   2 |   0.02%
+Greedent   |   1 |   0.01%
+Zangoose   |   1 |   0.01%
+Staraptor  |   1 |   0.01%
+Dodrio     |   1 |   0.01%
+Toucannon  |   1 |   0.01%
+Sawsbuck   |   1 |   0.01%
+Audino     |   1 |   0.01%
+Chansey    |   1 |   0.01%
+Fearow     |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

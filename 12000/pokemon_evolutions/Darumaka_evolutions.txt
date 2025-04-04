@@ -1,0 +1,53 @@
+Evolutions from Darumaka (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Torkoal    | 829 |   6.91%
+Magmar     | 731 |   6.09%
+Flareon    | 695 |   5.79%
+Simisear   | 666 |   5.55%
+Heatmor    | 664 |   5.53%
+Ninetales  | 631 |   5.26%
+Rapidash   | 599 |   4.99%
+Turtonator | 591 |   4.92%
+Emboar     | 516 |   4.30%
+Oricorio   | 514 |   4.28%
+Camerupt   | 483 |   4.03%
+Taurospf   | 465 |   3.88%
+Armarouge  | 457 |   3.81%
+Chandelure | 456 |   3.80%
+Ceruledge  | 429 |   3.57%
+Salazzle   | 428 |   3.57%
+Coalossal  | 425 |   3.54%
+Houndoom   | 422 |   3.52%
+Talonflame | 420 |   3.50%
+Centskorch | 396 |   3.30%
+Rotomh     | 389 |   3.24%
+Scovillain | 367 |   3.06%
+Pyroar     | 325 |   2.71%
+Castformf  |  12 |   0.10%
+Cinderace  |   8 |   0.07%
+Typhlosion |   7 |   0.06%
+Braixen    |   7 |   0.06%
+Marowaka   |   7 |   0.06%
+Magmortar  |   7 |   0.06%
+Crocalor   |   6 |   0.05%
+Torracat   |   5 |   0.04%
+Raboot     |   5 |   0.04%
+Magcargo   |   4 |   0.03%
+Blaziken   |   4 |   0.03%
+Ogerponf   |   3 |   0.03%
+Infernape  |   3 |   0.03%
+Carkol     |   3 |   0.03%
+Incineroar |   3 |   0.03%
+Delphox    |   3 |   0.03%
+Volcarona  |   3 |   0.03%
+Typhlosioh |   3 |   0.03%
+Darmanitzg |   2 |   0.02%
+Skeledirge |   2 |   0.02%
+Ponyta     |   2 |   0.02%
+Pignite    |   1 |   0.01%
+Charizard  |   1 |   0.01%
+Darmanitaz |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

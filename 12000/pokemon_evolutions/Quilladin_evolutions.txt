@@ -1,0 +1,65 @@
+Evolutions from Quilladin (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Virizion   | 401 |   3.34%
+Tapu Bulu  | 359 |   2.99%
+Ogerpon    | 337 |   2.81%
+Rillaboom  | 315 |   2.62%
+Brutebonet | 306 |   2.55%
+Wo-Chien   | 293 |   2.44%
+Kartana    | 281 |   2.34%
+Tangrowth  | 277 |   2.31%
+Gogoat     | 276 |   2.30%
+Meganium   | 273 |   2.27%
+Exeggutora | 268 |   2.23%
+Lilligant  | 267 |   2.23%
+Sceptile   | 262 |   2.18%
+Serperior  | 253 |   2.11%
+Simisage   | 249 |   2.08%
+Leafeon    | 247 |   2.06%
+Tsareena   | 246 |   2.05%
+Hydrapple  | 233 |   1.94%
+Bellossom  | 231 |   1.93%
+Flapple    | 225 |   1.88%
+Cherrims   | 224 |   1.87%
+Ogerponr   | 224 |   1.87%
+Lurantis   | 220 |   1.83%
+Decidueye  | 217 |   1.81%
+Appletun   | 216 |   1.80%
+Ogerponf   | 205 |   1.71%
+Dhelmise   | 196 |   1.63%
+Meowscrada | 196 |   1.63%
+Decidueyeh | 194 |   1.62%
+Exeggutor  | 194 |   1.62%
+Ogerponw   | 192 |   1.60%
+Dipplin    | 181 |   1.51%
+Sinistcha  | 181 |   1.51%
+Gourgeistx | 180 |   1.50%
+Gourgeistl | 177 |   1.47%
+Torterra   | 176 |   1.47%
+Gourgeists | 173 |   1.44%
+Shiftry    | 173 |   1.44%
+Ferrothorn | 172 |   1.43%
+Whimsicott | 172 |   1.43%
+Gourgeist  | 169 |   1.41%
+Toedscruel | 168 |   1.40%
+Bramblgast | 167 |   1.39%
+Victreebel | 164 |   1.37%
+Scovillain | 164 |   1.37%
+Rotomm     | 159 |   1.32%
+Abomasnow  | 159 |   1.32%
+Venusaur   | 157 |   1.31%
+Lilliganth | 156 |   1.30%
+Electrodeh | 153 |   1.27%
+Calyrex    | 150 |   1.25%
+Cradily    | 148 |   1.23%
+Arboliva   | 135 |   1.12%
+Roserade   | 132 |   1.10%
+Vileplume  | 126 |   1.05%
+Leavanny   | 123 |   1.03%
+Ludicolo   | 106 |   0.88%
+Celebi     |   1 |   0.01%
+Shaymin    |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

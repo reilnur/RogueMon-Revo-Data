@@ -1,0 +1,29 @@
+Evolutions from Sliggoo (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Dragonite  | 607 |   5.06%
+Garchomp   | 606 |   5.05%
+Salamence  | 591 |   4.92%
+Gouginfire | 580 |   4.83%
+Baxcalibur | 573 |   4.78%
+Goodrah    | 572 |   4.77%
+Latias     | 562 |   4.68%
+Hydreigon  | 555 |   4.62%
+Roarinmoon | 554 |   4.62%
+Dragapult  | 538 |   4.48%
+Regidrago  | 538 |   4.48%
+Haxorus    | 538 |   4.48%
+Archaludon | 533 |   4.44%
+Kommo-O    | 530 |   4.42%
+Zygarde    | 520 |   4.33%
+Altariam   | 513 |   4.28%
+Ragingbolt | 512 |   4.27%
+Walkinwake | 509 |   4.24%
+Latios     | 487 |   4.06%
+Guzzlord   | 484 |   4.03%
+Naganadel  | 391 |   3.26%
+Hydrapple  | 380 |   3.17%
+Kingdra    | 327 |   2.73%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

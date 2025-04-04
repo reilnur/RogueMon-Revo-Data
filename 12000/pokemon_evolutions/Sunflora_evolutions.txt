@@ -1,0 +1,66 @@
+Evolutions from Sunflora (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Brutebonet | 334 |   2.78%
+Wo-Chien   | 315 |   2.62%
+Tangrowth  | 314 |   2.62%
+Ogerpon    | 307 |   2.56%
+Sceptile   | 302 |   2.52%
+Tapu Bulu  | 295 |   2.46%
+Gogoat     | 287 |   2.39%
+Kartana    | 273 |   2.27%
+Leafeon    | 263 |   2.19%
+Rillaboom  | 260 |   2.17%
+Cherrims   | 257 |   2.14%
+Serperior  | 244 |   2.03%
+Hydrapple  | 242 |   2.02%
+Lurantis   | 237 |   1.98%
+Meganium   | 234 |   1.95%
+Lilligant  | 233 |   1.94%
+Exeggutora | 232 |   1.93%
+Flapple    | 223 |   1.86%
+Tsareena   | 221 |   1.84%
+Chesnaught | 220 |   1.83%
+Bellossom  | 217 |   1.81%
+Ogerponr   | 215 |   1.79%
+Decidueyeh | 207 |   1.73%
+Ogerponw   | 202 |   1.68%
+Decidueye  | 200 |   1.67%
+Simisage   | 199 |   1.66%
+Ogerponf   | 196 |   1.63%
+Exeggutor  | 196 |   1.63%
+Trevenant  | 196 |   1.63%
+Appletun   | 194 |   1.62%
+Dipplin    | 193 |   1.61%
+Ferrothorn | 193 |   1.61%
+Sinistcha  | 189 |   1.57%
+Bramblgast | 182 |   1.52%
+Abomasnow  | 181 |   1.51%
+Dhelmise   | 178 |   1.48%
+Cacturne   | 178 |   1.48%
+Torterra   | 176 |   1.47%
+Lilliganth | 175 |   1.46%
+Meowscrada | 171 |   1.43%
+Venusaur   | 167 |   1.39%
+Sawsbuck   | 167 |   1.39%
+Whimsicott | 162 |   1.35%
+Gourgeistl | 160 |   1.33%
+Gourgeistx | 160 |   1.33%
+Shiftry    | 160 |   1.33%
+Gourgeists | 154 |   1.28%
+Roserade   | 151 |   1.26%
+Electrodeh | 148 |   1.23%
+Gourgeist  | 147 |   1.23%
+Cradily    | 147 |   1.23%
+Scovillain | 142 |   1.18%
+Victreebel | 141 |   1.18%
+Calyrex    | 140 |   1.17%
+Leavanny   | 138 |   1.15%
+Rotomm     | 136 |   1.13%
+Toedscruel | 127 |   1.06%
+Vileplume  | 121 |   1.01%
+Ludicolo   | 102 |   0.85%
+Arboliva   |  99 |   0.83%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

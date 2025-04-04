@@ -1,0 +1,67 @@
+Evolutions from Munchlax (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Kangaskham | 664 |   5.53%
+Lopunnym   | 575 |   4.79%
+Pidgeotm   | 544 |   4.53%
+Silvally   | 522 |   4.35%
+Blissey    | 411 |   3.43%
+Type: Null | 402 |   3.35%
+Ursaring   | 384 |   3.20%
+Porygon2   | 375 |   3.12%
+Bouffalant | 374 |   3.12%
+Porygon-Z  | 369 |   3.08%
+Miltank    | 362 |   3.02%
+Dudunsprce | 360 |   3.00%
+Dubwool    | 359 |   2.99%
+Exploud    | 357 |   2.97%
+Oinkologne | 355 |   2.96%
+Oinkolognf | 353 |   2.94%
+Tauros     | 352 |   2.93%
+Audinom    | 345 |   2.88%
+Stoutland  | 336 |   2.80%
+Kangaskhan | 325 |   2.71%
+Ursalunab  | 307 |   2.56%
+Lickilicky | 304 |   2.53%
+Ursaluna   | 278 |   2.32%
+Braviary   | 274 |   2.28%
+Cyclizar   | 273 |   2.27%
+Zoroarkh   | 266 |   2.22%
+Wyrdeer    | 265 |   2.21%
+Obstagoon  | 264 |   2.20%
+Farigiraf  | 256 |   2.13%
+Oranguru   | 251 |   2.09%
+Unfezant   | 247 |   2.06%
+Pyroar     | 224 |   1.87%
+Arboliva   | 217 |   1.81%
+Bewear     | 207 |   1.73%
+Terapagost |  52 |   0.43%
+Meloetta   |  43 |   0.36%
+Meloettap  |  40 |   0.33%
+Greedent   |  15 |   0.12%
+Stantler   |  10 |   0.08%
+Lopunny    |  10 |   0.08%
+Komala     |   9 |   0.07%
+Sawsbuck   |   7 |   0.06%
+Drampa     |   7 |   0.06%
+Maushold   |   7 |   0.06%
+Heliolisk  |   5 |   0.04%
+Ambipom    |   5 |   0.04%
+Chansey    |   4 |   0.03%
+Dodrio     |   4 |   0.03%
+Cinccino   |   4 |   0.03%
+Pidgeot    |   4 |   0.03%
+Kecleon    |   2 |   0.02%
+Grafaiai   |   2 |   0.02%
+Indeedee   |   2 |   0.02%
+Persian    |   2 |   0.02%
+Toucannon  |   2 |   0.02%
+Furfrou    |   2 |   0.02%
+Indeedeef  |   1 |   0.01%
+Purugly    |   1 |   0.01%
+Staraptor  |   1 |   0.01%
+Noctowl    |   1 |   0.01%
+Zangoose   |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

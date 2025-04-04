@@ -1,0 +1,24 @@
+Evolutions from Lillipup (out of approximately 12000):
+Pokémon      | Count | Percentage
+----------------------------
+Loudred      | 738 |   6.15%
+Stufful      | 732 |   6.10%
+Staravia     | 726 |   6.05%
+Pidgeotto    | 723 |   6.02%
+Deerling     | 721 |   6.01%
+Aipom        | 720 |   6.00%
+Buneary      | 706 |   5.88%
+Spinda       | 703 |   5.86%
+Rufflet      | 703 |   5.86%
+Tranquill    | 683 |   5.69%
+Delcatty     | 658 |   5.48%
+Porygon      | 647 |   5.39%
+Munchlax     | 630 |   5.25%
+Trumbeak     | 628 |   5.23%
+Dolliv       | 623 |   5.19%
+Lickitung    | 583 |   4.86%
+Farfetchâ€™d | 576 |   4.80%
+Litleo       | 500 |   4.17%
+----------------------------
+TOTAL        | 12000 | 100.00%
+

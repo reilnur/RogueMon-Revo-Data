@@ -1,0 +1,27 @@
+Evolutions from Pupitar (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Landorust  | 759 |   6.33%
+Landorus   | 740 |   6.17%
+Regirock   | 725 |   6.04%
+Ironbouldr | 722 |   6.02%
+Diancie    | 718 |   5.98%
+Terrakion  | 655 |   5.46%
+Zygarde    | 638 |   5.32%
+Garchomp   | 630 |   5.25%
+Nihilego   | 606 |   5.05%
+Archeops   | 568 |   4.73%
+Ironthorns | 564 |   4.70%
+Stakataka  | 559 |   4.66%
+Ting-Lu    | 545 |   4.54%
+Great Tusk | 522 |   4.35%
+Irontreads | 502 |   4.18%
+Sandyshock | 502 |   4.18%
+Ogerponr   | 477 |   3.98%
+Arcanineh  | 460 |   3.83%
+Cameruptm  | 442 |   3.68%
+Ursalunab  | 350 |   2.92%
+Ursaluna   | 316 |   2.63%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

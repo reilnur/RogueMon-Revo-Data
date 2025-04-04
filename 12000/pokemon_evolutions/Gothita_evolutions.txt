@@ -1,0 +1,19 @@
+Evolutions from Gothita (out of approximately 12000):
+Pokémon   | Count | Percentage
+--------------------------
+Espurr    | 1604 |  13.37%
+Hattrem   | 1311 |  10.93%
+Duosion   | 1310 |  10.92%
+Ponytag   | 1282 |  10.68%
+Cosmoem   | 1206 |  10.05%
+Wobbuffet | 1178 |   9.82%
+Kadabra   | 1126 |   9.38%
+Swoobat   | 1010 |   8.42%
+Medicham  |  957 |   7.98%
+Metang    |  892 |   7.43%
+Elgyem    |   46 |   0.38%
+Dottler   |   40 |   0.33%
+Unown     |   38 |   0.32%
+--------------------------
+TOTAL     | 12000 | 100.00%
+

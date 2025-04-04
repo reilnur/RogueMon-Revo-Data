@@ -1,0 +1,18 @@
+Evolutions from Wishiwashi (out of approximately 12000):
+Pokémon  | Count | Percentage
+-------------------------
+Remoraid | 1058 |   8.82%
+Chewtle  | 1053 |   8.77%
+Spheal   | 1039 |   8.66%
+Poliwag  | 1037 |   8.64%
+Horsea   | 1015 |   8.46%
+Surskit  | 1000 |   8.33%
+Arrokuda |  986 |   8.22%
+Wingull  |  978 |   8.15%
+Marill   |  964 |   8.03%
+Tympole  |  958 |   7.98%
+Barboach |  957 |   7.98%
+Dewpider |  955 |   7.96%
+-------------------------
+TOTAL    | 12000 | 100.00%
+

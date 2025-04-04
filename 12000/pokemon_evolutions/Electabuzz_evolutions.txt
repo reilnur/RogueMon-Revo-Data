@@ -1,0 +1,41 @@
+Evolutions from Electabuzz (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Raikou     | 583 |   4.86%
+Manectricm | 551 |   4.59%
+Regieleki  | 533 |   4.44%
+Xurkitree  | 520 |   4.33%
+Thundurus  | 509 |   4.24%
+Thundurust | 497 |   4.14%
+Zapdos     | 488 |   4.07%
+Tapu Koko  | 473 |   3.94%
+Ragingbolt | 469 |   3.91%
+Iron Hands | 444 |   3.70%
+Ironthorns | 423 |   3.52%
+Sandyshock | 374 |   3.12%
+Jolteon    | 358 |   2.98%
+Boltund    | 355 |   2.96%
+Bellibolt  | 354 |   2.95%
+Zebstrika  | 351 |   2.93%
+Ampharos   | 346 |   2.88%
+Electrode  | 330 |   2.75%
+Luxray     | 328 |   2.73%
+Eelektross | 321 |   2.67%
+Dracozolt  | 314 |   2.62%
+Magnezone  | 271 |   2.26%
+Rotomh     | 241 |   2.01%
+Arctozolt  | 240 |   2.00%
+Rotomfa    | 240 |   2.00%
+Golema     | 230 |   1.92%
+Electrodeh | 225 |   1.88%
+Rotomfr    | 223 |   1.86%
+Pawmot     | 218 |   1.82%
+Kilowattrl | 214 |   1.78%
+Toxtricitl | 213 |   1.77%
+Rotomm     | 210 |   1.75%
+Toxtricity | 203 |   1.69%
+Rotomw     | 178 |   1.48%
+Vikavolt   | 173 |   1.44%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

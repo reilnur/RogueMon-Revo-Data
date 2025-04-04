@@ -1,0 +1,25 @@
+Evolutions from Smeargle (out of approximately 12000):
+Pokémon      | Count | Percentage
+----------------------------
+Zoruah       | 717 |   5.97%
+Staravia     | 699 |   5.83%
+Eevee        | 696 |   5.80%
+Herdier      | 672 |   5.60%
+Deerling     | 672 |   5.60%
+Buneary      | 664 |   5.53%
+Loudred      | 663 |   5.53%
+Pidgeotto    | 657 |   5.47%
+Stufful      | 648 |   5.40%
+Rufflet      | 641 |   5.34%
+Aipom        | 634 |   5.28%
+Teddiursa    | 629 |   5.24%
+Spinda       | 624 |   5.20%
+Trumbeak     | 612 |   5.10%
+Tranquill    | 609 |   5.08%
+Dolliv       | 582 |   4.85%
+Lickitung    | 547 |   4.56%
+Farfetchâ€™d | 527 |   4.39%
+Litleo       | 507 |   4.23%
+----------------------------
+TOTAL        | 12000 | 100.00%
+

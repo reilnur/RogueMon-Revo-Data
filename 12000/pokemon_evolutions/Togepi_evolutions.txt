@@ -1,0 +1,28 @@
+Evolutions from Togepi (out of approximately 12000):
+Pokémon    | Count | Percentage
+---------------------------
+Floette    | 1948 |  16.23%
+Morgrem    | 1801 |  15.01%
+Tinkatuff  | 1637 |  13.64%
+Dedenne    | 1571 |  13.09%
+Mawile     | 1527 |  12.72%
+Azumarill  | 1124 |   9.37%
+Wigglytuff |  999 |   8.33%
+Shiinotic  |  988 |   8.23%
+Granbull   |  127 |   1.06%
+Aromatisse |  106 |   0.88%
+Mr. Mime   |   34 |   0.28%
+Spritzee   |   31 |   0.26%
+Swirlix    |   20 |   0.17%
+Ribombee   |   18 |   0.15%
+Slurpuff   |   18 |   0.15%
+Comfey     |   11 |   0.09%
+Dachsbun   |   11 |   0.09%
+Clefable   |   10 |   0.08%
+Mawilem    |    6 |   0.05%
+Mimikyu    |    5 |   0.04%
+Whimsicott |    4 |   0.03%
+Klefki     |    4 |   0.03%
+---------------------------
+TOTAL      | 12000 | 100.00%
+

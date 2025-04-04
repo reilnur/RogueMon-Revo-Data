@@ -1,0 +1,65 @@
+Evolutions from Piloswine (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Glaliem    | 396 |   3.30%
+Regice     | 384 |   3.20%
+Glastrier  | 356 |   2.97%
+Vanilluxe  | 334 |   2.78%
+Articuno   | 321 |   2.67%
+Darmanitag | 280 |   2.33%
+Glalie     | 278 |   2.32%
+Chien-Pao  | 277 |   2.31%
+Great Tusk | 276 |   2.30%
+Glaceon    | 260 |   2.17%
+Avalugg    | 258 |   2.15%
+Sandyshock | 253 |   2.11%
+Beartic    | 250 |   2.08%
+Cetitan    | 250 |   2.08%
+Cryogonal  | 244 |   2.03%
+Ting-Lu    | 241 |   2.01%
+Mudsdale   | 235 |   1.96%
+Hippowdon  | 235 |   1.96%
+Donphan    | 228 |   1.90%
+Ironbundle | 226 |   1.88%
+Sandaconda | 222 |   1.85%
+Irontreads | 219 |   1.82%
+Flygon     | 209 |   1.74%
+Steelix    | 207 |   1.73%
+Zygarde10  | 207 |   1.73%
+Mr. Rime   | 200 |   1.67%
+Cameruptm  | 196 |   1.63%
+Ninetalesa | 193 |   1.61%
+Froslass   | 192 |   1.60%
+Rhyperior  | 188 |   1.57%
+Weavile    | 180 |   1.50%
+Rotomfr    | 171 |   1.43%
+Toedscruel | 168 |   1.40%
+Crabminble | 168 |   1.40%
+Excadrill  | 167 |   1.39%
+Darmanitzg | 167 |   1.39%
+Walrein    | 166 |   1.38%
+Nidoking   | 164 |   1.37%
+Aurorus    | 162 |   1.35%
+Rhydon     | 160 |   1.33%
+Gliscor    | 160 |   1.33%
+Lapras     | 158 |   1.32%
+Abomasnow  | 154 |   1.28%
+Claydol    | 153 |   1.27%
+Palossand  | 152 |   1.27%
+Krookodile | 151 |   1.26%
+Golurk     | 151 |   1.26%
+Runerigus  | 150 |   1.25%
+Torterra   | 147 |   1.23%
+Avaluggh   | 146 |   1.22%
+Golem      | 141 |   1.18%
+Swampert   | 139 |   1.16%
+Ursalunab  | 136 |   1.13%
+Ursaluna   | 135 |   1.12%
+Nidoqueen  | 131 |   1.09%
+Seismitoad | 131 |   1.09%
+Cloyster   | 128 |   1.07%
+Arctovish  | 126 |   1.05%
+Arctozolt  | 123 |   1.03%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

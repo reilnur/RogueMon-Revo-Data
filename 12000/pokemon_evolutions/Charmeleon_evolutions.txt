@@ -1,0 +1,49 @@
+Evolutions from Charmeleon (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Entei      | 444 |   3.70%
+Blacphalon | 407 |   3.39%
+Moltres    | 407 |   3.39%
+Arcanine   | 400 |   3.33%
+Typhlosion | 377 |   3.14%
+Magmortar  | 373 |   3.11%
+Chi-Yu     | 369 |   3.08%
+Magmar     | 352 |   2.93%
+Simisear   | 350 |   2.92%
+Heatmor    | 343 |   2.86%
+Ninetales  | 343 |   2.86%
+Cinderace  | 339 |   2.83%
+Flareon    | 335 |   2.79%
+Arcanineh  | 333 |   2.77%
+Iron Moth  | 331 |   2.76%
+Rapidash   | 320 |   2.67%
+Turtonator | 316 |   2.63%
+Darmanitaz | 307 |   2.56%
+Cameruptm  | 298 |   2.48%
+Infernape  | 295 |   2.46%
+Blaziken   | 288 |   2.40%
+Darmanitzg | 287 |   2.39%
+Typhlosioh | 285 |   2.38%
+Ogerponf   | 280 |   2.33%
+Incineroar | 280 |   2.33%
+Volcarona  | 278 |   2.32%
+Skeledirge | 275 |   2.29%
+Delphox    | 261 |   2.17%
+Ceruledge  | 257 |   2.14%
+Armarouge  | 255 |   2.12%
+Chandelure | 251 |   2.09%
+Houndoom   | 250 |   2.08%
+Taurospf   | 250 |   2.08%
+Emboar     | 249 |   2.08%
+Coalossal  | 234 |   1.95%
+Talonflame | 227 |   1.89%
+Scovillain | 211 |   1.76%
+Centskorch | 207 |   1.73%
+Rotomh     | 191 |   1.59%
+Pyroar     | 142 |   1.18%
+Volcanion  |   1 |   0.01%
+Darmanitan |   1 |   0.01%
+Victini    |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

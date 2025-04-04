@@ -1,0 +1,42 @@
+Evolutions from Froakie (out of approximately 12000):
+Pokémon   | Count | Percentage
+-------------------------
+Poliwhirl | 723 |   6.02%
+Dewott    | 642 |   5.35%
+Croconaw  | 635 |   5.29%
+Wartortle | 627 |   5.22%
+Wugtrio   | 605 |   5.04%
+Wailmer   | 603 |   5.03%
+Prinplup  | 602 |   5.02%
+Quaxwell  | 598 |   4.98%
+Pyukumuku | 598 |   4.98%
+Brionne   | 585 |   4.88%
+Drizzile  | 581 |   4.84%
+Palpitoad | 550 |   4.58%
+Castformw | 524 |   4.37%
+Corsola   | 491 |   4.09%
+Marshtomp | 486 |   4.05%
+Seadra    | 474 |   3.95%
+Azumarill | 469 |   3.91%
+Sealeo    | 457 |   3.81%
+Qwilfish  | 435 |   3.62%
+Pelipper  | 435 |   3.62%
+Quagsire  | 423 |   3.52%
+Bibarel   | 413 |   3.44%
+Mantyke   |   8 |   0.07%
+Kabuto    |   8 |   0.07%
+Omanyte   |   6 |   0.05%
+Seaking   |   4 |   0.03%
+Clamperl  |   3 |   0.03%
+Lumineon  |   3 |   0.03%
+Palafin   |   2 |   0.02%
+Tirtouga  |   2 |   0.02%
+Sharpedo  |   2 |   0.02%
+Basculin  |   2 |   0.02%
+Basculinb |   1 |   0.01%
+Araquanid |   1 |   0.01%
+Basculinw |   1 |   0.01%
+Lanturn   |   1 |   0.01%
+-------------------------
+TOTAL     | 12000 | 100.00%
+

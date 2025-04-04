@@ -1,0 +1,34 @@
+Evolutions from Gimmighoul (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Spectrier  | 669 |   5.58%
+Gengarm    | 639 |   5.33%
+Hoopa      | 633 |   5.27%
+Banettem   | 614 |   5.12%
+Pecharunt  | 591 |   4.92%
+Marshadow  | 589 |   4.91%
+Dragapult  | 571 |   4.76%
+Fluttrmane | 546 |   4.55%
+Dusknoir   | 524 |   4.37%
+Poltegeist | 491 |   4.09%
+Cursola    | 476 |   3.97%
+Blacphalon | 467 |   3.89%
+Mismagius  | 427 |   3.56%
+Annihilape | 419 |   3.49%
+Aegislashb | 359 |   2.99%
+Aegislash  | 356 |   2.97%
+Typhlosioh | 350 |   2.92%
+Skeledirge | 331 |   2.76%
+Ceruledge  | 329 |   2.74%
+Decidueye  | 327 |   2.73%
+Chandelure | 311 |   2.59%
+Dhelmise   | 309 |   2.57%
+Sinistcha  | 304 |   2.53%
+Drifblim   | 296 |   2.47%
+Basclegiof | 287 |   2.39%
+Basclegion | 278 |   2.32%
+Gengar     | 268 |   2.23%
+Zoroarkh   | 239 |   1.99%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

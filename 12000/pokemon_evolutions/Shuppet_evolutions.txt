@@ -1,0 +1,39 @@
+Evolutions from Shuppet (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Corsolag   | 731 |   6.09%
+Misdreavus | 685 |   5.71%
+Dusclops   | 644 |   5.37%
+Cofagrigus | 563 |   4.69%
+Mismagius  | 545 |   4.54%
+Houndstone | 526 |   4.38%
+Rotom      | 478 |   3.98%
+Doublade   | 464 |   3.87%
+Aegislash  | 427 |   3.56%
+Drakloak   | 416 |   3.47%
+Aegislashb | 408 |   3.40%
+Mimikyu    | 401 |   3.34%
+Marowaka   | 398 |   3.32%
+Sableyem   | 374 |   3.12%
+Spiritomb  | 373 |   3.11%
+Froslass   | 366 |   3.05%
+Trevenant  | 365 |   3.04%
+Oricoriog  | 353 |   2.94%
+Runerigus  | 337 |   2.81%
+Drifblim   | 337 |   2.81%
+Gourgeists | 330 |   2.75%
+Bramblgast | 327 |   2.73%
+Palossand  | 327 |   2.73%
+Gourgeist  | 326 |   2.72%
+Golurk     | 319 |   2.66%
+Gourgeistx | 305 |   2.54%
+Gengar     | 302 |   2.52%
+Gourgeistl | 297 |   2.48%
+Jellicent  | 270 |   2.25%
+Haunter    |   2 |   0.02%
+Dusknoir   |   2 |   0.02%
+Cursola    |   1 |   0.01%
+Poltegeist |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

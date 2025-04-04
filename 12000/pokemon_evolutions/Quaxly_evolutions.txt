@@ -1,0 +1,39 @@
+Evolutions from Quaxly (out of approximately 12000):
+Pokémon   | Count | Percentage
+-------------------------
+Poliwhirl | 702 |   5.85%
+Croconaw  | 631 |   5.26%
+Frogadier | 629 |   5.24%
+Dewott    | 616 |   5.13%
+Wugtrio   | 603 |   5.03%
+Pyukumuku | 596 |   4.97%
+Wartortle | 585 |   4.88%
+Drizzile  | 581 |   4.84%
+Prinplup  | 578 |   4.82%
+Wailmer   | 576 |   4.80%
+Brionne   | 541 |   4.51%
+Castformw | 532 |   4.43%
+Palpitoad | 525 |   4.38%
+Seadra    | 489 |   4.08%
+Seaking   | 487 |   4.06%
+Marshtomp | 459 |   3.82%
+Corsola   | 457 |   3.81%
+Azumarill | 450 |   3.75%
+Sealeo    | 424 |   3.53%
+Pelipper  | 402 |   3.35%
+Bibarel   | 395 |   3.29%
+Quagsire  | 384 |   3.20%
+Qwilfish  | 331 |   2.76%
+Kabuto    |   8 |   0.07%
+Omanyte   |   4 |   0.03%
+Lumineon  |   3 |   0.03%
+Palafin   |   3 |   0.03%
+Alomomola |   2 |   0.02%
+Basculinb |   2 |   0.02%
+Basculin  |   2 |   0.02%
+Sharpedo  |   1 |   0.01%
+Crawdaunt |   1 |   0.01%
+Tirtouga  |   1 |   0.01%
+-------------------------
+TOTAL     | 12000 | 100.00%
+

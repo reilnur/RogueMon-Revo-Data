@@ -1,0 +1,47 @@
+Evolutions from Hakamo-O (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Ironvalian | 347 |   2.89%
+Heracrossm | 346 |   2.88%
+Marshadow  | 344 |   2.87%
+Dragonite  | 342 |   2.85%
+Baxcalibur | 337 |   2.81%
+Goodrah    | 335 |   2.79%
+Meloettap  | 335 |   2.79%
+Dragapult  | 328 |   2.73%
+Hydreigon  | 324 |   2.70%
+Virizion   | 324 |   2.70%
+Zapdosg    | 322 |   2.68%
+Salamence  | 322 |   2.68%
+Gouginfire | 320 |   2.67%
+Archaludon | 316 |   2.63%
+Regidrago  | 314 |   2.62%
+Goodra     | 314 |   2.62%
+Terrakion  | 312 |   2.60%
+Ragingbolt | 308 |   2.57%
+Haxorus    | 305 |   2.54%
+Cobalion   | 304 |   2.53%
+Keldeo     | 304 |   2.53%
+Iron Hands | 302 |   2.52%
+Garchomp   | 299 |   2.49%
+Zygarde    | 297 |   2.48%
+Roarinmoon | 283 |   2.36%
+Slithrwing | 283 |   2.36%
+Altariam   | 280 |   2.33%
+Great Tusk | 276 |   2.30%
+Latias     | 276 |   2.30%
+Latios     | 271 |   2.26%
+Walkinwake | 270 |   2.25%
+Guzzlord   | 268 |   2.23%
+Buzzwole   | 266 |   2.22%
+Okidogi    | 260 |   2.17%
+Lopunnym   | 258 |   2.15%
+Pheromosa  | 255 |   2.12%
+Naganadel  | 239 |   1.99%
+Urshifu    | 234 |   1.95%
+Urshifur   | 215 |   1.79%
+Hydrapple  | 201 |   1.68%
+Kingdra    | 164 |   1.37%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

@@ -1,0 +1,44 @@
+Evolutions from Magmar (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Entei      | 510 |   4.25%
+Arcanine   | 449 |   3.74%
+Gouginfire | 442 |   3.68%
+Moltres    | 433 |   3.61%
+Ninetales  | 401 |   3.34%
+Blacphalon | 400 |   3.33%
+Cinderace  | 396 |   3.30%
+Typhlosion | 394 |   3.28%
+Simisear   | 391 |   3.26%
+Chi-Yu     | 381 |   3.17%
+Flareon    | 376 |   3.13%
+Rapidash   | 366 |   3.05%
+Iron Moth  | 336 |   2.80%
+Typhlosioh | 330 |   2.75%
+Skeledirge | 323 |   2.69%
+Darmanitaz | 314 |   2.62%
+Ogerponf   | 308 |   2.57%
+Blaziken   | 306 |   2.55%
+Infernape  | 300 |   2.50%
+Arcanineh  | 298 |   2.48%
+Cameruptm  | 298 |   2.48%
+Incineroar | 294 |   2.45%
+Delphox    | 287 |   2.39%
+Armarouge  | 285 |   2.38%
+Volcarona  | 282 |   2.35%
+Charizard  | 277 |   2.31%
+Ceruledge  | 274 |   2.28%
+Coalossal  | 262 |   2.18%
+Emboar     | 261 |   2.17%
+Houndoom   | 251 |   2.09%
+Taurospf   | 247 |   2.06%
+Darmanitzg | 243 |   2.02%
+Chandelure | 241 |   2.01%
+Centskorch | 226 |   1.88%
+Talonflame | 226 |   1.88%
+Rotomh     | 220 |   1.83%
+Scovillain | 192 |   1.60%
+Pyroar     | 180 |   1.50%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

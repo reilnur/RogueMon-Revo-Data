@@ -1,0 +1,54 @@
+Evolutions from Nymble (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Mothim     | 675 |   5.62%
+Volbeat    | 581 |   4.84%
+Illumise   | 579 |   4.83%
+Accelgor   | 552 |   4.60%
+Vivillon   | 535 |   4.46%
+Frosmoth   | 476 |   3.97%
+Wormadams  | 470 |   3.92%
+Vespiquen  | 461 |   3.84%
+Durant     | 461 |   3.84%
+Wormadamt  | 447 |   3.72%
+Galvantula | 433 |   3.61%
+Ninjask    | 430 |   3.58%
+Venomoth   | 429 |   3.57%
+Masquerain | 424 |   3.53%
+Escavalier | 421 |   3.51%
+Rabsca     | 417 |   3.48%
+Forretress | 410 |   3.42%
+Beedrillm  | 397 |   3.31%
+Scolipede  | 393 |   3.28%
+Crustle    | 392 |   3.27%
+Armaldo    | 387 |   3.23%
+Ribombee   | 387 |   3.23%
+Wormadam   | 381 |   3.17%
+Parasect   | 361 |   3.01%
+Araquanid  | 320 |   2.67%
+Spidops    |  73 |   0.61%
+Kricketune |  68 |   0.57%
+Butterfree |  60 |   0.50%
+Pinsir     |  58 |   0.48%
+Charjabug  |  52 |   0.43%
+Beautifly  |  48 |   0.40%
+Ledian     |  47 |   0.39%
+Yanma      |  43 |   0.36%
+Dustox     |  39 |   0.33%
+Scizor     |  36 |   0.30%
+Scyther    |  29 |   0.24%
+Beedrill   |  27 |   0.22%
+Yanmega    |  25 |   0.21%
+Heracross  |  24 |   0.20%
+Shuckle    |  24 |   0.20%
+Ariados    |  23 |   0.19%
+Orbeetle   |  22 |   0.18%
+Kleavor    |  19 |   0.16%
+Swadloon   |  16 |   0.13%
+Vikavolt   |  15 |   0.12%
+Centskorch |  12 |   0.10%
+Leavanny   |  12 |   0.10%
+Golisopod  |   9 |   0.07%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

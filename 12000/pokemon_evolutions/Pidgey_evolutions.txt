@@ -1,0 +1,33 @@
+Evolutions from Pidgey (out of approximately 12000):
+Pokémon      | Count | Percentage
+----------------------------
+Natu         | 538 |   4.48%
+Eevee        | 513 |   4.28%
+Mantyke      | 503 |   4.19%
+Rowlet       | 500 |   4.17%
+Woobat       | 500 |   4.17%
+Zoruah       | 499 |   4.16%
+Skiploom     | 494 |   4.12%
+Teddiursa    | 489 |   4.08%
+Delibird     | 488 |   4.07%
+Corvsquire   | 470 |   3.92%
+Herdier      | 467 |   3.89%
+Drifloon     | 456 |   3.80%
+Vullaby      | 438 |   3.65%
+Stufful      | 435 |   3.62%
+Buneary      | 429 |   3.57%
+Deerling     | 428 |   3.57%
+Loudred      | 426 |   3.55%
+Dolliv       | 425 |   3.54%
+Aipom        | 418 |   3.48%
+Spinda       | 412 |   3.43%
+Staravia     | 408 |   3.40%
+Rufflet      | 401 |   3.34%
+Trumbeak     | 398 |   3.32%
+Tranquill    | 394 |   3.28%
+Farfetchâ€™d | 382 |   3.18%
+Litleo       | 366 |   3.05%
+Flechinder   | 323 |   2.69%
+----------------------------
+TOTAL        | 12000 | 100.00%
+

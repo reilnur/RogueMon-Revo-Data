@@ -1,0 +1,48 @@
+Evolutions from Raboot (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Entei      | 403 |   3.36%
+Moltres    | 399 |   3.33%
+Darmanitan | 399 |   3.33%
+Blacphalon | 378 |   3.15%
+Arcanine   | 373 |   3.11%
+Typhlosion | 369 |   3.08%
+Magmar     | 368 |   3.07%
+Iron Moth  | 365 |   3.04%
+Magmortar  | 361 |   3.01%
+Ninetales  | 355 |   2.96%
+Chi-Yu     | 342 |   2.85%
+Rapidash   | 336 |   2.80%
+Simisear   | 322 |   2.68%
+Heatmor    | 313 |   2.61%
+Blaziken   | 296 |   2.47%
+Turtonator | 295 |   2.46%
+Arcanineh  | 295 |   2.46%
+Flareon    | 285 |   2.38%
+Darmanitaz | 280 |   2.33%
+Cameruptm  | 278 |   2.32%
+Ogerponf   | 276 |   2.30%
+Delphox    | 276 |   2.30%
+Charizard  | 271 |   2.26%
+Typhlosioh | 270 |   2.25%
+Darmanitzg | 268 |   2.23%
+Infernape  | 266 |   2.22%
+Emboar     | 264 |   2.20%
+Skeledirge | 256 |   2.13%
+Chandelure | 255 |   2.12%
+Volcarona  | 252 |   2.10%
+Salazzle   | 237 |   1.98%
+Incineroar | 237 |   1.98%
+Houndoom   | 233 |   1.94%
+Armarouge  | 233 |   1.94%
+Coalossal  | 229 |   1.91%
+Ceruledge  | 220 |   1.83%
+Taurospf   | 217 |   1.81%
+Talonflame | 212 |   1.77%
+Rotomh     | 194 |   1.62%
+Scovillain | 187 |   1.56%
+Centskorch | 186 |   1.55%
+Pyroar     | 149 |   1.24%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

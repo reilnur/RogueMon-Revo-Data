@@ -1,0 +1,48 @@
+Evolutions from Metang (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Cresselia  | 345 |   2.88%
+Deoxysd    | 340 |   2.83%
+Ironleaves | 340 |   2.83%
+Mesprit    | 338 |   2.82%
+Heatran    | 325 |   2.71%
+Alakazamm  | 322 |   2.68%
+Celebi     | 320 |   2.67%
+Deoxys     | 319 |   2.66%
+Deoxysa    | 316 |   2.63%
+Melmetal   | 316 |   2.63%
+Necrozma   | 314 |   2.62%
+Hoopa      | 311 |   2.59%
+Azelf      | 309 |   2.57%
+Mew        | 309 |   2.57%
+Victini    | 308 |   2.57%
+Scizorm    | 307 |   2.56%
+Slowbrom   | 305 |   2.54%
+Registeel  | 304 |   2.53%
+Jirachi    | 302 |   2.52%
+Magearna   | 302 |   2.52%
+Genesect   | 301 |   2.51%
+Iron Crown | 300 |   2.50%
+Tapu Lele  | 295 |   2.46%
+Uxie       | 295 |   2.46%
+Articunog  | 284 |   2.37%
+Deoxyss    | 281 |   2.34%
+Ironbouldr | 280 |   2.33%
+Latias     | 278 |   2.32%
+Screamtail | 273 |   2.27%
+Celesteela | 271 |   2.26%
+Goodrah    | 255 |   2.12%
+Kartana    | 253 |   2.11%
+Gholdengo  | 244 |   2.03%
+Cobalion   | 244 |   2.03%
+Latios     | 242 |   2.02%
+Munkidori  | 238 |   1.98%
+Meloetta   | 236 |   1.97%
+Archaludon | 232 |   1.93%
+Stakataka  | 227 |   1.89%
+Irontreads | 218 |   1.82%
+Darmanitaz | 205 |   1.71%
+Kingambit  | 196 |   1.63%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

@@ -1,0 +1,43 @@
+Evolutions from Magby (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Torkoal    | 565 |   4.71%
+Darmanitan | 513 |   4.28%
+Cinderace  | 474 |   3.95%
+Magmortar  | 447 |   3.72%
+Heatmor    | 440 |   3.67%
+Rapidash   | 429 |   3.57%
+Typhlosion | 421 |   3.51%
+Flareon    | 419 |   3.49%
+Turtonator | 405 |   3.38%
+Simisear   | 401 |   3.34%
+Ninetales  | 377 |   3.14%
+Emboar     | 346 |   2.88%
+Delphox    | 344 |   2.87%
+Infernape  | 340 |   2.83%
+Blaziken   | 338 |   2.82%
+Skeledirge | 338 |   2.82%
+Darmanitaz | 332 |   2.77%
+Camerupt   | 328 |   2.73%
+Darmanitzg | 318 |   2.65%
+Typhlosioh | 317 |   2.64%
+Charizard  | 316 |   2.63%
+Oricorio   | 315 |   2.62%
+Incineroar | 305 |   2.54%
+Salazzle   | 297 |   2.48%
+Taurospf   | 296 |   2.47%
+Houndoom   | 291 |   2.43%
+Talonflame | 290 |   2.42%
+Centskorch | 273 |   2.27%
+Ceruledge  | 271 |   2.26%
+Armarouge  | 267 |   2.23%
+Chandelure | 260 |   2.17%
+Coalossal  | 260 |   2.17%
+Rotomh     | 244 |   2.03%
+Scovillain | 244 |   2.03%
+Pyroar     | 176 |   1.47%
+Arcanine   |   2 |   0.02%
+Quilava    |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

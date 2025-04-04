@@ -1,0 +1,39 @@
+Evolutions from Totodile (out of approximately 12000):
+Pokémon   | Count | Percentage
+-------------------------
+Poliwhirl | 694 |   5.78%
+Dewott    | 634 |   5.28%
+Wartortle | 629 |   5.24%
+Frogadier | 623 |   5.19%
+Prinplup  | 620 |   5.17%
+Pyukumuku | 615 |   5.12%
+Wailmer   | 597 |   4.98%
+Drizzile  | 591 |   4.92%
+Palpitoad | 590 |   4.92%
+Quaxwell  | 581 |   4.84%
+Wugtrio   | 576 |   4.80%
+Castformw | 551 |   4.59%
+Brionne   | 529 |   4.41%
+Seadra    | 519 |   4.32%
+Corsola   | 490 |   4.08%
+Marshtomp | 487 |   4.06%
+Pelipper  | 485 |   4.04%
+Sealeo    | 462 |   3.85%
+Quagsire  | 450 |   3.75%
+Azumarill | 440 |   3.67%
+Bibarel   | 403 |   3.36%
+Qwilfish  | 393 |   3.28%
+Omanyte   |   9 |   0.07%
+Clamperl  |   6 |   0.05%
+Tirtouga  |   6 |   0.05%
+Mantyke   |   5 |   0.04%
+Kabuto    |   5 |   0.04%
+Palafin   |   4 |   0.03%
+Basculinb |   2 |   0.02%
+Sharpedo  |   1 |   0.01%
+Basculin  |   1 |   0.01%
+Seaking   |   1 |   0.01%
+Basculinw |   1 |   0.01%
+-------------------------
+TOTAL     | 12000 | 100.00%
+

@@ -1,0 +1,47 @@
+Evolutions from Woobat (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Emolga     | 410 |   3.42%
+Murkrow    | 407 |   3.39%
+Meowstic   | 393 |   3.28%
+Cosmoem    | 386 |   3.22%
+Archen     | 382 |   3.18%
+Wobbuffet  | 381 |   3.17%
+Gothorita  | 368 |   3.07%
+Ponytag    | 368 |   3.07%
+Chimecho   | 366 |   3.05%
+Chatot     | 365 |   3.04%
+Minior     | 363 |   3.02%
+Squawkbily | 345 |   2.88%
+Togetic    | 344 |   2.87%
+Kadabra    | 338 |   2.82%
+Meowsticf  | 325 |   2.71%
+Gligar     | 324 |   2.70%
+Jynx       | 295 |   2.46%
+Mothim     | 290 |   2.42%
+Medicham   | 287 |   2.39%
+Metang     | 276 |   2.30%
+Skarmory   | 276 |   2.30%
+Mr. Mimeg  | 273 |   2.27%
+Beautifly  | 272 |   2.27%
+Fearow     | 263 |   2.19%
+Solrock    | 260 |   2.17%
+Dartrix    | 256 |   2.13%
+Yanma      | 253 |   2.11%
+Pelipper   | 249 |   2.08%
+Ledian     | 246 |   2.05%
+Jumpluff   | 243 |   2.02%
+Swellow    | 234 |   1.95%
+Mr. Mime   | 234 |   1.95%
+Golbat     | 232 |   1.93%
+Lunatone   | 232 |   1.93%
+Butterfree | 230 |   1.92%
+Noctowl    | 227 |   1.89%
+Vivillon   | 227 |   1.89%
+Tropius    | 208 |   1.73%
+Ninjask    | 199 |   1.66%
+Girafarig  | 188 |   1.57%
+Masquerain | 185 |   1.54%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

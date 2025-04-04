@@ -1,0 +1,42 @@
+Evolutions from Sewaddle (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Skiddo     | 734 |   6.12%
+Lileep     | 666 |   5.55%
+Dolliv     | 611 |   5.09%
+Anorith    | 566 |   4.72%
+Bayleef    | 479 |   3.99%
+Larvesta   | 471 |   3.92%
+Grovyle    | 465 |   3.88%
+Floragato  | 455 |   3.79%
+Quilladin  | 443 |   3.69%
+Grotle     | 441 |   3.67%
+Servine    | 433 |   3.61%
+Ivysaur    | 398 |   3.32%
+Whirlipede | 397 |   3.31%
+Gloom      | 396 |   3.30%
+Spidops    | 392 |   3.27%
+Roselia    | 389 |   3.24%
+Weepinbell | 387 |   3.23%
+Kricketune | 387 |   3.23%
+Dustox     | 348 |   2.90%
+Butterfree | 334 |   2.78%
+Ledian     | 329 |   2.74%
+Beautifly  | 329 |   2.74%
+Yanma      | 325 |   2.71%
+Charjabug  | 323 |   2.69%
+Ariados    | 316 |   2.63%
+Vivillon   | 315 |   2.62%
+Shiinotic  | 313 |   2.61%
+Beedrill   | 312 |   2.60%
+Parasect   | 239 |   1.99%
+Pumpkaboox |   1 |   0.01%
+Pumpkaboos |   1 |   0.01%
+Toedscool  |   1 |   0.01%
+Dwebble    |   1 |   0.01%
+Nuzleaf    |   1 |   0.01%
+Dottler    |   1 |   0.01%
+Skiploom   |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

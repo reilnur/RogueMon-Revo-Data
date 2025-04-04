@@ -1,0 +1,41 @@
+Evolutions from Ledyba (out of approximately 12000):
+Pokémon      | Count | Percentage
+----------------------------
+Corvsquire   | 635 |   5.29%
+Trumbeak     | 551 |   4.59%
+Vullaby      | 524 |   4.37%
+Tranquill    | 521 |   4.34%
+Murkrow      | 502 |   4.18%
+Emolga       | 501 |   4.17%
+Anorith      | 471 |   3.92%
+Archen       | 444 |   3.70%
+Chatot       | 426 |   3.55%
+Farfetchâ€™d | 421 |   3.51%
+Larvesta     | 418 |   3.48%
+Togetic      | 414 |   3.45%
+Squawkbily   | 390 |   3.25%
+Flechinder   | 361 |   3.01%
+Spidops      | 359 |   2.99%
+Whirlipede   | 345 |   2.88%
+Dartrix      | 335 |   2.79%
+Beautifly    | 333 |   2.77%
+Swoobat      | 327 |   2.73%
+Mothim       | 326 |   2.72%
+Kricketune   | 297 |   2.48%
+Butterfree   | 293 |   2.44%
+Wormadamt    | 283 |   2.36%
+Dustox       | 282 |   2.35%
+Charjabug    | 278 |   2.32%
+Vivillon     | 278 |   2.32%
+Yanma        | 270 |   2.25%
+Wormadams    | 260 |   2.17%
+Ariados      | 255 |   2.12%
+Beedrill     | 246 |   2.05%
+Swadloon     | 243 |   2.02%
+Parasect     | 208 |   1.73%
+Wormadam     | 201 |   1.68%
+Staravia     |   1 |   0.01%
+Mantyke      |   1 |   0.01%
+----------------------------
+TOTAL        | 12000 | 100.00%
+

@@ -1,0 +1,29 @@
+Evolutions from Shelgon (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Archaludon | 599 |   4.99%
+Kommo-O    | 596 |   4.97%
+Hydreigon  | 582 |   4.85%
+Dragonite  | 579 |   4.83%
+Garchomp   | 578 |   4.82%
+Goodra     | 565 |   4.71%
+Haxorus    | 564 |   4.70%
+Baxcalibur | 563 |   4.69%
+Latios     | 562 |   4.68%
+Latias     | 557 |   4.64%
+Goodrah    | 554 |   4.62%
+Zygarde    | 547 |   4.56%
+Roarinmoon | 537 |   4.47%
+Dragapult  | 536 |   4.47%
+Altariam   | 528 |   4.40%
+Ragingbolt | 514 |   4.28%
+Regidrago  | 513 |   4.28%
+Walkinwake | 507 |   4.23%
+Gouginfire | 477 |   3.98%
+Guzzlord   | 447 |   3.72%
+Naganadel  | 380 |   3.17%
+Kingdra    | 358 |   2.98%
+Hydrapple  | 357 |   2.97%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

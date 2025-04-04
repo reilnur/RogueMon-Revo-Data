@@ -1,0 +1,65 @@
+Evolutions from Dugtrioa (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Klinklang  | 342 |   2.85%
+Copperajah | 322 |   2.68%
+Celesteela | 301 |   2.51%
+Duraludon  | 301 |   2.51%
+Stakataka  | 295 |   2.46%
+Gholdengo  | 292 |   2.43%
+Great Tusk | 291 |   2.43%
+Orthworm   | 286 |   2.38%
+Sandaconda | 268 |   2.23%
+Hippowdon  | 263 |   2.19%
+Ting-Lu    | 252 |   2.10%
+Kartana    | 250 |   2.08%
+Sandyshock | 249 |   2.08%
+Irontreads | 234 |   1.95%
+Lucario    | 232 |   1.93%
+Donphan    | 230 |   1.92%
+Kingambit  | 227 |   1.89%
+Flygon     | 226 |   1.88%
+Mudsdale   | 226 |   1.88%
+Aegislashb | 212 |   1.77%
+Probopass  | 211 |   1.76%
+Steelix    | 211 |   1.76%
+Bastiodon  | 207 |   1.73%
+Excadrill  | 205 |   1.71%
+Aggron     | 201 |   1.68%
+Mamoswine  | 197 |   1.64%
+Cameruptm  | 195 |   1.62%
+Aegislash  | 194 |   1.62%
+Bisharp    | 191 |   1.59%
+Tinkaton   | 190 |   1.58%
+Bronzong   | 186 |   1.55%
+Corvknight | 184 |   1.53%
+Zygarde10  | 183 |   1.52%
+Empoleon   | 182 |   1.52%
+Rhyperior  | 181 |   1.51%
+Mawilem    | 180 |   1.50%
+Rhydon     | 178 |   1.48%
+Golurk     | 174 |   1.45%
+Runerigus  | 173 |   1.44%
+Claydol    | 172 |   1.43%
+Magnezone  | 171 |   1.43%
+Scizor     | 170 |   1.42%
+Krookodile | 169 |   1.41%
+Swampert   | 165 |   1.38%
+Ferrothorn | 164 |   1.37%
+Torterra   | 161 |   1.34%
+Escavalier | 161 |   1.34%
+Palossand  | 159 |   1.32%
+Gliscor    | 158 |   1.32%
+Durant     | 155 |   1.29%
+Golem      | 151 |   1.26%
+Revavroom  | 151 |   1.26%
+Nidoqueen  | 150 |   1.25%
+Seismitoad | 143 |   1.19%
+Toedscruel | 140 |   1.17%
+Nidoking   | 139 |   1.16%
+Gastrodon  | 138 |   1.15%
+Ursalunab  | 131 |   1.09%
+Ursaluna   | 130 |   1.08%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

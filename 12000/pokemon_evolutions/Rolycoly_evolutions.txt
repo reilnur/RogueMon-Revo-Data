@@ -1,0 +1,29 @@
+Evolutions from Rolycoly (out of approximately 12000):
+Pokémon    | Count | Percentage
+---------------------------
+Boldore    | 1160 |   9.67%
+Sudowoodo  | 1131 |   9.43%
+Nosepass   | 1103 |   9.19%
+Onix       |  944 |   7.87%
+Archen     |  936 |   7.80%
+Klawf      |  932 |   7.77%
+Lairon     |  916 |   7.63%
+Graveler   |  891 |   7.42%
+Pupitar    |  888 |   7.40%
+Minior     |  841 |   7.01%
+Gravelera  |  830 |   6.92%
+Magcargo   |  755 |   6.29%
+Corsola    |  658 |   5.48%
+Cranidos   |    3 |   0.03%
+Growlitheh |    3 |   0.03%
+Tirtouga   |    2 |   0.02%
+Kabuto     |    1 |   0.01%
+Naclstack  |    1 |   0.01%
+Glimmet    |    1 |   0.01%
+Amaura     |    1 |   0.01%
+Lunatone   |    1 |   0.01%
+Lileep     |    1 |   0.01%
+Stonjorner |    1 |   0.01%
+---------------------------
+TOTAL      | 12000 | 100.00%
+

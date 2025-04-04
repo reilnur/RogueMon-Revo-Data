@@ -1,0 +1,40 @@
+Evolutions from Silcoon (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Larvesta   | 879 |   7.32%
+Whirlipede | 805 |   6.71%
+Mothim     | 682 |   5.68%
+Kricketune | 659 |   5.49%
+Spidops    | 658 |   5.48%
+Illumise   | 594 |   4.95%
+Ledian     | 581 |   4.84%
+Volbeat    | 580 |   4.83%
+Vivillon   | 579 |   4.83%
+Charjabug  | 576 |   4.80%
+Butterfree | 547 |   4.56%
+Yanma      | 529 |   4.41%
+Ariados    | 526 |   4.38%
+Wormadams  | 513 |   4.28%
+Swadloon   | 512 |   4.27%
+Wormadamt  | 509 |   4.24%
+Dustox     | 509 |   4.24%
+Beedrill   | 493 |   4.11%
+Parasect   | 397 |   3.31%
+Wormadam   | 390 |   3.25%
+Anorith    |  99 |   0.83%
+Dwebble    |  87 |   0.73%
+Dottler    |  86 |   0.72%
+Joltik     |  83 |   0.69%
+Skorupi    |  75 |   0.62%
+Lokix      |  13 |   0.11%
+Rabsca     |   8 |   0.07%
+Venomoth   |   7 |   0.06%
+Ninjask    |   6 |   0.05%
+Ribombee   |   4 |   0.03%
+Masquerain |   4 |   0.03%
+Forretress |   4 |   0.03%
+Araquanid  |   3 |   0.03%
+Galvantula |   3 |   0.03%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

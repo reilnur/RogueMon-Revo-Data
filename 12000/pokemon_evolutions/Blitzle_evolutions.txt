@@ -1,0 +1,52 @@
+Evolutions from Blitzle (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Electivire | 592 |   4.93%
+Manectric  | 522 |   4.35%
+Eelektross | 500 |   4.17%
+Raichu     | 500 |   4.17%
+Jolteon    | 479 |   3.99%
+Boltund    | 462 |   3.85%
+Luxray     | 462 |   3.85%
+Electabuzz | 457 |   3.81%
+Ampharos   | 447 |   3.72%
+Bellibolt  | 433 |   3.61%
+Magnezone  | 426 |   3.55%
+Electrode  | 411 |   3.43%
+Dracozolt  | 397 |   3.31%
+Magneton   | 351 |   2.93%
+Oricorioe  | 348 |   2.90%
+Stunfisk   | 341 |   2.84%
+Pawmot     | 332 |   2.77%
+Rotomfr    | 327 |   2.73%
+Kilowattrl | 316 |   2.63%
+Raichua    | 310 |   2.58%
+Galvantula | 301 |   2.51%
+Arctozolt  | 294 |   2.45%
+Rotomh     | 291 |   2.43%
+Lanturn    | 286 |   2.38%
+Golema     | 281 |   2.34%
+Rotomfa    | 275 |   2.29%
+Toxtricity | 274 |   2.28%
+Toxtricitl | 266 |   2.22%
+Heliolisk  | 247 |   2.06%
+Rotomw     | 243 |   2.02%
+Rotomm     | 242 |   2.02%
+Electrodeh | 239 |   1.99%
+Vikavolt   | 234 |   1.95%
+Pikachup   |  17 |   0.14%
+Xurkitree  |  14 |   0.12%
+Rotom      |  11 |   0.09%
+Emolga     |  10 |   0.08%
+Iron Hands |   9 |   0.07%
+Pincurchin |   9 |   0.07%
+Ironthorns |   9 |   0.07%
+Dedenne    |   8 |   0.07%
+Morpekoh   |   7 |   0.06%
+Morpeko    |   6 |   0.05%
+Togedemaru |   6 |   0.05%
+Tapu Koko  |   5 |   0.04%
+Sandyshock |   3 |   0.03%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

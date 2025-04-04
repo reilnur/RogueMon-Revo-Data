@@ -1,0 +1,35 @@
+Evolutions from Snubbull (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Slurpuff   | 896 |   7.47%
+Comfey     | 875 |   7.29%
+Dachsbun   | 864 |   7.20%
+Aromatisse | 852 |   7.10%
+Clefable   | 848 |   7.07%
+Alcremie   | 831 |   6.93%
+Togetic    | 766 |   6.38%
+Dedenne    | 712 |   5.93%
+Klefki     | 655 |   5.46%
+Mawilem    | 616 |   5.13%
+Mimikyu    | 592 |   4.93%
+Mr. Mime   | 558 |   4.65%
+Wigglytuff | 550 |   4.58%
+Azumarill  | 486 |   4.05%
+Whimsicott | 483 |   4.03%
+Weezingg   | 474 |   3.95%
+Shiinotic  | 469 |   3.91%
+Ribombee   | 428 |   3.57%
+Tinkatuff  |  11 |   0.09%
+Rapidashg  |   6 |   0.05%
+Sylveon    |   5 |   0.04%
+Tinkaton   |   5 |   0.04%
+Hatterene  |   4 |   0.03%
+Morgrem    |   3 |   0.03%
+Floette    |   3 |   0.03%
+Carbink    |   3 |   0.03%
+Mawile     |   2 |   0.02%
+Primarina  |   2 |   0.02%
+Grimmsnarl |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

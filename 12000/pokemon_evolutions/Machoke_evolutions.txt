@@ -1,0 +1,48 @@
+Evolutions from Machoke (out of approximately 12000):
+Pokémon      | Count | Percentage
+----------------------------
+Hitmonlee    | 426 |   3.55%
+Hitmontop    | 409 |   3.41%
+Hitmonchan   | 401 |   3.34%
+Sirfetchâ€™d | 399 |   3.33%
+Primeape     | 395 |   3.29%
+Conkeldurr   | 386 |   3.22%
+Mienshao     | 380 |   3.17%
+Sawk         | 373 |   3.11%
+Grapploct    | 366 |   3.05%
+Falinks      | 362 |   3.02%
+Hariyama     | 353 |   2.94%
+Passimian    | 348 |   2.90%
+Urshifu      | 340 |   2.83%
+Throh        | 336 |   2.80%
+Okidogi      | 333 |   2.77%
+Taurosp      | 321 |   2.67%
+Infernape    | 302 |   2.52%
+Lucario      | 296 |   2.47%
+Annihilape   | 284 |   2.37%
+Gallade      | 279 |   2.33%
+Medichamm    | 277 |   2.31%
+Blaziken     | 270 |   2.25%
+Urshifur     | 270 |   2.25%
+Decidueyeh   | 265 |   2.21%
+Chesnaught   | 252 |   2.10%
+Emboar       | 247 |   2.06%
+Scrafty      | 243 |   2.02%
+Crabminble   | 241 |   2.01%
+Sneasler     | 234 |   1.95%
+Pangoro      | 226 |   1.88%
+Quaquaval    | 225 |   1.88%
+Hawlucha     | 220 |   1.83%
+Taurospf     | 218 |   1.82%
+Pawmot       | 212 |   1.77%
+Breloom      | 210 |   1.75%
+Flamigo      | 205 |   1.71%
+Lilliganth   | 205 |   1.71%
+Poliwrath    | 200 |   1.67%
+Taurospw     | 180 |   1.50%
+Heracross    | 173 |   1.44%
+Toxicroak    | 170 |   1.42%
+Bewear       | 168 |   1.40%
+----------------------------
+TOTAL        | 12000 | 100.00%
+

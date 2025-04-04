@@ -1,0 +1,38 @@
+Evolutions from Patrat (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Porygon    | 514 |   4.28%
+Delcatty   | 494 |   4.12%
+Gumshoos   | 477 |   3.98%
+Munchlax   | 474 |   3.95%
+Lickitung  | 451 |   3.76%
+Raticate   | 451 |   3.76%
+Castform   | 443 |   3.69%
+Dunsparce  | 443 |   3.69%
+Linoone    | 442 |   3.68%
+Eeveep     | 429 |   3.57%
+Chatot     | 414 |   3.45%
+Furret     | 410 |   3.42%
+Squawkbily | 409 |   3.41%
+Persian    | 398 |   3.32%
+Vigoroth   | 390 |   3.25%
+Zangoose   | 387 |   3.23%
+Kecleon    | 386 |   3.22%
+Raticatea  | 378 |   3.15%
+Greedent   | 374 |   3.12%
+Purugly    | 367 |   3.06%
+Audino     | 365 |   3.04%
+Linooneg   | 352 |   2.93%
+Chansey    | 346 |   2.88%
+Terapagos  | 343 |   2.86%
+Swellow    | 342 |   2.85%
+Diggersby  | 311 |   2.59%
+Bibarel    | 304 |   2.53%
+Noctowl    | 292 |   2.43%
+Fearow     | 286 |   2.38%
+Wigglytuff | 284 |   2.37%
+Girafarig  | 243 |   2.02%
+Stantler   |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

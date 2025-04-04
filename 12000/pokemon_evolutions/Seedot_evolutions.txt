@@ -1,0 +1,35 @@
+Evolutions from Seedot (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Grookey    | 471 |   3.92%
+Exeggcute  | 458 |   3.82%
+Phantump   | 455 |   3.79%
+Chikorita  | 448 |   3.73%
+Turtwig    | 447 |   3.72%
+Rowlet     | 445 |   3.71%
+Sprigatito | 442 |   3.68%
+Pansage    | 440 |   3.67%
+Pumpkaboo  | 437 |   3.64%
+Oddish     | 434 |   3.62%
+Snover     | 432 |   3.60%
+Chespin    | 429 |   3.57%
+Sewaddle   | 426 |   3.55%
+Polchgeist | 426 |   3.55%
+Bulbasaur  | 426 |   3.55%
+Pumpkabool | 423 |   3.52%
+Lombre     | 419 |   3.49%
+Treecko    | 411 |   3.43%
+Toedscool  | 410 |   3.42%
+Snivy      | 407 |   3.39%
+Skiddo     | 393 |   3.28%
+Cacnea     | 391 |   3.26%
+Pumpkaboox | 391 |   3.26%
+Pumpkaboos | 389 |   3.24%
+Skiploom   | 383 |   3.19%
+Deerling   | 365 |   3.04%
+Lileep     | 346 |   2.88%
+Dolliv     | 331 |   2.76%
+Voltorbh   | 325 |   2.71%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

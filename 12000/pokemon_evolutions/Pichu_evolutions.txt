@@ -1,0 +1,17 @@
+Evolutions from Pichu (out of approximately 12000):
+Pokémon    | Count | Percentage
+---------------------------
+Geodudea   | 1258 |  10.48%
+Electrike  | 1246 |  10.38%
+Blitzle    | 1190 |   9.92%
+Pikachuc   | 1161 |   9.68%
+Helioptile | 1149 |   9.57%
+Magnemite  | 1077 |   8.97%
+Joltik     | 1067 |   8.89%
+Pawmo      | 1041 |   8.67%
+Chinchou   |  974 |   8.12%
+Voltorb    |  953 |   7.94%
+Voltorbh   |  884 |   7.37%
+---------------------------
+TOTAL      | 12000 | 100.00%
+

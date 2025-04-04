@@ -1,0 +1,34 @@
+Evolutions from Swirlix (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Sylveon    | 806 |   6.72%
+Granbull   | 760 |   6.33%
+Clefable   | 736 |   6.13%
+Dachsbun   | 721 |   6.01%
+Aromatisse | 697 |   5.81%
+Comfey     | 678 |   5.65%
+Alcremie   | 675 |   5.62%
+Gardevoir  | 559 |   4.66%
+Mawilem    | 512 |   4.27%
+Klefki     | 509 |   4.24%
+Tinkaton   | 496 |   4.13%
+Hatterene  | 481 |   4.01%
+Grimmsnarl | 477 |   3.98%
+Rapidashg  | 466 |   3.88%
+Mimikyu    | 461 |   3.84%
+Mr. Mime   | 461 |   3.84%
+Ninetalesa | 451 |   3.76%
+Wigglytuff | 437 |   3.64%
+Carbink    | 423 |   3.52%
+Whimsicott | 412 |   3.43%
+Weezingg   | 410 |   3.42%
+Ribombee   | 355 |   2.96%
+Floettee   |   8 |   0.07%
+Florges    |   3 |   0.03%
+Azumarill  |   2 |   0.02%
+Primarina  |   2 |   0.02%
+Audinom    |   1 |   0.01%
+Togekiss   |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

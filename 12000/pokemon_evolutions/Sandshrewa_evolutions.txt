@@ -1,0 +1,46 @@
+Evolutions from Sandshrewa (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Perrserker | 478 |   3.98%
+Castformi  | 471 |   3.92%
+Glalie     | 456 |   3.80%
+Klang      | 450 |   3.75%
+Darmanitag | 419 |   3.49%
+Eiscue     | 413 |   3.44%
+Orthworm   | 413 |   3.44%
+Eiscuen    | 410 |   3.42%
+Togedemaru | 392 |   3.27%
+Lairon     | 379 |   3.16%
+Sneasel    | 346 |   2.88%
+Dugtrioa   | 345 |   2.88%
+Bisharp    | 323 |   2.69%
+Doublade   | 323 |   2.69%
+Mawilem    | 319 |   2.66%
+Skarmory   | 318 |   2.65%
+Klefki     | 313 |   2.61%
+Bastiodon  | 305 |   2.54%
+Froslass   | 305 |   2.54%
+Stunfiskg  | 302 |   2.52%
+Corvknight | 297 |   2.48%
+Jynx       | 296 |   2.47%
+Sliggooh   | 283 |   2.36%
+Sealeo     | 281 |   2.34%
+Crabminble | 278 |   2.32%
+Piloswine  | 277 |   2.31%
+Wormadamt  | 262 |   2.18%
+Arctibax   | 262 |   2.18%
+Mr. Mimeg  | 261 |   2.17%
+Metang     | 257 |   2.14%
+Magneton   | 249 |   2.08%
+Dewgong    | 243 |   2.02%
+Abomasnow  | 235 |   1.96%
+Ferrothorn | 226 |   1.88%
+Frosmoth   | 213 |   1.77%
+Escavalier | 213 |   1.77%
+Durant     | 200 |   1.67%
+Forretress | 185 |   1.54%
+Avaluggh   |   1 |   0.01%
+Tinkaton   |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

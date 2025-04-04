@@ -1,0 +1,48 @@
+Evolutions from Sunkern (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Carnivine  | 660 |   5.50%
+Cherrim    | 619 |   5.16%
+Maractus   | 618 |   5.15%
+Quilladin  | 603 |   5.03%
+Grotle     | 602 |   5.02%
+Eldegoss   | 592 |   4.93%
+Floragato  | 585 |   4.88%
+Servine    | 580 |   4.83%
+Grovyle    | 564 |   4.70%
+Bayleef    | 558 |   4.65%
+Thwackey   | 529 |   4.41%
+Tangela    | 513 |   4.28%
+Ivysaur    | 482 |   4.02%
+Dartrix    | 477 |   3.98%
+Gloom      | 473 |   3.94%
+Weepinbell | 470 |   3.92%
+Jumpluff   | 428 |   3.57%
+Roselia    | 428 |   3.57%
+Breloom    | 423 |   3.52%
+Tropius    | 393 |   3.28%
+Amoonguss  | 383 |   3.19%
+Shiinotic  | 369 |   3.08%
+Parasect   | 307 |   2.56%
+Wormadam   | 293 |   2.44%
+Lurantis   |   7 |   0.06%
+Lilligant  |   5 |   0.04%
+Scovillain |   4 |   0.03%
+Shiftry    |   4 |   0.03%
+Trevenant  |   4 |   0.03%
+Dipplin    |   3 |   0.03%
+Cacturne   |   3 |   0.03%
+Bramblgast |   3 |   0.03%
+Flapple    |   3 |   0.03%
+Dolliv     |   3 |   0.03%
+Lilliganth |   2 |   0.02%
+Swadloon   |   2 |   0.02%
+Appletun   |   2 |   0.02%
+Sawsbuck   |   2 |   0.02%
+Abomasnow  |   1 |   0.01%
+Whimsicott |   1 |   0.01%
+Skiddo     |   1 |   0.01%
+Cradily    |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

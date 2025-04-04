@@ -1,0 +1,32 @@
+Evolutions from Nincada2 (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Surskit    | 509 |   4.24%
+Geodude    | 503 |   4.19%
+Grubbin    | 496 |   4.13%
+Shelmet    | 487 |   4.06%
+Diglett    | 487 |   4.06%
+Venipede   | 486 |   4.05%
+Pineco     | 478 |   3.98%
+Golett     | 475 |   3.96%
+Trapinch   | 474 |   3.95%
+Paras      | 473 |   3.94%
+Sandshrew  | 467 |   3.89%
+Venonat    | 460 |   3.83%
+Yamaskg    | 460 |   3.83%
+Dewpider   | 459 |   3.82%
+Rellor     | 459 |   3.82%
+Gible      | 455 |   3.79%
+Numel      | 455 |   3.79%
+Barboach   | 453 |   3.77%
+Larvitar   | 447 |   3.72%
+Sewaddle   | 446 |   3.72%
+Sandile    | 445 |   3.71%
+Digletta   | 443 |   3.69%
+Ledyba     | 440 |   3.67%
+Baltoy     | 439 |   3.66%
+Sizzlipede | 425 |   3.54%
+Cutiefly   | 379 |   3.16%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

@@ -1,0 +1,33 @@
+Evolutions from Skitty (out of approximately 12000):
+Pokémon      | Count | Percentage
+----------------------------
+Herdier      | 574 |   4.78%
+Loudred      | 556 |   4.63%
+Aipom        | 544 |   4.53%
+Spinda       | 526 |   4.38%
+Furret       | 522 |   4.35%
+Munchlax     | 502 |   4.18%
+Porygon      | 496 |   4.13%
+Watchog      | 486 |   4.05%
+Gumshoos     | 486 |   4.05%
+Lickitung    | 475 |   3.96%
+Raticate     | 461 |   3.84%
+Linoone      | 460 |   3.83%
+Chatot       | 448 |   3.73%
+Persian      | 438 |   3.65%
+Castform     | 437 |   3.64%
+Dunsparce    | 436 |   3.63%
+Litleo       | 407 |   3.39%
+Eeveep       | 407 |   3.39%
+Squawkbily   | 405 |   3.38%
+Vigoroth     | 402 |   3.35%
+Linooneg     | 401 |   3.34%
+Farfetchâ€™d | 400 |   3.33%
+Kecleon      | 397 |   3.31%
+Raticatea    | 395 |   3.29%
+Diggersby    | 337 |   2.81%
+Wigglytuff   | 305 |   2.54%
+Bibarel      | 297 |   2.48%
+----------------------------
+TOTAL        | 12000 | 100.00%
+

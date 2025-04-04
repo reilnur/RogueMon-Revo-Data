@@ -1,0 +1,64 @@
+Evolutions from Seadra (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Slowbrom   | 475 |   3.96%
+Suicune    | 433 |   3.61%
+Walkinwake | 405 |   3.38%
+Keldeo     | 395 |   3.29%
+Tapu Fini  | 329 |   2.74%
+Ironbundle | 326 |   2.72%
+Sharpedom  | 299 |   2.49%
+Milotic    | 294 |   2.45%
+Feraligatr | 293 |   2.44%
+Dondozo    | 285 |   2.38%
+Urshifur   | 278 |   2.32%
+Inteleon   | 274 |   2.28%
+Samurott   | 270 |   2.25%
+Blastoise  | 267 |   2.23%
+Golduck    | 263 |   2.19%
+Vaporeon   | 255 |   2.12%
+Baraskewda | 239 |   1.99%
+Primarina  | 237 |   1.98%
+Wailord    | 237 |   1.98%
+Politoed   | 235 |   1.96%
+Simipour   | 234 |   1.95%
+Clawitzer  | 234 |   1.95%
+Lapras     | 229 |   1.91%
+Floatzel   | 229 |   1.91%
+Empoleon   | 229 |   1.91%
+Walrein    | 221 |   1.84%
+Greninja   | 218 |   1.82%
+Swampert   | 217 |   1.81%
+Basclegiof | 214 |   1.78%
+Basclegion | 213 |   1.77%
+Ogerponw   | 213 |   1.77%
+Quaquaval  | 211 |   1.76%
+Arctovish  | 196 |   1.63%
+Samurotth  | 193 |   1.61%
+Poliwrath  | 189 |   1.57%
+Starmie    | 185 |   1.54%
+Gyarados   | 185 |   1.54%
+Tentacruel | 184 |   1.53%
+Golisopod  | 184 |   1.53%
+Dracovish  | 182 |   1.52%
+Slowbro    | 177 |   1.47%
+Seismitoad | 169 |   1.41%
+Cloyster   | 166 |   1.38%
+Carracosta | 164 |   1.37%
+Rotomw     | 157 |   1.31%
+Barbaracle | 157 |   1.31%
+Kabutops   | 157 |   1.31%
+Omastar    | 155 |   1.29%
+Taurospw   | 153 |   1.27%
+Toxapex    | 149 |   1.24%
+Slowking   | 130 |   1.08%
+Manaphy    |   6 |   0.05%
+Volcanion  |   5 |   0.04%
+Lumineon   |   2 |   0.02%
+Basculin   |   1 |   0.01%
+Basculinb  |   1 |   0.01%
+Kingler    |   1 |   0.01%
+Cramorant  |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

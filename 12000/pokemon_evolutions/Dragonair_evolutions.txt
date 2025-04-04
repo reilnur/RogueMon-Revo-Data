@@ -1,0 +1,29 @@
+Evolutions from Dragonair (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Goodra     | 648 |   5.40%
+Haxorus    | 604 |   5.03%
+Salamence  | 591 |   4.92%
+Archaludon | 585 |   4.88%
+Baxcalibur | 564 |   4.70%
+Goodrah    | 562 |   4.68%
+Latios     | 559 |   4.66%
+Garchomp   | 551 |   4.59%
+Dragapult  | 549 |   4.58%
+Kommo-O    | 542 |   4.52%
+Regidrago  | 538 |   4.48%
+Hydreigon  | 536 |   4.47%
+Altariam   | 533 |   4.44%
+Ragingbolt | 522 |   4.35%
+Zygarde    | 518 |   4.32%
+Latias     | 512 |   4.27%
+Gouginfire | 510 |   4.25%
+Guzzlord   | 501 |   4.17%
+Roarinmoon | 500 |   4.17%
+Walkinwake | 469 |   3.91%
+Hydrapple  | 384 |   3.20%
+Naganadel  | 372 |   3.10%
+Kingdra    | 350 |   2.92%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

@@ -1,0 +1,45 @@
+Evolutions from Marowak (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Great Tusk | 569 |   4.74%
+Ting-Lu    | 520 |   4.33%
+Sandyshock | 507 |   4.23%
+Irontreads | 494 |   4.12%
+Hippowdon  | 487 |   4.06%
+Sandaconda | 482 |   4.02%
+Donphan    | 478 |   3.98%
+Mudsdale   | 474 |   3.95%
+Flygon     | 446 |   3.72%
+Mamoswine  | 398 |   3.32%
+Krookodile | 394 |   3.28%
+Excadrill  | 389 |   3.24%
+Cameruptm  | 379 |   3.16%
+Zygarde10  | 359 |   2.99%
+Steelix    | 354 |   2.95%
+Rhyperior  | 345 |   2.88%
+Gliscor    | 345 |   2.88%
+Rhydon     | 336 |   2.80%
+Palossand  | 335 |   2.79%
+Golurk     | 329 |   2.74%
+Torterra   | 323 |   2.69%
+Gastrodon  | 316 |   2.63%
+Runerigus  | 311 |   2.59%
+Swampert   | 311 |   2.59%
+Golem      | 303 |   2.53%
+Claydol    | 295 |   2.46%
+Toedscruel | 295 |   2.46%
+Seismitoad | 294 |   2.45%
+Nidoqueen  | 281 |   2.34%
+Ursalunab  | 274 |   2.28%
+Ursaluna   | 272 |   2.27%
+Nidoking   | 265 |   2.21%
+Landorus   |  13 |   0.11%
+Zygarde    |   8 |   0.07%
+Landorust  |   7 |   0.06%
+Sandslash  |   5 |   0.04%
+Garchomp   |   5 |   0.04%
+Camerupt   |   1 |   0.01%
+Piloswine  |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

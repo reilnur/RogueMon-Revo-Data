@@ -1,0 +1,40 @@
+Evolutions from Persiana (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Absolm     | 588 |   4.90%
+Ironjuglis | 532 |   4.43%
+Moltresg   | 516 |   4.30%
+Chien-Pao  | 484 |   4.03%
+Mabosstiff | 471 |   3.92%
+Zoroark    | 465 |   3.88%
+Roarinmoon | 464 |   3.87%
+Umbreon    | 443 |   3.69%
+Guzzlord   | 423 |   3.52%
+Brutebonet | 415 |   3.46%
+Wo-Chien   | 411 |   3.43%
+Ting-Lu    | 409 |   3.41%
+Kingambit  | 389 |   3.24%
+Chi-Yu     | 386 |   3.22%
+Urshifu    | 374 |   3.12%
+Bisharp    | 373 |   3.11%
+Mandibuzz  | 329 |   2.74%
+Sharpedom  | 327 |   2.73%
+Weavile    | 318 |   2.65%
+Grimmsnarl | 316 |   2.63%
+Meowscrada | 311 |   2.59%
+Scrafty    | 301 |   2.51%
+Honchkrow  | 297 |   2.48%
+Incineroar | 293 |   2.44%
+Drapion    | 283 |   2.36%
+Houndoom   | 278 |   2.32%
+Samurotth  | 271 |   2.26%
+Krookodile | 270 |   2.25%
+Pangoro    | 266 |   2.22%
+Muka       | 262 |   2.18%
+Greninja   | 262 |   2.18%
+Overqwil   | 255 |   2.12%
+Obstagoon  | 217 |   1.81%
+Malamar    |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

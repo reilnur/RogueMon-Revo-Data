@@ -1,0 +1,53 @@
+Evolutions from Silicobra (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Hippowdon  | 581 |   4.84%
+Donphan    | 572 |   4.77%
+Mudsdale   | 552 |   4.60%
+Flygon     | 501 |   4.17%
+Cameruptm  | 448 |   3.73%
+Mamoswine  | 442 |   3.68%
+Camerupt   | 436 |   3.63%
+Excadrill  | 435 |   3.62%
+Steelix    | 420 |   3.50%
+Rhyperior  | 405 |   3.38%
+Krookodile | 397 |   3.31%
+Stunfiskg  | 389 |   3.24%
+Zygarde10  | 389 |   3.24%
+Golurk     | 363 |   3.02%
+Gliscor    | 360 |   3.00%
+Runerigus  | 355 |   2.96%
+Torterra   | 346 |   2.88%
+Swampert   | 345 |   2.88%
+Whiscash   | 337 |   2.81%
+Nidoking   | 336 |   2.80%
+Gastrodon  | 335 |   2.79%
+Ursalunab  | 333 |   2.77%
+Stunfisk   | 332 |   2.77%
+Rhydon     | 330 |   2.75%
+Claydol    | 323 |   2.69%
+Toedscruel | 321 |   2.67%
+Golem      | 321 |   2.67%
+Nidoqueen  | 301 |   2.51%
+Ursaluna   | 301 |   2.51%
+Palossand  | 295 |   2.46%
+Seismitoad | 275 |   2.29%
+Ting-Lu    |  21 |   0.18%
+Sandslash  |  18 |   0.15%
+Great Tusk |  17 |   0.14%
+Irontreads |  17 |   0.14%
+Sandyshock |  11 |   0.09%
+Piloswine  |   8 |   0.07%
+Garchomp   |   6 |   0.05%
+Pupitar    |   5 |   0.04%
+Landorus   |   5 |   0.04%
+Zygarde    |   5 |   0.04%
+Landorust  |   4 |   0.03%
+Marowak    |   3 |   0.03%
+Dugtrio    |   1 |   0.01%
+Dugtrioa   |   1 |   0.01%
+Wormadams  |   1 |   0.01%
+Gabite     |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

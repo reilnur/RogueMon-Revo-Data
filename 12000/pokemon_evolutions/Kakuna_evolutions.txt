@@ -1,0 +1,43 @@
+Evolutions from Kakuna (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Nidorino   | 668 |   5.57%
+Nidorina   | 643 |   5.36%
+Poipole    | 640 |   5.33%
+Haunter    | 609 |   5.08%
+Larvesta   | 507 |   4.23%
+Spidops    | 441 |   3.67%
+Sneaselh   | 437 |   3.64%
+Clodsire   | 432 |   3.60%
+Whirlipede | 429 |   3.57%
+Mothim     | 425 |   3.54%
+Kricketune | 422 |   3.52%
+Beautifly  | 396 |   3.30%
+Ivysaur    | 393 |   3.28%
+Roselia    | 390 |   3.25%
+Gloom      | 383 |   3.19%
+Volbeat    | 383 |   3.19%
+Weepinbell | 372 |   3.10%
+Illumise   | 353 |   2.94%
+Charjabug  | 343 |   2.86%
+Ledian     | 342 |   2.85%
+Vivillon   | 328 |   2.73%
+Yanma      | 317 |   2.64%
+Butterfree | 314 |   2.62%
+Swadloon   | 314 |   2.62%
+Wormadamt  | 311 |   2.59%
+Dustox     | 309 |   2.57%
+Ariados    | 293 |   2.44%
+Wormadams  | 282 |   2.35%
+Parasect   | 256 |   2.13%
+Wormadam   | 240 |   2.00%
+Glimmet    |  10 |   0.08%
+Koffing    |   8 |   0.07%
+Arbok      |   4 |   0.03%
+Anorith    |   2 |   0.02%
+Qwilfishh  |   2 |   0.02%
+Qwilfish   |   1 |   0.01%
+Oddish     |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

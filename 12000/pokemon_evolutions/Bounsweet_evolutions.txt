@@ -1,0 +1,30 @@
+Evolutions from Bounsweet (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Shroomish  | 546 |   4.55%
+Budew      | 538 |   4.48%
+Cherubi    | 525 |   4.38%
+Snivy      | 522 |   4.35%
+Petilil    | 518 |   4.32%
+Ferroseed  | 510 |   4.25%
+Cottonee   | 507 |   4.23%
+Pansage    | 506 |   4.22%
+Foongus    | 506 |   4.22%
+Turtwig    | 501 |   4.17%
+Paras      | 499 |   4.16%
+Grookey    | 499 |   4.16%
+Bellsprout | 499 |   4.16%
+Bramblin   | 499 |   4.16%
+Sprigatito | 499 |   4.16%
+Polchgeist | 495 |   4.12%
+Capsakid   | 494 |   4.12%
+Morelull   | 492 |   4.10%
+Chespin    | 484 |   4.03%
+Bulbasaur  | 482 |   4.02%
+Chikorita  | 479 |   3.99%
+Treecko    | 476 |   3.97%
+Phantump   | 473 |   3.94%
+Sewaddle   | 451 |   3.76%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

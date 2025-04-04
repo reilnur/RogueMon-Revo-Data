@@ -1,0 +1,64 @@
+Evolutions from Servine (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Virizion   | 343 |   2.86%
+Ogerpon    | 339 |   2.83%
+Tangrowth  | 325 |   2.71%
+Brutebonet | 325 |   2.71%
+Kartana    | 302 |   2.52%
+Tapu Bulu  | 300 |   2.50%
+Sceptile   | 293 |   2.44%
+Wo-Chien   | 292 |   2.43%
+Exeggutora | 282 |   2.35%
+Gogoat     | 276 |   2.30%
+Rillaboom  | 269 |   2.24%
+Leafeon    | 253 |   2.11%
+Cherrims   | 251 |   2.09%
+Meganium   | 250 |   2.08%
+Lurantis   | 247 |   2.06%
+Tsareena   | 244 |   2.03%
+Simisage   | 238 |   1.98%
+Exeggutor  | 235 |   1.96%
+Decidueyeh | 232 |   1.93%
+Ogerponr   | 231 |   1.93%
+Hydrapple  | 228 |   1.90%
+Appletun   | 227 |   1.89%
+Lilligant  | 215 |   1.79%
+Bellossom  | 214 |   1.78%
+Chesnaught | 214 |   1.78%
+Meowscrada | 212 |   1.77%
+Flapple    | 209 |   1.74%
+Decidueye  | 205 |   1.71%
+Sinistcha  | 198 |   1.65%
+Ogerponf   | 195 |   1.62%
+Dipplin    | 195 |   1.62%
+Bramblgast | 193 |   1.61%
+Dhelmise   | 192 |   1.60%
+Ogerponw   | 189 |   1.57%
+Gourgeistl | 186 |   1.55%
+Abomasnow  | 182 |   1.52%
+Whimsicott | 174 |   1.45%
+Gourgeist  | 174 |   1.45%
+Shiftry    | 173 |   1.44%
+Venusaur   | 172 |   1.43%
+Ferrothorn | 171 |   1.43%
+Gourgeists | 170 |   1.42%
+Toedscruel | 169 |   1.41%
+Torterra   | 169 |   1.41%
+Roserade   | 158 |   1.32%
+Cradily    | 156 |   1.30%
+Gourgeistx | 155 |   1.29%
+Vileplume  | 149 |   1.24%
+Scovillain | 148 |   1.23%
+Lilliganth | 146 |   1.22%
+Calyrex    | 144 |   1.20%
+Electrodeh | 144 |   1.20%
+Rotomm     | 140 |   1.17%
+Victreebel | 140 |   1.17%
+Ludicolo   | 131 |   1.09%
+Leavanny   | 122 |   1.02%
+Arboliva   | 113 |   0.94%
+Cherrim    |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

@@ -1,0 +1,42 @@
+Evolutions from Liepard (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Darkrai    | 552 |   4.60%
+Houndoomm  | 534 |   4.45%
+Zarude     | 497 |   4.14%
+Tyranitar  | 485 |   4.04%
+Absolm     | 455 |   3.79%
+Hydreigon  | 437 |   3.64%
+Moltresg   | 419 |   3.49%
+Chien-Pao  | 402 |   3.35%
+Ironjuglis | 398 |   3.32%
+Umbreon    | 386 |   3.22%
+Roarinmoon | 385 |   3.21%
+Zoroark    | 385 |   3.21%
+Mabosstiff | 377 |   3.14%
+Guzzlord   | 373 |   3.11%
+Ting-Lu    | 360 |   3.00%
+Brutebonet | 353 |   2.94%
+Wo-Chien   | 347 |   2.89%
+Urshifu    | 347 |   2.89%
+Chi-Yu     | 331 |   2.76%
+Kingambit  | 306 |   2.55%
+Sharpedom  | 286 |   2.38%
+Grimmsnarl | 277 |   2.31%
+Weavile    | 277 |   2.31%
+Incineroar | 276 |   2.30%
+Meowscrada | 262 |   2.18%
+Krookodile | 259 |   2.16%
+Pangoro    | 254 |   2.12%
+Samurotth  | 251 |   2.09%
+Mandibuzz  | 249 |   2.08%
+Honchkrow  | 235 |   1.96%
+Houndoom   | 226 |   1.88%
+Greninja   | 220 |   1.83%
+Overqwil   | 216 |   1.80%
+Drapion    | 209 |   1.74%
+Muka       | 206 |   1.72%
+Obstagoon  | 168 |   1.40%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

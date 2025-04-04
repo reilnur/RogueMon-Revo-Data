@@ -1,0 +1,52 @@
+Evolutions from Mudbray (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Sandslash  | 590 |   4.92%
+Sandaconda | 581 |   4.84%
+Hippowdon  | 549 |   4.58%
+Flygon     | 496 |   4.13%
+Donphan    | 492 |   4.10%
+Excadrill  | 454 |   3.78%
+Steelix    | 445 |   3.71%
+Rhyperior  | 431 |   3.59%
+Piloswine  | 416 |   3.47%
+Mamoswine  | 415 |   3.46%
+Zygarde10  | 412 |   3.43%
+Stunfiskg  | 405 |   3.38%
+Krookodile | 382 |   3.18%
+Camerupt   | 360 |   3.00%
+Palossand  | 348 |   2.90%
+Gliscor    | 347 |   2.89%
+Runerigus  | 346 |   2.88%
+Rhydon     | 342 |   2.85%
+Gastrodon  | 339 |   2.83%
+Golurk     | 335 |   2.79%
+Stunfisk   | 334 |   2.78%
+Torterra   | 330 |   2.75%
+Claydol    | 329 |   2.74%
+Whiscash   | 329 |   2.74%
+Toedscruel | 322 |   2.68%
+Nidoqueen  | 314 |   2.62%
+Ursaluna   | 302 |   2.52%
+Golem      | 296 |   2.47%
+Nidoking   | 295 |   2.46%
+Swampert   | 294 |   2.45%
+Seismitoad | 273 |   2.27%
+Marowak    |  16 |   0.13%
+Sandyshock |  12 |   0.10%
+Irontreads |  10 |   0.08%
+Gligar     |  10 |   0.08%
+Dugtrioa   |   9 |   0.07%
+Ting-Lu    |   8 |   0.07%
+Great Tusk |   7 |   0.06%
+Clodsire   |   6 |   0.05%
+Dugtrio    |   6 |   0.05%
+Cameruptm  |   5 |   0.04%
+Landorust  |   2 |   0.02%
+Quagsire   |   2 |   0.02%
+Landorus   |   2 |   0.02%
+Gabite     |   1 |   0.01%
+Zygarde    |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

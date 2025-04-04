@@ -1,0 +1,34 @@
+Evolutions from Purrloin (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Mightyena  | 782 |   6.52%
+Persiana   | 721 |   6.01%
+Absol      | 653 |   5.44%
+Thievul    | 649 |   5.41%
+Murkrow    | 638 |   5.32%
+Morpekoh   | 598 |   4.98%
+Morpeko    | 576 |   4.80%
+Sneasel    | 544 |   4.53%
+Raticatea  | 534 |   4.45%
+Linooneg   | 512 |   4.27%
+Qwilfishh  | 502 |   4.18%
+Bisharp    | 493 |   4.11%
+Spiritomb  | 448 |   3.73%
+Zweilous   | 426 |   3.55%
+Cacturne   | 422 |   3.52%
+Bombirdier | 419 |   3.49%
+Malamar    | 411 |   3.43%
+Scrafty    | 409 |   3.41%
+Skuntank   | 396 |   3.30%
+Sableyem   | 394 |   3.28%
+Crawdaunt  | 377 |   3.14%
+Sharpedo   | 373 |   3.11%
+Lokix      | 365 |   3.04%
+Shiftry    | 351 |   2.93%
+Zoroark    |   4 |   0.03%
+Weavile    |   1 |   0.01%
+Sableye    |   1 |   0.01%
+Vullaby    |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

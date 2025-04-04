@@ -1,0 +1,58 @@
+Evolutions from Pachirisu (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Electivire | 565 |   4.71%
+Manectric  | 521 |   4.34%
+Bellibolt  | 476 |   3.97%
+Luxray     | 457 |   3.81%
+Eelektross | 453 |   3.77%
+Electabuzz | 451 |   3.76%
+Electrode  | 448 |   3.73%
+Raichu     | 438 |   3.65%
+Zebstrika  | 437 |   3.64%
+Jolteon    | 437 |   3.64%
+Boltund    | 431 |   3.59%
+Ampharos   | 415 |   3.46%
+Dracozolt  | 379 |   3.16%
+Magnezone  | 376 |   3.13%
+Magneton   | 331 |   2.76%
+Stunfisk   | 327 |   2.73%
+Oricorioe  | 316 |   2.63%
+Rotomfr    | 312 |   2.60%
+Pawmot     | 306 |   2.55%
+Raichua    | 303 |   2.53%
+Golema     | 297 |   2.48%
+Galvantula | 294 |   2.45%
+Rotomfa    | 287 |   2.39%
+Arctozolt  | 286 |   2.38%
+Rotomh     | 285 |   2.38%
+Lanturn    | 282 |   2.35%
+Kilowattrl | 278 |   2.32%
+Toxtricitl | 270 |   2.25%
+Heliolisk  | 257 |   2.14%
+Vikavolt   | 255 |   2.12%
+Toxtricity | 254 |   2.12%
+Rotomm     | 245 |   2.04%
+Rotomw     | 218 |   1.82%
+Electrodeh | 211 |   1.76%
+Thundurust |  11 |   0.09%
+Iron Hands |   9 |   0.07%
+Xurkitree  |   9 |   0.07%
+Regieleki  |   9 |   0.07%
+Zapdos     |   7 |   0.06%
+Tapu Koko  |   7 |   0.06%
+Manectricm |   7 |   0.06%
+Pincurchin |   7 |   0.06%
+Raikou     |   7 |   0.06%
+Thundurus  |   5 |   0.04%
+Togedemaru |   5 |   0.04%
+Ironthorns |   4 |   0.03%
+Rotom      |   4 |   0.03%
+Morpekoh   |   3 |   0.03%
+Pikachup   |   3 |   0.03%
+Sandyshock |   2 |   0.02%
+Morpeko    |   2 |   0.02%
+Dedenne    |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

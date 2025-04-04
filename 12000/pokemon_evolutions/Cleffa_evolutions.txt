@@ -1,0 +1,14 @@
+Evolutions from Cleffa (out of approximately 12000):
+Pok�mon   | Count | Percentage
+--------------------------
+Fidough   | 1641 |  13.68%
+Snubbull  | 1573 |  13.11%
+Mime Jr.  | 1562 |  13.02%
+Tinkatink | 1526 |  12.72%
+Spritzee  | 1478 |  12.32%
+Flabébé | 1453 |  12.11%
+Cutiefly  | 1424 |  11.87%
+Swirlix   | 1343 |  11.19%
+--------------------------
+TOTAL     | 12000 | 100.00%
+

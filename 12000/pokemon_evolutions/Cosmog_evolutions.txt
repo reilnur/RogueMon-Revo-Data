@@ -1,0 +1,34 @@
+Evolutions from Cosmog (out of approximately 12000):
+Pokémon   | Count | Percentage
+--------------------------
+Gothorita | 1438 |  11.98%
+Ponytag   | 1434 |  11.95%
+Duosion   | 1424 |  11.87%
+Hattrem   | 1423 |  11.86%
+Wobbuffet | 1382 |  11.52%
+Kadabra   | 1380 |  11.50%
+Swoobat   | 1143 |   9.53%
+Medicham  | 1094 |   9.12%
+Metang    |  987 |   8.22%
+Espurr    |   90 |   0.75%
+Chimecho  |   47 |   0.39%
+Jynx      |   32 |   0.27%
+Lunatone  |   22 |   0.18%
+Mr. Mimeg |   22 |   0.18%
+Mr. Mime  |   21 |   0.18%
+Girafarig |   15 |   0.12%
+Solrock   |   12 |   0.10%
+Exeggcute |    7 |   0.06%
+Spoink    |    5 |   0.04%
+Unown     |    4 |   0.03%
+Meowsticf |    4 |   0.03%
+Woobat    |    4 |   0.03%
+Elgyem    |    3 |   0.03%
+Dottler   |    2 |   0.02%
+Grumpig   |    2 |   0.02%
+Drowzee   |    1 |   0.01%
+Natu      |    1 |   0.01%
+Meowstic  |    1 |   0.01%
+--------------------------
+TOTAL     | 12000 | 100.00%
+

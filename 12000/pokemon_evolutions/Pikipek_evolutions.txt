@@ -1,0 +1,37 @@
+Evolutions from Pikipek (out of approximately 12000):
+Pokémon      | Count | Percentage
+----------------------------
+Woobat       | 504 |   4.20%
+Natu         | 480 |   4.00%
+Delibird     | 472 |   3.93%
+Rowlet       | 456 |   3.80%
+Teddiursa    | 445 |   3.71%
+Drifloon     | 437 |   3.64%
+Eevee        | 428 |   3.57%
+Loudred      | 425 |   3.54%
+Skiploom     | 423 |   3.52%
+Mantyke      | 423 |   3.52%
+Stufful      | 421 |   3.51%
+Staravia     | 420 |   3.50%
+Buneary      | 416 |   3.47%
+Zoruah       | 414 |   3.45%
+Rufflet      | 406 |   3.38%
+Herdier      | 400 |   3.33%
+Aipom        | 400 |   3.33%
+Vullaby      | 396 |   3.30%
+Corvsquire   | 389 |   3.24%
+Deerling     | 382 |   3.18%
+Tranquill    | 369 |   3.08%
+Spinda       | 368 |   3.07%
+Pidgeotto    | 360 |   3.00%
+Munchlax     | 349 |   2.91%
+Dolliv       | 347 |   2.89%
+Farfetchâ€™d | 333 |   2.77%
+Lickitung    | 324 |   2.70%
+Flechinder   | 287 |   2.39%
+Litleo       | 280 |   2.33%
+Ledian       | 229 |   1.91%
+Yanma        | 217 |   1.81%
+----------------------------
+TOTAL        | 12000 | 100.00%
+

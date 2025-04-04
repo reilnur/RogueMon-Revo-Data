@@ -1,0 +1,21 @@
+Evolutions from Pikachuc (out of approximately 12000):
+Pokémon    | Count | Percentage
+---------------------------
+Eelektrik  | 1090 |   9.08%
+Minun      | 1040 |   8.67%
+Pikachup   | 1016 |   8.47%
+Plusle     | 1012 |   8.43%
+Pachirisu  | 1003 |   8.36%
+Pincurchin |  964 |   8.03%
+Emolga     |  760 |   6.33%
+Morpeko    |  738 |   6.15%
+Morpekoh   |  704 |   5.87%
+Rotom      |  694 |   5.78%
+Dedenne    |  686 |   5.72%
+Togedemaru |  674 |   5.62%
+Gravelera  |  666 |   5.55%
+Charjabug  |  495 |   4.12%
+Lanturn    |  458 |   3.82%
+---------------------------
+TOTAL      | 12000 | 100.00%
+

@@ -1,0 +1,52 @@
+Evolutions from Zorua (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Absol      | 591 |   4.92%
+Mabosstiff | 569 |   4.74%
+Umbreon    | 529 |   4.41%
+Kingambit  | 496 |   4.13%
+Urshifu    | 452 |   3.77%
+Weavile    | 418 |   3.48%
+Sharpedom  | 416 |   3.47%
+Grimmsnarl | 413 |   3.44%
+Bisharp    | 405 |   3.38%
+Incineroar | 387 |   3.23%
+Spiritomb  | 379 |   3.16%
+Sableyem   | 376 |   3.13%
+Pangoro    | 376 |   3.13%
+Honchkrow  | 373 |   3.11%
+Mandibuzz  | 370 |   3.08%
+Houndoom   | 365 |   3.04%
+Malamar    | 354 |   2.95%
+Bombirdier | 353 |   2.94%
+Skuntank   | 346 |   2.88%
+Krookodile | 343 |   2.86%
+Meowscrada | 340 |   2.83%
+Greninja   | 327 |   2.73%
+Samurotth  | 327 |   2.73%
+Scrafty    | 322 |   2.68%
+Overqwil   | 309 |   2.57%
+Crawdaunt  | 305 |   2.54%
+Drapion    | 305 |   2.54%
+Cacturne   | 304 |   2.53%
+Shiftry    | 293 |   2.44%
+Muka       | 284 |   2.37%
+Sharpedo   | 272 |   2.27%
+Obstagoon  | 248 |   2.07%
+Persiana   |   8 |   0.07%
+Liepard    |   7 |   0.06%
+Moltresg   |   7 |   0.06%
+Ironjuglis |   6 |   0.05%
+Absolm     |   5 |   0.04%
+Morpeko    |   4 |   0.03%
+Morpekoh   |   4 |   0.03%
+Ting-Lu    |   2 |   0.02%
+Qwilfishh  |   2 |   0.02%
+Wo-Chien   |   2 |   0.02%
+Chi-Yu     |   2 |   0.02%
+Thievul    |   2 |   0.02%
+Brutebonet |   1 |   0.01%
+Chien-Pao  |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

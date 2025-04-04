@@ -1,0 +1,34 @@
+Evolutions from Starly (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Glameow    | 517 |   4.31%
+Doduo      | 482 |   4.02%
+Corvsquire | 480 |   4.00%
+Rowlet     | 478 |   3.98%
+Natu       | 476 |   3.97%
+Teddiursa  | 469 |   3.91%
+Woobat     | 469 |   3.91%
+Eevee      | 466 |   3.88%
+Swablu     | 465 |   3.88%
+Herdier    | 444 |   3.70%
+Delibird   | 442 |   3.68%
+Spinda     | 434 |   3.62%
+Zoruah     | 428 |   3.57%
+Mantyke    | 426 |   3.55%
+Skiploom   | 424 |   3.53%
+Drifloon   | 424 |   3.53%
+Vullaby    | 411 |   3.43%
+Trumbeak   | 410 |   3.42%
+Loudred    | 403 |   3.36%
+Buneary    | 400 |   3.33%
+Stufful    | 399 |   3.33%
+Tranquill  | 397 |   3.31%
+Pidgeotto  | 396 |   3.30%
+Deerling   | 392 |   3.27%
+Dolliv     | 391 |   3.26%
+Aipom      | 388 |   3.23%
+Rufflet    | 369 |   3.08%
+Litleo     | 320 |   2.67%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

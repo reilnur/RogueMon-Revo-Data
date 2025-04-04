@@ -1,0 +1,49 @@
+Evolutions from Meowth (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Raticate   | 427 |   3.56%
+Dunsparce  | 423 |   3.52%
+Delcatty   | 416 |   3.47%
+Linoone    | 407 |   3.39%
+Watchog    | 391 |   3.26%
+Furret     | 381 |   3.17%
+Chatot     | 378 |   3.15%
+Castform   | 368 |   3.07%
+Gumshoos   | 360 |   3.00%
+Vigoroth   | 351 |   2.93%
+Raticatea  | 350 |   2.92%
+Squawkbily | 344 |   2.87%
+Purugly    | 322 |   2.68%
+Audino     | 320 |   2.67%
+Greedent   | 314 |   2.62%
+Eeveep     | 311 |   2.59%
+Linooneg   | 310 |   2.58%
+Stantler   | 310 |   2.58%
+Zangoose   | 310 |   2.58%
+Kecleon    | 288 |   2.40%
+Chansey    | 282 |   2.35%
+Lopunny    | 277 |   2.31%
+Terapagos  | 274 |   2.28%
+Komala     | 267 |   2.23%
+Maushold   | 262 |   2.18%
+Noctowl    | 259 |   2.16%
+Fearow     | 258 |   2.15%
+Cinccino   | 256 |   2.13%
+Wigglytuff | 244 |   2.03%
+Girafarig  | 236 |   1.97%
+Furfrou    | 236 |   1.97%
+Swellow    | 235 |   1.96%
+Ambipom    | 235 |   1.96%
+Bibarel    | 225 |   1.88%
+Diggersby  | 225 |   1.88%
+Dodrio     | 220 |   1.83%
+Pidgeot    | 211 |   1.76%
+Heliolisk  | 188 |   1.57%
+Sawsbuck   | 182 |   1.52%
+Indeedee   | 181 |   1.51%
+Indeedeef  | 164 |   1.37%
+Lickitung  |   1 |   0.01%
+Porygon    |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

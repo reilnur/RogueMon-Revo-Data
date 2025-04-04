@@ -1,0 +1,53 @@
+Evolutions from Archen (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Tornadust  | 364 |   3.03%
+Pinsirm    | 357 |   2.97%
+Regirock   | 350 |   2.92%
+Diancie    | 346 |   2.88%
+Landorus   | 336 |   2.80%
+Shaymins   | 334 |   2.78%
+Tornadus   | 331 |   2.76%
+Enamorus   | 330 |   2.75%
+Landorust  | 326 |   2.72%
+Tyranitar  | 322 |   2.68%
+Enamorust  | 310 |   2.58%
+Terrakion  | 307 |   2.56%
+Ironbouldr | 307 |   2.56%
+Articuno   | 306 |   2.55%
+Dragonite  | 293 |   2.44%
+Articunog  | 291 |   2.43%
+Thundurust | 291 |   2.43%
+Zapdosg    | 287 |   2.39%
+Thundurus  | 287 |   2.39%
+Salamence  | 278 |   2.32%
+Ironjuglis | 277 |   2.31%
+Ironthorns | 264 |   2.20%
+Noivern    | 263 |   2.19%
+Moltresg   | 262 |   2.18%
+Zapdos     | 260 |   2.17%
+Nihilego   | 257 |   2.14%
+Stakataka  | 250 |   2.08%
+Celesteela | 241 |   2.01%
+Gigalith   | 239 |   1.99%
+Pidgeotm   | 231 |   1.93%
+Moltres    | 229 |   1.91%
+Togekiss   | 226 |   1.88%
+Tyrantrum  | 216 |   1.80%
+Arcanineh  | 213 |   1.77%
+Ogerponr   | 202 |   1.68%
+Charizard  | 198 |   1.65%
+Gyarados   | 195 |   1.62%
+Aggron     | 189 |   1.57%
+Probopass  | 185 |   1.54%
+Avaluggh   | 181 |   1.51%
+Crobat     | 169 |   1.41%
+Aurorus    | 168 |   1.40%
+Yanmega    | 159 |   1.32%
+Rhyperior  | 152 |   1.27%
+Aerodactyl | 142 |   1.18%
+Rotomfa    | 140 |   1.17%
+Glimmora   | 139 |   1.16%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

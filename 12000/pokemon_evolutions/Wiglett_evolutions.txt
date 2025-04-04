@@ -1,0 +1,45 @@
+Evolutions from Wiglett (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Poliwhirl  | 546 |   4.55%
+Wailmer    | 492 |   4.10%
+Pyukumuku  | 473 |   3.94%
+Frogadier  | 469 |   3.91%
+Wartortle  | 468 |   3.90%
+Quaxwell   | 442 |   3.68%
+Prinplup   | 438 |   3.65%
+Croconaw   | 438 |   3.65%
+Drizzile   | 436 |   3.63%
+Seaking    | 432 |   3.60%
+Basculinb  | 431 |   3.59%
+Dewott     | 429 |   3.57%
+Palafin    | 427 |   3.56%
+Brionne    | 427 |   3.56%
+Castformw  | 417 |   3.48%
+Lumineon   | 407 |   3.39%
+Palpitoad  | 405 |   3.38%
+Basculin   | 393 |   3.28%
+Basculinw  | 391 |   3.26%
+Marshtomp  | 360 |   3.00%
+Corsola    | 348 |   2.90%
+Azumarill  | 343 |   2.86%
+Sealeo     | 339 |   2.83%
+Bibarel    | 322 |   2.68%
+Pelipper   | 321 |   2.67%
+Seadra     | 319 |   2.66%
+Quagsire   | 289 |   2.41%
+Qwilfish   | 278 |   2.32%
+Lanturn    | 266 |   2.22%
+Sharpedo   | 250 |   2.08%
+Araquanid  | 194 |   1.62%
+Bruxish    |   2 |   0.02%
+Phione     |   2 |   0.02%
+Huntail    |   1 |   0.01%
+Crawdaunt  |   1 |   0.01%
+Baraskewda |   1 |   0.01%
+Alomomola  |   1 |   0.01%
+Omanyte    |   1 |   0.01%
+Octillery  |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

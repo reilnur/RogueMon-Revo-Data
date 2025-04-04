@@ -1,0 +1,41 @@
+Evolutions from Nickit (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Mightyena  | 794 |   6.62%
+Liepard    | 668 |   5.57%
+Persiana   | 667 |   5.56%
+Absol      | 626 |   5.22%
+Morpeko    | 582 |   4.85%
+Morpekoh   | 569 |   4.74%
+Sneasel    | 493 |   4.11%
+Qwilfishh  | 490 |   4.08%
+Linooneg   | 474 |   3.95%
+Raticatea  | 464 |   3.87%
+Bisharp    | 451 |   3.76%
+Spiritomb  | 421 |   3.51%
+Sableyem   | 405 |   3.38%
+Pangoro    | 396 |   3.30%
+Zweilous   | 387 |   3.23%
+Scrafty    | 385 |   3.21%
+Houndoom   | 375 |   3.12%
+Bombirdier | 375 |   3.12%
+Muka       | 364 |   3.03%
+Cacturne   | 357 |   2.97%
+Malamar    | 351 |   2.93%
+Drapion    | 332 |   2.77%
+Crawdaunt  | 327 |   2.73%
+Skuntank   | 322 |   2.68%
+Shiftry    | 314 |   2.62%
+Lokix      | 301 |   2.51%
+Sharpedo   | 292 |   2.43%
+Murkrow    |   5 |   0.04%
+Grimmsnarl |   3 |   0.03%
+Mabosstiff |   2 |   0.02%
+Mandibuzz  |   2 |   0.02%
+Overqwil   |   2 |   0.02%
+Zoroark    |   2 |   0.02%
+Krookodile |   1 |   0.01%
+Umbreon    |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

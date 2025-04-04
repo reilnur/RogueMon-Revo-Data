@@ -1,0 +1,55 @@
+Evolutions from Drilbur (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Sandaconda | 629 |   5.24%
+Hippowdon  | 607 |   5.06%
+Donphan    | 598 |   4.98%
+Flygon     | 558 |   4.65%
+Mudsdale   | 531 |   4.42%
+Mamoswine  | 468 |   3.90%
+Zygarde10  | 454 |   3.78%
+Krookodile | 431 |   3.59%
+Stunfiskg  | 428 |   3.57%
+Steelix    | 397 |   3.31%
+Camerupt   | 387 |   3.23%
+Golurk     | 384 |   3.20%
+Gliscor    | 365 |   3.04%
+Rhydon     | 364 |   3.03%
+Stunfisk   | 362 |   3.02%
+Rhyperior  | 358 |   2.98%
+Palossand  | 355 |   2.96%
+Golem      | 353 |   2.94%
+Runerigus  | 346 |   2.88%
+Claydol    | 344 |   2.87%
+Toedscruel | 339 |   2.83%
+Torterra   | 336 |   2.80%
+Whiscash   | 331 |   2.76%
+Swampert   | 315 |   2.62%
+Gastrodon  | 313 |   2.61%
+Ursaluna   | 312 |   2.60%
+Seismitoad | 312 |   2.60%
+Nidoking   | 301 |   2.51%
+Nidoqueen  | 296 |   2.47%
+Ursalunab  | 275 |   2.29%
+Sandyshock |  25 |   0.21%
+Great Tusk |  23 |   0.19%
+Sandslash  |  23 |   0.19%
+Irontreads |  17 |   0.14%
+Ting-Lu    |  17 |   0.14%
+Cameruptm  |  12 |   0.10%
+Landorus   |   7 |   0.06%
+Piloswine  |   6 |   0.05%
+Landorust  |   3 |   0.03%
+Garchomp   |   3 |   0.03%
+Clodsire   |   2 |   0.02%
+Pupitar    |   2 |   0.02%
+Zygarde    |   2 |   0.02%
+Dugtrioa   |   2 |   0.02%
+Gligar     |   2 |   0.02%
+Marowak    |   2 |   0.02%
+Dugtrio    |   1 |   0.01%
+Diggersby  |   1 |   0.01%
+Gabite     |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

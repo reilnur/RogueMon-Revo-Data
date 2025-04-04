@@ -1,0 +1,70 @@
+Evolutions from Sandslasha (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Scizorm    | 299 |   2.49%
+Melmetal   | 290 |   2.42%
+Abomasnowm | 272 |   2.27%
+Iron Crown | 271 |   2.26%
+Magearna   | 266 |   2.22%
+Regice     | 264 |   2.20%
+Glaliem    | 259 |   2.16%
+Glastrier  | 256 |   2.13%
+Genesect   | 256 |   2.13%
+Registeel  | 252 |   2.10%
+Heatran    | 250 |   2.08%
+Jirachi    | 248 |   2.07%
+Metagross  | 239 |   1.99%
+Baxcalibur | 236 |   1.97%
+Articuno   | 236 |   1.97%
+Cobalion   | 227 |   1.89%
+Celesteela | 217 |   1.81%
+Klinklang  | 216 |   1.80%
+Stakataka  | 216 |   1.80%
+Copperajah | 213 |   1.77%
+Archaludon | 212 |   1.77%
+Duraludon  | 212 |   1.77%
+Vanilluxe  | 208 |   1.73%
+Beartic    | 206 |   1.72%
+Goodrah    | 204 |   1.70%
+Chien-Pao  | 202 |   1.68%
+Kartana    | 202 |   1.68%
+Cryogonal  | 200 |   1.67%
+Avalugg    | 199 |   1.66%
+Glaceon    | 197 |   1.64%
+Irontreads | 192 |   1.60%
+Gholdengo  | 186 |   1.55%
+Kingambit  | 176 |   1.47%
+Ironbundle | 172 |   1.43%
+Lucario    | 172 |   1.43%
+Cetitan    | 171 |   1.43%
+Tinkaton   | 164 |   1.37%
+Bastiodon  | 159 |   1.32%
+Mamoswine  | 158 |   1.32%
+Darmanitzg | 152 |   1.27%
+Excadrill  | 151 |   1.26%
+Bronzong   | 150 |   1.25%
+Aegislash  | 149 |   1.24%
+Weavile    | 148 |   1.23%
+Ninetalesa | 148 |   1.23%
+Aggron     | 147 |   1.23%
+Empoleon   | 146 |   1.22%
+Probopass  | 146 |   1.22%
+Aegislashb | 145 |   1.21%
+Magnezone  | 144 |   1.20%
+Mr. Rime   | 142 |   1.18%
+Lapras     | 139 |   1.16%
+Revavroom  | 136 |   1.13%
+Corvknight | 133 |   1.11%
+Steelix    | 132 |   1.10%
+Escavalier | 129 |   1.07%
+Walrein    | 128 |   1.07%
+Arctozolt  | 128 |   1.07%
+Avaluggh   | 126 |   1.05%
+Rotomfr    | 125 |   1.04%
+Cloyster   | 124 |   1.03%
+Aurorus    | 122 |   1.02%
+Scizor     | 121 |   1.01%
+Arctovish  | 114 |   0.95%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

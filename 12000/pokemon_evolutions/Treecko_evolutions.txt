@@ -1,0 +1,41 @@
+Evolutions from Treecko (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Bayleef    | 875 |   7.29%
+Quilladin  | 860 |   7.17%
+Servine    | 848 |   7.07%
+Floragato  | 805 |   6.71%
+Grotle     | 791 |   6.59%
+Sunflora   | 780 |   6.50%
+Thwackey   | 777 |   6.48%
+Tangela    | 712 |   5.93%
+Gloom      | 706 |   5.88%
+Roselia    | 672 |   5.60%
+Dartrix    | 671 |   5.59%
+Ivysaur    | 665 |   5.54%
+Weepinbell | 645 |   5.38%
+Swadloon   | 542 |   4.52%
+Shiinotic  | 514 |   4.28%
+Wormadam   | 447 |   3.72%
+Parasect   | 428 |   3.57%
+Lileep     |  52 |   0.43%
+Skiddo     |  43 |   0.36%
+Dolliv     |  37 |   0.31%
+Cherrim    |  25 |   0.21%
+Carnivine  |  23 |   0.19%
+Maractus   |  21 |   0.18%
+Eldegoss   |  19 |   0.16%
+Tropius    |  11 |   0.09%
+Breloom    |  11 |   0.09%
+Jumpluff   |   6 |   0.05%
+Amoonguss  |   5 |   0.04%
+Pumpkaboos |   2 |   0.02%
+Snover     |   2 |   0.02%
+Cacnea     |   1 |   0.01%
+Skiploom   |   1 |   0.01%
+Lombre     |   1 |   0.01%
+Voltorbh   |   1 |   0.01%
+Pumpkaboox |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+
