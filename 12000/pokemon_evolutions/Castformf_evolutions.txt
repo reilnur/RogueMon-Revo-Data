@@ -1,0 +1,49 @@
+Evolutions from Castformf (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Torkoal    | 417 |   3.48%
+Typhlosion | 386 |   3.22%
+Darmanitan | 379 |   3.16%
+Arcanine   | 368 |   3.07%
+Magmortar  | 364 |   3.03%
+Blacphalon | 354 |   2.95%
+Flareon    | 339 |   2.83%
+Ninetales  | 330 |   2.75%
+Magmar     | 329 |   2.74%
+Heatmor    | 325 |   2.71%
+Cinderace  | 317 |   2.64%
+Rapidash   | 312 |   2.60%
+Simisear   | 311 |   2.59%
+Chi-Yu     | 310 |   2.58%
+Blaziken   | 300 |   2.50%
+Iron Moth  | 293 |   2.44%
+Arcanineh  | 292 |   2.43%
+Ogerponf   | 280 |   2.33%
+Darmanitzg | 278 |   2.32%
+Infernape  | 277 |   2.31%
+Emboar     | 276 |   2.30%
+Cameruptm  | 276 |   2.30%
+Incineroar | 276 |   2.30%
+Turtonator | 271 |   2.26%
+Darmanitaz | 269 |   2.24%
+Typhlosioh | 266 |   2.22%
+Charizard  | 262 |   2.18%
+Volcarona  | 261 |   2.17%
+Oricorio   | 260 |   2.17%
+Delphox    | 256 |   2.13%
+Armarouge  | 254 |   2.12%
+Taurospf   | 247 |   2.06%
+Coalossal  | 224 |   1.87%
+Skeledirge | 224 |   1.87%
+Chandelure | 223 |   1.86%
+Ceruledge  | 222 |   1.85%
+Salazzle   | 220 |   1.83%
+Talonflame | 209 |   1.74%
+Houndoom   | 205 |   1.71%
+Scovillain | 203 |   1.69%
+Rotomh     | 201 |   1.68%
+Centskorch | 190 |   1.58%
+Pyroar     | 144 |   1.20%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

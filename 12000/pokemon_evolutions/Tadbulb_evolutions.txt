@@ -1,0 +1,51 @@
+Evolutions from Tadbulb (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Electivire | 621 |   5.17%
+Manectric  | 549 |   4.58%
+Jolteon    | 501 |   4.17%
+Eelektross | 486 |   4.05%
+Luxray     | 485 |   4.04%
+Electabuzz | 485 |   4.04%
+Electrode  | 474 |   3.95%
+Zebstrika  | 474 |   3.95%
+Boltund    | 453 |   3.77%
+Ampharos   | 444 |   3.70%
+Raichu     | 431 |   3.59%
+Dracozolt  | 404 |   3.37%
+Magnezone  | 399 |   3.33%
+Magneton   | 374 |   3.12%
+Stunfisk   | 336 |   2.80%
+Oricorioe  | 322 |   2.68%
+Pawmot     | 315 |   2.62%
+Raichua    | 305 |   2.54%
+Electrodeh | 303 |   2.53%
+Rotomfr    | 303 |   2.53%
+Rotomfa    | 302 |   2.52%
+Toxtricity | 301 |   2.51%
+Lanturn    | 296 |   2.47%
+Rotomh     | 283 |   2.36%
+Golema     | 281 |   2.34%
+Kilowattrl | 272 |   2.27%
+Arctozolt  | 264 |   2.20%
+Galvantula | 252 |   2.10%
+Rotomm     | 252 |   2.10%
+Vikavolt   | 245 |   2.04%
+Heliolisk  | 245 |   2.04%
+Rotomw     | 222 |   1.85%
+Toxtricitl | 214 |   1.78%
+Pincurchin |  25 |   0.21%
+Pikachup   |  19 |   0.16%
+Emolga     |  12 |   0.10%
+Morpeko    |  11 |   0.09%
+Dedenne    |  11 |   0.09%
+Togedemaru |  10 |   0.08%
+Morpekoh   |   8 |   0.07%
+Rotom      |   7 |   0.06%
+Pachirisu  |   1 |   0.01%
+Manectricm |   1 |   0.01%
+Tapu Koko  |   1 |   0.01%
+Eelektrik  |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

@@ -1,0 +1,39 @@
+Evolutions from Klang (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Copperajah | 589 |   4.91%
+Duraludon  | 555 |   4.62%
+Celesteela | 530 |   4.42%
+Orthworm   | 519 |   4.32%
+Stakataka  | 491 |   4.09%
+Gholdengo  | 487 |   4.06%
+Kartana    | 477 |   3.98%
+Irontreads | 456 |   3.80%
+Kingambit  | 430 |   3.58%
+Lucario    | 418 |   3.48%
+Tinkaton   | 395 |   3.29%
+Aegislashb | 387 |   3.23%
+Steelix    | 380 |   3.17%
+Probopass  | 376 |   3.13%
+Bisharp    | 374 |   3.12%
+Bronzong   | 364 |   3.03%
+Aegislash  | 363 |   3.02%
+Stunfiskg  | 362 |   3.02%
+Mawilem    | 359 |   2.99%
+Aggron     | 350 |   2.92%
+Klefki     | 345 |   2.88%
+Bastiodon  | 337 |   2.81%
+Revavroom  | 336 |   2.80%
+Magnezone  | 330 |   2.75%
+Corvknight | 328 |   2.73%
+Excadrill  | 328 |   2.73%
+Empoleon   | 321 |   2.67%
+Escavalier | 258 |   2.15%
+Durant     | 257 |   2.14%
+Scizor     | 250 |   2.08%
+Ferrothorn | 245 |   2.04%
+Cobalion   |   2 |   0.02%
+Iron Crown |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

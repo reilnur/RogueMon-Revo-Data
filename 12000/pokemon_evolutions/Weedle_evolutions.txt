@@ -1,0 +1,21 @@
+Evolutions from Weedle (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Wooperp    | 950 |   7.92%
+Silcoon    | 887 |   7.39%
+Metapod    | 825 |   6.88%
+Cascoon    | 811 |   6.76%
+Spewpa     | 802 |   6.68%
+Scatterbug | 799 |   6.66%
+Nymble     | 797 |   6.64%
+Snom       | 796 |   6.63%
+Burmys     | 796 |   6.63%
+Burmy      | 767 |   6.39%
+Wurmple    | 766 |   6.38%
+Burmyt     | 760 |   6.33%
+Kricketot  | 760 |   6.33%
+Caterpie   | 748 |   6.23%
+Tarountula | 736 |   6.13%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

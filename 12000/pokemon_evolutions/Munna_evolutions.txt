@@ -1,0 +1,61 @@
+Evolutions from Munna (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Espeon     | 382 |   3.18%
+Beheeyem   | 370 |   3.08%
+Reuniclus  | 356 |   2.97%
+Hypno      | 355 |   2.96%
+Alakazam   | 354 |   2.95%
+Meowstic   | 341 |   2.84%
+Grumpig    | 340 |   2.83%
+Espathra   | 337 |   2.81%
+Gothitelle | 336 |   2.80%
+Chimecho   | 327 |   2.73%
+Meowsticf  | 326 |   2.72%
+Gardevoir  | 316 |   2.63%
+Gallade    | 298 |   2.48%
+Delphox    | 287 |   2.39%
+Jynx       | 273 |   2.27%
+Mr. Mimeg  | 263 |   2.19%
+Mr. Rime   | 262 |   2.18%
+Malamar    | 257 |   2.14%
+Exeggutor  | 255 |   2.12%
+Bronzong   | 253 |   2.11%
+Medichamm  | 250 |   2.08%
+Hatterene  | 238 |   1.98%
+Mr. Mime   | 237 |   1.98%
+Xatu       | 234 |   1.95%
+Braviaryh  | 231 |   1.93%
+Oricoriop  | 230 |   1.92%
+Sigilyph   | 226 |   1.88%
+Armarouge  | 223 |   1.86%
+Lunatone   | 221 |   1.84%
+Rapidashg  | 218 |   1.82%
+Solrock    | 210 |   1.75%
+Claydol    | 210 |   1.75%
+Girafarig  | 195 |   1.62%
+Calyrex    | 194 |   1.62%
+Rabsca     | 192 |   1.60%
+Farigiraf  | 190 |   1.58%
+Raichua    | 187 |   1.56%
+Slowking   | 184 |   1.53%
+Slowbrog   | 182 |   1.52%
+Slowkingg  | 179 |   1.49%
+Bruxish    | 177 |   1.47%
+Starmie    | 176 |   1.47%
+Orbeetle   | 172 |   1.43%
+Indeedee   | 168 |   1.40%
+Indeedeef  | 167 |   1.39%
+Slowbro    | 162 |   1.35%
+Wyrdeer    | 162 |   1.35%
+Veluza     | 158 |   1.32%
+Oranguru   | 133 |   1.11%
+Screamtail |   1 |   0.01%
+Metang     |   1 |   0.01%
+Kadabra    |   1 |   0.01%
+Swoobat    |   1 |   0.01%
+Azelf      |   1 |   0.01%
+Tapu Lele  |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

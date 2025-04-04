@@ -1,0 +1,53 @@
+Evolutions from Phanpy (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Sandslash  | 617 |   5.14%
+Mudsdale   | 555 |   4.62%
+Sandaconda | 531 |   4.42%
+Hippowdon  | 531 |   4.42%
+Flygon     | 518 |   4.32%
+Excadrill  | 437 |   3.64%
+Zygarde10  | 428 |   3.57%
+Piloswine  | 425 |   3.54%
+Mamoswine  | 412 |   3.43%
+Stunfiskg  | 411 |   3.43%
+Steelix    | 388 |   3.23%
+Krookodile | 388 |   3.23%
+Camerupt   | 379 |   3.16%
+Swampert   | 367 |   3.06%
+Palossand  | 355 |   2.96%
+Rhydon     | 351 |   2.93%
+Stunfisk   | 340 |   2.83%
+Runerigus  | 339 |   2.83%
+Torterra   | 337 |   2.81%
+Toedscruel | 335 |   2.79%
+Rhyperior  | 335 |   2.79%
+Gastrodon  | 329 |   2.74%
+Golurk     | 327 |   2.73%
+Whiscash   | 326 |   2.72%
+Claydol    | 323 |   2.69%
+Gliscor    | 321 |   2.67%
+Golem      | 312 |   2.60%
+Nidoqueen  | 303 |   2.53%
+Ursaluna   | 300 |   2.50%
+Seismitoad | 300 |   2.50%
+Nidoking   | 276 |   2.30%
+Ting-Lu    |  13 |   0.11%
+Great Tusk |  13 |   0.11%
+Dugtrio    |  12 |   0.10%
+Clodsire   |  11 |   0.09%
+Marowak    |  10 |   0.08%
+Sandyshock |   8 |   0.07%
+Dugtrioa   |   8 |   0.07%
+Irontreads |   7 |   0.06%
+Gligar     |   7 |   0.06%
+Cameruptm  |   6 |   0.05%
+Ursalunab  |   2 |   0.02%
+Quagsire   |   2 |   0.02%
+Landorus   |   2 |   0.02%
+Pupitar    |   1 |   0.01%
+Marshtomp  |   1 |   0.01%
+Zygarde    |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

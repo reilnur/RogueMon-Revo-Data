@@ -1,0 +1,47 @@
+Evolutions from Misdreavus (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Banette    | 506 |   4.22%
+Dusclops   | 481 |   4.01%
+Cursola    | 469 |   3.91%
+Houndstone | 460 |   3.83%
+Poltegeist | 446 |   3.72%
+Dusknoir   | 442 |   3.68%
+Cofagrigus | 434 |   3.62%
+Annihilape | 409 |   3.41%
+Doublade   | 374 |   3.12%
+Typhlosioh | 349 |   2.91%
+Aegislash  | 313 |   2.61%
+Dhelmise   | 311 |   2.59%
+Skeledirge | 311 |   2.59%
+Aegislashb | 309 |   2.57%
+Sableyem   | 309 |   2.57%
+Golurk     | 302 |   2.52%
+Froslass   | 301 |   2.51%
+Spiritomb  | 300 |   2.50%
+Trevenant  | 298 |   2.48%
+Oricoriog  | 294 |   2.45%
+Mimikyu    | 288 |   2.40%
+Basclegion | 287 |   2.39%
+Runerigus  | 284 |   2.37%
+Decidueye  | 283 |   2.36%
+Palossand  | 264 |   2.20%
+Chandelure | 263 |   2.19%
+Bramblgast | 261 |   2.17%
+Ceruledge  | 259 |   2.16%
+Drifblim   | 255 |   2.12%
+Basclegiof | 249 |   2.08%
+Gourgeistx | 247 |   2.06%
+Gourgeistl | 245 |   2.04%
+Jellicent  | 245 |   2.04%
+Sinistcha  | 240 |   2.00%
+Gourgeist  | 238 |   1.98%
+Gourgeists | 237 |   1.98%
+Gengar     | 227 |   1.89%
+Zoroarkh   | 207 |   1.73%
+Corsolag   |   1 |   0.01%
+Banettem   |   1 |   0.01%
+Gholdengo  |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

@@ -1,0 +1,20 @@
+Evolutions from Nidoranâ™‚ (out of approximately 12000):
+Pokémon    | Count | Percentage
+---------------------------
+Koffing    | 1182 |   9.85%
+Trubbish   | 1180 |   9.83%
+Tentacool  | 1148 |   9.57%
+Stunky     | 1119 |   9.32%
+Skorupi    | 1112 |   9.27%
+Glimmet    | 1088 |   9.07%
+Nidorina   |  969 |   8.08%
+Whirlipede |  724 |   6.03%
+Roselia    |  669 |   5.58%
+Weepinbell |  615 |   5.12%
+Beedrill   |  584 |   4.87%
+Gloom      |  579 |   4.83%
+Dustox     |  516 |   4.30%
+Ariados    |  515 |   4.29%
+---------------------------
+TOTAL      | 12000 | 100.00%
+

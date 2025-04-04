@@ -1,0 +1,39 @@
+Evolutions from Igglybuff (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Spearow    | 411 |   3.43%
+Taillow    | 397 |   3.31%
+Hoothoot   | 389 |   3.24%
+Patrat     | 385 |   3.21%
+Cottonee   | 383 |   3.19%
+Togepi     | 379 |   3.16%
+Morelull   | 376 |   3.13%
+Meowth     | 375 |   3.12%
+Marill     | 375 |   3.12%
+Yungoos    | 374 |   3.12%
+Impidimp   | 371 |   3.09%
+Lechonk    | 371 |   3.09%
+Fletchling | 369 |   3.08%
+Skitty     | 369 |   3.08%
+Ditto      | 369 |   3.08%
+Pidove     | 368 |   3.07%
+Lillipup   | 368 |   3.07%
+Skwovet    | 366 |   3.05%
+Smoliv     | 366 |   3.05%
+Slakoth    | 362 |   3.02%
+Rattataa   | 361 |   3.01%
+Wooloo     | 359 |   2.99%
+Kirlia     | 358 |   2.98%
+Pidgey     | 356 |   2.97%
+Smeargle   | 353 |   2.94%
+Milcery    | 352 |   2.93%
+Bidoof     | 349 |   2.91%
+Starly     | 345 |   2.88%
+Shroodle   | 341 |   2.84%
+Rattata    | 340 |   2.83%
+Pikipek    | 330 |   2.75%
+Tinkatink  | 321 |   2.67%
+Helioptile | 312 |   2.60%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

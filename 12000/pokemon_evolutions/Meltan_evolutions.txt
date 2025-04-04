@@ -1,0 +1,24 @@
+Evolutions from Meltan (out of approximately 12000):
+Pokémon    | Count | Percentage
+---------------------------
+Klang      | 1631 |  13.59%
+Perrserker | 1606 |  13.38%
+Tinkatuff  | 1532 |  12.77%
+Lairon     | 1385 |  11.54%
+Togedemaru | 1318 |  10.98%
+Mawile     | 1288 |  10.73%
+Dugtrioa   | 1155 |   9.62%
+Metang     |  994 |   8.28%
+Wormadamt  |  869 |   7.24%
+Shieldon   |   71 |   0.59%
+Pawniard   |   69 |   0.57%
+Sliggooh   |   31 |   0.26%
+Sandslasha |   22 |   0.18%
+Doublade   |   22 |   0.18%
+Aron       |    4 |   0.03%
+Cufant     |    1 |   0.01%
+Klefki     |    1 |   0.01%
+Magnemite  |    1 |   0.01%
+---------------------------
+TOTAL      | 12000 | 100.00%
+

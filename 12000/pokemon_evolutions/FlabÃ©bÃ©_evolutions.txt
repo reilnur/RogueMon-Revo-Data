@@ -1,0 +1,20 @@
+Evolutions from Flabébé (out of approximately 12000):
+Pok�mon   | Count | Percentage
+--------------------------
+Swirlix   | 2127 |  17.72%
+Spritzee  | 2088 |  17.40%
+Morgrem   | 1803 |  15.02%
+Tinkatuff | 1755 |  14.62%
+Togetic   | 1596 |  13.30%
+Mawile    | 1484 |  12.37%
+Shiinotic | 1012 |   8.43%
+Clefairy  |  101 |   0.84%
+Azumarill |   15 |   0.12%
+Cutiefly  |    7 |   0.06%
+Fidough   |    5 |   0.04%
+Mime Jr.  |    4 |   0.03%
+Snubbull  |    2 |   0.02%
+Dedenne   |    1 |   0.01%
+--------------------------
+TOTAL     | 12000 | 100.00%
+

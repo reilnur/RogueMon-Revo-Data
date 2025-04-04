@@ -1,0 +1,42 @@
+Evolutions from Vulpixa (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Vanilluxe  | 634 |   5.28%
+Avalugg    | 601 |   5.01%
+Darmanitag | 589 |   4.91%
+Glalie     | 570 |   4.75%
+Eiscuen    | 547 |   4.56%
+Cetitan    | 543 |   4.52%
+Beartic    | 540 |   4.50%
+Eiscue     | 520 |   4.33%
+Glaceon    | 516 |   4.30%
+Cryogonal  | 485 |   4.04%
+Mr. Mimeg  | 401 |   3.34%
+Mr. Rime   | 398 |   3.32%
+Weavile    | 375 |   3.12%
+Darmanitzg | 374 |   3.12%
+Crabminble | 367 |   3.06%
+Froslass   | 365 |   3.04%
+Avaluggh   | 364 |   3.03%
+Mamoswine  | 358 |   2.98%
+Jynx       | 355 |   2.96%
+Aurorus    | 342 |   2.85%
+Lapras     | 330 |   2.75%
+Cloyster   | 323 |   2.69%
+Walrein    | 321 |   2.67%
+Dewgong    | 318 |   2.65%
+Rotomfr    | 313 |   2.61%
+Arctozolt  | 306 |   2.55%
+Abomasnow  | 301 |   2.51%
+Frosmoth   | 282 |   2.35%
+Arctovish  | 247 |   2.06%
+Glastrier  |   4 |   0.03%
+Glaliem    |   3 |   0.03%
+Regice     |   2 |   0.02%
+Sneasel    |   2 |   0.02%
+Ironbundle |   2 |   0.02%
+Piloswine  |   1 |   0.01%
+Articuno   |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

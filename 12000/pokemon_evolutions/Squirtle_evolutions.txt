@@ -1,0 +1,38 @@
+Evolutions from Squirtle (out of approximately 12000):
+Pokémon   | Count | Percentage
+-------------------------
+Wailmer   | 667 |   5.56%
+Poliwhirl | 655 |   5.46%
+Croconaw  | 652 |   5.43%
+Quaxwell  | 628 |   5.23%
+Prinplup  | 625 |   5.21%
+Frogadier | 618 |   5.15%
+Drizzile  | 592 |   4.93%
+Dewott    | 592 |   4.93%
+Brionne   | 585 |   4.88%
+Wugtrio   | 582 |   4.85%
+Pyukumuku | 577 |   4.81%
+Castformw | 559 |   4.66%
+Palpitoad | 542 |   4.52%
+Seadra    | 522 |   4.35%
+Sealeo    | 506 |   4.22%
+Marshtomp | 469 |   3.91%
+Corsola   | 469 |   3.91%
+Pelipper  | 457 |   3.81%
+Azumarill | 456 |   3.80%
+Bibarel   | 422 |   3.52%
+Quagsire  | 421 |   3.51%
+Qwilfish  | 365 |   3.04%
+Omanyte   |   9 |   0.07%
+Tirtouga  |   8 |   0.07%
+Kabuto    |   8 |   0.07%
+Basculinb |   4 |   0.03%
+Mantyke   |   3 |   0.03%
+Clamperl  |   2 |   0.02%
+Seaking   |   2 |   0.02%
+Araquanid |   1 |   0.01%
+Lanturn   |   1 |   0.01%
+Palafin   |   1 |   0.01%
+-------------------------
+TOTAL     | 12000 | 100.00%
+

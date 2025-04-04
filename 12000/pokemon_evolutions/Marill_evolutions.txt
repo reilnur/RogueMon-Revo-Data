@@ -1,0 +1,47 @@
+Evolutions from Marill (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Granbull   | 443 |   3.69%
+Poliwhirl  | 401 |   3.34%
+Aromatisse | 398 |   3.32%
+Tinkatuff  | 386 |   3.22%
+Wartortle  | 374 |   3.12%
+Prinplup   | 367 |   3.06%
+Mawile     | 366 |   3.05%
+Croconaw   | 359 |   2.99%
+Frogadier  | 359 |   2.99%
+Wailmer    | 349 |   2.91%
+Dedenne    | 340 |   2.83%
+Wugtrio    | 335 |   2.79%
+Lumineon   | 333 |   2.77%
+Quaxwell   | 322 |   2.68%
+Dewott     | 317 |   2.64%
+Togetic    | 314 |   2.62%
+Brionne    | 313 |   2.61%
+Palafin    | 312 |   2.60%
+Basculinw  | 310 |   2.58%
+Palpitoad  | 307 |   2.56%
+Pyukumuku  | 304 |   2.53%
+Castformw  | 294 |   2.45%
+Basculinb  | 291 |   2.43%
+Seadra     | 285 |   2.38%
+Seaking    | 285 |   2.38%
+Drizzile   | 278 |   2.32%
+Mr. Mime   | 269 |   2.24%
+Corsola    | 261 |   2.17%
+Quagsire   | 255 |   2.12%
+Sealeo     | 254 |   2.12%
+Marshtomp  | 253 |   2.11%
+Basculin   | 248 |   2.07%
+Wigglytuff | 236 |   1.97%
+Bibarel    | 231 |   1.93%
+Pelipper   | 229 |   1.91%
+Shiinotic  | 220 |   1.83%
+Lanturn    | 220 |   1.83%
+Sharpedo   | 213 |   1.77%
+Qwilfish   | 203 |   1.69%
+Araquanid  | 165 |   1.38%
+Slurpuff   |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

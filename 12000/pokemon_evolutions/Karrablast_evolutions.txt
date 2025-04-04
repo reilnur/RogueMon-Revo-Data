@@ -1,0 +1,50 @@
+Evolutions from Karrablast (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Pinsir     | 548 |   4.57%
+Accelgor   | 529 |   4.41%
+Centskorch | 435 |   3.62%
+Yanmega    | 432 |   3.60%
+Vespiquen  | 424 |   3.53%
+Frosmoth   | 424 |   3.53%
+Orbeetle   | 421 |   3.51%
+Scizor     | 419 |   3.49%
+Lokix      | 402 |   3.35%
+Rabsca     | 397 |   3.31%
+Crustle    | 393 |   3.28%
+Masquerain | 386 |   3.22%
+Venomoth   | 384 |   3.20%
+Scyther    | 383 |   3.19%
+Ninjask    | 382 |   3.18%
+Galvantula | 374 |   3.12%
+Durant     | 371 |   3.09%
+Heracross  | 368 |   3.07%
+Ribombee   | 364 |   3.03%
+Shuckle    | 354 |   2.95%
+Scolipede  | 348 |   2.90%
+Kleavor    | 345 |   2.88%
+Golisopod  | 345 |   2.88%
+Armaldo    | 344 |   2.87%
+Forretress | 340 |   2.83%
+Vikavolt   | 323 |   2.69%
+Araquanid  | 314 |   2.62%
+Leavanny   | 306 |   2.55%
+Beedrillm  | 306 |   2.55%
+Buzzwole   | 128 |   1.07%
+Pheromosa  | 128 |   1.07%
+Slithrwing | 110 |   0.92%
+Volcarona  |  85 |   0.71%
+Mothim     |  74 |   0.62%
+Volbeat    |  50 |   0.42%
+Wormadams  |  45 |   0.38%
+Illumise   |  43 |   0.36%
+Wormadamt  |  41 |   0.34%
+Spidops    |  41 |   0.34%
+Wormadam   |  24 |   0.20%
+Charjabug  |  23 |   0.19%
+Vivillon   |  22 |   0.18%
+Ariados    |  14 |   0.12%
+Parasect   |  11 |   0.09%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

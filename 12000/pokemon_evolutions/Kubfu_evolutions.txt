@@ -1,0 +1,46 @@
+Evolutions from Kubfu (out of approximately 12000):
+Pokémon      | Count | Percentage
+----------------------------
+Marshadow    | 492 |   4.10%
+Heracrossm   | 475 |   3.96%
+Ironvalian   | 468 |   3.90%
+Meloettap    | 413 |   3.44%
+Zapdosg      | 394 |   3.28%
+Machamp      | 391 |   3.26%
+Buzzwole     | 380 |   3.17%
+Kommo-O      | 377 |   3.14%
+Cobalion     | 371 |   3.09%
+Slithrwing   | 370 |   3.08%
+Iron Hands   | 368 |   3.07%
+Terrakion    | 366 |   3.05%
+Conkeldurr   | 364 |   3.03%
+Sirfetchâ€™d | 358 |   2.98%
+Virizion     | 353 |   2.94%
+Mienshao     | 351 |   2.93%
+Pheromosa    | 347 |   2.89%
+Keldeo       | 344 |   2.87%
+Annihilape   | 311 |   2.59%
+Lopunnym     | 311 |   2.59%
+Okidogi      | 310 |   2.58%
+Lucario      | 300 |   2.50%
+Great Tusk   | 289 |   2.41%
+Gallade      | 249 |   2.08%
+Chesnaught   | 243 |   2.02%
+Medichamm    | 242 |   2.02%
+Infernape    | 240 |   2.00%
+Blaziken     | 237 |   1.98%
+Decidueyeh   | 235 |   1.96%
+Sneasler     | 232 |   1.93%
+Emboar       | 229 |   1.91%
+Pangoro      | 225 |   1.88%
+Hawlucha     | 203 |   1.69%
+Flamigo      | 201 |   1.68%
+Quaquaval    | 193 |   1.61%
+Heracross    | 182 |   1.52%
+Poliwrath    | 172 |   1.43%
+Bewear       | 160 |   1.33%
+Urshifur     | 130 |   1.08%
+Urshifu      | 124 |   1.03%
+----------------------------
+TOTAL        | 12000 | 100.00%
+

@@ -1,0 +1,23 @@
+Evolutions from Rookidee (out of approximately 12000):
+Pokémon      | Count | Percentage
+----------------------------
+Delibird     | 919 |   7.66%
+Mantyke      | 900 |   7.50%
+Drifloon     | 887 |   7.39%
+Skiploom     | 847 |   7.06%
+Staravia     | 835 |   6.96%
+Pidgeotto    | 789 |   6.58%
+Trumbeak     | 784 |   6.53%
+Vullaby      | 780 |   6.50%
+Tranquill    | 767 |   6.39%
+Rufflet      | 758 |   6.32%
+Farfetchâ€™d | 670 |   5.58%
+Archen       | 651 |   5.42%
+Flechinder   | 580 |   4.83%
+Beautifly    | 499 |   4.16%
+Butterfree   | 476 |   3.97%
+Yanma        | 432 |   3.60%
+Ledian       | 426 |   3.55%
+----------------------------
+TOTAL        | 12000 | 100.00%
+

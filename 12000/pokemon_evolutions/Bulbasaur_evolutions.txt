@@ -1,0 +1,40 @@
+Evolutions from Bulbasaur (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Nidorina   | 660 |   5.50%
+Nidorino   | 633 |   5.27%
+Poipole    | 623 |   5.19%
+Haunter    | 612 |   5.10%
+Grovyle    | 481 |   4.01%
+Bayleef    | 474 |   3.95%
+Grotle     | 471 |   3.92%
+Thwackey   | 469 |   3.91%
+Quilladin  | 467 |   3.89%
+Qwilfishh  | 462 |   3.85%
+Sunflora   | 453 |   3.77%
+Floragato  | 442 |   3.68%
+Clodsire   | 441 |   3.67%
+Servine    | 440 |   3.67%
+Dartrix    | 421 |   3.51%
+Weepinbell | 415 |   3.46%
+Tangela    | 414 |   3.45%
+Sneaselh   | 406 |   3.38%
+Gloom      | 400 |   3.33%
+Roselia    | 381 |   3.17%
+Dustox     | 343 |   2.86%
+Beedrill   | 323 |   2.69%
+Swadloon   | 322 |   2.68%
+Shiinotic  | 316 |   2.63%
+Ariados    | 312 |   2.60%
+Qwilfish   | 285 |   2.38%
+Parasect   | 273 |   2.27%
+Wormadam   | 252 |   2.10%
+Lileep     |   4 |   0.03%
+Cherrim    |   1 |   0.01%
+Eldegoss   |   1 |   0.01%
+Dolliv     |   1 |   0.01%
+Whirlipede |   1 |   0.01%
+Arbok      |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

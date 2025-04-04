@@ -1,0 +1,31 @@
+Evolutions from Deino (out of approximately 12000):
+Pokémon   | Count | Percentage
+-------------------------
+Mightyena | 787 |   6.56%
+Thievul   | 706 |   5.88%
+Persiana  | 695 |   5.79%
+Liepard   | 674 |   5.62%
+Sableye   | 607 |   5.06%
+Sliggoo   | 601 |   5.01%
+Murkrow   | 594 |   4.95%
+Morpekoh  | 552 |   4.60%
+Morpeko   | 542 |   4.52%
+Dragonair | 533 |   4.44%
+Fraxure   | 524 |   4.37%
+Shelgon   | 499 |   4.16%
+Raticatea | 488 |   4.07%
+Sneasel   | 482 |   4.02%
+Qwilfishh | 466 |   3.88%
+Linooneg  | 463 |   3.86%
+Drakloak  | 461 |   3.84%
+Sliggooh  | 433 |   3.61%
+Arctibax  | 431 |   3.59%
+Gabite    | 395 |   3.29%
+Hakamo-O  | 376 |   3.13%
+Lokix     | 348 |   2.90%
+Sharpedo  | 341 |   2.84%
+Cacturne  |   1 |   0.01%
+Morgrem   |   1 |   0.01%
+-------------------------
+TOTAL     | 12000 | 100.00%
+

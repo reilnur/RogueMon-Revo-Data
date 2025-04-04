@@ -1,0 +1,20 @@
+Evolutions from Pichus (out of approximately 12000):
+Pokémon    | Count | Percentage
+---------------------------
+Mareep     | 1011 |   8.43%
+Tynamo     |  951 |   7.92%
+Wattrel    |  945 |   7.88%
+Blitzle    |  921 |   7.67%
+Electrike  |  913 |   7.61%
+Geodudea   |  895 |   7.46%
+Magnemite  |  894 |   7.45%
+Pikachuc   |  870 |   7.25%
+Pikachu    |  870 |   7.25%
+Helioptile |  838 |   6.98%
+Joltik     |  814 |   6.78%
+Chinchou   |  731 |   6.09%
+Voltorb    |  720 |   6.00%
+Voltorbh   |  627 |   5.22%
+---------------------------
+TOTAL      | 12000 | 100.00%
+

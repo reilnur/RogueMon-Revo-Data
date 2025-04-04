@@ -1,0 +1,36 @@
+Evolutions from Sandslash (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Landorust  | 718 |   5.98%
+Landorus   | 712 |   5.93%
+Garchomp   | 596 |   4.97%
+Zygarde    | 595 |   4.96%
+Great Tusk | 509 |   4.24%
+Ting-Lu    | 489 |   4.08%
+Sandaconda | 477 |   3.98%
+Sandyshock | 467 |   3.89%
+Hippowdon  | 466 |   3.88%
+Donphan    | 463 |   3.86%
+Mudsdale   | 463 |   3.86%
+Irontreads | 461 |   3.84%
+Flygon     | 404 |   3.37%
+Mamoswine  | 387 |   3.23%
+Cameruptm  | 377 |   3.14%
+Rhyperior  | 352 |   2.93%
+Steelix    | 350 |   2.92%
+Excadrill  | 348 |   2.90%
+Krookodile | 321 |   2.67%
+Gliscor    | 317 |   2.64%
+Swampert   | 293 |   2.44%
+Torterra   | 292 |   2.43%
+Nidoking   | 289 |   2.41%
+Golem      | 288 |   2.40%
+Ursalunab  | 286 |   2.38%
+Claydol    | 279 |   2.33%
+Toedscruel | 272 |   2.27%
+Ursaluna   | 258 |   2.15%
+Nidoqueen  | 254 |   2.12%
+Seismitoad | 217 |   1.81%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

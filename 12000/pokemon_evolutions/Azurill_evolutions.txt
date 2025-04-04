@@ -1,0 +1,33 @@
+Evolutions from Azurill (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Smoliv     | 486 |   4.05%
+Smeargle   | 470 |   3.92%
+Rattataa   | 466 |   3.88%
+Yungoos    | 465 |   3.88%
+Spearow    | 465 |   3.88%
+Pidgey     | 463 |   3.86%
+Skwovet    | 462 |   3.85%
+Pidove     | 459 |   3.82%
+Taillow    | 458 |   3.82%
+Rattata    | 452 |   3.77%
+Wooloo     | 452 |   3.77%
+Hoothoot   | 451 |   3.76%
+Bidoof     | 449 |   3.74%
+Lillipup   | 448 |   3.73%
+Jigglypuff | 445 |   3.71%
+Bunnelby   | 441 |   3.67%
+Skitty     | 439 |   3.66%
+Lechonk    | 436 |   3.63%
+Milcery    | 436 |   3.63%
+Starly     | 433 |   3.61%
+Zigzagoon  | 427 |   3.56%
+Togepi     | 422 |   3.52%
+Impidimp   | 418 |   3.48%
+Pikipek    | 418 |   3.48%
+Patrat     | 417 |   3.48%
+Zigzagoong | 414 |   3.45%
+Whismur    | 408 |   3.40%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

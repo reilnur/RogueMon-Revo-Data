@@ -1,0 +1,18 @@
+Evolutions from Vigoroth (out of approximately 12000):
+Pokémon    | Count | Percentage
+---------------------------
+Meloettap  | 1976 |  16.47%
+Meloetta   | 1940 |  16.17%
+Terapagost | 1934 |  16.12%
+Kangaskham | 1684 |  14.03%
+Silvally   | 1478 |  12.32%
+Lopunnym   | 1471 |  12.26%
+Pidgeotm   | 1431 |  11.92%
+Blissey    |   27 |   0.22%
+Snorlax    |   26 |   0.22%
+Audinom    |   16 |   0.13%
+Ursaluna   |   10 |   0.08%
+Ursalunab  |    7 |   0.06%
+---------------------------
+TOTAL      | 12000 | 100.00%
+

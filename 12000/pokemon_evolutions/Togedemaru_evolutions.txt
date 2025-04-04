@@ -1,0 +1,73 @@
+Evolutions from Togedemaru (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Registeel  | 318 |   2.65%
+Manectricm | 273 |   2.27%
+Regieleki  | 271 |   2.26%
+Cobalion   | 264 |   2.20%
+Tapu Koko  | 263 |   2.19%
+Raikou     | 261 |   2.17%
+Thundurust | 261 |   2.17%
+Xurkitree  | 261 |   2.17%
+Celesteela | 254 |   2.12%
+Copperajah | 253 |   2.11%
+Zapdos     | 252 |   2.10%
+Klinklang  | 248 |   2.07%
+Ironthorns | 245 |   2.04%
+Thundurus  | 244 |   2.03%
+Gholdengo  | 232 |   1.93%
+Iron Hands | 230 |   1.92%
+Electivire | 230 |   1.92%
+Kartana    | 228 |   1.90%
+Eelektross | 224 |   1.87%
+Duraludon  | 218 |   1.82%
+Irontreads | 198 |   1.65%
+Stakataka  | 197 |   1.64%
+Luxray     | 196 |   1.63%
+Sandyshock | 195 |   1.62%
+Electrode  | 188 |   1.57%
+Boltund    | 182 |   1.52%
+Raichu     | 181 |   1.51%
+Kingambit  | 177 |   1.47%
+Lucario    | 174 |   1.45%
+Electabuzz | 173 |   1.44%
+Bellibolt  | 171 |   1.43%
+Steelix    | 169 |   1.41%
+Zebstrika  | 166 |   1.38%
+Jolteon    | 166 |   1.38%
+Corvknight | 165 |   1.38%
+Ampharos   | 165 |   1.38%
+Probopass  | 165 |   1.38%
+Bastiodon  | 164 |   1.37%
+Magnezone  | 161 |   1.34%
+Excadrill  | 160 |   1.33%
+Aggron     | 159 |   1.32%
+Dracozolt  | 156 |   1.30%
+Bisharp    | 156 |   1.30%
+Ferrothorn | 155 |   1.29%
+Aegislash  | 147 |   1.23%
+Bronzong   | 146 |   1.22%
+Empoleon   | 145 |   1.21%
+Aegislashb | 145 |   1.21%
+Tinkaton   | 144 |   1.20%
+Scizor     | 143 |   1.19%
+Revavroom  | 135 |   1.12%
+Escavalier | 135 |   1.12%
+Arctozolt  | 122 |   1.02%
+Rotomfr    | 122 |   1.02%
+Raichua    | 122 |   1.02%
+Pawmot     | 121 |   1.01%
+Kilowattrl | 119 |   0.99%
+Electrodeh | 116 |   0.97%
+Rotomm     | 116 |   0.97%
+Toxtricitl | 115 |   0.96%
+Vikavolt   | 113 |   0.94%
+Rotomfa    | 111 |   0.92%
+Golema     | 109 |   0.91%
+Durant     | 103 |   0.86%
+Rotomw     | 103 |   0.86%
+Rotomh     | 102 |   0.85%
+Toxtricity |  97 |   0.81%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

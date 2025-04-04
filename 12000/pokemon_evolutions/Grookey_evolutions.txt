@@ -1,0 +1,53 @@
+Evolutions from Grookey (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Eldegoss   | 638 |   5.32%
+Carnivine  | 620 |   5.17%
+Quilladin  | 609 |   5.08%
+Bayleef    | 604 |   5.03%
+Grotle     | 592 |   4.93%
+Floragato  | 576 |   4.80%
+Servine    | 572 |   4.77%
+Grovyle    | 561 |   4.67%
+Cherrim    | 561 |   4.67%
+Sunflora   | 556 |   4.63%
+Maractus   | 550 |   4.58%
+Tangela    | 528 |   4.40%
+Weepinbell | 509 |   4.24%
+Dartrix    | 477 |   3.98%
+Ivysaur    | 456 |   3.80%
+Roselia    | 453 |   3.77%
+Gloom      | 438 |   3.65%
+Breloom    | 424 |   3.53%
+Jumpluff   | 420 |   3.50%
+Tropius    | 415 |   3.46%
+Shiinotic  | 405 |   3.38%
+Swadloon   | 379 |   3.16%
+Parasect   | 309 |   2.57%
+Wormadam   | 292 |   2.43%
+Lurantis   |   8 |   0.07%
+Skiploom   |   4 |   0.03%
+Lombre     |   4 |   0.03%
+Shiftry    |   4 |   0.03%
+Lilliganth |   4 |   0.03%
+Lilligant  |   4 |   0.03%
+Dolliv     |   3 |   0.03%
+Ludicolo   |   3 |   0.03%
+Whimsicott |   3 |   0.03%
+Trevenant  |   2 |   0.02%
+Cacturne   |   2 |   0.02%
+Ferrothorn |   2 |   0.02%
+Nuzleaf    |   2 |   0.02%
+Lileep     |   2 |   0.02%
+Electrodeh |   1 |   0.01%
+Victreebel |   1 |   0.01%
+Gourgeist  |   1 |   0.01%
+Skiddo     |   1 |   0.01%
+Simisage   |   1 |   0.01%
+Amoonguss  |   1 |   0.01%
+Leavanny   |   1 |   0.01%
+Cradily    |   1 |   0.01%
+Dipplin    |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

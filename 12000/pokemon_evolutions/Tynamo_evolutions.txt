@@ -1,0 +1,21 @@
+Evolutions from Tynamo (out of approximately 12000):
+Pokémon    | Count | Percentage
+---------------------------
+Pikachup   | 1073 |   8.94%
+Pachirisu  | 1067 |   8.89%
+Plusle     | 1051 |   8.76%
+Minun      | 1020 |   8.50%
+Pincurchin |  994 |   8.28%
+Flaaffy    |  905 |   7.54%
+Emolga     |  868 |   7.23%
+Morpeko    |  793 |   6.61%
+Rotom      |  759 |   6.33%
+Morpekoh   |  751 |   6.26%
+Togedemaru |  738 |   6.15%
+Gravelera  |  722 |   6.02%
+Dedenne    |  711 |   5.92%
+Charjabug  |  547 |   4.56%
+Luxio      |    1 |   0.01%
+---------------------------
+TOTAL      | 12000 | 100.00%
+

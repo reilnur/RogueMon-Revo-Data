@@ -1,0 +1,66 @@
+Evolutions from Magikarp (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Slowbrom   | 520 |   4.33%
+Walkinwake | 409 |   3.41%
+Suicune    | 408 |   3.40%
+Keldeo     | 362 |   3.02%
+Tapu Fini  | 341 |   2.84%
+Milotic    | 329 |   2.74%
+Ironbundle | 302 |   2.52%
+Feraligatr | 297 |   2.48%
+Vaporeon   | 296 |   2.47%
+Inteleon   | 294 |   2.45%
+Dondozo    | 285 |   2.38%
+Samurott   | 267 |   2.23%
+Blastoise  | 262 |   2.18%
+Greninja   | 255 |   2.12%
+Sharpedom  | 253 |   2.11%
+Urshifur   | 251 |   2.09%
+Ogerponw   | 247 |   2.06%
+Empoleon   | 244 |   2.03%
+Golduck    | 241 |   2.01%
+Basclegiof | 239 |   1.99%
+Wailord    | 238 |   1.98%
+Basclegion | 234 |   1.95%
+Baraskewda | 229 |   1.91%
+Clawitzer  | 226 |   1.88%
+Politoed   | 224 |   1.87%
+Primarina  | 222 |   1.85%
+Floatzel   | 222 |   1.85%
+Walrein    | 220 |   1.83%
+Simipour   | 215 |   1.79%
+Swampert   | 213 |   1.77%
+Lapras     | 212 |   1.77%
+Dracovish  | 210 |   1.75%
+Kingdra    | 201 |   1.68%
+Samurotth  | 197 |   1.64%
+Quaquaval  | 196 |   1.63%
+Golisopod  | 190 |   1.58%
+Cloyster   | 184 |   1.53%
+Slowbro    | 180 |   1.50%
+Tentacruel | 179 |   1.49%
+Arctovish  | 177 |   1.47%
+Barbaracle | 173 |   1.44%
+Starmie    | 172 |   1.43%
+Poliwrath  | 170 |   1.42%
+Slowking   | 167 |   1.39%
+Kabutops   | 157 |   1.31%
+Taurospw   | 156 |   1.30%
+Carracosta | 151 |   1.26%
+Seismitoad | 148 |   1.23%
+Omastar    | 146 |   1.22%
+Rotomw     | 146 |   1.22%
+Toxapex    | 131 |   1.09%
+Volcanion  |   3 |   0.03%
+Manaphy    |   2 |   0.02%
+Dewgong    |   1 |   0.01%
+Alomomola  |   1 |   0.01%
+Lumineon   |   1 |   0.01%
+Octillery  |   1 |   0.01%
+Cramorant  |   1 |   0.01%
+Drednaw    |   1 |   0.01%
+Kingler    |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

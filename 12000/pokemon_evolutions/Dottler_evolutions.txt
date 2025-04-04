@@ -1,0 +1,84 @@
+Evolutions from Dottler (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Munkidori  | 273 |   2.27%
+Grumpig    | 265 |   2.21%
+Espeon     | 259 |   2.16%
+Meowstic   | 256 |   2.13%
+Chimecho   | 255 |   2.12%
+Reuniclus  | 252 |   2.10%
+Gothitelle | 250 |   2.08%
+Alakazam   | 248 |   2.07%
+Hypno      | 245 |   2.04%
+Musharna   | 239 |   1.99%
+Meowsticf  | 231 |   1.93%
+Beheeyem   | 217 |   1.81%
+Gallade    | 205 |   1.71%
+Espathra   | 201 |   1.68%
+Gardevoir  | 193 |   1.61%
+Jynx       | 186 |   1.55%
+Lunatone   | 184 |   1.53%
+Mr. Mimeg  | 179 |   1.49%
+Pinsir     | 179 |   1.49%
+Darmanitaz | 178 |   1.48%
+Hatterene  | 177 |   1.47%
+Delphox    | 175 |   1.46%
+Volcarona  | 173 |   1.44%
+Medichamm  | 173 |   1.44%
+Bronzong   | 170 |   1.42%
+Xatu       | 168 |   1.40%
+Oricoriop  | 165 |   1.38%
+Accelgor   | 164 |   1.37%
+Braviaryh  | 161 |   1.34%
+Exeggutor  | 159 |   1.32%
+Armarouge  | 158 |   1.32%
+Mr. Mime   | 155 |   1.29%
+Solrock    | 153 |   1.27%
+Mr. Rime   | 149 |   1.24%
+Malamar    | 148 |   1.23%
+Claydol    | 147 |   1.23%
+Centskorch | 142 |   1.18%
+Rabsca     | 142 |   1.18%
+Scyther    | 141 |   1.18%
+Calyrex    | 140 |   1.17%
+Durant     | 138 |   1.15%
+Vespiquen  | 137 |   1.14%
+Sigilyph   | 137 |   1.14%
+Girafarig  | 134 |   1.12%
+Starmie    | 133 |   1.11%
+Scizor     | 133 |   1.11%
+Ninjask    | 130 |   1.08%
+Slowbrog   | 129 |   1.07%
+Yanmega    | 129 |   1.07%
+Bruxish    | 127 |   1.06%
+Kleavor    | 127 |   1.06%
+Forretress | 126 |   1.05%
+Frosmoth   | 126 |   1.05%
+Indeedee   | 126 |   1.05%
+Wyrdeer    | 126 |   1.05%
+Crustle    | 126 |   1.05%
+Slowking   | 125 |   1.04%
+Rapidashg  | 123 |   1.03%
+Armaldo    | 123 |   1.03%
+Beedrillm  | 120 |   1.00%
+Escavalier | 119 |   0.99%
+Ribombee   | 119 |   0.99%
+Slowkingg  | 119 |   0.99%
+Golisopod  | 118 |   0.98%
+Raichua    | 118 |   0.98%
+Farigiraf  | 118 |   0.98%
+Shuckle    | 117 |   0.97%
+Veluza     | 115 |   0.96%
+Leavanny   | 112 |   0.93%
+Scolipede  | 111 |   0.92%
+Heracross  | 110 |   0.92%
+Galvantula | 105 |   0.88%
+Slowbro    | 104 |   0.87%
+Indeedeef  | 100 |   0.83%
+Vikavolt   |  94 |   0.78%
+Oranguru   |  89 |   0.74%
+Articunog  |   1 |   0.01%
+Cresselia  |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

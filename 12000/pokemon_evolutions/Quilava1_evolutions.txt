@@ -1,0 +1,46 @@
+Evolutions from Quilava1 (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Entei      | 476 |   3.97%
+Moltres    | 418 |   3.48%
+Arcanine   | 413 |   3.44%
+Blacphalon | 400 |   3.33%
+Cinderace  | 392 |   3.27%
+Simisear   | 370 |   3.08%
+Magmar     | 370 |   3.08%
+Magmortar  | 370 |   3.08%
+Iron Moth  | 362 |   3.02%
+Rapidash   | 358 |   2.98%
+Flareon    | 355 |   2.96%
+Ninetales  | 348 |   2.90%
+Chi-Yu     | 344 |   2.87%
+Heatmor    | 335 |   2.79%
+Turtonator | 332 |   2.77%
+Darmanitaz | 318 |   2.65%
+Delphox    | 316 |   2.63%
+Blaziken   | 310 |   2.58%
+Arcanineh  | 310 |   2.58%
+Volcarona  | 310 |   2.58%
+Infernape  | 308 |   2.57%
+Ogerponf   | 308 |   2.57%
+Skeledirge | 307 |   2.56%
+Cameruptm  | 294 |   2.45%
+Armarouge  | 278 |   2.32%
+Darmanitzg | 278 |   2.32%
+Emboar     | 273 |   2.27%
+Ceruledge  | 270 |   2.25%
+Taurospf   | 258 |   2.15%
+Chandelure | 253 |   2.11%
+Incineroar | 252 |   2.10%
+Charizard  | 251 |   2.09%
+Coalossal  | 238 |   1.98%
+Houndoom   | 231 |   1.93%
+Talonflame | 224 |   1.87%
+Centskorch | 207 |   1.73%
+Rotomh     | 201 |   1.68%
+Scovillain | 192 |   1.60%
+Pyroar     | 169 |   1.41%
+Victini    |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

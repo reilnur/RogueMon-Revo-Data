@@ -1,0 +1,48 @@
+Evolutions from Cufant (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Klinklang  | 615 |   5.12%
+Orthworm   | 603 |   5.03%
+Duraludon  | 585 |   4.88%
+Gholdengo  | 527 |   4.39%
+Kingambit  | 426 |   3.55%
+Lucario    | 419 |   3.49%
+Tinkaton   | 394 |   3.28%
+Aegislashb | 389 |   3.24%
+Sandslasha | 384 |   3.20%
+Magneton   | 374 |   3.12%
+Klefki     | 371 |   3.09%
+Magnezone  | 370 |   3.08%
+Stunfiskg  | 366 |   3.05%
+Aggron     | 362 |   3.02%
+Mawilem    | 357 |   2.97%
+Bisharp    | 352 |   2.93%
+Steelix    | 352 |   2.93%
+Excadrill  | 349 |   2.91%
+Aegislash  | 347 |   2.89%
+Skarmory   | 345 |   2.88%
+Bronzong   | 341 |   2.84%
+Revavroom  | 339 |   2.83%
+Sliggooh   | 338 |   2.82%
+Bastiodon  | 338 |   2.82%
+Corvknight | 336 |   2.80%
+Probopass  | 332 |   2.77%
+Empoleon   | 327 |   2.73%
+Ferrothorn | 296 |   2.47%
+Scizor     | 266 |   2.22%
+Durant     | 265 |   2.21%
+Forretress | 264 |   2.20%
+Escavalier | 253 |   2.11%
+Irontreads |   3 |   0.03%
+Lairon     |   3 |   0.03%
+Perrserker |   3 |   0.03%
+Stakataka  |   2 |   0.02%
+Klang      |   2 |   0.02%
+Togedemaru |   1 |   0.01%
+Kartana    |   1 |   0.01%
+Dugtrioa   |   1 |   0.01%
+Doublade   |   1 |   0.01%
+Celesteela |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

@@ -1,0 +1,55 @@
+Evolutions from Rellor (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Mothim     | 509 |   4.24%
+Pinsir     | 483 |   4.03%
+Illumise   | 472 |   3.93%
+Volbeat    | 438 |   3.65%
+Accelgor   | 420 |   3.50%
+Vespiquen  | 376 |   3.13%
+Masquerain | 371 |   3.09%
+Escavalier | 370 |   3.08%
+Scyther    | 369 |   3.08%
+Orbeetle   | 356 |   2.97%
+Yanmega    | 356 |   2.97%
+Durant     | 355 |   2.96%
+Wormadams  | 355 |   2.96%
+Frosmoth   | 352 |   2.93%
+Wormadamt  | 349 |   2.91%
+Scizor     | 345 |   2.88%
+Forretress | 344 |   2.87%
+Heracross  | 333 |   2.77%
+Ninjask    | 332 |   2.77%
+Venomoth   | 328 |   2.73%
+Leavanny   | 325 |   2.71%
+Lokix      | 325 |   2.71%
+Crustle    | 321 |   2.67%
+Armaldo    | 312 |   2.60%
+Kleavor    | 309 |   2.57%
+Wormadam   | 306 |   2.55%
+Shuckle    | 303 |   2.53%
+Galvantula | 302 |   2.52%
+Scolipede  | 298 |   2.48%
+Ribombee   | 292 |   2.43%
+Beedrillm  | 273 |   2.27%
+Vikavolt   | 273 |   2.27%
+Araquanid  | 252 |   2.10%
+Spidops    |  53 |   0.44%
+Vivillon   |  46 |   0.38%
+Kricketune |  45 |   0.38%
+Charjabug  |  42 |   0.35%
+Volcarona  |  38 |   0.32%
+Ariados    |  35 |   0.29%
+Dustox     |  32 |   0.27%
+Beedrill   |  32 |   0.27%
+Centskorch |  29 |   0.24%
+Butterfree |  29 |   0.24%
+Beautifly  |  28 |   0.23%
+Yanma      |  27 |   0.22%
+Golisopod  |  20 |   0.17%
+Ledian     |  14 |   0.12%
+Swadloon   |  13 |   0.11%
+Parasect   |  13 |   0.11%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

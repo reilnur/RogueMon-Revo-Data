@@ -1,0 +1,63 @@
+Evolutions from Thwackey (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Virizion   | 372 |   3.10%
+Ogerpon    | 334 |   2.78%
+Tapu Bulu  | 327 |   2.73%
+Brutebonet | 321 |   2.67%
+Tangrowth  | 318 |   2.65%
+Wo-Chien   | 314 |   2.62%
+Gogoat     | 307 |   2.56%
+Sceptile   | 295 |   2.46%
+Kartana    | 291 |   2.43%
+Exeggutora | 277 |   2.31%
+Meganium   | 267 |   2.23%
+Cherrims   | 260 |   2.17%
+Serperior  | 259 |   2.16%
+Lurantis   | 254 |   2.12%
+Leafeon    | 249 |   2.08%
+Tsareena   | 247 |   2.06%
+Bellossom  | 246 |   2.05%
+Hydrapple  | 236 |   1.97%
+Ogerponr   | 235 |   1.96%
+Lilligant  | 235 |   1.96%
+Decidueyeh | 230 |   1.92%
+Simisage   | 222 |   1.85%
+Appletun   | 219 |   1.82%
+Dipplin    | 217 |   1.81%
+Exeggutor  | 213 |   1.77%
+Ogerponf   | 211 |   1.76%
+Chesnaught | 204 |   1.70%
+Ogerponw   | 198 |   1.65%
+Flapple    | 192 |   1.60%
+Dhelmise   | 191 |   1.59%
+Decidueye  | 189 |   1.57%
+Sinistcha  | 186 |   1.55%
+Toedscruel | 184 |   1.53%
+Meowscrada | 182 |   1.52%
+Gourgeists | 173 |   1.44%
+Gourgeistx | 172 |   1.43%
+Calyrex    | 170 |   1.42%
+Bramblgast | 169 |   1.41%
+Whimsicott | 169 |   1.41%
+Lilliganth | 165 |   1.38%
+Abomasnow  | 162 |   1.35%
+Shiftry    | 160 |   1.33%
+Electrodeh | 158 |   1.32%
+Torterra   | 157 |   1.31%
+Ferrothorn | 155 |   1.29%
+Gourgeist  | 154 |   1.28%
+Vileplume  | 150 |   1.25%
+Venusaur   | 148 |   1.23%
+Gourgeistl | 146 |   1.22%
+Rotomm     | 146 |   1.22%
+Roserade   | 145 |   1.21%
+Scovillain | 145 |   1.21%
+Cradily    | 142 |   1.18%
+Victreebel | 141 |   1.18%
+Ludicolo   | 136 |   1.13%
+Leavanny   | 133 |   1.11%
+Arboliva   | 122 |   1.02%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

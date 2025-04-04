@@ -1,0 +1,43 @@
+Evolutions from Wooperp (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Dugtrio    | 551 |   4.59%
+Marowak    | 516 |   4.30%
+Arbok      | 510 |   4.25%
+Haunter    | 498 |   4.15%
+Poipole    | 475 |   3.96%
+Graveler   | 464 |   3.87%
+Sandslash  | 431 |   3.59%
+Pupitar    | 427 |   3.56%
+Gligar     | 397 |   3.31%
+Swalot     | 395 |   3.29%
+Dugtrioa   | 390 |   3.25%
+Seviper    | 368 |   3.07%
+Stunfiskg  | 363 |   3.02%
+Qwilfishh  | 355 |   2.96%
+Sneaselh   | 340 |   2.83%
+Ivysaur    | 337 |   2.81%
+Piloswine  | 332 |   2.77%
+Roselia    | 330 |   2.75%
+Diggersby  | 319 |   2.66%
+Weepinbell | 317 |   2.64%
+Stunfisk   | 311 |   2.59%
+Marshtomp  | 306 |   2.55%
+Gabite     | 301 |   2.51%
+Gloom      | 298 |   2.48%
+Camerupt   | 292 |   2.43%
+Golbat     | 288 |   2.40%
+Quagsire   | 285 |   2.38%
+Whiscash   | 274 |   2.28%
+Amoonguss  | 269 |   2.24%
+Qwilfish   | 267 |   2.23%
+Ariados    | 256 |   2.13%
+Wormadams  | 252 |   2.10%
+Beedrill   | 242 |   2.02%
+Venomoth   | 241 |   2.01%
+Nidorino   |   1 |   0.01%
+Mudbray    |   1 |   0.01%
+Zygarde10  |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

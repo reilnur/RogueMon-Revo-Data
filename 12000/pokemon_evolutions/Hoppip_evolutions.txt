@@ -1,0 +1,49 @@
+Evolutions from Hoppip (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Bulbasaur  | 329 |   2.74%
+Pansage    | 326 |   2.72%
+Chikorita  | 325 |   2.71%
+Swablu     | 317 |   2.64%
+Polchgeist | 316 |   2.63%
+Sewaddle   | 310 |   2.58%
+Pumpkaboos | 307 |   2.56%
+Sprigatito | 306 |   2.55%
+Chespin    | 304 |   2.53%
+Natu       | 304 |   2.53%
+Exeggcute  | 303 |   2.53%
+Cacnea     | 300 |   2.50%
+Grookey    | 299 |   2.49%
+Turtwig    | 299 |   2.49%
+Pumpkaboox | 298 |   2.48%
+Pumpkabool | 297 |   2.48%
+Treecko    | 296 |   2.47%
+Doduo      | 294 |   2.45%
+Oddish     | 290 |   2.42%
+Phantump   | 288 |   2.40%
+Skiddo     | 287 |   2.39%
+Toedscool  | 286 |   2.38%
+Snover     | 285 |   2.38%
+Snivy      | 284 |   2.37%
+Delibird   | 284 |   2.37%
+Rowlet     | 276 |   2.30%
+Lombre     | 275 |   2.29%
+Woobat     | 274 |   2.28%
+Corvsquire | 271 |   2.26%
+Pumpkaboo  | 268 |   2.23%
+Mantyke    | 268 |   2.23%
+Nuzleaf    | 261 |   2.17%
+Pidgeotto  | 256 |   2.13%
+Tranquill  | 252 |   2.10%
+Vullaby    | 250 |   2.08%
+Staravia   | 248 |   2.07%
+Trumbeak   | 241 |   2.01%
+Deerling   | 241 |   2.01%
+Drifloon   | 220 |   1.83%
+Voltorbh   | 219 |   1.82%
+Rufflet    | 218 |   1.82%
+Lileep     | 214 |   1.78%
+Dolliv     | 214 |   1.78%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

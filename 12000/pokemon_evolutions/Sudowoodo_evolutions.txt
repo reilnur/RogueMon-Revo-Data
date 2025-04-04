@@ -1,0 +1,51 @@
+Evolutions from Sudowoodo (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Lycanrocd  | 535 |   4.46%
+Stonjorner | 532 |   4.43%
+Lycanrocm  | 519 |   4.32%
+Garganacl  | 467 |   3.89%
+Lycanroc   | 461 |   3.84%
+Rampardos  | 445 |   3.71%
+Tyrantrum  | 428 |   3.57%
+Gigalith   | 419 |   3.49%
+Arcanineh  | 391 |   3.26%
+Ogerponr   | 384 |   3.20%
+Probopass  | 365 |   3.04%
+Aggron     | 355 |   2.96%
+Bastiodon  | 354 |   2.95%
+Solrock    | 333 |   2.77%
+Lunatone   | 332 |   2.77%
+Carbink    | 328 |   2.73%
+Rhyperior  | 318 |   2.65%
+Avaluggh   | 313 |   2.61%
+Aerodactyl | 292 |   2.43%
+Rhydon     | 288 |   2.40%
+Aurorus    | 286 |   2.38%
+Miniorc    | 284 |   2.37%
+Coalossal  | 281 |   2.34%
+Relicanth  | 273 |   2.27%
+Golema     | 259 |   2.16%
+Glimmora   | 246 |   2.05%
+Golem      | 245 |   2.04%
+Crustle    | 242 |   2.02%
+Carracosta | 239 |   1.99%
+Cradily    | 231 |   1.93%
+Kleavor    | 229 |   1.91%
+Omastar    | 225 |   1.88%
+Drednaw    | 223 |   1.86%
+Armaldo    | 221 |   1.84%
+Shuckle    | 218 |   1.82%
+Kabutops   | 207 |   1.73%
+Barbaracle | 200 |   1.67%
+Regirock   |   6 |   0.05%
+Terrakion  |   5 |   0.04%
+Archeops   |   4 |   0.03%
+Stakataka  |   4 |   0.03%
+Klawf      |   4 |   0.03%
+Nihilego   |   3 |   0.03%
+Ironthorns |   3 |   0.03%
+Minior     |   3 |   0.03%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

@@ -1,0 +1,49 @@
+Evolutions from Boldore (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Stonjorner | 565 |   4.71%
+Rampardos  | 563 |   4.69%
+Lycanrocd  | 560 |   4.67%
+Lycanrocm  | 552 |   4.60%
+Garganacl  | 533 |   4.44%
+Lycanroc   | 530 |   4.42%
+Tyrantrum  | 467 |   3.89%
+Ogerponr   | 444 |   3.70%
+Arcanineh  | 444 |   3.70%
+Probopass  | 376 |   3.13%
+Bastiodon  | 375 |   3.12%
+Avaluggh   | 359 |   2.99%
+Aggron     | 357 |   2.97%
+Rhyperior  | 331 |   2.76%
+Coalossal  | 323 |   2.69%
+Rhydon     | 318 |   2.65%
+Carbink    | 311 |   2.59%
+Aerodactyl | 310 |   2.58%
+Miniorc    | 306 |   2.55%
+Aurorus    | 301 |   2.51%
+Golem      | 298 |   2.48%
+Glimmora   | 292 |   2.43%
+Cradily    | 289 |   2.41%
+Relicanth  | 266 |   2.22%
+Shuckle    | 263 |   2.19%
+Omastar    | 255 |   2.12%
+Drednaw    | 255 |   2.12%
+Armaldo    | 251 |   2.09%
+Golema     | 251 |   2.09%
+Barbaracle | 249 |   2.08%
+Crustle    | 243 |   2.02%
+Kabutops   | 243 |   2.02%
+Carracosta | 232 |   1.93%
+Kleavor    | 226 |   1.88%
+Ironbouldr |  13 |   0.11%
+Terrakion  |  13 |   0.11%
+Regirock   |  10 |   0.08%
+Ironthorns |   8 |   0.07%
+Nihilego   |   6 |   0.05%
+Archeops   |   5 |   0.04%
+Lunatone   |   3 |   0.03%
+Stakataka  |   2 |   0.02%
+Minior     |   2 |   0.02%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

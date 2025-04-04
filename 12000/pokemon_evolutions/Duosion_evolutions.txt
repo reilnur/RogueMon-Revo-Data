@@ -1,0 +1,61 @@
+Evolutions from Duosion (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Meowstic   | 398 |   3.32%
+Espeon     | 390 |   3.25%
+Alakazam   | 368 |   3.07%
+Gothitelle | 363 |   3.02%
+Hypno      | 356 |   2.97%
+Musharna   | 348 |   2.90%
+Chimecho   | 346 |   2.88%
+Espathra   | 323 |   2.69%
+Meowsticf  | 320 |   2.67%
+Beheeyem   | 317 |   2.64%
+Gallade    | 314 |   2.62%
+Gardevoir  | 314 |   2.62%
+Grumpig    | 292 |   2.43%
+Hatterene  | 284 |   2.37%
+Medichamm  | 277 |   2.31%
+Lunatone   | 263 |   2.19%
+Exeggutor  | 262 |   2.18%
+Mr. Mimeg  | 261 |   2.17%
+Delphox    | 254 |   2.12%
+Bronzong   | 248 |   2.07%
+Jynx       | 245 |   2.04%
+Mr. Rime   | 243 |   2.02%
+Braviaryh  | 241 |   2.01%
+Armarouge  | 236 |   1.97%
+Malamar    | 230 |   1.92%
+Rapidashg  | 229 |   1.91%
+Xatu       | 228 |   1.90%
+Oricoriop  | 227 |   1.89%
+Sigilyph   | 221 |   1.84%
+Mr. Mime   | 216 |   1.80%
+Slowbrog   | 213 |   1.77%
+Claydol    | 208 |   1.73%
+Solrock    | 207 |   1.73%
+Girafarig  | 204 |   1.70%
+Starmie    | 204 |   1.70%
+Orbeetle   | 198 |   1.65%
+Slowbro    | 188 |   1.57%
+Raichua    | 187 |   1.56%
+Rabsca     | 182 |   1.52%
+Slowkingg  | 178 |   1.48%
+Oranguru   | 172 |   1.43%
+Bruxish    | 172 |   1.43%
+Wyrdeer    | 169 |   1.41%
+Slowking   | 165 |   1.38%
+Farigiraf  | 163 |   1.36%
+Calyrex    | 158 |   1.32%
+Veluza     | 145 |   1.21%
+Indeedeef  | 137 |   1.14%
+Indeedee   | 130 |   1.08%
+Darmanitaz |   1 |   0.01%
+Mesprit    |   1 |   0.01%
+Metang     |   1 |   0.01%
+Swoobat    |   1 |   0.01%
+Uxie       |   1 |   0.01%
+Munkidori  |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

@@ -1,0 +1,37 @@
+Evolutions from Fidough (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Granbull   | 775 |   6.46%
+Aromatisse | 761 |   6.34%
+Slurpuff   | 749 |   6.24%
+Clefable   | 704 |   5.87%
+Alcremie   | 687 |   5.73%
+Comfey     | 660 |   5.50%
+Dedenne    | 655 |   5.46%
+Gardevoir  | 557 |   4.64%
+Tinkaton   | 546 |   4.55%
+Klefki     | 519 |   4.32%
+Hatterene  | 518 |   4.32%
+Mawilem    | 517 |   4.31%
+Grimmsnarl | 492 |   4.10%
+Mimikyu    | 472 |   3.93%
+Ninetalesa | 461 |   3.84%
+Whimsicott | 455 |   3.79%
+Mr. Mime   | 455 |   3.79%
+Carbink    | 449 |   3.74%
+Wigglytuff | 414 |   3.45%
+Rapidashg  | 409 |   3.41%
+Weezingg   | 392 |   3.27%
+Ribombee   | 325 |   2.71%
+Screamtail |   6 |   0.05%
+Sylveon    |   6 |   0.05%
+Togekiss   |   5 |   0.04%
+Tapu Lele  |   3 |   0.03%
+Audinom    |   3 |   0.03%
+Floettee   |   2 |   0.02%
+Tapu Bulu  |   1 |   0.01%
+Fluttrmane |   1 |   0.01%
+Primarina  |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

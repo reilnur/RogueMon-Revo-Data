@@ -1,0 +1,54 @@
+Evolutions from Paras (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Grovyle    | 485 |   4.04%
+Floragato  | 480 |   4.00%
+Quilladin  | 469 |   3.91%
+Grotle     | 465 |   3.88%
+Thwackey   | 445 |   3.71%
+Bayleef    | 439 |   3.66%
+Servine    | 438 |   3.65%
+Sunflora   | 432 |   3.60%
+Tangela    | 405 |   3.38%
+Dartrix    | 395 |   3.29%
+Mothim     | 383 |   3.19%
+Spidops    | 376 |   3.13%
+Roselia    | 372 |   3.10%
+Weepinbell | 372 |   3.10%
+Volbeat    | 369 |   3.08%
+Kricketune | 364 |   3.03%
+Ledian     | 352 |   2.93%
+Ivysaur    | 350 |   2.92%
+Butterfree | 344 |   2.87%
+Gloom      | 334 |   2.78%
+Beautifly  | 328 |   2.73%
+Illumise   | 326 |   2.72%
+Dustox     | 318 |   2.65%
+Charjabug  | 315 |   2.62%
+Yanma      | 309 |   2.57%
+Wormadamt  | 299 |   2.49%
+Wormadams  | 297 |   2.48%
+Ariados    | 295 |   2.46%
+Vivillon   | 292 |   2.43%
+Shiinotic  | 289 |   2.41%
+Beedrill   | 287 |   2.39%
+Swadloon   | 279 |   2.33%
+Wormadam   | 252 |   2.10%
+Lileep     |   7 |   0.06%
+Larvesta   |   5 |   0.04%
+Skiddo     |   5 |   0.04%
+Whirlipede |   4 |   0.03%
+Dolliv     |   4 |   0.03%
+Breloom    |   4 |   0.03%
+Carnivine  |   3 |   0.03%
+Cherrim    |   3 |   0.03%
+Tropius    |   2 |   0.02%
+Eldegoss   |   2 |   0.02%
+Anorith    |   2 |   0.02%
+Venomoth   |   1 |   0.01%
+Masquerain |   1 |   0.01%
+Lokix      |   1 |   0.01%
+Maractus   |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

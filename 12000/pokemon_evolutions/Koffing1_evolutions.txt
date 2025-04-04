@@ -1,0 +1,56 @@
+Evolutions from Koffing1 (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Arbok      | 656 |   5.47%
+Seviper    | 547 |   4.56%
+Swalot     | 509 |   4.24%
+Muk        | 496 |   4.13%
+Garbodor   | 481 |   4.01%
+Crobat     | 378 |   3.15%
+Dragalge   | 367 |   3.06%
+Revavroom  | 364 |   3.03%
+Muka       | 359 |   2.99%
+Sneasler   | 355 |   2.96%
+Skuntank   | 347 |   2.89%
+Golbat     | 343 |   2.86%
+Amoonguss  | 335 |   2.79%
+Salazzle   | 335 |   2.79%
+Gengar     | 331 |   2.76%
+Overqwil   | 330 |   2.75%
+Nidoking   | 316 |   2.63%
+Venusaur   | 315 |   2.62%
+Slowkingg  | 307 |   2.56%
+Drapion    | 302 |   2.52%
+Slowbrog   | 302 |   2.52%
+Glimmora   | 299 |   2.49%
+Toxicroak  | 299 |   2.49%
+Nidoqueen  | 296 |   2.47%
+Roserade   | 289 |   2.41%
+Toxtricitl | 286 |   2.38%
+Venomoth   | 278 |   2.32%
+Victreebel | 274 |   2.28%
+Vileplume  | 269 |   2.24%
+Beedrillm  | 262 |   2.18%
+Scolipede  | 260 |   2.17%
+Tentacruel | 249 |   2.08%
+Toxtricity | 248 |   2.07%
+Toxapex    | 232 |   1.93%
+Grafaiai   | 217 |   1.81%
+Poipole    |  27 |   0.22%
+Munkidori  |  23 |   0.19%
+Fezandipti |  21 |   0.18%
+Okidogi    |  19 |   0.16%
+Naganadel  |  18 |   0.15%
+Clodsire   |  14 |   0.12%
+Qwilfishh  |  12 |   0.10%
+Sneaselh   |  10 |   0.08%
+Iron Moth  |   6 |   0.05%
+Qwilfish   |   6 |   0.05%
+Ariados    |   3 |   0.03%
+Nihilego   |   3 |   0.03%
+Haunter    |   2 |   0.02%
+Gloom      |   2 |   0.02%
+Ivysaur    |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

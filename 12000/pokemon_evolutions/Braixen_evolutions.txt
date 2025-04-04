@@ -1,0 +1,46 @@
+Evolutions from Braixen (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Entei      | 455 |   3.79%
+Moltres    | 429 |   3.57%
+Arcanine   | 409 |   3.41%
+Heatmor    | 384 |   3.20%
+Iron Moth  | 380 |   3.17%
+Cinderace  | 372 |   3.10%
+Simisear   | 361 |   3.01%
+Typhlosion | 354 |   2.95%
+Rapidash   | 348 |   2.90%
+Magmortar  | 347 |   2.89%
+Turtonator | 344 |   2.87%
+Flareon    | 342 |   2.85%
+Ninetales  | 342 |   2.85%
+Chi-Yu     | 334 |   2.78%
+Blaziken   | 332 |   2.77%
+Magmar     | 326 |   2.72%
+Blacphalon | 324 |   2.70%
+Darmanitaz | 321 |   2.67%
+Arcanineh  | 320 |   2.67%
+Infernape  | 308 |   2.57%
+Typhlosioh | 289 |   2.41%
+Ogerponf   | 277 |   2.31%
+Volcarona  | 275 |   2.29%
+Emboar     | 272 |   2.27%
+Chandelure | 270 |   2.25%
+Darmanitzg | 270 |   2.25%
+Skeledirge | 269 |   2.24%
+Cameruptm  | 264 |   2.20%
+Incineroar | 263 |   2.19%
+Charizard  | 247 |   2.06%
+Armarouge  | 236 |   1.97%
+Coalossal  | 236 |   1.97%
+Taurospf   | 233 |   1.94%
+Houndoom   | 232 |   1.93%
+Talonflame | 231 |   1.93%
+Ceruledge  | 223 |   1.86%
+Centskorch | 205 |   1.71%
+Rotomh     | 198 |   1.65%
+Pyroar     | 192 |   1.60%
+Scovillain | 186 |   1.55%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

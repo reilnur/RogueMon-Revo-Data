@@ -1,0 +1,39 @@
+Evolutions from Clobbopus (out of approximately 12000):
+Pokémon      | Count | Percentage
+----------------------------
+Hitmontop    | 573 |   4.78%
+Hitmonlee    | 556 |   4.63%
+Primeape     | 524 |   4.37%
+Hitmonchan   | 519 |   4.32%
+Mienshao     | 517 |   4.31%
+Sawk         | 492 |   4.10%
+Sirfetchâ€™d | 477 |   3.98%
+Conkeldurr   | 472 |   3.93%
+Machamp      | 470 |   3.92%
+Hariyama     | 460 |   3.83%
+Throh        | 452 |   3.77%
+Passimian    | 440 |   3.67%
+Falinks      | 426 |   3.55%
+Taurosp      | 396 |   3.30%
+Gallade      | 379 |   3.16%
+Lucario      | 379 |   3.16%
+Crabminble   | 316 |   2.63%
+Emboar       | 315 |   2.62%
+Breloom      | 307 |   2.56%
+Medichamm    | 299 |   2.49%
+Scrafty      | 289 |   2.41%
+Pangoro      | 287 |   2.39%
+Flamigo      | 279 |   2.33%
+Taurospf     | 274 |   2.28%
+Sneasler     | 259 |   2.16%
+Poliwrath    | 258 |   2.15%
+Hawlucha     | 253 |   2.11%
+Lilliganth   | 246 |   2.05%
+Taurospw     | 224 |   1.87%
+Toxicroak    | 224 |   1.87%
+Heracross    | 219 |   1.82%
+Pawmot       | 215 |   1.79%
+Bewear       | 204 |   1.70%
+----------------------------
+TOTAL        | 12000 | 100.00%
+

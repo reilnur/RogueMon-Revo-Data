@@ -1,0 +1,23 @@
+Evolutions from Cyndaquil (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Magby      | 968 |   8.07%
+Lampent    | 850 |   7.08%
+Torracat   | 807 |   6.73%
+Braixen    | 776 |   6.47%
+Raboot     | 765 |   6.38%
+Ponyta     | 731 |   6.09%
+Charmeleon | 731 |   6.09%
+Castformf  | 714 |   5.95%
+Crocalor   | 706 |   5.88%
+Litleo     | 677 |   5.64%
+Marowaka   | 642 |   5.35%
+Flechinder | 639 |   5.33%
+Magcargo   | 623 |   5.19%
+Combusken  | 614 |   5.12%
+Carkol     | 607 |   5.06%
+Monferno   | 598 |   4.98%
+Pignite    | 552 |   4.60%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

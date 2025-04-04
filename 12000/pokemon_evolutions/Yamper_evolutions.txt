@@ -1,0 +1,50 @@
+Evolutions from Yamper (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Manectric  | 549 |   4.58%
+Jolteon    | 530 |   4.42%
+Ampharos   | 507 |   4.23%
+Luxray     | 505 |   4.21%
+Electabuzz | 498 |   4.15%
+Eelektross | 493 |   4.11%
+Electrode  | 490 |   4.08%
+Bellibolt  | 479 |   3.99%
+Raichu     | 463 |   3.86%
+Zebstrika  | 447 |   3.72%
+Magnezone  | 438 |   3.65%
+Magneton   | 409 |   3.41%
+Stunfisk   | 387 |   3.23%
+Dracozolt  | 381 |   3.17%
+Rotomfa    | 348 |   2.90%
+Rotomfr    | 334 |   2.78%
+Oricorioe  | 334 |   2.78%
+Kilowattrl | 327 |   2.73%
+Arctozolt  | 321 |   2.67%
+Raichua    | 318 |   2.65%
+Pawmot     | 318 |   2.65%
+Lanturn    | 313 |   2.61%
+Rotomh     | 306 |   2.55%
+Toxtricity | 296 |   2.47%
+Golema     | 292 |   2.43%
+Galvantula | 289 |   2.41%
+Rotomm     | 268 |   2.23%
+Rotomw     | 258 |   2.15%
+Toxtricitl | 255 |   2.12%
+Heliolisk  | 246 |   2.05%
+Electrodeh | 236 |   1.97%
+Vikavolt   | 235 |   1.96%
+Pincurchin |  27 |   0.22%
+Pikachup   |  20 |   0.17%
+Emolga     |  18 |   0.15%
+Togedemaru |  18 |   0.15%
+Morpekoh   |  11 |   0.09%
+Morpeko    |  10 |   0.08%
+Electivire |   9 |   0.07%
+Dedenne    |   8 |   0.07%
+Rotom      |   6 |   0.05%
+Eelektrik  |   1 |   0.01%
+Manectricm |   1 |   0.01%
+Tapu Koko  |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

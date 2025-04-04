@@ -1,0 +1,33 @@
+Evolutions from Bonsly (out of approximately 12000):
+Pokémon    | Count | Percentage
+---------------------------
+Nosepass   | 1196 |   9.97%
+Boldore    | 1182 |   9.85%
+Lairon     |  973 |   8.11%
+Klawf      |  960 |   8.00%
+Archen     |  954 |   7.95%
+Onix       |  942 |   7.85%
+Graveler   |  934 |   7.78%
+Minior     |  906 |   7.55%
+Pupitar    |  903 |   7.52%
+Gravelera  |  847 |   7.06%
+Magcargo   |  823 |   6.86%
+Carkol     |  685 |   5.71%
+Corsola    |  658 |   5.48%
+Kabuto     |    5 |   0.04%
+Naclstack  |    5 |   0.04%
+Lileep     |    5 |   0.04%
+Tirtouga   |    4 |   0.03%
+Tyrunt     |    3 |   0.03%
+Glimmet    |    3 |   0.03%
+Growlitheh |    2 |   0.02%
+Shieldon   |    2 |   0.02%
+Anorith    |    2 |   0.02%
+Cranidos   |    2 |   0.02%
+Solrock    |    1 |   0.01%
+Omanyte    |    1 |   0.01%
+Amaura     |    1 |   0.01%
+Lunatone   |    1 |   0.01%
+---------------------------
+TOTAL      | 12000 | 100.00%
+

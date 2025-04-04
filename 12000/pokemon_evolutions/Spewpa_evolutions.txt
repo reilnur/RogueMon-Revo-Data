@@ -1,0 +1,43 @@
+Evolutions from Spewpa (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Spidops    | 781 |   6.51%
+Mothim     | 671 |   5.59%
+Kricketune | 663 |   5.53%
+Illumise   | 653 |   5.44%
+Volbeat    | 640 |   5.33%
+Ledian     | 612 |   5.10%
+Butterfree | 598 |   4.98%
+Yanma      | 587 |   4.89%
+Charjabug  | 583 |   4.86%
+Beautifly  | 581 |   4.84%
+Dustox     | 575 |   4.79%
+Beedrill   | 541 |   4.51%
+Ariados    | 535 |   4.46%
+Swadloon   | 523 |   4.36%
+Wormadams  | 516 |   4.30%
+Wormadamt  | 501 |   4.17%
+Lokix      | 465 |   3.88%
+Venomoth   | 451 |   3.76%
+Parasect   | 439 |   3.66%
+Wormadam   | 422 |   3.52%
+Anorith    | 146 |   1.22%
+Larvesta   | 118 |   0.98%
+Skorupi    |  89 |   0.74%
+Dottler    |  86 |   0.72%
+Whirlipede |  74 |   0.62%
+Masquerain |  25 |   0.21%
+Rabsca     |  22 |   0.18%
+Ribombee   |  22 |   0.18%
+Galvantula |  20 |   0.17%
+Forretress |  17 |   0.14%
+Vespiquen  |  10 |   0.08%
+Ninjask    |  10 |   0.08%
+Araquanid  |   9 |   0.07%
+Durant     |   5 |   0.04%
+Frosmoth   |   4 |   0.03%
+Scolipede  |   3 |   0.03%
+Crustle    |   3 |   0.03%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

@@ -1,0 +1,46 @@
+Evolutions from Spinarak (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Nidorino   | 618 |   5.15%
+Nidorina   | 610 |   5.08%
+Poipole    | 606 |   5.05%
+Haunter    | 583 |   4.86%
+Larvesta   | 507 |   4.23%
+Clodsire   | 452 |   3.77%
+Qwilfishh  | 444 |   3.70%
+Kricketune | 396 |   3.30%
+Whirlipede | 390 |   3.25%
+Volbeat    | 378 |   3.15%
+Gloom      | 369 |   3.08%
+Spidops    | 365 |   3.04%
+Roselia    | 364 |   3.03%
+Sneaselh   | 363 |   3.02%
+Ivysaur    | 362 |   3.02%
+Weepinbell | 358 |   2.98%
+Mothim     | 358 |   2.98%
+Yanma      | 344 |   2.87%
+Ledian     | 334 |   2.78%
+Butterfree | 331 |   2.76%
+Beautifly  | 327 |   2.73%
+Illumise   | 322 |   2.68%
+Qwilfish   | 318 |   2.65%
+Charjabug  | 305 |   2.54%
+Vivillon   | 304 |   2.53%
+Wormadamt  | 302 |   2.52%
+Dustox     | 289 |   2.41%
+Beedrill   | 280 |   2.33%
+Swadloon   | 277 |   2.31%
+Wormadams  | 263 |   2.19%
+Wormadam   | 250 |   2.08%
+Parasect   | 210 |   1.75%
+Arbok      |   9 |   0.07%
+Koffing    |   4 |   0.03%
+Ninjask    |   2 |   0.02%
+Anorith    |   2 |   0.02%
+Seviper    |   1 |   0.01%
+Golbat     |   1 |   0.01%
+Lokix      |   1 |   0.01%
+Glimmet    |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

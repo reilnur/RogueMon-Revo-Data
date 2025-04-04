@@ -1,0 +1,66 @@
+Evolutions from Sneasel (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Cetitan    | 325 |   2.71%
+Glalie     | 323 |   2.69%
+Vanilluxe  | 316 |   2.63%
+Cryogonal  | 293 |   2.44%
+Glaceon    | 292 |   2.43%
+Absol      | 286 |   2.38%
+Zoroark    | 281 |   2.34%
+Darmanitag | 279 |   2.33%
+Mabosstiff | 275 |   2.29%
+Avalugg    | 272 |   2.27%
+Umbreon    | 272 |   2.27%
+Beartic    | 271 |   2.26%
+Eiscuen    | 257 |   2.14%
+Urshifu    | 256 |   2.13%
+Eiscue     | 241 |   2.01%
+Kingambit  | 238 |   1.98%
+Mr. Rime   | 214 |   1.78%
+Sharpedom  | 205 |   1.71%
+Bisharp    | 203 |   1.69%
+Incineroar | 202 |   1.68%
+Cacturne   | 202 |   1.68%
+Darmanitzg | 200 |   1.67%
+Mamoswine  | 196 |   1.63%
+Spiritomb  | 194 |   1.62%
+Froslass   | 194 |   1.62%
+Mandibuzz  | 192 |   1.60%
+Ninetalesa | 186 |   1.55%
+Sableyem   | 184 |   1.53%
+Grimmsnarl | 182 |   1.52%
+Pangoro    | 181 |   1.51%
+Malamar    | 181 |   1.51%
+Meowscrada | 181 |   1.51%
+Lapras     | 180 |   1.50%
+Mr. Mimeg  | 179 |   1.49%
+Dewgong    | 176 |   1.47%
+Scrafty    | 172 |   1.43%
+Honchkrow  | 170 |   1.42%
+Aurorus    | 169 |   1.41%
+Houndoom   | 168 |   1.40%
+Krookodile | 167 |   1.39%
+Samurotth  | 166 |   1.38%
+Crabminble | 164 |   1.37%
+Skuntank   | 162 |   1.35%
+Avaluggh   | 162 |   1.35%
+Greninja   | 162 |   1.35%
+Sharpedo   | 162 |   1.35%
+Cloyster   | 161 |   1.34%
+Bombirdier | 159 |   1.32%
+Drapion    | 158 |   1.32%
+Overqwil   | 156 |   1.30%
+Shiftry    | 154 |   1.28%
+Rotomfr    | 152 |   1.27%
+Crawdaunt  | 148 |   1.23%
+Walrein    | 148 |   1.23%
+Arctozolt  | 146 |   1.22%
+Arctovish  | 142 |   1.18%
+Muka       | 141 |   1.18%
+Abomasnow  | 140 |   1.17%
+Frosmoth   | 134 |   1.12%
+Obstagoon  | 128 |   1.07%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

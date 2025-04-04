@@ -1,0 +1,19 @@
+Evolutions from Wurmple1 (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Kakuna     | 972 |   8.10%
+Nymble     | 950 |   7.92%
+Kricketot  | 946 |   7.88%
+Burmyt     | 939 |   7.83%
+Spewpa     | 928 |   7.73%
+Tarountula | 926 |   7.72%
+Snom       | 926 |   7.72%
+Metapod    | 925 |   7.71%
+Burmys     | 913 |   7.61%
+Scatterbug | 906 |   7.55%
+Burmy      | 895 |   7.46%
+Weedle     | 891 |   7.42%
+Caterpie   | 883 |   7.36%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

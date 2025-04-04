@@ -1,0 +1,46 @@
+Evolutions from Hippopotas (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Ting-Lu    | 563 |   4.69%
+Sandaconda | 554 |   4.62%
+Great Tusk | 554 |   4.62%
+Sandyshock | 551 |   4.59%
+Irontreads | 529 |   4.41%
+Mudsdale   | 522 |   4.35%
+Donphan    | 513 |   4.28%
+Flygon     | 495 |   4.12%
+Zygarde10  | 437 |   3.64%
+Steelix    | 434 |   3.62%
+Mamoswine  | 405 |   3.38%
+Cameruptm  | 397 |   3.31%
+Krookodile | 370 |   3.08%
+Runerigus  | 364 |   3.03%
+Excadrill  | 360 |   3.00%
+Rhydon     | 351 |   2.93%
+Golurk     | 349 |   2.91%
+Claydol    | 335 |   2.79%
+Gliscor    | 334 |   2.78%
+Rhyperior  | 328 |   2.73%
+Torterra   | 319 |   2.66%
+Swampert   | 307 |   2.56%
+Ursalunab  | 304 |   2.53%
+Palossand  | 303 |   2.53%
+Gastrodon  | 297 |   2.48%
+Nidoking   | 294 |   2.45%
+Toedscruel | 284 |   2.37%
+Seismitoad | 280 |   2.33%
+Golem      | 271 |   2.26%
+Nidoqueen  | 269 |   2.24%
+Ursaluna   | 268 |   2.23%
+Landorus   |  21 |   0.18%
+Landorust  |  11 |   0.09%
+Zygarde    |   8 |   0.07%
+Garchomp   |   8 |   0.07%
+Stunfiskg  |   3 |   0.03%
+Piloswine  |   2 |   0.02%
+Stunfisk   |   2 |   0.02%
+Whiscash   |   2 |   0.02%
+Sandslash  |   2 |   0.02%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

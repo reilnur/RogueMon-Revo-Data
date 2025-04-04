@@ -1,0 +1,36 @@
+Evolutions from Bellsprout (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Lileep     | 729 |   6.08%
+Nidorino   | 651 |   5.42%
+Poipole    | 635 |   5.29%
+Nidorina   | 630 |   5.25%
+Dolliv     | 629 |   5.24%
+Haunter    | 599 |   4.99%
+Grovyle    | 528 |   4.40%
+Floragato  | 515 |   4.29%
+Grotle     | 504 |   4.20%
+Quilladin  | 502 |   4.18%
+Bayleef    | 501 |   4.17%
+Servine    | 489 |   4.08%
+Thwackey   | 455 |   3.79%
+Sunflora   | 454 |   3.78%
+Whirlipede | 449 |   3.74%
+Ivysaur    | 432 |   3.60%
+Gloom      | 397 |   3.31%
+Roselia    | 385 |   3.21%
+Dartrix    | 383 |   3.19%
+Swadloon   | 354 |   2.95%
+Ariados    | 322 |   2.68%
+Dustox     | 316 |   2.63%
+Shiinotic  | 310 |   2.58%
+Beedrill   | 288 |   2.40%
+Parasect   | 272 |   2.27%
+Wormadam   | 267 |   2.23%
+Pumpkaboo  |   1 |   0.01%
+Snover     |   1 |   0.01%
+Pumpkaboox |   1 |   0.01%
+Pumpkabool |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

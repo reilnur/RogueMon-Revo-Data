@@ -1,0 +1,33 @@
+Evolutions from Granbull (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Diancie    | 589 |   4.91%
+Ironvalian | 586 |   4.88%
+Tapu Lele  | 575 |   4.79%
+Florges    | 570 |   4.75%
+Magearna   | 562 |   4.68%
+Screamtail | 562 |   4.68%
+Fluttrmane | 538 |   4.48%
+Floettee   | 531 |   4.42%
+Enamorus   | 516 |   4.30%
+Enamorust  | 513 |   4.28%
+Tapu Koko  | 490 |   4.08%
+Sylveon    | 480 |   4.00%
+Tapu Bulu  | 468 |   3.90%
+Altariam   | 458 |   3.82%
+Fezandipti | 436 |   3.63%
+Togekiss   | 422 |   3.52%
+Tapu Fini  | 413 |   3.44%
+Alcremie   | 404 |   3.37%
+Gardevoir  | 373 |   3.11%
+Primarina  | 350 |   2.92%
+Tinkaton   | 348 |   2.90%
+Grimmsnarl | 341 |   2.84%
+Ninetalesa | 321 |   2.67%
+Hatterene  | 316 |   2.63%
+Audinom    | 290 |   2.42%
+Rapidashg  | 279 |   2.33%
+Carbink    | 269 |   2.24%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

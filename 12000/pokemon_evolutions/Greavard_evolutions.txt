@@ -1,0 +1,49 @@
+Evolutions from Greavard (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Banette    | 492 |   4.10%
+Dusclops   | 482 |   4.02%
+Poltegeist | 448 |   3.73%
+Cofagrigus | 438 |   3.65%
+Cursola    | 431 |   3.59%
+Mismagius  | 421 |   3.51%
+Doublade   | 402 |   3.35%
+Rotom      | 395 |   3.29%
+Annihilape | 391 |   3.26%
+Dusknoir   | 390 |   3.25%
+Skeledirge | 313 |   2.61%
+Froslass   | 309 |   2.57%
+Aegislashb | 307 |   2.56%
+Typhlosioh | 306 |   2.55%
+Aegislash  | 304 |   2.53%
+Trevenant  | 303 |   2.53%
+Mimikyu    | 302 |   2.52%
+Sableyem   | 285 |   2.38%
+Decidueye  | 280 |   2.33%
+Palossand  | 278 |   2.32%
+Dhelmise   | 274 |   2.28%
+Spiritomb  | 272 |   2.27%
+Drifblim   | 269 |   2.24%
+Basclegion | 268 |   2.23%
+Ceruledge  | 265 |   2.21%
+Gourgeist  | 265 |   2.21%
+Oricoriog  | 258 |   2.15%
+Gourgeistl | 256 |   2.13%
+Basclegiof | 255 |   2.12%
+Gourgeists | 255 |   2.12%
+Runerigus  | 252 |   2.10%
+Sinistcha  | 251 |   2.09%
+Golurk     | 249 |   2.08%
+Bramblgast | 246 |   2.05%
+Gourgeistx | 232 |   1.93%
+Chandelure | 225 |   1.88%
+Gengar     | 220 |   1.83%
+Jellicent  | 220 |   1.83%
+Zoroarkh   | 183 |   1.52%
+Banettem   |   3 |   0.03%
+Misdreavus |   3 |   0.03%
+Spectrier  |   1 |   0.01%
+Marowaka   |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

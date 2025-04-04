@@ -1,0 +1,23 @@
+Evolutions from Torchic (out of approximately 12000):
+Pokémon    | Count | Percentage
+---------------------------
+Magby      | 1008 |   8.40%
+Raboot     |  782 |   6.52%
+Lampent    |  780 |   6.50%
+Braixen    |  773 |   6.44%
+Crocalor   |  765 |   6.38%
+Ponyta     |  755 |   6.29%
+Quilava    |  753 |   6.28%
+Castformf  |  728 |   6.07%
+Charmeleon |  714 |   5.95%
+Torracat   |  712 |   5.93%
+Litleo     |  653 |   5.44%
+Flechinder |  638 |   5.32%
+Magcargo   |  627 |   5.22%
+Carkol     |  599 |   4.99%
+Monferno   |  595 |   4.96%
+Marowaka   |  562 |   4.68%
+Pignite    |  556 |   4.63%
+---------------------------
+TOTAL      | 12000 | 100.00%
+

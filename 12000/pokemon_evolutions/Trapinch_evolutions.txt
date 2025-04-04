@@ -1,0 +1,15 @@
+Evolutions from Trapinch (out of approximately 12000):
+Pokémon    | Count | Percentage
+---------------------------
+Sandygast  | 1402 |  11.68%
+Cubone     | 1393 |  11.61%
+Silicobra  | 1376 |  11.47%
+Drilbur    | 1368 |  11.40%
+Hippopotas | 1354 |  11.28%
+Phanpy     | 1299 |  10.82%
+Rhyhorn    | 1285 |  10.71%
+Krokorok   | 1273 |  10.61%
+Toedscool  | 1250 |  10.42%
+---------------------------
+TOTAL      | 12000 | 100.00%
+

@@ -1,0 +1,18 @@
+Evolutions from Blipbug (out of approximately 12000):
+Pokémon    | Count | Percentage
+---------------------------
+Karrablast | 1176 |   9.80%
+Sizzlipede | 1158 |   9.65%
+Venonat    | 1131 |   9.43%
+Dwebble    | 1108 |   9.23%
+Sewaddle   | 1089 |   9.07%
+Shelmet    | 1078 |   8.98%
+Cutiefly   | 1027 |   8.56%
+Skorupi    | 1011 |   8.43%
+Joltik     |  957 |   7.98%
+Anorith    |  861 |   7.17%
+Larvesta   |  735 |   6.12%
+Whirlipede |  669 |   5.58%
+---------------------------
+TOTAL      | 12000 | 100.00%
+

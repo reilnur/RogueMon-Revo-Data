@@ -1,0 +1,57 @@
+Evolutions from Gulpin (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Arbok      | 706 |   5.88%
+Garbodor   | 527 |   4.39%
+Seviper    | 499 |   4.16%
+Sneaselh   | 479 |   3.99%
+Qwilfishh  | 453 |   3.77%
+Clodsire   | 449 |   3.74%
+Weezing    | 445 |   3.71%
+Muk        | 424 |   3.53%
+Dragalge   | 376 |   3.13%
+Golbat     | 365 |   3.04%
+Revavroom  | 346 |   2.88%
+Sneasler   | 341 |   2.84%
+Amoonguss  | 337 |   2.81%
+Skuntank   | 334 |   2.78%
+Overqwil   | 319 |   2.66%
+Weezingg   | 314 |   2.62%
+Nidoking   | 307 |   2.56%
+Slowbrog   | 302 |   2.52%
+Drapion    | 300 |   2.50%
+Gengar     | 298 |   2.48%
+Salazzle   | 296 |   2.47%
+Muka       | 293 |   2.44%
+Nidoqueen  | 289 |   2.41%
+Slowkingg  | 288 |   2.40%
+Toxicroak  | 285 |   2.38%
+Venomoth   | 283 |   2.36%
+Qwilfish   | 278 |   2.32%
+Scolipede  | 269 |   2.24%
+Toxtricitl | 268 |   2.23%
+Toxtricity | 263 |   2.19%
+Vileplume  | 249 |   2.08%
+Beedrillm  | 231 |   1.93%
+Victreebel | 228 |   1.90%
+Grafaiai   | 227 |   1.89%
+Toxapex    | 195 |   1.62%
+Haunter    |  38 |   0.32%
+Poipole    |  28 |   0.23%
+Ivysaur    |  16 |   0.13%
+Roselia    |   9 |   0.07%
+Crobat     |   8 |   0.07%
+Munkidori  |   8 |   0.07%
+Glimmora   |   7 |   0.06%
+Naganadel  |   5 |   0.04%
+Venusaur   |   5 |   0.04%
+Gloom      |   3 |   0.03%
+Weepinbell |   3 |   0.03%
+Ariados    |   2 |   0.02%
+Tentacruel |   2 |   0.02%
+Roserade   |   1 |   0.01%
+Beedrill   |   1 |   0.01%
+Okidogi    |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

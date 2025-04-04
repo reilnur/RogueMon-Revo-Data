@@ -1,0 +1,37 @@
+Evolutions from Diglett (out of approximately 12000):
+Pokémon   | Count | Percentage
+--------------------------
+Mudbray   | 1093 |   9.11%
+Marowak   |  939 |   7.83%
+Pupitar   |  816 |   6.80%
+Onix      |  809 |   6.74%
+Sandslash |  807 |   6.73%
+Graveler  |  790 |   6.58%
+Gligar    |  772 |   6.43%
+Clodsire  |  687 |   5.73%
+Palpitoad |  669 |   5.58%
+Dugtrioa  |  648 |   5.40%
+Piloswine |  626 |   5.22%
+Marshtomp |  593 |   4.94%
+Camerupt  |  572 |   4.77%
+Diggersby |  554 |   4.62%
+Gabite    |  548 |   4.57%
+Quagsire  |  533 |   4.44%
+Wormadams |  499 |   4.16%
+Rhyhorn   |    6 |   0.05%
+Rhydon    |    6 |   0.05%
+Krokorok  |    5 |   0.04%
+Zygarde10 |    5 |   0.04%
+Stunfiskg |    5 |   0.04%
+Palossand |    4 |   0.03%
+Golurk    |    3 |   0.03%
+Whiscash  |    3 |   0.03%
+Stunfisk  |    2 |   0.02%
+Runerigus |    2 |   0.02%
+Claydol   |    1 |   0.01%
+Donphan   |    1 |   0.01%
+Golem     |    1 |   0.01%
+Excadrill |    1 |   0.01%
+--------------------------
+TOTAL     | 12000 | 100.00%
+

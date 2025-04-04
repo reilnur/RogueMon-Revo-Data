@@ -1,0 +1,40 @@
+Evolutions from Metapod (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Larvesta   | 860 |   7.17%
+Whirlipede | 773 |   6.44%
+Mothim     | 717 |   5.97%
+Kricketune | 689 |   5.74%
+Spidops    | 665 |   5.54%
+Beautifly  | 645 |   5.38%
+Charjabug  | 589 |   4.91%
+Illumise   | 580 |   4.83%
+Volbeat    | 576 |   4.80%
+Ledian     | 566 |   4.72%
+Yanma      | 551 |   4.59%
+Vivillon   | 523 |   4.36%
+Dustox     | 517 |   4.31%
+Swadloon   | 514 |   4.28%
+Ariados    | 512 |   4.27%
+Beedrill   | 511 |   4.26%
+Wormadams  | 495 |   4.12%
+Wormadamt  | 490 |   4.08%
+Parasect   | 396 |   3.30%
+Wormadam   | 369 |   3.08%
+Dwebble    |  96 |   0.80%
+Anorith    |  87 |   0.73%
+Dottler    |  83 |   0.69%
+Skorupi    |  69 |   0.57%
+Joltik     |  65 |   0.54%
+Lokix      |  17 |   0.14%
+Venomoth   |  14 |   0.12%
+Ninjask    |   7 |   0.06%
+Galvantula |   7 |   0.06%
+Rabsca     |   5 |   0.04%
+Forretress |   5 |   0.04%
+Ribombee   |   4 |   0.03%
+Araquanid  |   2 |   0.02%
+Masquerain |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

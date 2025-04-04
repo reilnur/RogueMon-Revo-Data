@@ -1,0 +1,42 @@
+Evolutions from Tarountula (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Mothim     | 806 |   6.72%
+Kricketune | 785 |   6.54%
+Butterfree | 731 |   6.09%
+Beautifly  | 700 |   5.83%
+Illumise   | 696 |   5.80%
+Volbeat    | 649 |   5.41%
+Vivillon   | 642 |   5.35%
+Ledian     | 624 |   5.20%
+Charjabug  | 621 |   5.17%
+Ariados    | 613 |   5.11%
+Yanma      | 608 |   5.07%
+Beedrill   | 602 |   5.02%
+Swadloon   | 588 |   4.90%
+Dustox     | 586 |   4.88%
+Wormadamt  | 557 |   4.64%
+Wormadams  | 554 |   4.62%
+Parasect   | 453 |   3.77%
+Wormadam   | 436 |   3.63%
+Anorith    | 129 |   1.07%
+Dwebble    | 100 |   0.83%
+Larvesta   |  95 |   0.79%
+Skorupi    |  91 |   0.76%
+Whirlipede |  90 |   0.75%
+Dottler    |  83 |   0.69%
+Lokix      |  32 |   0.27%
+Masquerain |  27 |   0.22%
+Ninjask    |  21 |   0.18%
+Venomoth   |  18 |   0.15%
+Ribombee   |  17 |   0.14%
+Araquanid  |  14 |   0.12%
+Frosmoth   |   8 |   0.07%
+Vespiquen  |   7 |   0.06%
+Forretress |   6 |   0.05%
+Durant     |   5 |   0.04%
+Rabsca     |   4 |   0.03%
+Galvantula |   2 |   0.02%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

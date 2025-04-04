@@ -1,0 +1,64 @@
+Evolutions from Grovyle (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Virizion   | 361 |   3.01%
+Ogerpon    | 335 |   2.79%
+Tangrowth  | 319 |   2.66%
+Tapu Bulu  | 315 |   2.62%
+Kartana    | 308 |   2.57%
+Wo-Chien   | 299 |   2.49%
+Brutebonet | 292 |   2.43%
+Gogoat     | 290 |   2.42%
+Rillaboom  | 275 |   2.29%
+Cherrims   | 269 |   2.24%
+Serperior  | 265 |   2.21%
+Ogerponr   | 260 |   2.17%
+Meganium   | 259 |   2.16%
+Lurantis   | 256 |   2.13%
+Tsareena   | 247 |   2.06%
+Exeggutora | 240 |   2.00%
+Hydrapple  | 239 |   1.99%
+Simisage   | 238 |   1.98%
+Leafeon    | 236 |   1.97%
+Lilligant  | 231 |   1.93%
+Decidueyeh | 229 |   1.91%
+Bellossom  | 224 |   1.87%
+Decidueye  | 221 |   1.84%
+Ogerponf   | 218 |   1.82%
+Chesnaught | 213 |   1.77%
+Meowscrada | 212 |   1.77%
+Dipplin    | 210 |   1.75%
+Appletun   | 205 |   1.71%
+Exeggutor  | 203 |   1.69%
+Flapple    | 192 |   1.60%
+Sinistcha  | 191 |   1.59%
+Gourgeists | 189 |   1.57%
+Ogerponw   | 185 |   1.54%
+Toedscruel | 184 |   1.53%
+Whimsicott | 182 |   1.52%
+Gourgeistx | 177 |   1.47%
+Shiftry    | 176 |   1.47%
+Ferrothorn | 175 |   1.46%
+Gourgeist  | 175 |   1.46%
+Dhelmise   | 173 |   1.44%
+Rotomm     | 163 |   1.36%
+Bramblgast | 163 |   1.36%
+Torterra   | 162 |   1.35%
+Victreebel | 160 |   1.33%
+Scovillain | 158 |   1.32%
+Venusaur   | 158 |   1.32%
+Cradily    | 157 |   1.31%
+Leavanny   | 154 |   1.28%
+Vileplume  | 148 |   1.23%
+Lilliganth | 147 |   1.23%
+Calyrex    | 146 |   1.22%
+Electrodeh | 145 |   1.21%
+Gourgeistl | 144 |   1.20%
+Roserade   | 143 |   1.19%
+Abomasnow  | 138 |   1.15%
+Arboliva   | 134 |   1.12%
+Ludicolo   | 111 |   0.92%
+Maractus   |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

@@ -1,0 +1,54 @@
+Evolutions from Rockruff3 (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Stonjorner | 542 |   4.52%
+Klawf      | 541 |   4.51%
+Rampardos  | 519 |   4.32%
+Garganacl  | 513 |   4.28%
+Gigalith   | 512 |   4.27%
+Minior     | 489 |   4.08%
+Tyrantrum  | 470 |   3.92%
+Aggron     | 423 |   3.52%
+Probopass  | 382 |   3.18%
+Rhydon     | 379 |   3.16%
+Bastiodon  | 367 |   3.06%
+Solrock    | 366 |   3.05%
+Avaluggh   | 354 |   2.95%
+Carbink    | 346 |   2.88%
+Coalossal  | 339 |   2.83%
+Miniorc    | 339 |   2.83%
+Lunatone   | 328 |   2.73%
+Rhyperior  | 319 |   2.66%
+Golem      | 307 |   2.56%
+Aurorus    | 300 |   2.50%
+Aerodactyl | 297 |   2.48%
+Cradily    | 296 |   2.47%
+Golema     | 296 |   2.47%
+Shuckle    | 284 |   2.37%
+Glimmora   | 269 |   2.24%
+Barbaracle | 269 |   2.24%
+Relicanth  | 263 |   2.19%
+Drednaw    | 262 |   2.18%
+Kleavor    | 257 |   2.14%
+Carracosta | 255 |   2.12%
+Omastar    | 246 |   2.05%
+Kabutops   | 245 |   2.04%
+Crustle    | 235 |   1.96%
+Armaldo    | 216 |   1.80%
+Arcanineh  |  22 |   0.18%
+Lairon     |  21 |   0.18%
+Magcargo   |  16 |   0.13%
+Ogerponr   |  15 |   0.12%
+Sudowoodo  |  15 |   0.12%
+Regirock   |  14 |   0.12%
+Terrakion  |  13 |   0.11%
+Archeops   |  12 |   0.10%
+Archen     |  12 |   0.10%
+Carkol     |   8 |   0.07%
+Stakataka  |   8 |   0.07%
+Pupitar    |   7 |   0.06%
+Nihilego   |   6 |   0.05%
+Ironthorns |   6 |   0.05%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

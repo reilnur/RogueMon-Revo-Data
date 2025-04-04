@@ -1,0 +1,56 @@
+Evolutions from Nidorino (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Munkidori  | 562 |   4.68%
+Okidogi    | 545 |   4.54%
+Fezandipti | 539 |   4.49%
+Garbodor   | 462 |   3.85%
+Seviper    | 446 |   3.72%
+Muk        | 427 |   3.56%
+Weezing    | 416 |   3.47%
+Swalot     | 415 |   3.46%
+Naganadel  | 372 |   3.10%
+Golbat     | 337 |   2.81%
+Crobat     | 336 |   2.80%
+Amoonguss  | 332 |   2.77%
+Dragalge   | 320 |   2.67%
+Sneasler   | 308 |   2.57%
+Muka       | 302 |   2.52%
+Revavroom  | 298 |   2.48%
+Drapion    | 295 |   2.46%
+Skuntank   | 290 |   2.42%
+Weezingg   | 290 |   2.42%
+Salazzle   | 288 |   2.40%
+Overqwil   | 278 |   2.32%
+Roserade   | 270 |   2.25%
+Glimmora   | 262 |   2.18%
+Toxicroak  | 260 |   2.17%
+Scolipede  | 259 |   2.16%
+Gengar     | 256 |   2.13%
+Venusaur   | 255 |   2.12%
+Toxtricitl | 253 |   2.11%
+Nidoqueen  | 250 |   2.08%
+Tentacruel | 231 |   1.93%
+Toxtricity | 230 |   1.92%
+Slowkingg  | 229 |   1.91%
+Beedrillm  | 227 |   1.89%
+Toxapex    | 225 |   1.88%
+Slowbrog   | 219 |   1.82%
+Vileplume  | 212 |   1.77%
+Victreebel | 204 |   1.70%
+Grafaiai   | 204 |   1.70%
+Iron Moth  |  17 |   0.14%
+Nihilego   |  16 |   0.13%
+Arbok      |  15 |   0.12%
+Pecharunt  |  10 |   0.08%
+Gengarm    |   9 |   0.07%
+Clodsire   |   7 |   0.06%
+Qwilfishh  |   7 |   0.06%
+Haunter    |   4 |   0.03%
+Sneaselh   |   4 |   0.03%
+Qwilfish   |   3 |   0.03%
+Venomoth   |   2 |   0.02%
+Ivysaur    |   2 |   0.02%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

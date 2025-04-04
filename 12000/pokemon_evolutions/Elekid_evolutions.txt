@@ -1,0 +1,49 @@
+Evolutions from Elekid (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Manectric  | 539 |   4.49%
+Jolteon    | 532 |   4.43%
+Eelektross | 513 |   4.28%
+Luxray     | 512 |   4.27%
+Raichu     | 504 |   4.20%
+Ampharos   | 484 |   4.03%
+Electrode  | 481 |   4.01%
+Zebstrika  | 470 |   3.92%
+Boltund    | 453 |   3.77%
+Bellibolt  | 452 |   3.77%
+Magneton   | 414 |   3.45%
+Magnezone  | 408 |   3.40%
+Dracozolt  | 390 |   3.25%
+Oricorioe  | 347 |   2.89%
+Stunfisk   | 339 |   2.83%
+Raichua    | 339 |   2.83%
+Lanturn    | 332 |   2.77%
+Rotomfa    | 330 |   2.75%
+Rotomfr    | 328 |   2.73%
+Arctozolt  | 326 |   2.72%
+Kilowattrl | 317 |   2.64%
+Pawmot     | 316 |   2.63%
+Heliolisk  | 301 |   2.51%
+Rotomm     | 297 |   2.48%
+Toxtricitl | 295 |   2.46%
+Golema     | 291 |   2.43%
+Rotomh     | 283 |   2.36%
+Galvantula | 279 |   2.33%
+Electrodeh | 266 |   2.22%
+Rotomw     | 251 |   2.09%
+Toxtricity | 244 |   2.03%
+Vikavolt   | 242 |   2.02%
+Pincurchin |  28 |   0.23%
+Pikachup   |  21 |   0.18%
+Morpekoh   |  14 |   0.12%
+Emolga     |  14 |   0.12%
+Togedemaru |  14 |   0.12%
+Electivire |  13 |   0.11%
+Rotom      |   7 |   0.06%
+Morpeko    |   7 |   0.06%
+Dedenne    |   5 |   0.04%
+Eelektrik  |   1 |   0.01%
+Zapdos     |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

@@ -1,0 +1,40 @@
+Evolutions from Tyrogue2 (out of approximately 12000):
+Pokémon      | Count | Percentage
+----------------------------
+Hariyama     | 727 |   6.06%
+Primeape     | 720 |   6.00%
+Falinks      | 691 |   5.76%
+Grapploct    | 690 |   5.75%
+Throh        | 684 |   5.70%
+Sawk         | 639 |   5.33%
+Taurosp      | 600 |   5.00%
+Passimian    | 585 |   4.88%
+Sneaselh     | 478 |   3.98%
+Medicham     | 461 |   3.84%
+Scrafty      | 449 |   3.74%
+Pignite      | 447 |   3.72%
+Hakamo-O     | 441 |   3.67%
+Crabminble   | 435 |   3.62%
+Breloom      | 410 |   3.42%
+Taurospf     | 400 |   3.33%
+Pangoro      | 396 |   3.30%
+Hawlucha     | 376 |   3.13%
+Flamigo      | 374 |   3.12%
+Pawmot       | 358 |   2.98%
+Lilliganth   | 352 |   2.93%
+Heracross    | 338 |   2.82%
+Toxicroak    | 334 |   2.78%
+Taurospw     | 309 |   2.57%
+Bewear       | 285 |   2.38%
+Conkeldurr   |   5 |   0.04%
+Gurdurr      |   3 |   0.03%
+Machoke      |   3 |   0.03%
+Gallade      |   3 |   0.03%
+Machamp      |   2 |   0.02%
+Sirfetchâ€™d |   2 |   0.02%
+Poliwrath    |   1 |   0.01%
+Sneasler     |   1 |   0.01%
+Mienshao     |   1 |   0.01%
+----------------------------
+TOTAL        | 12000 | 100.00%
+

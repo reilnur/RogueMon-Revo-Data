@@ -1,0 +1,41 @@
+Evolutions from Smoliv (out of approximately 12000):
+Pokémon      | Count | Percentage
+----------------------------
+Pumpkabool   | 417 |   3.48%
+Snover       | 413 |   3.44%
+Exeggcute    | 413 |   3.44%
+Oddish       | 404 |   3.37%
+Cacnea       | 396 |   3.30%
+Pumpkaboox   | 393 |   3.28%
+Lombre       | 385 |   3.21%
+Toedscool    | 377 |   3.14%
+Teddiursa    | 370 |   3.08%
+Skiddo       | 368 |   3.07%
+Eevee        | 367 |   3.06%
+Pumpkaboos   | 366 |   3.05%
+Pumpkaboo    | 364 |   3.03%
+Skiploom     | 364 |   3.03%
+Rufflet      | 357 |   2.97%
+Rowlet       | 357 |   2.97%
+Spinda       | 353 |   2.94%
+Nuzleaf      | 350 |   2.92%
+Tranquill    | 349 |   2.91%
+Lileep       | 345 |   2.88%
+Stufful      | 336 |   2.80%
+Buneary      | 336 |   2.80%
+Zoruah       | 333 |   2.77%
+Deerling     | 328 |   2.73%
+Pidgeotto    | 325 |   2.71%
+Trumbeak     | 325 |   2.71%
+Herdier      | 319 |   2.66%
+Loudred      | 318 |   2.65%
+Staravia     | 308 |   2.57%
+Aipom        | 300 |   2.50%
+Voltorbh     | 287 |   2.39%
+Lickitung    | 285 |   2.38%
+Farfetchâ€™d | 270 |   2.25%
+Litleo       | 250 |   2.08%
+Swadloon     | 172 |   1.43%
+----------------------------
+TOTAL        | 12000 | 100.00%
+

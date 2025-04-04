@@ -1,0 +1,36 @@
+Evolutions from Digletta (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Mudbray    | 639 |   5.33%
+Perrserker | 572 |   4.77%
+Marowak    | 562 |   4.68%
+Klang      | 544 |   4.53%
+Dugtrio    | 522 |   4.35%
+Onix       | 509 |   4.24%
+Lairon     | 494 |   4.12%
+Sandslash  | 482 |   4.02%
+Pupitar    | 472 |   3.93%
+Gligar     | 467 |   3.89%
+Graveler   | 447 |   3.72%
+Togedemaru | 426 |   3.55%
+Doublade   | 415 |   3.46%
+Sandslasha | 413 |   3.44%
+Clodsire   | 393 |   3.28%
+Palpitoad  | 381 |   3.17%
+Diggersby  | 375 |   3.12%
+Piloswine  | 370 |   3.08%
+Sliggooh   | 352 |   2.93%
+Gabite     | 350 |   2.92%
+Magneton   | 348 |   2.90%
+Marshtomp  | 347 |   2.89%
+Skarmory   | 341 |   2.84%
+Quagsire   | 336 |   2.80%
+Camerupt   | 307 |   2.56%
+Metang     | 304 |   2.53%
+Wormadamt  | 299 |   2.49%
+Wormadams  | 286 |   2.38%
+Forretress | 246 |   2.05%
+Klefki     |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

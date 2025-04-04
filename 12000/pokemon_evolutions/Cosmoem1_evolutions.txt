@@ -1,0 +1,30 @@
+Evolutions from Cosmoem1 (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Deoxys     | 587 |   4.89%
+Mesprit    | 563 |   4.69%
+Deoxyss    | 556 |   4.63%
+Ironleaves | 551 |   4.59%
+Deoxysd    | 544 |   4.53%
+Necrozma   | 538 |   4.48%
+Mew        | 531 |   4.42%
+Metagross  | 519 |   4.32%
+Deoxysa    | 518 |   4.32%
+Alakazamm  | 511 |   4.26%
+Uxie       | 502 |   4.18%
+Victini    | 499 |   4.16%
+Cresselia  | 496 |   4.13%
+Azelf      | 495 |   4.12%
+Celebi     | 490 |   4.08%
+Articunog  | 485 |   4.04%
+Slowbrom   | 483 |   4.03%
+Ironbouldr | 481 |   4.01%
+Iron Crown | 462 |   3.85%
+Hoopa      | 459 |   3.82%
+Latias     | 447 |   3.72%
+Jirachi    | 443 |   3.69%
+Meloetta   | 433 |   3.61%
+Latios     | 407 |   3.39%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

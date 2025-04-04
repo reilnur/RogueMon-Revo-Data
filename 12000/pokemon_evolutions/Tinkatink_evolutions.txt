@@ -1,0 +1,28 @@
+Evolutions from Tinkatink (out of approximately 12000):
+Pokémon    | Count | Percentage
+---------------------------
+Shieldon   | 2573 |  21.44%
+Floette    | 2163 |  18.02%
+Morgrem    | 1981 |  16.51%
+Togetic    | 1821 |  15.17%
+Mawile     | 1756 |  14.63%
+Shiinotic  | 1215 |  10.12%
+Aron       |   57 |   0.47%
+Clefairy   |   52 |   0.43%
+Cufant     |   47 |   0.39%
+Honedge    |   46 |   0.38%
+Spritzee   |   44 |   0.37%
+Pawniard   |   43 |   0.36%
+Swirlix    |   39 |   0.33%
+Magnemite  |   39 |   0.33%
+Lairon     |   27 |   0.22%
+Togedemaru |   23 |   0.19%
+Dedenne    |   20 |   0.17%
+Metang     |   16 |   0.13%
+Dugtrioa   |   14 |   0.12%
+Azumarill  |    9 |   0.07%
+Wigglytuff |    8 |   0.07%
+Wormadamt  |    7 |   0.06%
+---------------------------
+TOTAL      | 12000 | 100.00%
+

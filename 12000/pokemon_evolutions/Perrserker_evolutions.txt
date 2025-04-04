@@ -1,0 +1,36 @@
+Evolutions from Perrserker (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Registeel  | 652 |   5.43%
+Iron Crown | 610 |   5.08%
+Cobalion   | 575 |   4.79%
+Klinklang  | 536 |   4.47%
+Copperajah | 530 |   4.42%
+Duraludon  | 511 |   4.26%
+Irontreads | 489 |   4.08%
+Celesteela | 486 |   4.05%
+Stakataka  | 477 |   3.98%
+Kartana    | 464 |   3.87%
+Gholdengo  | 456 |   3.80%
+Kingambit  | 414 |   3.45%
+Lucario    | 385 |   3.21%
+Aegislash  | 360 |   3.00%
+Tinkaton   | 359 |   2.99%
+Probopass  | 347 |   2.89%
+Bronzong   | 344 |   2.87%
+Steelix    | 339 |   2.83%
+Excadrill  | 334 |   2.78%
+Aggron     | 333 |   2.77%
+Magnezone  | 331 |   2.76%
+Bastiodon  | 326 |   2.72%
+Bisharp    | 315 |   2.62%
+Corvknight | 315 |   2.62%
+Ferrothorn | 307 |   2.56%
+Aegislashb | 303 |   2.53%
+Empoleon   | 293 |   2.44%
+Scizor     | 289 |   2.41%
+Revavroom  | 280 |   2.33%
+Escavalier | 240 |   2.00%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

@@ -1,0 +1,61 @@
+Evolutions from Gothorita (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Espeon     | 421 |   3.51%
+Musharna   | 363 |   3.02%
+Reuniclus  | 362 |   3.02%
+Chimecho   | 350 |   2.92%
+Meowsticf  | 336 |   2.80%
+Grumpig    | 335 |   2.79%
+Alakazam   | 330 |   2.75%
+Meowstic   | 328 |   2.73%
+Espathra   | 325 |   2.71%
+Beheeyem   | 319 |   2.66%
+Hypno      | 310 |   2.58%
+Gardevoir  | 301 |   2.51%
+Hatterene  | 291 |   2.43%
+Delphox    | 285 |   2.38%
+Gallade    | 270 |   2.25%
+Mr. Rime   | 269 |   2.24%
+Mr. Mime   | 260 |   2.17%
+Mr. Mimeg  | 250 |   2.08%
+Braviaryh  | 249 |   2.08%
+Bronzong   | 247 |   2.06%
+Rapidashg  | 246 |   2.05%
+Medichamm  | 244 |   2.03%
+Jynx       | 239 |   1.99%
+Malamar    | 236 |   1.97%
+Solrock    | 232 |   1.93%
+Exeggutor  | 230 |   1.92%
+Xatu       | 227 |   1.89%
+Armarouge  | 217 |   1.81%
+Sigilyph   | 215 |   1.79%
+Slowkingg  | 212 |   1.77%
+Lunatone   | 208 |   1.73%
+Bruxish    | 202 |   1.68%
+Starmie    | 202 |   1.68%
+Slowbro    | 202 |   1.68%
+Oricoriop  | 201 |   1.68%
+Claydol    | 198 |   1.65%
+Farigiraf  | 195 |   1.62%
+Raichua    | 194 |   1.62%
+Rabsca     | 189 |   1.57%
+Calyrex    | 183 |   1.52%
+Wyrdeer    | 182 |   1.52%
+Slowbrog   | 182 |   1.52%
+Indeedee   | 178 |   1.48%
+Orbeetle   | 175 |   1.46%
+Girafarig  | 175 |   1.46%
+Veluza     | 165 |   1.38%
+Indeedeef  | 156 |   1.30%
+Slowking   | 154 |   1.28%
+Oranguru   | 153 |   1.27%
+Metang     |   2 |   0.02%
+Azelf      |   1 |   0.01%
+Darmanitaz |   1 |   0.01%
+Uxie       |   1 |   0.01%
+Ponytag    |   1 |   0.01%
+Munkidori  |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

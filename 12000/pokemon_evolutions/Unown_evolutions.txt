@@ -1,0 +1,47 @@
+Evolutions from Unown (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Meowstic   | 711 |   5.92%
+Meowsticf  | 687 |   5.73%
+Chimecho   | 655 |   5.46%
+Kadabra    | 650 |   5.42%
+Cosmoem    | 647 |   5.39%
+Grumpig    | 641 |   5.34%
+Ponytag    | 624 |   5.20%
+Wobbuffet  | 602 |   5.02%
+Swoobat    | 546 |   4.55%
+Medicham   | 525 |   4.38%
+Jynx       | 515 |   4.29%
+Metang     | 484 |   4.03%
+Mr. Mime   | 442 |   3.68%
+Lunatone   | 439 |   3.66%
+Mr. Mimeg  | 437 |   3.64%
+Solrock    | 432 |   3.60%
+Xatu       | 429 |   3.57%
+Oricoriop  | 394 |   3.28%
+Bruxish    | 388 |   3.23%
+Girafarig  | 363 |   3.02%
+Rabsca     | 358 |   2.98%
+Indeedeef  | 330 |   2.75%
+Veluza     | 319 |   2.66%
+Indeedee   | 314 |   2.62%
+Reuniclus  |  11 |   0.09%
+Gothorita  |   8 |   0.07%
+Bronzong   |   6 |   0.05%
+Beheeyem   |   6 |   0.05%
+Alakazam   |   5 |   0.04%
+Hypno      |   5 |   0.04%
+Gothitelle |   4 |   0.03%
+Espathra   |   4 |   0.03%
+Rapidashg  |   4 |   0.03%
+Malamar    |   3 |   0.03%
+Slowbrog   |   3 |   0.03%
+Musharna   |   3 |   0.03%
+Slowkingg  |   2 |   0.02%
+Oranguru   |   1 |   0.01%
+Calyrex    |   1 |   0.01%
+Hattrem    |   1 |   0.01%
+Braviaryh  |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

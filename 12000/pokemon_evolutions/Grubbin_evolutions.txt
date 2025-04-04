@@ -1,0 +1,41 @@
+Evolutions from Grubbin (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Larvesta   | 805 |   6.71%
+Whirlipede | 763 |   6.36%
+Spidops    | 681 |   5.67%
+Mothim     | 666 |   5.55%
+Kricketune | 653 |   5.44%
+Butterfree | 626 |   5.22%
+Volbeat    | 622 |   5.18%
+Illumise   | 599 |   4.99%
+Yanma      | 571 |   4.76%
+Beautifly  | 551 |   4.59%
+Ledian     | 539 |   4.49%
+Vivillon   | 536 |   4.47%
+Dustox     | 534 |   4.45%
+Ariados    | 524 |   4.37%
+Wormadams  | 523 |   4.36%
+Beedrill   | 520 |   4.33%
+Wormadamt  | 519 |   4.32%
+Swadloon   | 505 |   4.21%
+Wormadam   | 441 |   3.67%
+Parasect   | 372 |   3.10%
+Dwebble    |  96 |   0.80%
+Skorupi    |  88 |   0.73%
+Anorith    |  82 |   0.68%
+Dottler    |  75 |   0.62%
+Masquerain |  18 |   0.15%
+Venomoth   |  16 |   0.13%
+Lokix      |  14 |   0.12%
+Ninjask    |  13 |   0.11%
+Araquanid  |   9 |   0.07%
+Ribombee   |   8 |   0.07%
+Forretress |   7 |   0.06%
+Galvantula |   7 |   0.06%
+Rabsca     |   6 |   0.05%
+Frosmoth   |   6 |   0.05%
+Vespiquen  |   5 |   0.04%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

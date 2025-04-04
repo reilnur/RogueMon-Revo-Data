@@ -1,0 +1,37 @@
+Evolutions from Yungoos (out of approximately 12000):
+Pokémon      | Count | Percentage
+----------------------------
+Raticate     | 529 |   4.41%
+Porygon      | 491 |   4.09%
+Linoone      | 475 |   3.96%
+Munchlax     | 473 |   3.94%
+Farfetchâ€™d | 470 |   3.92%
+Delcatty     | 467 |   3.89%
+Furret       | 466 |   3.88%
+Watchog      | 451 |   3.76%
+Lickitung    | 434 |   3.62%
+Dunsparce    | 434 |   3.62%
+Chatot       | 413 |   3.44%
+Eeveep       | 413 |   3.44%
+Kecleon      | 406 |   3.38%
+Castform     | 401 |   3.34%
+Vigoroth     | 399 |   3.33%
+Persian      | 398 |   3.32%
+Squawkbily   | 385 |   3.21%
+Zangoose     | 369 |   3.08%
+Purugly      | 363 |   3.02%
+Audino       | 361 |   3.01%
+Raticatea    | 359 |   2.99%
+Chansey      | 341 |   2.84%
+Linooneg     | 332 |   2.77%
+Fearow       | 325 |   2.71%
+Terapagos    | 319 |   2.66%
+Diggersby    | 308 |   2.57%
+Swellow      | 298 |   2.48%
+Bibarel      | 297 |   2.48%
+Wigglytuff   | 292 |   2.43%
+Noctowl      | 273 |   2.27%
+Girafarig    | 258 |   2.15%
+----------------------------
+TOTAL        | 12000 | 100.00%
+

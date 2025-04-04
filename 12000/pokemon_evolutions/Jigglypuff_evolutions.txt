@@ -1,0 +1,54 @@
+Evolutions from Jigglypuff (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Porygon    | 352 |   2.93%
+Granbull   | 351 |   2.93%
+Aromatisse | 336 |   2.80%
+Dachsbun   | 330 |   2.75%
+Castform   | 316 |   2.63%
+Delcatty   | 316 |   2.63%
+Furret     | 313 |   2.61%
+Linoone    | 308 |   2.57%
+Dunsparce  | 305 |   2.54%
+Dedenne    | 301 |   2.51%
+Watchog    | 300 |   2.50%
+Gumshoos   | 299 |   2.49%
+Persian    | 290 |   2.42%
+Linooneg   | 286 |   2.38%
+Togetic    | 286 |   2.38%
+Chatot     | 281 |   2.34%
+Zangoose   | 280 |   2.33%
+Raticate   | 277 |   2.31%
+Eeveep     | 276 |   2.30%
+Raticatea  | 268 |   2.23%
+Vigoroth   | 263 |   2.19%
+Squawkbily | 262 |   2.18%
+Stantler   | 257 |   2.14%
+Kecleon    | 254 |   2.12%
+Purugly    | 253 |   2.11%
+Audino     | 243 |   2.02%
+Chansey    | 241 |   2.01%
+Cinccino   | 238 |   1.98%
+Greedent   | 234 |   1.95%
+Fearow     | 231 |   1.93%
+Terapagos  | 226 |   1.88%
+Maushold   | 225 |   1.88%
+Furfrou    | 224 |   1.87%
+Swellow    | 219 |   1.82%
+Mimikyu    | 217 |   1.81%
+Klefki     | 215 |   1.79%
+Diggersby  | 213 |   1.77%
+Mr. Mime   | 211 |   1.76%
+Shiinotic  | 198 |   1.65%
+Azumarill  | 195 |   1.62%
+Noctowl    | 189 |   1.57%
+Bibarel    | 188 |   1.57%
+Dodrio     | 186 |   1.55%
+Indeedee   | 169 |   1.41%
+Girafarig  | 159 |   1.32%
+Ribombee   | 154 |   1.28%
+Indeedeef  | 135 |   1.12%
+Sawsbuck   | 130 |   1.08%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

@@ -1,0 +1,39 @@
+Evolutions from Oddish (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Poipole    | 701 |   5.84%
+Nidorina   | 682 |   5.68%
+Nidorino   | 668 |   5.57%
+Haunter    | 604 |   5.03%
+Grotle     | 514 |   4.28%
+Clodsire   | 511 |   4.26%
+Bayleef    | 510 |   4.25%
+Grovyle    | 507 |   4.23%
+Floragato  | 503 |   4.19%
+Whirlipede | 499 |   4.16%
+Servine    | 488 |   4.07%
+Thwackey   | 482 |   4.02%
+Quilladin  | 475 |   3.96%
+Sunflora   | 462 |   3.85%
+Sneaselh   | 459 |   3.82%
+Weepinbell | 421 |   3.51%
+Roselia    | 416 |   3.47%
+Ivysaur    | 393 |   3.28%
+Shiinotic  | 378 |   3.15%
+Dartrix    | 371 |   3.09%
+Swadloon   | 356 |   2.97%
+Ariados    | 355 |   2.96%
+Dustox     | 352 |   2.93%
+Beedrill   | 341 |   2.84%
+Parasect   | 272 |   2.27%
+Wormadam   | 272 |   2.27%
+Koffing    |   2 |   0.02%
+Nuzleaf    |   1 |   0.01%
+Skiploom   |   1 |   0.01%
+Lileep     |   1 |   0.01%
+Dolliv     |   1 |   0.01%
+Tangela    |   1 |   0.01%
+Lombre     |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

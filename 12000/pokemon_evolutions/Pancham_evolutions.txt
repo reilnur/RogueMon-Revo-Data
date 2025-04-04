@@ -1,0 +1,45 @@
+Evolutions from Pancham (out of approximately 12000):
+Pokémon      | Count | Percentage
+----------------------------
+Hitmonlee    | 470 |   3.92%
+Hitmonchan   | 460 |   3.83%
+Hitmontop    | 451 |   3.76%
+Sirfetchâ€™d | 422 |   3.52%
+Primeape     | 417 |   3.48%
+Machamp      | 402 |   3.35%
+Throh        | 392 |   3.27%
+Mienshao     | 390 |   3.25%
+Conkeldurr   | 388 |   3.23%
+Sawk         | 378 |   3.15%
+Falinks      | 375 |   3.12%
+Hariyama     | 373 |   3.11%
+Grapploct    | 371 |   3.09%
+Taurosp      | 356 |   2.97%
+Passimian    | 346 |   2.88%
+Lucario      | 320 |   2.67%
+Gallade      | 314 |   2.62%
+Decidueyeh   | 307 |   2.56%
+Infernape    | 304 |   2.53%
+Medichamm    | 289 |   2.41%
+Blaziken     | 282 |   2.35%
+Annihilape   | 281 |   2.34%
+Chesnaught   | 275 |   2.29%
+Emboar       | 267 |   2.23%
+Taurospf     | 265 |   2.21%
+Breloom      | 248 |   2.07%
+Crabminble   | 248 |   2.07%
+Poliwrath    | 242 |   2.02%
+Scrafty      | 240 |   2.00%
+Lilliganth   | 239 |   1.99%
+Flamigo      | 234 |   1.95%
+Sneasler     | 231 |   1.93%
+Quaquaval    | 230 |   1.92%
+Pawmot       | 225 |   1.88%
+Hawlucha     | 213 |   1.77%
+Toxicroak    | 204 |   1.70%
+Heracross    | 201 |   1.68%
+Taurospw     | 181 |   1.51%
+Bewear       | 169 |   1.41%
+----------------------------
+TOTAL        | 12000 | 100.00%
+

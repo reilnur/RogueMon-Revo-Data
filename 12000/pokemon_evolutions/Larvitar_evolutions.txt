@@ -1,0 +1,33 @@
+Evolutions from Larvitar (out of approximately 12000):
+Pokémon   | Count | Percentage
+-------------------------
+Sudowoodo | 673 |   5.61%
+Boldore   | 628 |   5.23%
+Mudbray   | 567 |   4.72%
+Nosepass  | 567 |   4.72%
+Marowak   | 546 |   4.55%
+Archen    | 523 |   4.36%
+Dugtrio   | 502 |   4.18%
+Lairon    | 483 |   4.03%
+Gligar    | 474 |   3.95%
+Graveler  | 472 |   3.93%
+Sandslash | 467 |   3.89%
+Klawf     | 462 |   3.85%
+Minior    | 443 |   3.69%
+Onix      | 435 |   3.62%
+Gravelera | 414 |   3.45%
+Palpitoad | 407 |   3.39%
+Magcargo  | 405 |   3.38%
+Dugtrioa  | 400 |   3.33%
+Piloswine | 399 |   3.33%
+Clodsire  | 386 |   3.22%
+Diggersby | 377 |   3.14%
+Corsola   | 365 |   3.04%
+Carkol    | 357 |   2.97%
+Gabite    | 333 |   2.77%
+Marshtomp | 319 |   2.66%
+Wormadams | 306 |   2.55%
+Quagsire  | 290 |   2.42%
+-------------------------
+TOTAL     | 12000 | 100.00%
+

@@ -1,0 +1,47 @@
+Evolutions from Swinub (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Marowak    | 459 |   3.82%
+Castformi  | 448 |   3.73%
+Darmanitag | 442 |   3.68%
+Dugtrio    | 441 |   3.67%
+Eiscue     | 433 |   3.61%
+Sandslash  | 424 |   3.53%
+Glalie     | 417 |   3.48%
+Eiscuen    | 405 |   3.38%
+Pupitar    | 378 |   3.15%
+Gligar     | 362 |   3.02%
+Sneasel    | 358 |   2.98%
+Clodsire   | 327 |   2.73%
+Sandslasha | 319 |   2.66%
+Dugtrioa   | 311 |   2.59%
+Mr. Mimeg  | 310 |   2.58%
+Stunfiskg  | 305 |   2.54%
+Zygarde10  | 302 |   2.52%
+Diggersby  | 298 |   2.48%
+Crabminble | 297 |   2.48%
+Golurk     | 282 |   2.35%
+Arctibax   | 281 |   2.34%
+Froslass   | 278 |   2.32%
+Jynx       | 278 |   2.32%
+Camerupt   | 275 |   2.29%
+Marshtomp  | 271 |   2.26%
+Gabite     | 267 |   2.23%
+Stunfisk   | 247 |   2.06%
+Runerigus  | 247 |   2.06%
+Rhydon     | 245 |   2.04%
+Quagsire   | 242 |   2.02%
+Palossand  | 241 |   2.01%
+Gastrodon  | 238 |   1.98%
+Sealeo     | 238 |   1.98%
+Golem      | 237 |   1.98%
+Dewgong    | 230 |   1.92%
+Frosmoth   | 229 |   1.91%
+Whiscash   | 229 |   1.91%
+Wormadams  | 215 |   1.79%
+Abomasnow  | 192 |   1.60%
+Ninetalesa |   1 |   0.01%
+Graveler   |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

@@ -1,0 +1,46 @@
+Evolutions from Luvdisc (out of approximately 12000):
+Pokémon   | Count | Percentage
+-------------------------
+Croconaw  | 459 |   3.82%
+Quaxwell  | 444 |   3.70%
+Wartortle | 439 |   3.66%
+Prinplup  | 433 |   3.61%
+Wailmer   | 422 |   3.52%
+Frogadier | 422 |   3.52%
+Brionne   | 413 |   3.44%
+Pyukumuku | 399 |   3.33%
+Wugtrio   | 396 |   3.30%
+Alomomola | 395 |   3.29%
+Palafin   | 388 |   3.23%
+Drizzile  | 386 |   3.22%
+Castformw | 381 |   3.17%
+Seadra    | 381 |   3.17%
+Basculin  | 378 |   3.15%
+Basculinb | 374 |   3.12%
+Lumineon  | 374 |   3.12%
+Seaking   | 373 |   3.11%
+Basculinw | 369 |   3.08%
+Dewott    | 365 |   3.04%
+Corsola   | 364 |   3.03%
+Marshtomp | 348 |   2.90%
+Sealeo    | 319 |   2.66%
+Quagsire  | 317 |   2.64%
+Pelipper  | 308 |   2.57%
+Azumarill | 304 |   2.53%
+Whiscash  | 287 |   2.39%
+Crawdaunt | 284 |   2.37%
+Bibarel   | 269 |   2.24%
+Qwilfish  | 268 |   2.23%
+Swanna    | 256 |   2.13%
+Sharpedo  | 254 |   2.12%
+Lanturn   | 235 |   1.96%
+Araquanid | 187 |   1.56%
+Poliwhirl |   3 |   0.03%
+Octillery |   2 |   0.02%
+Relicanth |   1 |   0.01%
+Kabuto    |   1 |   0.01%
+Palpitoad |   1 |   0.01%
+Cramorant |   1 |   0.01%
+-------------------------
+TOTAL     | 12000 | 100.00%
+

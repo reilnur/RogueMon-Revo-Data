@@ -1,0 +1,47 @@
+Evolutions from Fletchling (out of approximately 12000):
+Pokémon      | Count | Percentage
+----------------------------
+Spinda       | 381 |   3.17%
+Drifloon     | 378 |   3.15%
+Corvsquire   | 375 |   3.12%
+Pidgeotto    | 363 |   3.02%
+Rufflet      | 352 |   2.93%
+Mantyke      | 351 |   2.93%
+Herdier      | 348 |   2.90%
+Raticate     | 347 |   2.89%
+Vullaby      | 342 |   2.85%
+Dolliv       | 341 |   2.84%
+Tranquill    | 339 |   2.83%
+Loudred      | 339 |   2.83%
+Delcatty     | 322 |   2.68%
+Buneary      | 316 |   2.63%
+Watchog      | 314 |   2.62%
+Lickitung    | 314 |   2.62%
+Trumbeak     | 313 |   2.61%
+Murkrow      | 312 |   2.60%
+Porygon      | 312 |   2.60%
+Aipom        | 311 |   2.59%
+Munchlax     | 308 |   2.57%
+Archen       | 299 |   2.49%
+Furret       | 297 |   2.48%
+Linoone      | 294 |   2.45%
+Castform     | 286 |   2.38%
+Farfetchâ€™d | 282 |   2.35%
+Gumshoos     | 276 |   2.30%
+Togetic      | 273 |   2.27%
+Chatot       | 267 |   2.23%
+Raticatea    | 256 |   2.13%
+Squawkbily   | 251 |   2.09%
+Dunsparce    | 245 |   2.04%
+Dartrix      | 241 |   2.01%
+Litleo       | 227 |   1.89%
+Linooneg     | 224 |   1.87%
+Beautifly    | 221 |   1.84%
+Bibarel      | 208 |   1.73%
+Ledian       | 203 |   1.69%
+Vivillon     | 193 |   1.61%
+Butterfree   | 192 |   1.60%
+Yanma        | 187 |   1.56%
+----------------------------
+TOTAL        | 12000 | 100.00%
+

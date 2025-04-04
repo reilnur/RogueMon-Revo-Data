@@ -1,0 +1,44 @@
+Evolutions from Pincurchin (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Raikou     | 539 |   4.49%
+Regieleki  | 528 |   4.40%
+Xurkitree  | 489 |   4.08%
+Manectricm | 488 |   4.07%
+Zapdos     | 466 |   3.88%
+Tapu Koko  | 452 |   3.77%
+Iron Hands | 446 |   3.72%
+Thundurust | 440 |   3.67%
+Thundurus  | 424 |   3.53%
+Ironthorns | 403 |   3.36%
+Electivire | 375 |   3.12%
+Raichu     | 351 |   2.93%
+Luxray     | 347 |   2.89%
+Sandyshock | 344 |   2.87%
+Ampharos   | 337 |   2.81%
+Electabuzz | 332 |   2.77%
+Eelektross | 329 |   2.74%
+Zebstrika  | 324 |   2.70%
+Electrode  | 318 |   2.65%
+Jolteon    | 296 |   2.47%
+Bellibolt  | 296 |   2.47%
+Boltund    | 282 |   2.35%
+Dracozolt  | 268 |   2.23%
+Magnezone  | 266 |   2.22%
+Rotomfr    | 237 |   1.98%
+Rotomm     | 230 |   1.92%
+Pawmot     | 219 |   1.82%
+Raichua    | 215 |   1.79%
+Kilowattrl | 211 |   1.76%
+Rotomh     | 203 |   1.69%
+Golema     | 203 |   1.69%
+Rotomfa    | 200 |   1.67%
+Toxtricity | 199 |   1.66%
+Arctozolt  | 195 |   1.62%
+Toxtricitl | 193 |   1.61%
+Electrodeh | 192 |   1.60%
+Rotomw     | 188 |   1.57%
+Vikavolt   | 175 |   1.46%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

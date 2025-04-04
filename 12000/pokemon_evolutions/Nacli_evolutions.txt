@@ -1,0 +1,25 @@
+Evolutions from Nacli (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Cranidos   | 757 |   6.31%
+Rhyhorn    | 751 |   6.26%
+Aron       | 740 |   6.17%
+Growlitheh | 705 |   5.88%
+Dwebble    | 683 |   5.69%
+Tyrunt     | 659 |   5.49%
+Kabuto     | 657 |   5.47%
+Tirtouga   | 654 |   5.45%
+Glimmet    | 633 |   5.27%
+Lileep     | 633 |   5.27%
+Nosepass   | 626 |   5.22%
+Amaura     | 625 |   5.21%
+Shieldon   | 623 |   5.19%
+Omanyte    | 618 |   5.15%
+Boldore    | 577 |   4.81%
+Anorith    | 558 |   4.65%
+Onix       | 523 |   4.36%
+Graveler   | 504 |   4.20%
+Gravelera  | 474 |   3.95%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

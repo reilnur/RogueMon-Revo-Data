@@ -1,0 +1,60 @@
+Evolutions from Espurr2 (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Musharna   | 455 |   3.79%
+Reuniclus  | 455 |   3.79%
+Grumpig    | 443 |   3.69%
+Gothitelle | 441 |   3.67%
+Espathra   | 438 |   3.65%
+Hypno      | 438 |   3.65%
+Alakazam   | 420 |   3.50%
+Chimecho   | 400 |   3.33%
+Beheeyem   | 397 |   3.31%
+Hatterene  | 329 |   2.74%
+Medichamm  | 323 |   2.69%
+Jynx       | 319 |   2.66%
+Mr. Mimeg  | 319 |   2.66%
+Bronzong   | 317 |   2.64%
+Metang     | 310 |   2.58%
+Mr. Mime   | 305 |   2.54%
+Rapidashg  | 301 |   2.51%
+Braviaryh  | 299 |   2.49%
+Swoobat    | 298 |   2.48%
+Lunatone   | 286 |   2.38%
+Solrock    | 286 |   2.38%
+Malamar    | 276 |   2.30%
+Sigilyph   | 264 |   2.20%
+Xatu       | 264 |   2.20%
+Oricoriop  | 259 |   2.16%
+Claydol    | 257 |   2.14%
+Calyrex    | 239 |   1.99%
+Orbeetle   | 237 |   1.98%
+Rabsca     | 232 |   1.93%
+Slowkingg  | 232 |   1.93%
+Bruxish    | 232 |   1.93%
+Slowbrog   | 227 |   1.89%
+Girafarig  | 224 |   1.87%
+Veluza     | 220 |   1.83%
+Raichua    | 210 |   1.75%
+Slowking   | 208 |   1.73%
+Indeedeef  | 203 |   1.69%
+Slowbro    | 202 |   1.68%
+Oranguru   | 198 |   1.65%
+Indeedee   | 191 |   1.59%
+Espeon     |  10 |   0.08%
+Wobbuffet  |   7 |   0.06%
+Cosmoem    |   5 |   0.04%
+Gallade    |   5 |   0.04%
+Delphox    |   3 |   0.03%
+Ponytag    |   3 |   0.03%
+Kadabra    |   3 |   0.03%
+Armarouge  |   2 |   0.02%
+Medicham   |   2 |   0.02%
+Gardevoir  |   2 |   0.02%
+Munkidori  |   1 |   0.01%
+Gothorita  |   1 |   0.01%
+Darmanitaz |   1 |   0.01%
+Farigiraf  |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

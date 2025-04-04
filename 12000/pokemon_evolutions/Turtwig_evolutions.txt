@@ -1,0 +1,41 @@
+Evolutions from Turtwig (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Bayleef    | 862 |   7.18%
+Floragato  | 833 |   6.94%
+Servine    | 828 |   6.90%
+Quilladin  | 825 |   6.88%
+Thwackey   | 800 |   6.67%
+Grovyle    | 784 |   6.53%
+Sunflora   | 779 |   6.49%
+Ivysaur    | 745 |   6.21%
+Tangela    | 730 |   6.08%
+Gloom      | 695 |   5.79%
+Dartrix    | 669 |   5.58%
+Roselia    | 668 |   5.57%
+Weepinbell | 619 |   5.16%
+Swadloon   | 534 |   4.45%
+Shiinotic  | 533 |   4.44%
+Wormadam   | 473 |   3.94%
+Parasect   | 386 |   3.22%
+Skiddo     |  52 |   0.43%
+Lileep     |  48 |   0.40%
+Dolliv     |  26 |   0.22%
+Eldegoss   |  25 |   0.21%
+Carnivine  |  21 |   0.18%
+Maractus   |  16 |   0.13%
+Cherrim    |  12 |   0.10%
+Jumpluff   |  10 |   0.08%
+Breloom    |  10 |   0.08%
+Amoonguss  |   7 |   0.06%
+Snover     |   3 |   0.03%
+Appletun   |   1 |   0.01%
+Lurantis   |   1 |   0.01%
+Tropius    |   1 |   0.01%
+Flapple    |   1 |   0.01%
+Pumpkaboo  |   1 |   0.01%
+Voltorbh   |   1 |   0.01%
+Cacnea     |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

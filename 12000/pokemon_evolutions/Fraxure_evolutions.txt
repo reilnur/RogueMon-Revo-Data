@@ -1,0 +1,30 @@
+Evolutions from Fraxure (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Ragingbolt | 768 |   6.40%
+Regidrago  | 766 |   6.38%
+Gouginfire | 716 |   5.97%
+Roarinmoon | 713 |   5.94%
+Altariam   | 709 |   5.91%
+Walkinwake | 689 |   5.74%
+Duraludon  | 646 |   5.38%
+Noivern    | 608 |   5.07%
+Guzzlord   | 604 |   5.03%
+Exeggutora | 576 |   4.80%
+Flygon     | 543 |   4.52%
+Tyrantrum  | 530 |   4.42%
+Naganadel  | 522 |   4.35%
+Altaria    | 520 |   4.33%
+Hydrapple  | 493 |   4.11%
+Zygarde10  | 491 |   4.09%
+Dracozolt  | 446 |   3.72%
+Kingdra    | 442 |   3.68%
+Dragalge   | 427 |   3.56%
+Dracovish  | 416 |   3.47%
+Cyclizar   | 372 |   3.10%
+Zygarde    |   1 |   0.01%
+Goodra     |   1 |   0.01%
+Garchomp   |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

@@ -1,0 +1,59 @@
+Evolutions from Flittle (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Espeon     | 412 |   3.43%
+Meowsticf  | 385 |   3.21%
+Meowstic   | 379 |   3.16%
+Hypno      | 377 |   3.14%
+Musharna   | 376 |   3.13%
+Reuniclus  | 371 |   3.09%
+Grumpig    | 365 |   3.04%
+Beheeyem   | 357 |   2.97%
+Gothitelle | 349 |   2.91%
+Chimecho   | 347 |   2.89%
+Alakazam   | 340 |   2.83%
+Gardevoir  | 292 |   2.43%
+Gallade    | 276 |   2.30%
+Bronzong   | 274 |   2.28%
+Hatterene  | 273 |   2.27%
+Mr. Rime   | 264 |   2.20%
+Malamar    | 264 |   2.20%
+Medichamm  | 260 |   2.17%
+Mr. Mime   | 259 |   2.16%
+Jynx       | 258 |   2.15%
+Braviaryh  | 255 |   2.12%
+Mr. Mimeg  | 253 |   2.11%
+Armarouge  | 249 |   2.08%
+Rapidashg  | 247 |   2.06%
+Lunatone   | 247 |   2.06%
+Sigilyph   | 237 |   1.98%
+Oricoriop  | 233 |   1.94%
+Solrock    | 228 |   1.90%
+Xatu       | 219 |   1.82%
+Slowkingg  | 214 |   1.78%
+Raichua    | 213 |   1.77%
+Claydol    | 212 |   1.77%
+Calyrex    | 210 |   1.75%
+Slowbro    | 204 |   1.70%
+Slowbrog   | 202 |   1.68%
+Starmie    | 196 |   1.63%
+Rabsca     | 193 |   1.61%
+Bruxish    | 183 |   1.52%
+Slowking   | 182 |   1.52%
+Orbeetle   | 182 |   1.52%
+Girafarig  | 178 |   1.48%
+Wyrdeer    | 169 |   1.41%
+Veluza     | 167 |   1.39%
+Indeedeef  | 164 |   1.37%
+Indeedee   | 163 |   1.36%
+Farigiraf  | 160 |   1.33%
+Oranguru   | 152 |   1.27%
+Exeggutor  |   3 |   0.03%
+Darmanitaz |   2 |   0.02%
+Swoobat    |   2 |   0.02%
+Metang     |   1 |   0.01%
+Delphox    |   1 |   0.01%
+Munkidori  |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

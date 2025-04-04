@@ -1,0 +1,47 @@
+Evolutions from Quilava2 (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Entei      | 448 |   3.73%
+Blacphalon | 399 |   3.33%
+Cinderace  | 397 |   3.31%
+Iron Moth  | 393 |   3.28%
+Magmortar  | 389 |   3.24%
+Magmar     | 386 |   3.22%
+Arcanine   | 382 |   3.18%
+Chi-Yu     | 380 |   3.17%
+Moltres    | 376 |   3.13%
+Ninetales  | 353 |   2.94%
+Simisear   | 352 |   2.93%
+Heatmor    | 345 |   2.88%
+Flareon    | 332 |   2.77%
+Arcanineh  | 319 |   2.66%
+Infernape  | 314 |   2.62%
+Blaziken   | 311 |   2.59%
+Darmanitaz | 308 |   2.57%
+Rapidash   | 304 |   2.53%
+Turtonator | 301 |   2.51%
+Armarouge  | 301 |   2.51%
+Cameruptm  | 294 |   2.45%
+Emboar     | 293 |   2.44%
+Incineroar | 291 |   2.43%
+Volcarona  | 290 |   2.42%
+Ogerponf   | 288 |   2.40%
+Darmanitzg | 288 |   2.40%
+Taurospf   | 280 |   2.33%
+Delphox    | 279 |   2.33%
+Charizard  | 277 |   2.31%
+Skeledirge | 277 |   2.31%
+Ceruledge  | 256 |   2.13%
+Chandelure | 251 |   2.09%
+Houndoom   | 249 |   2.08%
+Rotomh     | 239 |   1.99%
+Coalossal  | 236 |   1.97%
+Talonflame | 218 |   1.82%
+Centskorch | 213 |   1.77%
+Scovillain | 200 |   1.67%
+Pyroar     | 189 |   1.57%
+Houndoomm  |   1 |   0.01%
+Heatran    |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

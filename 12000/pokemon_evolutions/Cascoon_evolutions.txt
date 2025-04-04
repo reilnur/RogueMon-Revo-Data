@@ -1,0 +1,36 @@
+Evolutions from Cascoon (out of approximately 12000):
+Pokémon    | Count | Percentage
+---------------------------
+Anorith    | 1191 |   9.93%
+Larvesta   | 1094 |   9.12%
+Whirlipede |  945 |   7.88%
+Spidops    |  805 |   6.71%
+Kricketune |  804 |   6.70%
+Butterfree |  798 |   6.65%
+Beautifly  |  723 |   6.02%
+Ledian     |  712 |   5.93%
+Ariados    |  668 |   5.57%
+Yanma      |  667 |   5.56%
+Charjabug  |  651 |   5.42%
+Swadloon   |  633 |   5.27%
+Vivillon   |  632 |   5.27%
+Beedrill   |  622 |   5.18%
+Parasect   |  526 |   4.38%
+Dottler    |  150 |   1.25%
+Skorupi    |  141 |   1.18%
+Mothim     |   41 |   0.34%
+Wormadams  |   33 |   0.27%
+Volbeat    |   28 |   0.23%
+Dwebble    |   28 |   0.23%
+Sewaddle   |   24 |   0.20%
+Karrablast |   19 |   0.16%
+Wormadamt  |   19 |   0.16%
+Illumise   |   17 |   0.14%
+Joltik     |   17 |   0.14%
+Wormadam   |    6 |   0.05%
+Masquerain |    3 |   0.03%
+Venomoth   |    2 |   0.02%
+Lokix      |    1 |   0.01%
+---------------------------
+TOTAL      | 12000 | 100.00%
+

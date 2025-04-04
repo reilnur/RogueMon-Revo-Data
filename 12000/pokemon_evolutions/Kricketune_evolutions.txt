@@ -1,0 +1,56 @@
+Evolutions from Kricketune (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Pinsir     | 537 |   4.47%
+Accelgor   | 523 |   4.36%
+Rabsca     | 432 |   3.60%
+Escavalier | 418 |   3.48%
+Masquerain | 415 |   3.46%
+Scizor     | 405 |   3.38%
+Vespiquen  | 401 |   3.34%
+Yanmega    | 401 |   3.34%
+Frosmoth   | 392 |   3.27%
+Centskorch | 386 |   3.22%
+Lokix      | 386 |   3.22%
+Durant     | 380 |   3.17%
+Golisopod  | 374 |   3.12%
+Scyther    | 373 |   3.11%
+Galvantula | 367 |   3.06%
+Venomoth   | 359 |   2.99%
+Shuckle    | 359 |   2.99%
+Kleavor    | 359 |   2.99%
+Ninjask    | 356 |   2.97%
+Ribombee   | 354 |   2.95%
+Forretress | 353 |   2.94%
+Heracross  | 348 |   2.90%
+Crustle    | 343 |   2.86%
+Orbeetle   | 343 |   2.86%
+Vikavolt   | 335 |   2.79%
+Armaldo    | 332 |   2.77%
+Scolipede  | 327 |   2.73%
+Leavanny   | 326 |   2.72%
+Araquanid  | 262 |   2.18%
+Beedrillm  | 250 |   2.08%
+Pheromosa  |  95 |   0.79%
+Buzzwole   |  90 |   0.75%
+Slithrwing |  85 |   0.71%
+Mothim     |  73 |   0.61%
+Volcarona  |  68 |   0.57%
+Illumise   |  52 |   0.43%
+Volbeat    |  43 |   0.36%
+Wormadamt  |  40 |   0.33%
+Wormadams  |  38 |   0.32%
+Butterfree |  33 |   0.27%
+Spidops    |  31 |   0.26%
+Yanma      |  25 |   0.21%
+Beautifly  |  23 |   0.19%
+Vivillon   |  20 |   0.17%
+Ledian     |  19 |   0.16%
+Wormadam   |  18 |   0.15%
+Ariados    |  16 |   0.13%
+Charjabug  |  13 |   0.11%
+Beedrill   |  13 |   0.11%
+Parasect   |   9 |   0.07%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

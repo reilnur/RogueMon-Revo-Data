@@ -1,0 +1,28 @@
+Evolutions from Sandile (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Houndour   | 644 |   5.37%
+Grimera    | 624 |   5.20%
+Pawniard   | 614 |   5.12%
+Vibrava    | 614 |   5.12%
+Maschiff   | 612 |   5.10%
+Drilbur    | 600 |   5.00%
+Phanpy     | 598 |   4.98%
+Zorua      | 581 |   4.84%
+Scraggy    | 581 |   4.84%
+Hippopotas | 575 |   4.79%
+Sandygast  | 571 |   4.76%
+Cubone     | 563 |   4.69%
+Rhyhorn    | 560 |   4.67%
+Nuzleaf    | 556 |   4.63%
+Toedscool  | 518 |   4.32%
+Mudbray    | 518 |   4.32%
+Stunky     | 506 |   4.22%
+Vullaby    | 504 |   4.20%
+Morgrem    | 473 |   3.94%
+Sableye    | 441 |   3.67%
+Onix       | 414 |   3.45%
+Palpitoad  | 333 |   2.77%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

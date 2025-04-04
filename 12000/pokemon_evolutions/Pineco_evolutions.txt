@@ -1,0 +1,55 @@
+Evolutions from Pineco (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Mothim     | 553 |   4.61%
+Pinsir     | 524 |   4.37%
+Illumise   | 494 |   4.12%
+Volbeat    | 463 |   3.86%
+Accelgor   | 454 |   3.78%
+Rabsca     | 409 |   3.41%
+Vespiquen  | 399 |   3.33%
+Wormadamt  | 375 |   3.12%
+Frosmoth   | 370 |   3.08%
+Scizor     | 369 |   3.08%
+Wormadams  | 365 |   3.04%
+Ninjask    | 358 |   2.98%
+Escavalier | 357 |   2.97%
+Masquerain | 355 |   2.96%
+Galvantula | 350 |   2.92%
+Heracross  | 336 |   2.80%
+Ribombee   | 333 |   2.77%
+Scyther    | 330 |   2.75%
+Venomoth   | 326 |   2.72%
+Vikavolt   | 324 |   2.70%
+Orbeetle   | 324 |   2.70%
+Scolipede  | 320 |   2.67%
+Durant     | 319 |   2.66%
+Crustle    | 315 |   2.62%
+Lokix      | 314 |   2.62%
+Shuckle    | 313 |   2.61%
+Wormadam   | 305 |   2.54%
+Kleavor    | 302 |   2.52%
+Armaldo    | 298 |   2.48%
+Leavanny   | 285 |   2.38%
+Beedrillm  | 281 |   2.34%
+Araquanid  | 248 |   2.07%
+Spidops    |  59 |   0.49%
+Kricketune |  44 |   0.37%
+Charjabug  |  42 |   0.35%
+Volcarona  |  37 |   0.31%
+Yanmega    |  37 |   0.31%
+Ariados    |  34 |   0.28%
+Ledian     |  33 |   0.27%
+Beedrill   |  32 |   0.27%
+Vivillon   |  32 |   0.27%
+Butterfree |  30 |   0.25%
+Centskorch |  27 |   0.22%
+Dustox     |  25 |   0.21%
+Yanma      |  23 |   0.19%
+Beautifly  |  22 |   0.18%
+Swadloon   |  22 |   0.18%
+Golisopod  |  20 |   0.17%
+Parasect   |  13 |   0.11%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

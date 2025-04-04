@@ -1,0 +1,59 @@
+Evolutions from Hattrem (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Espeon     | 407 |   3.39%
+Meowstic   | 378 |   3.15%
+Munkidori  | 370 |   3.08%
+Reuniclus  | 355 |   2.96%
+Meowsticf  | 354 |   2.95%
+Musharna   | 348 |   2.90%
+Espathra   | 345 |   2.88%
+Grumpig    | 341 |   2.84%
+Hypno      | 332 |   2.77%
+Beheeyem   | 326 |   2.72%
+Gothitelle | 322 |   2.68%
+Alakazam   | 320 |   2.67%
+Gallade    | 292 |   2.43%
+Gardevoir  | 290 |   2.42%
+Darmanitaz | 274 |   2.28%
+Delphox    | 266 |   2.22%
+Mr. Rime   | 259 |   2.16%
+Bronzong   | 256 |   2.13%
+Mr. Mimeg  | 249 |   2.08%
+Exeggutor  | 248 |   2.07%
+Armarouge  | 244 |   2.03%
+Medichamm  | 243 |   2.02%
+Malamar    | 243 |   2.02%
+Oricoriop  | 242 |   2.02%
+Rapidashg  | 240 |   2.00%
+Braviaryh  | 236 |   1.97%
+Solrock    | 230 |   1.92%
+Lunatone   | 227 |   1.89%
+Mr. Mime   | 224 |   1.87%
+Bruxish    | 223 |   1.86%
+Sigilyph   | 223 |   1.86%
+Xatu       | 215 |   1.79%
+Raichua    | 212 |   1.77%
+Calyrex    | 205 |   1.71%
+Claydol    | 195 |   1.62%
+Starmie    | 192 |   1.60%
+Slowbrog   | 192 |   1.60%
+Farigiraf  | 189 |   1.57%
+Slowbro    | 178 |   1.48%
+Orbeetle   | 176 |   1.47%
+Slowkingg  | 175 |   1.46%
+Oranguru   | 175 |   1.46%
+Slowking   | 170 |   1.42%
+Wyrdeer    | 169 |   1.41%
+Rabsca     | 163 |   1.36%
+Indeedee   | 160 |   1.33%
+Indeedeef  | 158 |   1.32%
+Veluza     | 157 |   1.31%
+Uxie       |   5 |   0.04%
+Cresselia  |   3 |   0.03%
+Mesprit    |   2 |   0.02%
+Azelf      |   1 |   0.01%
+Jynx       |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

@@ -1,0 +1,47 @@
+Evolutions from Primeape (out of approximately 12000):
+Pokémon      | Count | Percentage
+----------------------------
+Zapdosg      | 433 |   3.61%
+Terrakion    | 419 |   3.49%
+Cobalion     | 414 |   3.45%
+Pheromosa    | 409 |   3.41%
+Iron Hands   | 390 |   3.25%
+Mienshao     | 389 |   3.24%
+Virizion     | 385 |   3.21%
+Conkeldurr   | 384 |   3.20%
+Machamp      | 376 |   3.13%
+Slithrwing   | 364 |   3.03%
+Taurosp      | 359 |   2.99%
+Sirfetchâ€™d | 355 |   2.96%
+Keldeo       | 353 |   2.94%
+Buzzwole     | 345 |   2.88%
+Passimian    | 342 |   2.85%
+Lucario      | 334 |   2.78%
+Great Tusk   | 332 |   2.77%
+Okidogi      | 327 |   2.73%
+Urshifu      | 305 |   2.54%
+Medichamm    | 283 |   2.36%
+Lopunnym     | 278 |   2.32%
+Gallade      | 273 |   2.27%
+Urshifur     | 261 |   2.17%
+Chesnaught   | 260 |   2.17%
+Decidueyeh   | 257 |   2.14%
+Blaziken     | 256 |   2.13%
+Infernape    | 250 |   2.08%
+Quaquaval    | 241 |   2.01%
+Pangoro      | 238 |   1.98%
+Scrafty      | 234 |   1.95%
+Emboar       | 226 |   1.88%
+Flamigo      | 226 |   1.88%
+Sneasler     | 224 |   1.87%
+Pawmot       | 220 |   1.83%
+Toxicroak    | 206 |   1.72%
+Taurospf     | 203 |   1.69%
+Hawlucha     | 195 |   1.62%
+Poliwrath    | 176 |   1.47%
+Taurospw     | 164 |   1.37%
+Heracross    | 158 |   1.32%
+Bewear       | 156 |   1.30%
+----------------------------
+TOTAL        | 12000 | 100.00%
+

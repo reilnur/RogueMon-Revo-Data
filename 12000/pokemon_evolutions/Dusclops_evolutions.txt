@@ -1,0 +1,47 @@
+Evolutions from Dusclops (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Fluttrmane | 555 |   4.62%
+Banettem   | 517 |   4.31%
+Cofagrigus | 460 |   3.83%
+Poltegeist | 452 |   3.77%
+Blacphalon | 442 |   3.68%
+Cursola    | 433 |   3.61%
+Mismagius  | 408 |   3.40%
+Houndstone | 401 |   3.34%
+Gholdengo  | 391 |   3.26%
+Annihilape | 375 |   3.12%
+Decidueye  | 317 |   2.64%
+Aegislash  | 316 |   2.63%
+Typhlosioh | 297 |   2.48%
+Aegislashb | 290 |   2.42%
+Palossand  | 289 |   2.41%
+Spiritomb  | 282 |   2.35%
+Gourgeistl | 278 |   2.32%
+Drifblim   | 274 |   2.28%
+Dhelmise   | 272 |   2.27%
+Mimikyu    | 268 |   2.23%
+Oricoriog  | 264 |   2.20%
+Sableyem   | 264 |   2.20%
+Gourgeistx | 263 |   2.19%
+Froslass   | 263 |   2.19%
+Trevenant  | 260 |   2.17%
+Basclegion | 259 |   2.16%
+Basclegiof | 257 |   2.14%
+Skeledirge | 257 |   2.14%
+Ceruledge  | 255 |   2.12%
+Sinistcha  | 255 |   2.12%
+Golurk     | 251 |   2.09%
+Bramblgast | 249 |   2.08%
+Gourgeist  | 246 |   2.05%
+Gourgeists | 242 |   2.02%
+Gengar     | 239 |   1.99%
+Runerigus  | 232 |   1.93%
+Chandelure | 230 |   1.92%
+Jellicent  | 219 |   1.82%
+Zoroarkh   | 175 |   1.46%
+Hoopa      |   2 |   0.02%
+Gengarm    |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

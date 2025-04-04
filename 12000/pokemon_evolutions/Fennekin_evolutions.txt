@@ -1,0 +1,25 @@
+Evolutions from Fennekin (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Raboot     | 875 |   7.29%
+Quilava    | 853 |   7.11%
+Lampent    | 850 |   7.08%
+Charmeleon | 835 |   6.96%
+Torracat   | 818 |   6.82%
+Crocalor   | 805 |   6.71%
+Ponyta     | 774 |   6.45%
+Castformf  | 769 |   6.41%
+Litleo     | 742 |   6.18%
+Carkol     | 703 |   5.86%
+Magcargo   | 701 |   5.84%
+Marowaka   | 698 |   5.82%
+Flechinder | 697 |   5.81%
+Monferno   | 655 |   5.46%
+Combusken  | 629 |   5.24%
+Pignite    | 590 |   4.92%
+Growlithe  |   3 |   0.03%
+Growlitheh |   2 |   0.02%
+Larvesta   |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

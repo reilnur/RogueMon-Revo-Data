@@ -1,0 +1,57 @@
+Evolutions from Trubbish (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Arbok      | 632 |   5.27%
+Weezing    | 482 |   4.02%
+Seviper    | 479 |   3.99%
+Swalot     | 464 |   3.87%
+Muk        | 446 |   3.72%
+Clodsire   | 442 |   3.68%
+Sneaselh   | 414 |   3.45%
+Qwilfishh  | 412 |   3.43%
+Dragalge   | 390 |   3.25%
+Sneasler   | 348 |   2.90%
+Revavroom  | 338 |   2.82%
+Skuntank   | 321 |   2.67%
+Muka       | 320 |   2.67%
+Golbat     | 314 |   2.62%
+Salazzle   | 306 |   2.55%
+Amoonguss  | 303 |   2.53%
+Toxicroak  | 299 |   2.49%
+Overqwil   | 295 |   2.46%
+Drapion    | 294 |   2.45%
+Weezingg   | 289 |   2.41%
+Nidoking   | 282 |   2.35%
+Gengar     | 277 |   2.31%
+Slowbrog   | 273 |   2.27%
+Slowkingg  | 272 |   2.27%
+Qwilfish   | 271 |   2.26%
+Toxtricity | 271 |   2.26%
+Roserade   | 270 |   2.25%
+Scolipede  | 264 |   2.20%
+Nidoqueen  | 255 |   2.12%
+Vileplume  | 251 |   2.09%
+Toxtricitl | 243 |   2.02%
+Tentacruel | 242 |   2.02%
+Venomoth   | 234 |   1.95%
+Victreebel | 232 |   1.93%
+Grafaiai   | 228 |   1.90%
+Beedrillm  | 216 |   1.80%
+Toxapex    | 200 |   1.67%
+Poipole    |  37 |   0.31%
+Haunter    |  22 |   0.18%
+Naganadel  |  14 |   0.12%
+Glimmora   |   9 |   0.07%
+Venusaur   |   9 |   0.07%
+Ivysaur    |   8 |   0.07%
+Munkidori  |   8 |   0.07%
+Fezandipti |   8 |   0.07%
+Okidogi    |   6 |   0.05%
+Roselia    |   3 |   0.03%
+Crobat     |   3 |   0.03%
+Weepinbell |   2 |   0.02%
+Beedrill   |   1 |   0.01%
+Dustox     |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

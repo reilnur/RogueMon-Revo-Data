@@ -1,0 +1,51 @@
+Evolutions from Slakoth (out of approximately 12000):
+Pokémon      | Count | Percentage
+----------------------------
+Delcatty     | 417 |   3.48%
+Raticate     | 400 |   3.33%
+Linoone      | 395 |   3.29%
+Castform     | 387 |   3.23%
+Gumshoos     | 383 |   3.19%
+Furret       | 381 |   3.17%
+Watchog      | 375 |   3.12%
+Eeveep       | 356 |   2.97%
+Linooneg     | 349 |   2.91%
+Dunsparce    | 338 |   2.82%
+Kecleon      | 336 |   2.80%
+Chatot       | 336 |   2.80%
+Squawkbily   | 336 |   2.80%
+Chansey      | 327 |   2.73%
+Raticatea    | 326 |   2.72%
+Purugly      | 320 |   2.67%
+Persian      | 313 |   2.61%
+Terapagos    | 303 |   2.53%
+Greedent     | 298 |   2.48%
+Audino       | 295 |   2.46%
+Lopunny      | 292 |   2.43%
+Zangoose     | 286 |   2.38%
+Cinccino     | 286 |   2.38%
+Maushold     | 273 |   2.27%
+Furfrou      | 268 |   2.23%
+Diggersby    | 268 |   2.23%
+Fearow       | 266 |   2.22%
+Stantler     | 265 |   2.21%
+Swellow      | 257 |   2.14%
+Komala       | 247 |   2.06%
+Ambipom      | 243 |   2.02%
+Wigglytuff   | 241 |   2.01%
+Noctowl      | 234 |   1.95%
+Bibarel      | 231 |   1.93%
+Dodrio       | 227 |   1.89%
+Pidgeot      | 222 |   1.85%
+Girafarig    | 208 |   1.73%
+Heliolisk    | 195 |   1.62%
+Indeedeef    | 180 |   1.50%
+Sawsbuck     | 173 |   1.44%
+Indeedee     | 163 |   1.36%
+Porygon      |   1 |   0.01%
+Munchlax     |   1 |   0.01%
+Farfetchâ€™d |   1 |   0.01%
+Lickitung    |   1 |   0.01%
+----------------------------
+TOTAL        | 12000 | 100.00%
+

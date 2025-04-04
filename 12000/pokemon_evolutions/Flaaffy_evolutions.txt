@@ -1,0 +1,55 @@
+Evolutions from Flaaffy (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Manectric  | 570 |   4.75%
+Electivire | 548 |   4.57%
+Zebstrika  | 495 |   4.12%
+Raichu     | 482 |   4.02%
+Luxray     | 475 |   3.96%
+Jolteon    | 471 |   3.92%
+Eelektross | 464 |   3.87%
+Bellibolt  | 449 |   3.74%
+Electrode  | 442 |   3.68%
+Electabuzz | 433 |   3.61%
+Magnezone  | 426 |   3.55%
+Boltund    | 413 |   3.44%
+Dracozolt  | 390 |   3.25%
+Magneton   | 384 |   3.20%
+Stunfisk   | 347 |   2.89%
+Pawmot     | 327 |   2.73%
+Raichua    | 320 |   2.67%
+Oricorioe  | 316 |   2.63%
+Rotomm     | 299 |   2.49%
+Galvantula | 298 |   2.48%
+Rotomfa    | 296 |   2.47%
+Lanturn    | 292 |   2.43%
+Rotomfr    | 290 |   2.42%
+Golema     | 288 |   2.40%
+Arctozolt  | 288 |   2.40%
+Kilowattrl | 286 |   2.38%
+Toxtricitl | 281 |   2.34%
+Toxtricity | 267 |   2.23%
+Rotomh     | 262 |   2.18%
+Heliolisk  | 249 |   2.08%
+Vikavolt   | 244 |   2.03%
+Electrodeh | 243 |   2.02%
+Rotomw     | 227 |   1.89%
+Regieleki  |  21 |   0.18%
+Manectricm |  13 |   0.11%
+Xurkitree  |  11 |   0.09%
+Pincurchin |  11 |   0.09%
+Thundurust |  10 |   0.08%
+Togedemaru |  10 |   0.08%
+Iron Hands |  10 |   0.08%
+Tapu Koko  |   7 |   0.06%
+Thundurus  |   7 |   0.06%
+Zapdos     |   7 |   0.06%
+Morpekoh   |   6 |   0.05%
+Raikou     |   6 |   0.05%
+Ironthorns |   6 |   0.05%
+Morpeko    |   5 |   0.04%
+Sandyshock |   5 |   0.04%
+Rotom      |   3 |   0.03%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

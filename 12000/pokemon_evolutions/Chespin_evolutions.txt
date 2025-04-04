@@ -1,0 +1,40 @@
+Evolutions from Chespin (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Servine    | 840 |   7.00%
+Grovyle    | 828 |   6.90%
+Floragato  | 813 |   6.78%
+Sunflora   | 801 |   6.68%
+Grotle     | 790 |   6.58%
+Bayleef    | 786 |   6.55%
+Thwackey   | 758 |   6.32%
+Tangela    | 710 |   5.92%
+Roselia    | 703 |   5.86%
+Ivysaur    | 701 |   5.84%
+Dartrix    | 687 |   5.73%
+Gloom      | 687 |   5.73%
+Weepinbell | 643 |   5.36%
+Swadloon   | 570 |   4.75%
+Shiinotic  | 538 |   4.48%
+Wormadam   | 476 |   3.97%
+Parasect   | 432 |   3.60%
+Skiddo     |  66 |   0.55%
+Lileep     |  35 |   0.29%
+Dolliv     |  25 |   0.21%
+Carnivine  |  22 |   0.18%
+Eldegoss   |  20 |   0.17%
+Cherrim    |  19 |   0.16%
+Maractus   |  18 |   0.15%
+Jumpluff   |  13 |   0.11%
+Breloom    |   7 |   0.06%
+Amoonguss  |   3 |   0.03%
+Tropius    |   3 |   0.03%
+Skiploom   |   1 |   0.01%
+Cacnea     |   1 |   0.01%
+Pumpkaboos |   1 |   0.01%
+Lombre     |   1 |   0.01%
+Pumpkaboox |   1 |   0.01%
+Nuzleaf    |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

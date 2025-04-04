@@ -1,0 +1,66 @@
+Evolutions from Feebas (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Slowbrom   | 463 |   3.86%
+Suicune    | 425 |   3.54%
+Walkinwake | 387 |   3.23%
+Keldeo     | 382 |   3.18%
+Tapu Fini  | 366 |   3.05%
+Ironbundle | 315 |   2.62%
+Vaporeon   | 295 |   2.46%
+Dondozo    | 294 |   2.45%
+Samurott   | 290 |   2.42%
+Urshifur   | 287 |   2.39%
+Inteleon   | 283 |   2.36%
+Blastoise  | 265 |   2.21%
+Sharpedom  | 261 |   2.17%
+Clawitzer  | 260 |   2.17%
+Quaquaval  | 257 |   2.14%
+Empoleon   | 253 |   2.11%
+Feraligatr | 252 |   2.10%
+Simipour   | 251 |   2.09%
+Golduck    | 247 |   2.06%
+Ogerponw   | 247 |   2.06%
+Primarina  | 245 |   2.04%
+Wailord    | 244 |   2.03%
+Lapras     | 241 |   2.01%
+Politoed   | 240 |   2.00%
+Walrein    | 227 |   1.89%
+Baraskewda | 222 |   1.85%
+Gyarados   | 220 |   1.83%
+Dracovish  | 219 |   1.82%
+Floatzel   | 217 |   1.81%
+Greninja   | 212 |   1.77%
+Basclegiof | 212 |   1.77%
+Kingdra    | 212 |   1.77%
+Samurotth  | 209 |   1.74%
+Starmie    | 199 |   1.66%
+Basclegion | 192 |   1.60%
+Poliwrath  | 190 |   1.58%
+Seismitoad | 188 |   1.57%
+Cloyster   | 187 |   1.56%
+Kabutops   | 173 |   1.44%
+Swampert   | 173 |   1.44%
+Taurospw   | 168 |   1.40%
+Toxapex    | 165 |   1.38%
+Slowking   | 162 |   1.35%
+Golisopod  | 159 |   1.32%
+Rotomw     | 155 |   1.29%
+Barbaracle | 153 |   1.27%
+Carracosta | 153 |   1.27%
+Arctovish  | 150 |   1.25%
+Omastar    | 145 |   1.21%
+Tentacruel | 144 |   1.20%
+Slowbro    | 130 |   1.08%
+Manaphy    |   4 |   0.03%
+Volcanion  |   3 |   0.03%
+Huntail    |   1 |   0.01%
+Basculinw  |   1 |   0.01%
+Basculinb  |   1 |   0.01%
+Alomomola  |   1 |   0.01%
+Kingler    |   1 |   0.01%
+Lumineon   |   1 |   0.01%
+Phione     |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

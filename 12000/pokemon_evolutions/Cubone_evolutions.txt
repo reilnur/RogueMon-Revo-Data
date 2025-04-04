@@ -1,0 +1,36 @@
+Evolutions from Cubone (out of approximately 12000):
+Pokémon   | Count | Percentage
+--------------------------
+Mudbray   | 1068 |   8.90%
+Dugtrio   |  931 |   7.76%
+Onix      |  828 |   6.90%
+Graveler  |  798 |   6.65%
+Pupitar   |  786 |   6.55%
+Gligar    |  755 |   6.29%
+Sandslash |  744 |   6.20%
+Clodsire  |  688 |   5.73%
+Dugtrioa  |  671 |   5.59%
+Palpitoad |  633 |   5.27%
+Piloswine |  629 |   5.24%
+Diggersby |  613 |   5.11%
+Camerupt  |  610 |   5.08%
+Marshtomp |  579 |   4.83%
+Quagsire  |  575 |   4.79%
+Gabite    |  561 |   4.67%
+Wormadams |  504 |   4.20%
+Rhyhorn   |    5 |   0.04%
+Stunfisk  |    4 |   0.03%
+Stunfiskg |    4 |   0.03%
+Whiscash  |    2 |   0.02%
+Palossand |    2 |   0.02%
+Donphan   |    2 |   0.02%
+Rhydon    |    2 |   0.02%
+Golurk    |    1 |   0.01%
+Zygarde10 |    1 |   0.01%
+Mudsdale  |    1 |   0.01%
+Gastrodon |    1 |   0.01%
+Claydol   |    1 |   0.01%
+Excadrill |    1 |   0.01%
+--------------------------
+TOTAL     | 12000 | 100.00%
+

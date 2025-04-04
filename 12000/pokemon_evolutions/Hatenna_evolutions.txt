@@ -1,0 +1,18 @@
+Evolutions from Hatenna (out of approximately 12000):
+Pokémon   | Count | Percentage
+--------------------------
+Unown     | 1687 |  14.06%
+Elgyem    | 1560 |  13.00%
+Dottler   | 1550 |  12.92%
+Espurr    | 1527 |  12.72%
+Duosion   | 1163 |   9.69%
+Kadabra   | 1143 |   9.53%
+Gothorita | 1137 |   9.47%
+Cosmoem   | 1132 |   9.43%
+Wobbuffet | 1097 |   9.14%
+Woobat    |    2 |   0.02%
+Natu      |    1 |   0.01%
+Exeggcute |    1 |   0.01%
+--------------------------
+TOTAL     | 12000 | 100.00%
+

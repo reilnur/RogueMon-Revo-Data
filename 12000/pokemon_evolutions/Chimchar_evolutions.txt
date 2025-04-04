@@ -1,0 +1,23 @@
+Evolutions from Chimchar (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Magby      | 925 |   7.71%
+Lampent    | 833 |   6.94%
+Crocalor   | 793 |   6.61%
+Raboot     | 750 |   6.25%
+Braixen    | 741 |   6.17%
+Torracat   | 741 |   6.17%
+Castformf  | 733 |   6.11%
+Ponyta     | 728 |   6.07%
+Charmeleon | 724 |   6.03%
+Quilava    | 691 |   5.76%
+Flechinder | 661 |   5.51%
+Carkol     | 659 |   5.49%
+Litleo     | 658 |   5.48%
+Combusken  | 618 |   5.15%
+Marowaka   | 616 |   5.13%
+Magcargo   | 592 |   4.93%
+Pignite    | 537 |   4.47%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

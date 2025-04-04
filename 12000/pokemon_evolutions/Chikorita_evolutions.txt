@@ -1,0 +1,40 @@
+Evolutions from Chikorita (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Quilladin  | 888 |   7.40%
+Grovyle    | 823 |   6.86%
+Floragato  | 821 |   6.84%
+Servine    | 810 |   6.75%
+Grotle     | 802 |   6.68%
+Sunflora   | 800 |   6.67%
+Thwackey   | 778 |   6.48%
+Ivysaur    | 696 |   5.80%
+Tangela    | 693 |   5.78%
+Weepinbell | 669 |   5.58%
+Roselia    | 665 |   5.54%
+Dartrix    | 656 |   5.47%
+Gloom      | 645 |   5.38%
+Shiinotic  | 570 |   4.75%
+Swadloon   | 552 |   4.60%
+Parasect   | 474 |   3.95%
+Wormadam   | 430 |   3.58%
+Skiddo     |  49 |   0.41%
+Lileep     |  39 |   0.33%
+Dolliv     |  35 |   0.29%
+Carnivine  |  20 |   0.17%
+Eldegoss   |  18 |   0.15%
+Cherrim    |  16 |   0.13%
+Maractus   |  15 |   0.12%
+Jumpluff   |  10 |   0.08%
+Tropius    |   8 |   0.07%
+Amoonguss  |   6 |   0.05%
+Breloom    |   4 |   0.03%
+Cacnea     |   2 |   0.02%
+Pumpkaboo  |   2 |   0.02%
+Snover     |   1 |   0.01%
+Voltorbh   |   1 |   0.01%
+Exeggcute  |   1 |   0.01%
+Lombre     |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

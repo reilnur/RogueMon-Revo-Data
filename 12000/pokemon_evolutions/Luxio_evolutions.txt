@@ -1,0 +1,45 @@
+Evolutions from Luxio (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Xurkitree  | 585 |   4.88%
+Manectricm | 584 |   4.87%
+Tapu Koko  | 532 |   4.43%
+Iron Hands | 508 |   4.23%
+Ironthorns | 492 |   4.10%
+Electivire | 444 |   3.70%
+Sandyshock | 437 |   3.64%
+Manectric  | 405 |   3.38%
+Jolteon    | 377 |   3.14%
+Boltund    | 362 |   3.02%
+Zebstrika  | 353 |   2.94%
+Electrode  | 351 |   2.93%
+Raichu     | 350 |   2.92%
+Eelektross | 350 |   2.92%
+Dracozolt  | 346 |   2.88%
+Electabuzz | 343 |   2.86%
+Bellibolt  | 338 |   2.82%
+Ampharos   | 334 |   2.78%
+Rotomh     | 277 |   2.31%
+Oricorioe  | 270 |   2.25%
+Magnezone  | 269 |   2.24%
+Stunfisk   | 265 |   2.21%
+Rotomfa    | 258 |   2.15%
+Galvantula | 251 |   2.09%
+Pawmot     | 243 |   2.02%
+Rotomfr    | 242 |   2.02%
+Golema     | 241 |   2.01%
+Arctozolt  | 241 |   2.01%
+Kilowattrl | 239 |   1.99%
+Rotomm     | 231 |   1.93%
+Toxtricity | 225 |   1.88%
+Toxtricitl | 218 |   1.82%
+Vikavolt   | 217 |   1.81%
+Heliolisk  | 217 |   1.81%
+Electrodeh | 216 |   1.80%
+Raichua    | 197 |   1.64%
+Rotomw     | 190 |   1.58%
+Zeraora    |   1 |   0.01%
+Thundurus  |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

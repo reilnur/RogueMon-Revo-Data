@@ -1,0 +1,39 @@
+Evolutions from Cetoddle (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Vanilluxe  | 611 |   5.09%
+Cryogonal  | 576 |   4.80%
+Glalie     | 571 |   4.76%
+Chien-Pao  | 559 |   4.66%
+Avalugg    | 553 |   4.61%
+Eiscuen    | 525 |   4.38%
+Eiscue     | 522 |   4.35%
+Glaceon    | 508 |   4.23%
+Beartic    | 502 |   4.18%
+Darmanitag | 485 |   4.04%
+Ironbundle | 471 |   3.92%
+Froslass   | 412 |   3.43%
+Weavile    | 396 |   3.30%
+Mamoswine  | 386 |   3.22%
+Mr. Rime   | 378 |   3.15%
+Avaluggh   | 367 |   3.06%
+Ninetalesa | 366 |   3.05%
+Crabminble | 360 |   3.00%
+Darmanitzg | 357 |   2.97%
+Aurorus    | 349 |   2.91%
+Rotomfr    | 345 |   2.88%
+Walrein    | 343 |   2.86%
+Dewgong    | 318 |   2.65%
+Arctozolt  | 315 |   2.62%
+Lapras     | 305 |   2.54%
+Frosmoth   | 299 |   2.49%
+Cloyster   | 296 |   2.47%
+Abomasnow  | 269 |   2.24%
+Arctovish  | 251 |   2.09%
+Glaliem    |   2 |   0.02%
+Glastrier  |   1 |   0.01%
+Piloswine  |   1 |   0.01%
+Abomasnowm |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

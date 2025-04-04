@@ -1,0 +1,46 @@
+Evolutions from Sandshrew (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Dugtrio    | 883 |   7.36%
+Marowak    | 767 |   6.39%
+Pupitar    | 689 |   5.74%
+Gligar     | 638 |   5.32%
+Dugtrioa   | 613 |   5.11%
+Clodsire   | 584 |   4.87%
+Stunfiskg  | 529 |   4.41%
+Piloswine  | 520 |   4.33%
+Camerupt   | 488 |   4.07%
+Marshtomp  | 487 |   4.06%
+Zygarde10  | 473 |   3.94%
+Quagsire   | 471 |   3.92%
+Stunfisk   | 460 |   3.83%
+Diggersby  | 460 |   3.83%
+Golurk     | 456 |   3.80%
+Palossand  | 454 |   3.78%
+Gabite     | 446 |   3.72%
+Rhydon     | 434 |   3.62%
+Golem      | 431 |   3.59%
+Runerigus  | 428 |   3.57%
+Whiscash   | 421 |   3.51%
+Gastrodon  | 395 |   3.29%
+Wormadams  | 373 |   3.11%
+Mudbray    |  22 |   0.18%
+Graveler   |  14 |   0.12%
+Onix       |  13 |   0.11%
+Sandaconda |   9 |   0.07%
+Excadrill  |   8 |   0.07%
+Donphan    |   8 |   0.07%
+Palpitoad  |   7 |   0.06%
+Mudsdale   |   5 |   0.04%
+Steelix    |   4 |   0.03%
+Gliscor    |   2 |   0.02%
+Toedscruel |   2 |   0.02%
+Claydol    |   1 |   0.01%
+Rhyperior  |   1 |   0.01%
+Seismitoad |   1 |   0.01%
+Nidoking   |   1 |   0.01%
+Hippowdon  |   1 |   0.01%
+Nidoqueen  |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

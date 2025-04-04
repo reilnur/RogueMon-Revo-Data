@@ -1,0 +1,38 @@
+Evolutions from Drakloak (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Hoopa      | 462 |   3.85%
+Gengarm    | 449 |   3.74%
+Spectrier  | 441 |   3.67%
+Marshadow  | 434 |   3.62%
+Pecharunt  | 422 |   3.52%
+Garchomp   | 418 |   3.48%
+Baxcalibur | 418 |   3.48%
+Hydreigon  | 409 |   3.41%
+Goodra     | 406 |   3.38%
+Kommo-O    | 406 |   3.38%
+Dragonite  | 404 |   3.37%
+Haxorus    | 400 |   3.33%
+Gouginfire | 398 |   3.32%
+Fluttrmane | 394 |   3.28%
+Banettem   | 393 |   3.28%
+Salamence  | 393 |   3.28%
+Latios     | 390 |   3.25%
+Goodrah    | 381 |   3.17%
+Archaludon | 376 |   3.13%
+Roarinmoon | 371 |   3.09%
+Regidrago  | 371 |   3.09%
+Latias     | 370 |   3.08%
+Altariam   | 360 |   3.00%
+Ragingbolt | 360 |   3.00%
+Zygarde    | 358 |   2.98%
+Gholdengo  | 343 |   2.86%
+Guzzlord   | 328 |   2.73%
+Walkinwake | 323 |   2.69%
+Blacphalon | 289 |   2.41%
+Hydrapple  | 257 |   2.14%
+Naganadel  | 252 |   2.10%
+Kingdra    | 224 |   1.87%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

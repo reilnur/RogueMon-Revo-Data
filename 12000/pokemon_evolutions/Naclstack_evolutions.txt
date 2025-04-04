@@ -1,0 +1,52 @@
+Evolutions from Naclstack (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Lycanrocd  | 549 |   4.58%
+Stonjorner | 545 |   4.54%
+Lycanrocm  | 544 |   4.53%
+Lycanroc   | 510 |   4.25%
+Klawf      | 488 |   4.07%
+Rampardos  | 479 |   3.99%
+Gigalith   | 452 |   3.77%
+Tyrantrum  | 444 |   3.70%
+Ogerponr   | 382 |   3.18%
+Aggron     | 378 |   3.15%
+Bastiodon  | 372 |   3.10%
+Probopass  | 362 |   3.02%
+Aurorus    | 346 |   2.88%
+Carbink    | 311 |   2.59%
+Rhyperior  | 311 |   2.59%
+Lunatone   | 301 |   2.51%
+Solrock    | 296 |   2.47%
+Avaluggh   | 294 |   2.45%
+Rhydon     | 291 |   2.43%
+Miniorc    | 290 |   2.42%
+Aerodactyl | 287 |   2.39%
+Glimmora   | 280 |   2.33%
+Golema     | 274 |   2.28%
+Cradily    | 272 |   2.27%
+Coalossal  | 271 |   2.26%
+Kleavor    | 264 |   2.20%
+Golem      | 263 |   2.19%
+Crustle    | 257 |   2.14%
+Relicanth  | 255 |   2.12%
+Omastar    | 246 |   2.05%
+Drednaw    | 244 |   2.03%
+Barbaracle | 232 |   1.93%
+Shuckle    | 226 |   1.88%
+Armaldo    | 222 |   1.85%
+Carracosta | 214 |   1.78%
+Kabutops   | 206 |   1.72%
+Nihilego   |  10 |   0.08%
+Stakataka  |   8 |   0.07%
+Arcanineh  |   5 |   0.04%
+Ironthorns |   5 |   0.04%
+Lairon     |   4 |   0.03%
+Archeops   |   4 |   0.03%
+Magcargo   |   3 |   0.03%
+Regirock   |   1 |   0.01%
+Archen     |   1 |   0.01%
+Minior     |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

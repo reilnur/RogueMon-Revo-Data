@@ -1,0 +1,72 @@
+Evolutions from Rotom (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Spectrier  | 321 |   2.67%
+Regieleki  | 303 |   2.53%
+Xurkitree  | 303 |   2.53%
+Raikou     | 290 |   2.42%
+Banettem   | 276 |   2.30%
+Ragingbolt | 276 |   2.30%
+Manectricm | 267 |   2.23%
+Tapu Koko  | 260 |   2.17%
+Fluttrmane | 259 |   2.16%
+Thundurust | 259 |   2.16%
+Zapdos     | 257 |   2.14%
+Dusknoir   | 246 |   2.05%
+Thundurus  | 244 |   2.03%
+Iron Hands | 241 |   2.01%
+Electivire | 236 |   1.97%
+Poltegeist | 235 |   1.96%
+Ironthorns | 234 |   1.95%
+Blacphalon | 226 |   1.88%
+Houndstone | 216 |   1.80%
+Mismagius  | 215 |   1.79%
+Gholdengo  | 208 |   1.73%
+Jolteon    | 197 |   1.64%
+Cursola    | 197 |   1.64%
+Sandyshock | 194 |   1.62%
+Luxray     | 193 |   1.61%
+Aegislash  | 190 |   1.58%
+Bellibolt  | 189 |   1.57%
+Boltund    | 187 |   1.56%
+Annihilape | 180 |   1.50%
+Ampharos   | 180 |   1.50%
+Aegislashb | 176 |   1.47%
+Typhlosioh | 175 |   1.46%
+Zebstrika  | 167 |   1.39%
+Electrode  | 166 |   1.38%
+Electabuzz | 166 |   1.38%
+Dracozolt  | 165 |   1.38%
+Magnezone  | 160 |   1.33%
+Eelektross | 159 |   1.32%
+Skeledirge | 155 |   1.29%
+Decidueye  | 155 |   1.29%
+Dhelmise   | 150 |   1.25%
+Kilowattrl | 149 |   1.24%
+Gourgeists | 147 |   1.23%
+Basclegiof | 143 |   1.19%
+Ceruledge  | 142 |   1.18%
+Basclegion | 141 |   1.18%
+Chandelure | 141 |   1.18%
+Sinistcha  | 139 |   1.16%
+Arctozolt  | 138 |   1.15%
+Drifblim   | 135 |   1.12%
+Gourgeistl | 131 |   1.09%
+Gengar     | 126 |   1.05%
+Rotomh     | 126 |   1.05%
+Rotomfr    | 125 |   1.04%
+Gourgeist  | 125 |   1.04%
+Toxtricitl | 122 |   1.02%
+Pawmot     | 121 |   1.01%
+Electrodeh | 119 |   0.99%
+Gourgeistx | 116 |   0.97%
+Rotomm     | 114 |   0.95%
+Golema     | 109 |   0.91%
+Rotomfa    | 108 |   0.90%
+Toxtricity | 104 |   0.87%
+Rotomw     | 103 |   0.86%
+Zoroarkh   | 102 |   0.85%
+Vikavolt   | 101 |   0.84%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

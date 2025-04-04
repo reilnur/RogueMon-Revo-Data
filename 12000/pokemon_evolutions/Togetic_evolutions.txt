@@ -1,0 +1,63 @@
+Evolutions from Togetic (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Tornadust  | 326 |   2.72%
+Ironvalian | 316 |   2.63%
+Zapdosg    | 313 |   2.61%
+Tornadus   | 311 |   2.59%
+Tapu Lele  | 307 |   2.56%
+Florges    | 307 |   2.56%
+Enamorust  | 304 |   2.53%
+Floettee   | 299 |   2.49%
+Archeops   | 293 |   2.44%
+Enamorus   | 293 |   2.44%
+Thundurust | 285 |   2.38%
+Articunog  | 279 |   2.33%
+Altariam   | 278 |   2.32%
+Zapdos     | 276 |   2.30%
+Screamtail | 272 |   2.27%
+Articuno   | 269 |   2.24%
+Fluttrmane | 268 |   2.23%
+Thundurus  | 267 |   2.23%
+Tapu Koko  | 263 |   2.19%
+Sylveon    | 251 |   2.09%
+Moltresg   | 247 |   2.06%
+Celesteela | 246 |   2.05%
+Tapu Bulu  | 244 |   2.03%
+Alcremie   | 235 |   1.96%
+Fezandipti | 233 |   1.94%
+Ironjuglis | 230 |   1.92%
+Noivern    | 215 |   1.79%
+Moltres    | 213 |   1.77%
+Pidgeotm   | 189 |   1.57%
+Tapu Fini  | 187 |   1.56%
+Corvknight | 181 |   1.51%
+Gardevoir  | 171 |   1.43%
+Grimmsnarl | 168 |   1.40%
+Ninetalesa | 167 |   1.39%
+Gyarados   | 161 |   1.34%
+Hatterene  | 160 |   1.33%
+Mandibuzz  | 159 |   1.32%
+Braviaryh  | 158 |   1.32%
+Charizard  | 157 |   1.31%
+Tinkaton   | 155 |   1.29%
+Talonflame | 155 |   1.29%
+Gliscor    | 154 |   1.28%
+Hawlucha   | 152 |   1.27%
+Drifblim   | 149 |   1.24%
+Flamigo    | 144 |   1.20%
+Rapidashg  | 143 |   1.19%
+Aerodactyl | 142 |   1.18%
+Carbink    | 142 |   1.18%
+Primarina  | 140 |   1.17%
+Miniorc    | 139 |   1.16%
+Crobat     | 138 |   1.15%
+Scyther    | 137 |   1.14%
+Honchkrow  | 136 |   1.13%
+Audinom    | 128 |   1.07%
+Rotomfa    | 125 |   1.04%
+Yanmega    | 114 |   0.95%
+Braviary   | 109 |   0.91%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

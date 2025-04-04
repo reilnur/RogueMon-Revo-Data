@@ -1,0 +1,46 @@
+Evolutions from Electrike (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Pikachup   | 608 |   5.07%
+Pincurchin | 603 |   5.03%
+Morpekoh   | 482 |   4.02%
+Morpeko    | 473 |   3.94%
+Emolga     | 445 |   3.71%
+Togedemaru | 441 |   3.67%
+Dedenne    | 425 |   3.54%
+Rotom      | 402 |   3.35%
+Ampharos   | 399 |   3.33%
+Raichu     | 389 |   3.24%
+Electabuzz | 385 |   3.21%
+Zebstrika  | 377 |   3.14%
+Bellibolt  | 374 |   3.12%
+Eelektross | 369 |   3.08%
+Boltund    | 368 |   3.07%
+Electrode  | 356 |   2.97%
+Dracozolt  | 339 |   2.83%
+Magneton   | 301 |   2.51%
+Rotomfr    | 287 |   2.39%
+Stunfisk   | 276 |   2.30%
+Oricorioe  | 275 |   2.29%
+Rotomfa    | 260 |   2.17%
+Arctozolt  | 247 |   2.06%
+Kilowattrl | 244 |   2.03%
+Pawmot     | 241 |   2.01%
+Lanturn    | 240 |   2.00%
+Galvantula | 236 |   1.97%
+Raichua    | 231 |   1.93%
+Golema     | 227 |   1.89%
+Rotomm     | 225 |   1.88%
+Electrodeh | 221 |   1.84%
+Toxtricity | 219 |   1.82%
+Rotomh     | 217 |   1.81%
+Toxtricitl | 207 |   1.73%
+Rotomw     | 205 |   1.71%
+Heliolisk  | 201 |   1.68%
+Vikavolt   | 200 |   1.67%
+Pachirisu  |   2 |   0.02%
+Eelektrik  |   2 |   0.02%
+Minun      |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

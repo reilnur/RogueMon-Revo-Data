@@ -1,0 +1,54 @@
+Evolutions from Maschiff (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Thievul    | 615 |   5.12%
+Umbreon    | 605 |   5.04%
+Zoroark    | 587 |   4.89%
+Absol      | 520 |   4.33%
+Urshifu    | 458 |   3.82%
+Kingambit  | 413 |   3.44%
+Grimmsnarl | 410 |   3.42%
+Bisharp    | 400 |   3.33%
+Incineroar | 386 |   3.22%
+Weavile    | 379 |   3.16%
+Meowscrada | 377 |   3.14%
+Scrafty    | 372 |   3.10%
+Mandibuzz  | 361 |   3.01%
+Bombirdier | 360 |   3.00%
+Honchkrow  | 360 |   3.00%
+Spiritomb  | 356 |   2.97%
+Pangoro    | 352 |   2.93%
+Sableyem   | 350 |   2.92%
+Krookodile | 344 |   2.87%
+Cacturne   | 337 |   2.81%
+Houndoom   | 330 |   2.75%
+Skuntank   | 320 |   2.67%
+Malamar    | 317 |   2.64%
+Overqwil   | 310 |   2.58%
+Crawdaunt  | 309 |   2.57%
+Sharpedo   | 308 |   2.57%
+Drapion    | 304 |   2.53%
+Greninja   | 302 |   2.52%
+Muka       | 298 |   2.48%
+Samurotth  | 294 |   2.45%
+Shiftry    | 285 |   2.38%
+Obstagoon  | 237 |   1.98%
+Absolm     |  10 |   0.08%
+Moltresg   |   5 |   0.04%
+Persiana   |   5 |   0.04%
+Morpekoh   |   4 |   0.03%
+Chi-Yu     |   3 |   0.03%
+Wo-Chien   |   3 |   0.03%
+Ironjuglis |   2 |   0.02%
+Sharpedom  |   2 |   0.02%
+Morpeko    |   2 |   0.02%
+Guzzlord   |   2 |   0.02%
+Liepard    |   1 |   0.01%
+Lokix      |   1 |   0.01%
+Sneasel    |   1 |   0.01%
+Chien-Pao  |   1 |   0.01%
+Qwilfishh  |   1 |   0.01%
+Ting-Lu    |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

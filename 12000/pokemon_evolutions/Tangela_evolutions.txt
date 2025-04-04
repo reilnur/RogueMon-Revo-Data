@@ -1,0 +1,58 @@
+Evolutions from Tangela (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Virizion   | 404 |   3.37%
+Tapu Bulu  | 378 |   3.15%
+Wo-Chien   | 355 |   2.96%
+Ogerpon    | 354 |   2.95%
+Gogoat     | 347 |   2.89%
+Brutebonet | 338 |   2.82%
+Kartana    | 334 |   2.78%
+Sceptile   | 321 |   2.67%
+Exeggutora | 315 |   2.62%
+Meganium   | 315 |   2.62%
+Rillaboom  | 314 |   2.62%
+Serperior  | 297 |   2.48%
+Leafeon    | 285 |   2.38%
+Cherrims   | 282 |   2.35%
+Tsareena   | 268 |   2.23%
+Decidueyeh | 259 |   2.16%
+Meowscrada | 255 |   2.12%
+Hydrapple  | 254 |   2.12%
+Ogerponr   | 254 |   2.12%
+Ogerponf   | 251 |   2.09%
+Bellossom  | 248 |   2.07%
+Simisage   | 246 |   2.05%
+Ogerponw   | 245 |   2.04%
+Decidueye  | 243 |   2.02%
+Flapple    | 229 |   1.91%
+Dipplin    | 228 |   1.90%
+Exeggutor  | 226 |   1.88%
+Sinistcha  | 225 |   1.88%
+Dhelmise   | 218 |   1.82%
+Appletun   | 217 |   1.81%
+Chesnaught | 213 |   1.77%
+Gourgeists | 212 |   1.77%
+Gourgeistl | 209 |   1.74%
+Abomasnow  | 205 |   1.71%
+Ferrothorn | 198 |   1.65%
+Toedscruel | 185 |   1.54%
+Gourgeist  | 184 |   1.53%
+Scovillain | 183 |   1.52%
+Gourgeistx | 183 |   1.52%
+Roserade   | 179 |   1.49%
+Calyrex    | 170 |   1.42%
+Electrodeh | 163 |   1.36%
+Torterra   | 159 |   1.32%
+Cradily    | 158 |   1.32%
+Vileplume  | 158 |   1.32%
+Arboliva   | 156 |   1.30%
+Rotomm     | 153 |   1.27%
+Venusaur   | 146 |   1.22%
+Leavanny   | 141 |   1.18%
+Victreebel | 137 |   1.14%
+Zarude     |   2 |   0.02%
+Celebi     |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

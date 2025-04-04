@@ -1,0 +1,51 @@
+Evolutions from Numel (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Marowak    | 435 |   3.62%
+Dugtrio    | 413 |   3.44%
+Torkoal    | 405 |   3.38%
+Darmanitan | 378 |   3.15%
+Sandslash  | 373 |   3.11%
+Heatmor    | 365 |   3.04%
+Raboot     | 347 |   2.89%
+Donphan    | 334 |   2.78%
+Rapidash   | 328 |   2.73%
+Simisear   | 325 |   2.71%
+Torracat   | 320 |   2.67%
+Magmar     | 304 |   2.53%
+Ninetales  | 297 |   2.48%
+Gligar     | 296 |   2.47%
+Mudsdale   | 293 |   2.44%
+Castformf  | 293 |   2.44%
+Magcargo   | 292 |   2.43%
+Turtonator | 283 |   2.36%
+Dugtrioa   | 280 |   2.33%
+Pignite    | 265 |   2.21%
+Clodsire   | 261 |   2.17%
+Piloswine  | 256 |   2.13%
+Marowaka   | 255 |   2.12%
+Oricorio   | 253 |   2.11%
+Stunfiskg  | 251 |   2.09%
+Diggersby  | 251 |   2.09%
+Salazzle   | 234 |   1.95%
+Taurospf   | 233 |   1.94%
+Zygarde10  | 229 |   1.91%
+Golem      | 226 |   1.88%
+Stunfisk   | 225 |   1.88%
+Runerigus  | 224 |   1.87%
+Golurk     | 220 |   1.83%
+Wormadams  | 214 |   1.78%
+Quagsire   | 207 |   1.73%
+Whiscash   | 203 |   1.69%
+Scovillain | 200 |   1.67%
+Palossand  | 197 |   1.64%
+Claydol    | 191 |   1.59%
+Talonflame | 188 |   1.57%
+Rhydon     | 184 |   1.53%
+Gastrodon  | 175 |   1.46%
+Houndoom   | 173 |   1.44%
+Nidoking   | 168 |   1.40%
+Nidoqueen  | 156 |   1.30%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

@@ -1,0 +1,37 @@
+Evolutions from Spritzee (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Granbull   | 923 |   7.69%
+Dachsbun   | 831 |   6.93%
+Clefable   | 817 |   6.81%
+Slurpuff   | 770 |   6.42%
+Comfey     | 759 |   6.33%
+Alcremie   | 728 |   6.07%
+Dedenne    | 695 |   5.79%
+Mawilem    | 590 |   4.92%
+Tinkaton   | 583 |   4.86%
+Klefki     | 571 |   4.76%
+Mr. Mime   | 520 |   4.33%
+Mimikyu    | 519 |   4.32%
+Ninetalesa | 513 |   4.28%
+Wigglytuff | 470 |   3.92%
+Azumarill  | 469 |   3.91%
+Rapidashg  | 464 |   3.87%
+Carbink    | 452 |   3.77%
+Weezingg   | 442 |   3.68%
+Ribombee   | 429 |   3.57%
+Whimsicott | 413 |   3.44%
+Sylveon    |  15 |   0.12%
+Togetic    |   7 |   0.06%
+Grimmsnarl |   4 |   0.03%
+Florges    |   3 |   0.03%
+Floettee   |   3 |   0.03%
+Primarina  |   3 |   0.03%
+Gardevoir  |   2 |   0.02%
+Hatterene  |   2 |   0.02%
+Mawile     |   1 |   0.01%
+Shiinotic  |   1 |   0.01%
+Morgrem    |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

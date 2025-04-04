@@ -1,0 +1,49 @@
+Evolutions from Cherrim (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Shaymins   | 506 |   4.22%
+Shaymin    | 474 |   3.95%
+Celebi     | 474 |   3.95%
+Zarude     | 468 |   3.90%
+Abomasnowm | 435 |   3.62%
+Ironleaves | 410 |   3.42%
+Tapu Bulu  | 368 |   3.07%
+Virizion   | 364 |   3.03%
+Ogerpon    | 353 |   2.94%
+Kartana    | 328 |   2.73%
+Brutebonet | 323 |   2.69%
+Wo-Chien   | 316 |   2.63%
+Exeggutora | 304 |   2.53%
+Sceptile   | 302 |   2.52%
+Tsareena   | 292 |   2.43%
+Leafeon    | 292 |   2.43%
+Rillaboom  | 291 |   2.43%
+Gogoat     | 288 |   2.40%
+Tangrowth  | 283 |   2.36%
+Cherrims   | 275 |   2.29%
+Meganium   | 274 |   2.28%
+Serperior  | 258 |   2.15%
+Chesnaught | 250 |   2.08%
+Simisage   | 249 |   2.08%
+Ogerponr   | 241 |   2.01%
+Decidueyeh | 238 |   1.98%
+Decidueye  | 233 |   1.94%
+Hydrapple  | 232 |   1.93%
+Ogerponf   | 231 |   1.93%
+Ogerponw   | 220 |   1.83%
+Meowscrada | 215 |   1.79%
+Dhelmise   | 213 |   1.77%
+Exeggutor  | 209 |   1.74%
+Sinistcha  | 204 |   1.70%
+Torterra   | 200 |   1.67%
+Venusaur   | 191 |   1.59%
+Calyrex    | 191 |   1.59%
+Rotomm     | 184 |   1.53%
+Roserade   | 183 |   1.52%
+Cradily    | 176 |   1.47%
+Toedscruel | 163 |   1.36%
+Leavanny   | 153 |   1.27%
+Arboliva   | 146 |   1.22%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

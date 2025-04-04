@@ -1,0 +1,53 @@
+Evolutions from Rockruff2 (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Klawf      | 586 |   4.88%
+Stonjorner | 575 |   4.79%
+Rampardos  | 533 |   4.44%
+Garganacl  | 508 |   4.23%
+Gigalith   | 503 |   4.19%
+Minior     | 486 |   4.05%
+Tyrantrum  | 469 |   3.91%
+Bastiodon  | 395 |   3.29%
+Aggron     | 389 |   3.24%
+Avaluggh   | 382 |   3.18%
+Lunatone   | 380 |   3.17%
+Probopass  | 367 |   3.06%
+Rhyperior  | 359 |   2.99%
+Solrock    | 348 |   2.90%
+Aurorus    | 346 |   2.88%
+Carbink    | 330 |   2.75%
+Miniorc    | 322 |   2.68%
+Glimmora   | 313 |   2.61%
+Coalossal  | 307 |   2.56%
+Drednaw    | 301 |   2.51%
+Golem      | 296 |   2.47%
+Relicanth  | 290 |   2.42%
+Rhydon     | 289 |   2.41%
+Cradily    | 280 |   2.33%
+Aerodactyl | 279 |   2.33%
+Golema     | 273 |   2.27%
+Crustle    | 264 |   2.20%
+Shuckle    | 262 |   2.18%
+Carracosta | 261 |   2.17%
+Kabutops   | 253 |   2.11%
+Barbaracle | 252 |   2.10%
+Armaldo    | 247 |   2.06%
+Omastar    | 246 |   2.05%
+Kleavor    | 234 |   1.95%
+Lairon     |  15 |   0.12%
+Arcanineh  |  10 |   0.08%
+Magcargo   |  10 |   0.08%
+Terrakion  |   8 |   0.07%
+Sudowoodo  |   7 |   0.06%
+Archeops   |   6 |   0.05%
+Ogerponr   |   5 |   0.04%
+Ironthorns |   5 |   0.04%
+Nihilego   |   3 |   0.03%
+Stakataka  |   2 |   0.02%
+Regirock   |   2 |   0.02%
+Corsola    |   1 |   0.01%
+Pupitar    |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

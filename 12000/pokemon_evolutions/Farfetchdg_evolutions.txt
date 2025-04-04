@@ -1,0 +1,45 @@
+Evolutions from Farfetchdg (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Conkeldurr | 474 |   3.95%
+Machamp    | 445 |   3.71%
+Throh      | 445 |   3.71%
+Mienshao   | 427 |   3.56%
+Falinks    | 425 |   3.54%
+Hariyama   | 422 |   3.52%
+Sawk       | 417 |   3.48%
+Taurosp    | 412 |   3.43%
+Grapploct  | 404 |   3.37%
+Okidogi    | 399 |   3.33%
+Passimian  | 399 |   3.33%
+Urshifu    | 365 |   3.04%
+Lucario    | 353 |   2.94%
+Annihilape | 352 |   2.93%
+Gallade    | 324 |   2.70%
+Infernape  | 317 |   2.64%
+Blaziken   | 309 |   2.57%
+Chesnaught | 309 |   2.57%
+Medichamm  | 308 |   2.57%
+Decidueyeh | 307 |   2.56%
+Urshifur   | 299 |   2.49%
+Emboar     | 292 |   2.43%
+Pangoro    | 286 |   2.38%
+Scrafty    | 276 |   2.30%
+Crabminble | 274 |   2.28%
+Breloom    | 271 |   2.26%
+Hawlucha   | 258 |   2.15%
+Lilliganth | 246 |   2.05%
+Taurospf   | 246 |   2.05%
+Sneasler   | 242 |   2.02%
+Flamigo    | 240 |   2.00%
+Poliwrath  | 226 |   1.88%
+Pawmot     | 221 |   1.84%
+Quaquaval  | 216 |   1.80%
+Taurospw   | 211 |   1.76%
+Toxicroak  | 201 |   1.68%
+Heracross  | 196 |   1.63%
+Bewear     | 185 |   1.54%
+Primeape   |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

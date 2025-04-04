@@ -1,0 +1,36 @@
+Evolutions from Kricketot (out of approximately 12000):
+Pokémon    | Count | Percentage
+---------------------------
+Anorith    | 1158 |   9.65%
+Larvesta   | 1115 |   9.29%
+Whirlipede |  912 |   7.60%
+Spidops    |  828 |   6.90%
+Butterfree |  731 |   6.09%
+Beautifly  |  731 |   6.09%
+Vivillon   |  692 |   5.77%
+Ariados    |  684 |   5.70%
+Dustox     |  675 |   5.62%
+Charjabug  |  674 |   5.62%
+Yanma      |  673 |   5.61%
+Swadloon   |  667 |   5.56%
+Ledian     |  666 |   5.55%
+Beedrill   |  628 |   5.23%
+Parasect   |  536 |   4.47%
+Skorupi    |  165 |   1.38%
+Dottler    |  155 |   1.29%
+Mothim     |   47 |   0.39%
+Karrablast |   39 |   0.33%
+Volbeat    |   37 |   0.31%
+Sewaddle   |   35 |   0.29%
+Illumise   |   31 |   0.26%
+Dwebble    |   30 |   0.25%
+Wormadamt  |   28 |   0.23%
+Joltik     |   24 |   0.20%
+Wormadams  |   20 |   0.17%
+Wormadam   |   13 |   0.11%
+Lokix      |    4 |   0.03%
+Araquanid  |    1 |   0.01%
+Masquerain |    1 |   0.01%
+---------------------------
+TOTAL      | 12000 | 100.00%
+

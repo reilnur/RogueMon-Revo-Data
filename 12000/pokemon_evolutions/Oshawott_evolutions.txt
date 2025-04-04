@@ -1,0 +1,41 @@
+Evolutions from Oshawott (out of approximately 12000):
+Pokémon   | Count | Percentage
+-------------------------
+Poliwhirl | 636 |   5.30%
+Wartortle | 625 |   5.21%
+Quaxwell  | 609 |   5.08%
+Wailmer   | 597 |   4.98%
+Wugtrio   | 569 |   4.74%
+Drizzile  | 564 |   4.70%
+Frogadier | 563 |   4.69%
+Pyukumuku | 562 |   4.68%
+Croconaw  | 548 |   4.57%
+Prinplup  | 544 |   4.53%
+Castformw | 544 |   4.53%
+Brionne   | 539 |   4.49%
+Seadra    | 522 |   4.35%
+Seaking   | 512 |   4.27%
+Palpitoad | 502 |   4.18%
+Sealeo    | 440 |   3.67%
+Marshtomp | 433 |   3.61%
+Pelipper  | 410 |   3.42%
+Corsola   | 398 |   3.32%
+Quagsire  | 395 |   3.29%
+Azumarill | 395 |   3.29%
+Bibarel   | 378 |   3.15%
+Qwilfish  | 363 |   3.02%
+Araquanid | 323 |   2.69%
+Tirtouga  |   7 |   0.06%
+Omanyte   |   4 |   0.03%
+Kabuto    |   4 |   0.03%
+Whiscash  |   3 |   0.03%
+Palafin   |   3 |   0.03%
+Swanna    |   2 |   0.02%
+Lumineon  |   2 |   0.02%
+Alomomola |   1 |   0.01%
+Basculin  |   1 |   0.01%
+Sharpedo  |   1 |   0.01%
+Mantyke   |   1 |   0.01%
+-------------------------
+TOTAL     | 12000 | 100.00%
+

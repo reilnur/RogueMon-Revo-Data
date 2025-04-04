@@ -1,0 +1,37 @@
+Evolutions from Arctibax (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Glaliem    | 474 |   3.95%
+Regice     | 465 |   3.88%
+Abomasnowm | 457 |   3.81%
+Glastrier  | 446 |   3.72%
+Dragonite  | 442 |   3.68%
+Goodra     | 441 |   3.67%
+Dragapult  | 440 |   3.67%
+Goodrah    | 430 |   3.58%
+Salamence  | 430 |   3.58%
+Zygarde    | 421 |   3.51%
+Regidrago  | 420 |   3.50%
+Hydreigon  | 418 |   3.48%
+Kommo-O    | 416 |   3.47%
+Latios     | 413 |   3.44%
+Haxorus    | 409 |   3.41%
+Archaludon | 405 |   3.38%
+Articuno   | 403 |   3.36%
+Chien-Pao  | 386 |   3.22%
+Ragingbolt | 382 |   3.18%
+Gouginfire | 380 |   3.17%
+Latias     | 380 |   3.17%
+Garchomp   | 373 |   3.11%
+Walkinwake | 367 |   3.06%
+Altariam   | 366 |   3.05%
+Roarinmoon | 361 |   3.01%
+Guzzlord   | 327 |   2.73%
+Ironbundle | 322 |   2.68%
+Hydrapple  | 272 |   2.27%
+Naganadel  | 257 |   2.14%
+Kingdra    | 257 |   2.14%
+Darmanitzg | 240 |   2.00%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

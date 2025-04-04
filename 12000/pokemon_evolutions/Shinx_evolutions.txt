@@ -1,0 +1,21 @@
+Evolutions from Shinx (out of approximately 12000):
+Pokémon   | Count | Percentage
+--------------------------
+Pawmo     | 1925 |  16.04%
+Flaaffy   | 1899 |  15.82%
+Elekid    | 1765 |  14.71%
+Chinchou  | 1692 |  14.10%
+Voltorbh  | 1650 |  13.75%
+Voltorb   | 1646 |  13.72%
+Gravelera | 1385 |  11.54%
+Pachirisu |    7 |   0.06%
+Minun     |    7 |   0.06%
+Pikachuc  |    5 |   0.04%
+Plusle    |    5 |   0.04%
+Joltik    |    4 |   0.03%
+Magnemite |    4 |   0.03%
+Pikachu   |    3 |   0.03%
+Eelektrik |    3 |   0.03%
+--------------------------
+TOTAL     | 12000 | 100.00%
+

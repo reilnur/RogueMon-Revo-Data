@@ -1,0 +1,44 @@
+Evolutions from Mienfoo (out of approximately 12000):
+Pokémon      | Count | Percentage
+----------------------------
+Conkeldurr   | 494 |   4.12%
+Sirfetchâ€™d | 459 |   3.82%
+Machamp      | 435 |   3.62%
+Throh        | 434 |   3.62%
+Sawk         | 432 |   3.60%
+Falinks      | 421 |   3.51%
+Grapploct    | 415 |   3.46%
+Taurosp      | 410 |   3.42%
+Passimian    | 405 |   3.38%
+Okidogi      | 399 |   3.33%
+Hariyama     | 391 |   3.26%
+Urshifu      | 346 |   2.88%
+Lucario      | 339 |   2.83%
+Annihilape   | 337 |   2.81%
+Gallade      | 333 |   2.77%
+Urshifur     | 317 |   2.64%
+Decidueyeh   | 312 |   2.60%
+Blaziken     | 311 |   2.59%
+Crabminble   | 310 |   2.58%
+Infernape    | 298 |   2.48%
+Pangoro      | 292 |   2.43%
+Chesnaught   | 289 |   2.41%
+Medichamm    | 286 |   2.38%
+Emboar       | 283 |   2.36%
+Breloom      | 273 |   2.27%
+Quaquaval    | 270 |   2.25%
+Taurospf     | 270 |   2.25%
+Scrafty      | 267 |   2.23%
+Hawlucha     | 248 |   2.07%
+Poliwrath    | 242 |   2.02%
+Lilliganth   | 241 |   2.01%
+Sneasler     | 232 |   1.93%
+Pawmot       | 221 |   1.84%
+Flamigo      | 220 |   1.83%
+Toxicroak    | 209 |   1.74%
+Heracross    | 203 |   1.69%
+Taurospw     | 181 |   1.51%
+Bewear       | 175 |   1.46%
+----------------------------
+TOTAL        | 12000 | 100.00%
+

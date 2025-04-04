@@ -1,0 +1,36 @@
+Evolutions from Meowtha (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Mightyena  | 941 |   7.84%
+Liepard    | 865 |   7.21%
+Thievul    | 824 |   6.87%
+Murkrow    | 755 |   6.29%
+Absol      | 733 |   6.11%
+Morpeko    | 719 |   5.99%
+Morpekoh   | 689 |   5.74%
+Sneasel    | 641 |   5.34%
+Linooneg   | 603 |   5.03%
+Raticatea  | 589 |   4.91%
+Sableyem   | 535 |   4.46%
+Qwilfishh  | 510 |   4.25%
+Zweilous   | 503 |   4.19%
+Cacturne   | 502 |   4.18%
+Crawdaunt  | 460 |   3.83%
+Malamar    | 448 |   3.73%
+Shiftry    | 425 |   3.54%
+Skuntank   | 423 |   3.52%
+Sharpedo   | 413 |   3.44%
+Lokix      | 405 |   3.38%
+Mabosstiff |   4 |   0.03%
+Houndoom   |   3 |   0.03%
+Sableye    |   2 |   0.02%
+Morgrem    |   2 |   0.02%
+Honchkrow  |   1 |   0.01%
+Spiritomb  |   1 |   0.01%
+Zoroark    |   1 |   0.01%
+Muka       |   1 |   0.01%
+Bombirdier |   1 |   0.01%
+Drapion    |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

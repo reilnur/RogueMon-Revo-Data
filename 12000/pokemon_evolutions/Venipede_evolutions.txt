@@ -1,0 +1,30 @@
+Evolutions from Venipede (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Grimer     | 797 |   6.64%
+Tentacool  | 681 |   5.67%
+Grimera    | 675 |   5.62%
+Glimmet    | 653 |   5.44%
+Skorupi    | 641 |   5.34%
+Dwebble    | 639 |   5.33%
+Koffing    | 638 |   5.32%
+Stunky     | 629 |   5.24%
+Trubbish   | 626 |   5.22%
+Dottler    | 612 |   5.10%
+Nidorino   | 573 |   4.78%
+Nidorina   | 539 |   4.49%
+Anorith    | 495 |   4.12%
+Larvesta   | 434 |   3.62%
+Weepinbell | 416 |   3.47%
+Kricketune | 377 |   3.14%
+Beautifly  | 352 |   2.93%
+Gloom      | 347 |   2.89%
+Ledian     | 342 |   2.85%
+Butterfree | 323 |   2.69%
+Dustox     | 311 |   2.59%
+Swadloon   | 308 |   2.57%
+Yanma      | 302 |   2.52%
+Beedrill   | 290 |   2.42%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

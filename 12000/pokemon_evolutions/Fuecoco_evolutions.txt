@@ -1,0 +1,25 @@
+Evolutions from Fuecoco (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Lampent    | 969 |   8.08%
+Braixen    | 926 |   7.72%
+Raboot     | 892 |   7.43%
+Quilava    | 874 |   7.28%
+Torracat   | 871 |   7.26%
+Charmeleon | 858 |   7.15%
+Ponyta     | 849 |   7.07%
+Castformf  | 836 |   6.97%
+Magcargo   | 747 |   6.22%
+Flechinder | 734 |   6.12%
+Marowaka   | 731 |   6.09%
+Carkol     | 723 |   6.02%
+Combusken  | 720 |   6.00%
+Monferno   | 647 |   5.39%
+Pignite    | 614 |   5.12%
+Growlithe  |   3 |   0.03%
+Magby      |   3 |   0.03%
+Growlitheh |   2 |   0.02%
+Litleo     |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

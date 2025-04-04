@@ -1,0 +1,51 @@
+Evolutions from Eelektrik (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Electivire | 577 |   4.81%
+Manectric  | 520 |   4.33%
+Jolteon    | 506 |   4.22%
+Luxray     | 473 |   3.94%
+Boltund    | 470 |   3.92%
+Raichu     | 468 |   3.90%
+Bellibolt  | 459 |   3.82%
+Electabuzz | 458 |   3.82%
+Zebstrika  | 456 |   3.80%
+Electrode  | 450 |   3.75%
+Ampharos   | 446 |   3.72%
+Dracozolt  | 420 |   3.50%
+Magneton   | 414 |   3.45%
+Magnezone  | 407 |   3.39%
+Stunfisk   | 353 |   2.94%
+Oricorioe  | 350 |   2.92%
+Pawmot     | 349 |   2.91%
+Arctozolt  | 347 |   2.89%
+Raichua    | 334 |   2.78%
+Rotomfa    | 309 |   2.57%
+Rotomh     | 294 |   2.45%
+Toxtricity | 293 |   2.44%
+Toxtricitl | 291 |   2.43%
+Golema     | 288 |   2.40%
+Rotomfr    | 286 |   2.38%
+Kilowattrl | 275 |   2.29%
+Rotomm     | 275 |   2.29%
+Rotomw     | 272 |   2.27%
+Electrodeh | 269 |   2.24%
+Galvantula | 263 |   2.19%
+Heliolisk  | 258 |   2.15%
+Vikavolt   | 241 |   2.01%
+Zapdos     |  14 |   0.12%
+Raikou     |  13 |   0.11%
+Thundurust |  13 |   0.11%
+Regieleki  |  13 |   0.11%
+Thundurus  |  12 |   0.10%
+Tapu Koko  |  11 |   0.09%
+Manectricm |  10 |   0.08%
+Xurkitree  |   9 |   0.07%
+Ironthorns |   8 |   0.07%
+Iron Hands |   7 |   0.06%
+Rotom      |   7 |   0.06%
+Ragingbolt |   6 |   0.05%
+Sandyshock |   6 |   0.05%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

@@ -1,0 +1,26 @@
+Evolutions from Whismur (out of approximately 12000):
+Pokémon      | Count | Percentage
+----------------------------
+Eevee        | 685 |   5.71%
+Stufful      | 682 |   5.68%
+Teddiursa    | 682 |   5.68%
+Zoruah       | 673 |   5.61%
+Spinda       | 647 |   5.39%
+Staravia     | 645 |   5.38%
+Trumbeak     | 626 |   5.22%
+Pidgeotto    | 624 |   5.20%
+Buneary      | 619 |   5.16%
+Tranquill    | 600 |   5.00%
+Deerling     | 599 |   4.99%
+Aipom        | 596 |   4.97%
+Herdier      | 593 |   4.94%
+Dolliv       | 585 |   4.88%
+Rufflet      | 555 |   4.62%
+Porygon      | 544 |   4.53%
+Lickitung    | 540 |   4.50%
+Farfetchâ€™d | 531 |   4.42%
+Munchlax     | 512 |   4.27%
+Litleo       | 462 |   3.85%
+----------------------------
+TOTAL        | 12000 | 100.00%
+

@@ -1,0 +1,44 @@
+Evolutions from Zweilous (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Darkrai    | 445 |   3.71%
+Zarude     | 409 |   3.41%
+Houndoomm  | 393 |   3.28%
+Baxcalibur | 379 |   3.16%
+Goodrah    | 369 |   3.08%
+Absolm     | 366 |   3.05%
+Tyranitar  | 363 |   3.02%
+Goodra     | 352 |   2.93%
+Salamence  | 349 |   2.91%
+Kommo-O    | 349 |   2.91%
+Dragapult  | 346 |   2.88%
+Latias     | 340 |   2.83%
+Archaludon | 338 |   2.82%
+Roarinmoon | 333 |   2.77%
+Latios     | 333 |   2.77%
+Garchomp   | 326 |   2.72%
+Moltresg   | 322 |   2.68%
+Zygarde    | 320 |   2.67%
+Gouginfire | 315 |   2.62%
+Chien-Pao  | 312 |   2.60%
+Ragingbolt | 310 |   2.58%
+Walkinwake | 309 |   2.57%
+Haxorus    | 308 |   2.57%
+Ironjuglis | 304 |   2.53%
+Dragonite  | 300 |   2.50%
+Chi-Yu     | 294 |   2.45%
+Regidrago  | 292 |   2.43%
+Altariam   | 283 |   2.36%
+Guzzlord   | 280 |   2.33%
+Wo-Chien   | 279 |   2.33%
+Brutebonet | 276 |   2.30%
+Ting-Lu    | 272 |   2.27%
+Urshifu    | 270 |   2.25%
+Kingambit  | 268 |   2.23%
+Sharpedom  | 248 |   2.07%
+Naganadel  | 233 |   1.94%
+Kingdra    | 209 |   1.74%
+Hydrapple  | 206 |   1.72%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

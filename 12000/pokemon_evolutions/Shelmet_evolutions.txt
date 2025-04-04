@@ -1,0 +1,50 @@
+Evolutions from Shelmet (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Pinsir     | 573 |   4.78%
+Vespiquen  | 428 |   3.57%
+Escavalier | 425 |   3.54%
+Scizor     | 425 |   3.54%
+Yanmega    | 419 |   3.49%
+Rabsca     | 419 |   3.49%
+Frosmoth   | 411 |   3.43%
+Scyther    | 407 |   3.39%
+Masquerain | 407 |   3.39%
+Galvantula | 406 |   3.38%
+Venomoth   | 404 |   3.37%
+Heracross  | 398 |   3.32%
+Forretress | 396 |   3.30%
+Centskorch | 381 |   3.17%
+Golisopod  | 380 |   3.17%
+Lokix      | 373 |   3.11%
+Ninjask    | 373 |   3.11%
+Crustle    | 365 |   3.04%
+Durant     | 364 |   3.03%
+Ribombee   | 362 |   3.02%
+Kleavor    | 360 |   3.00%
+Orbeetle   | 349 |   2.91%
+Leavanny   | 347 |   2.89%
+Vikavolt   | 340 |   2.83%
+Armaldo    | 339 |   2.83%
+Shuckle    | 332 |   2.77%
+Scolipede  | 331 |   2.76%
+Beedrillm  | 318 |   2.65%
+Araquanid  | 311 |   2.59%
+Pheromosa  | 142 |   1.18%
+Buzzwole   | 122 |   1.02%
+Slithrwing | 117 |   0.97%
+Mothim     |  97 |   0.81%
+Volcarona  |  71 |   0.59%
+Illumise   |  50 |   0.42%
+Volbeat    |  47 |   0.39%
+Wormadamt  |  36 |   0.30%
+Wormadams  |  36 |   0.30%
+Spidops    |  34 |   0.28%
+Charjabug  |  33 |   0.27%
+Ariados    |  24 |   0.20%
+Vivillon   |  19 |   0.16%
+Wormadam   |  16 |   0.13%
+Parasect   |  13 |   0.11%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

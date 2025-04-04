@@ -1,0 +1,35 @@
+Evolutions from Goomy1 (out of approximately 12000):
+Pokémon    | Count | Percentage
+---------------------------
+Druddigon  | 1211 |  10.09%
+Fraxure    |  768 |   6.40%
+Shelgon    |  756 |   6.30%
+Dragonair  |  750 |   6.25%
+Turtonator |  710 |   5.92%
+Drakloak   |  670 |   5.58%
+Altaria    |  641 |   5.34%
+Tatsugiri  |  618 |   5.15%
+Dragalge   |  614 |   5.12%
+Dipplin    |  609 |   5.08%
+Zygarde10  |  601 |   5.01%
+Appletun   |  598 |   4.98%
+Arctibax   |  594 |   4.95%
+Flapple    |  588 |   4.90%
+Zweilous   |  573 |   4.78%
+Gabite     |  557 |   4.64%
+Hakamo-O   |  555 |   4.62%
+Drampa     |  537 |   4.47%
+Duraludon  |   12 |   0.10%
+Haxorus    |   11 |   0.09%
+Noivern    |    6 |   0.05%
+Hydrapple  |    5 |   0.04%
+Dracozolt  |    5 |   0.04%
+Naganadel  |    2 |   0.02%
+Kingdra    |    2 |   0.02%
+Dracovish  |    2 |   0.02%
+Exeggutora |    2 |   0.02%
+Cyclizar   |    2 |   0.02%
+Tyrantrum  |    1 |   0.01%
+---------------------------
+TOTAL      | 12000 | 100.00%
+

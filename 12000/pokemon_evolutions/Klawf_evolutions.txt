@@ -1,0 +1,42 @@
+Evolutions from Klawf (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Regirock   | 581 |   4.84%
+Tyranitar  | 558 |   4.65%
+Ironbouldr | 551 |   4.59%
+Terrakion  | 533 |   4.44%
+Diancie    | 530 |   4.42%
+Nihilego   | 490 |   4.08%
+Archeops   | 471 |   3.92%
+Stakataka  | 457 |   3.81%
+Ironthorns | 435 |   3.62%
+Gigalith   | 418 |   3.48%
+Garganacl  | 389 |   3.24%
+Rampardos  | 384 |   3.20%
+Arcanineh  | 368 |   3.07%
+Bastiodon  | 364 |   3.03%
+Ogerponr   | 350 |   2.92%
+Tyrantrum  | 326 |   2.72%
+Probopass  | 310 |   2.58%
+Aggron     | 305 |   2.54%
+Avaluggh   | 284 |   2.37%
+Carbink    | 280 |   2.33%
+Aurorus    | 270 |   2.25%
+Golema     | 261 |   2.17%
+Rhyperior  | 252 |   2.10%
+Aerodactyl | 251 |   2.09%
+Coalossal  | 248 |   2.07%
+Miniorc    | 238 |   1.98%
+Carracosta | 234 |   1.95%
+Golem      | 223 |   1.86%
+Glimmora   | 217 |   1.81%
+Barbaracle | 217 |   1.81%
+Armaldo    | 213 |   1.77%
+Cradily    | 209 |   1.74%
+Shuckle    | 208 |   1.73%
+Kleavor    | 206 |   1.72%
+Omastar    | 187 |   1.56%
+Kabutops   | 182 |   1.52%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

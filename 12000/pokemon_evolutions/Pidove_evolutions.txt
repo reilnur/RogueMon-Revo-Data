@@ -1,0 +1,35 @@
+Evolutions from Pidove (out of approximately 12000):
+Pokémon      | Count | Percentage
+----------------------------
+Zoruah       | 523 |   4.36%
+Woobat       | 501 |   4.17%
+Teddiursa    | 493 |   4.11%
+Eevee        | 484 |   4.03%
+Mantyke      | 472 |   3.93%
+Skiploom     | 464 |   3.87%
+Corvsquire   | 462 |   3.85%
+Delibird     | 458 |   3.82%
+Drifloon     | 454 |   3.78%
+Herdier      | 449 |   3.74%
+Buneary      | 440 |   3.67%
+Pidgeotto    | 435 |   3.62%
+Aipom        | 428 |   3.57%
+Stufful      | 427 |   3.56%
+Trumbeak     | 423 |   3.52%
+Deerling     | 420 |   3.50%
+Loudred      | 419 |   3.49%
+Vullaby      | 416 |   3.47%
+Staravia     | 408 |   3.40%
+Spinda       | 401 |   3.34%
+Munchlax     | 398 |   3.32%
+Rufflet      | 388 |   3.23%
+Dolliv       | 385 |   3.21%
+Farfetchâ€™d | 371 |   3.09%
+Lickitung    | 369 |   3.08%
+Litleo       | 324 |   2.70%
+Flechinder   | 274 |   2.28%
+Yanma        | 261 |   2.17%
+Ledian       | 253 |   2.11%
+----------------------------
+TOTAL        | 12000 | 100.00%
+

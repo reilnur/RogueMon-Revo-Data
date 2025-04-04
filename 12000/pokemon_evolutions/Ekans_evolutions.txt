@@ -1,0 +1,54 @@
+Evolutions from Ekans (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Poipole    | 795 |   6.62%
+Haunter    | 786 |   6.55%
+Weezing    | 653 |   5.44%
+Garbodor   | 650 |   5.42%
+Seviper    | 650 |   5.42%
+Swalot     | 635 |   5.29%
+Qwilfishh  | 602 |   5.02%
+Clodsire   | 583 |   4.86%
+Sneaselh   | 534 |   4.45%
+Skuntank   | 504 |   4.20%
+Ivysaur    | 491 |   4.09%
+Golbat     | 454 |   3.78%
+Weezingg   | 437 |   3.64%
+Salazzle   | 411 |   3.43%
+Toxicroak  | 407 |   3.39%
+Qwilfish   | 396 |   3.30%
+Slowbrog   | 391 |   3.26%
+Amoonguss  | 381 |   3.17%
+Slowkingg  | 360 |   3.00%
+Venomoth   | 358 |   2.98%
+Scolipede  | 347 |   2.89%
+Vileplume  | 345 |   2.88%
+Grafaiai   | 342 |   2.85%
+Victreebel | 338 |   2.82%
+Muk        |  15 |   0.12%
+Gloom      |  11 |   0.09%
+Dragalge   |  11 |   0.09%
+Nidorino   |  10 |   0.08%
+Dustox     |  10 |   0.08%
+Weepinbell |   8 |   0.07%
+Sneasler   |   8 |   0.07%
+Overqwil   |   7 |   0.06%
+Muka       |   7 |   0.06%
+Drapion    |   6 |   0.05%
+Nidoking   |   6 |   0.05%
+Revavroom  |   6 |   0.05%
+Beedrill   |   6 |   0.05%
+Nidorina   |   6 |   0.05%
+Toxtricity |   6 |   0.05%
+Ariados    |   5 |   0.04%
+Roselia    |   5 |   0.04%
+Nidoqueen  |   4 |   0.03%
+Venusaur   |   3 |   0.03%
+Gengar     |   3 |   0.03%
+Toxapex    |   3 |   0.03%
+Whirlipede |   2 |   0.02%
+Crobat     |   1 |   0.01%
+Beedrillm  |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

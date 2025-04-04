@@ -1,0 +1,34 @@
+Evolutions from Beldum (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Klang      | 673 |   5.61%
+Perrserker | 643 |   5.36%
+Lairon     | 615 |   5.12%
+Tinkatuff  | 604 |   5.03%
+Togedemaru | 566 |   4.72%
+Cosmoem    | 540 |   4.50%
+Doublade   | 539 |   4.49%
+Chimecho   | 535 |   4.46%
+Wobbuffet  | 525 |   4.38%
+Mawile     | 511 |   4.26%
+Kadabra    | 487 |   4.06%
+Gothorita  | 485 |   4.04%
+Ponytag    | 483 |   4.03%
+Dugtrioa   | 468 |   3.90%
+Sandslasha | 464 |   3.87%
+Jynx       | 436 |   3.63%
+Sliggooh   | 435 |   3.62%
+Medicham   | 422 |   3.52%
+Mr. Mimeg  | 417 |   3.48%
+Swoobat    | 412 |   3.43%
+Solrock    | 370 |   3.08%
+Lunatone   | 368 |   3.07%
+Mr. Mime   | 338 |   2.82%
+Wormadamt  | 331 |   2.76%
+Girafarig  | 329 |   2.74%
+Hattrem    |   2 |   0.02%
+Mawilem    |   1 |   0.01%
+Meowsticf  |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

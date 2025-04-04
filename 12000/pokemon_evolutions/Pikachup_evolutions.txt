@@ -1,0 +1,45 @@
+Evolutions from Pikachup (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Xurkitree  | 526 |   4.38%
+Regieleki  | 516 |   4.30%
+Manectricm | 510 |   4.25%
+Raikou     | 501 |   4.17%
+Thundurust | 468 |   3.90%
+Iron Hands | 461 |   3.84%
+Zapdos     | 441 |   3.67%
+Thundurus  | 436 |   3.63%
+Ironthorns | 414 |   3.45%
+Tapu Koko  | 408 |   3.40%
+Electivire | 359 |   2.99%
+Sandyshock | 344 |   2.87%
+Raichu     | 336 |   2.80%
+Electrode  | 335 |   2.79%
+Boltund    | 331 |   2.76%
+Ampharos   | 323 |   2.69%
+Electabuzz | 298 |   2.48%
+Eelektross | 295 |   2.46%
+Zebstrika  | 295 |   2.46%
+Jolteon    | 293 |   2.44%
+Dracozolt  | 282 |   2.35%
+Bellibolt  | 281 |   2.34%
+Luxray     | 280 |   2.33%
+Rotomfa    | 246 |   2.05%
+Rotomfr    | 231 |   1.93%
+Magnezone  | 223 |   1.86%
+Arctozolt  | 217 |   1.81%
+Golema     | 209 |   1.74%
+Rotomm     | 206 |   1.72%
+Rotomh     | 206 |   1.72%
+Kilowattrl | 205 |   1.71%
+Vikavolt   | 202 |   1.68%
+Raichua    | 197 |   1.64%
+Pawmot     | 197 |   1.64%
+Rotomw     | 194 |   1.62%
+Toxtricity | 189 |   1.57%
+Toxtricitl | 189 |   1.57%
+Heliolisk  | 187 |   1.56%
+Electrodeh | 169 |   1.41%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

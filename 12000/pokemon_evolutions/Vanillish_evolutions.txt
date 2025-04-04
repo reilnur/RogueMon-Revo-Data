@@ -1,0 +1,32 @@
+Evolutions from Vanillish (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Glastrier  | 833 |   6.94%
+Glaliem    | 805 |   6.71%
+Regice     | 786 |   6.55%
+Articuno   | 695 |   5.79%
+Chien-Pao  | 653 |   5.44%
+Avalugg    | 592 |   4.93%
+Glaceon    | 573 |   4.78%
+Cetitan    | 560 |   4.67%
+Beartic    | 548 |   4.57%
+Cryogonal  | 523 |   4.36%
+Ironbundle | 514 |   4.28%
+Mr. Rime   | 410 |   3.42%
+Mamoswine  | 391 |   3.26%
+Weavile    | 386 |   3.22%
+Aurorus    | 377 |   3.14%
+Walrein    | 376 |   3.13%
+Darmanitzg | 373 |   3.11%
+Lapras     | 368 |   3.07%
+Ninetalesa | 364 |   3.03%
+Avaluggh   | 350 |   2.92%
+Cloyster   | 342 |   2.85%
+Rotomfr    | 317 |   2.64%
+Arctozolt  | 299 |   2.49%
+Abomasnow  | 299 |   2.49%
+Arctovish  | 265 |   2.21%
+Abomasnowm |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

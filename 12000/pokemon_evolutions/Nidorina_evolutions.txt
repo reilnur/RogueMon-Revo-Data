@@ -1,0 +1,56 @@
+Evolutions from Nidorina (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Munkidori  | 549 |   4.58%
+Fezandipti | 527 |   4.39%
+Okidogi    | 520 |   4.33%
+Seviper    | 477 |   3.98%
+Garbodor   | 466 |   3.88%
+Swalot     | 441 |   3.67%
+Weezing    | 438 |   3.65%
+Muk        | 431 |   3.59%
+Naganadel  | 370 |   3.08%
+Crobat     | 336 |   2.80%
+Dragalge   | 332 |   2.77%
+Sneasler   | 317 |   2.64%
+Golbat     | 307 |   2.56%
+Venusaur   | 298 |   2.48%
+Skuntank   | 297 |   2.48%
+Salazzle   | 287 |   2.39%
+Revavroom  | 287 |   2.39%
+Drapion    | 287 |   2.39%
+Weezingg   | 286 |   2.38%
+Toxicroak  | 285 |   2.38%
+Glimmora   | 284 |   2.37%
+Muka       | 282 |   2.35%
+Slowbrog   | 280 |   2.33%
+Overqwil   | 280 |   2.33%
+Amoonguss  | 273 |   2.27%
+Slowkingg  | 266 |   2.22%
+Nidoking   | 259 |   2.16%
+Gengar     | 259 |   2.16%
+Roserade   | 247 |   2.06%
+Toxtricitl | 232 |   1.93%
+Victreebel | 228 |   1.90%
+Vileplume  | 225 |   1.88%
+Toxtricity | 220 |   1.83%
+Tentacruel | 220 |   1.83%
+Beedrillm  | 219 |   1.82%
+Scolipede  | 218 |   1.82%
+Grafaiai   | 194 |   1.62%
+Toxapex    | 185 |   1.54%
+Nihilego   |  18 |   0.15%
+Arbok      |  15 |   0.12%
+Clodsire   |  14 |   0.12%
+Iron Moth  |  12 |   0.10%
+Pecharunt  |   8 |   0.07%
+Sneaselh   |   6 |   0.05%
+Qwilfishh  |   6 |   0.05%
+Haunter    |   4 |   0.03%
+Poipole    |   3 |   0.03%
+Qwilfish   |   2 |   0.02%
+Gengarm    |   2 |   0.02%
+Ivysaur    |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

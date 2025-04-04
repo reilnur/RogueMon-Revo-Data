@@ -1,0 +1,40 @@
+Evolutions from Meowthg (out of approximately 12000):
+Pokémon    | Count | Percentage
+---------------------------
+Klang      | 1012 |   8.43%
+Orthworm   |  970 |   8.08%
+Lairon     |  946 |   7.88%
+Togedemaru |  810 |   6.75%
+Doublade   |  746 |   6.22%
+Sandslasha |  736 |   6.13%
+Dugtrioa   |  707 |   5.89%
+Stunfiskg  |  680 |   5.67%
+Klefki     |  668 |   5.57%
+Mawilem    |  659 |   5.49%
+Skarmory   |  656 |   5.47%
+Magneton   |  649 |   5.41%
+Sliggooh   |  627 |   5.22%
+Metang     |  602 |   5.02%
+Wormadamt  |  505 |   4.21%
+Forretress |  468 |   3.90%
+Durant     |  446 |   3.72%
+Copperajah |   17 |   0.14%
+Mawile     |   15 |   0.12%
+Tinkatuff  |   14 |   0.12%
+Bisharp    |   11 |   0.09%
+Corvknight |    9 |   0.07%
+Aegislashb |    8 |   0.07%
+Aegislash  |    8 |   0.07%
+Bastiodon  |    6 |   0.05%
+Bronzong   |    6 |   0.05%
+Tinkaton   |    5 |   0.04%
+Scizor     |    4 |   0.03%
+Revavroom  |    2 |   0.02%
+Escavalier |    2 |   0.02%
+Ferrothorn |    2 |   0.02%
+Steelix    |    2 |   0.02%
+Excadrill  |    1 |   0.01%
+Lucario    |    1 |   0.01%
+---------------------------
+TOTAL      | 12000 | 100.00%
+

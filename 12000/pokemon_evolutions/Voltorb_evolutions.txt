@@ -1,0 +1,51 @@
+Evolutions from Voltorb (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Manectric  | 532 |   4.43%
+Eelektross | 515 |   4.29%
+Boltund    | 511 |   4.26%
+Raichu     | 503 |   4.19%
+Ampharos   | 503 |   4.19%
+Jolteon    | 484 |   4.03%
+Luxray     | 482 |   4.02%
+Zebstrika  | 474 |   3.95%
+Bellibolt  | 471 |   3.92%
+Electabuzz | 456 |   3.80%
+Magneton   | 449 |   3.74%
+Dracozolt  | 417 |   3.48%
+Magnezone  | 377 |   3.14%
+Stunfisk   | 352 |   2.93%
+Oricorioe  | 342 |   2.85%
+Pawmot     | 336 |   2.80%
+Rotomfa    | 327 |   2.73%
+Arctozolt  | 325 |   2.71%
+Lanturn    | 321 |   2.67%
+Rotomfr    | 318 |   2.65%
+Golema     | 315 |   2.62%
+Raichua    | 309 |   2.57%
+Galvantula | 294 |   2.45%
+Kilowattrl | 293 |   2.44%
+Rotomm     | 289 |   2.41%
+Electrodeh | 283 |   2.36%
+Toxtricity | 282 |   2.35%
+Rotomh     | 273 |   2.27%
+Toxtricitl | 272 |   2.27%
+Rotomw     | 266 |   2.22%
+Heliolisk  | 260 |   2.17%
+Vikavolt   | 253 |   2.11%
+Pincurchin |  24 |   0.20%
+Pikachup   |  19 |   0.16%
+Morpekoh   |  13 |   0.11%
+Electivire |  12 |   0.10%
+Togedemaru |  10 |   0.08%
+Dedenne    |  10 |   0.08%
+Rotom      |  10 |   0.08%
+Emolga     |   9 |   0.07%
+Morpeko    |   5 |   0.04%
+Regieleki  |   1 |   0.01%
+Minun      |   1 |   0.01%
+Manectricm |   1 |   0.01%
+Tapu Koko  |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

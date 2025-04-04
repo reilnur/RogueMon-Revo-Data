@@ -1,0 +1,58 @@
+Evolutions from Spoink (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Meowsticf  | 455 |   3.79%
+Reuniclus  | 454 |   3.78%
+Alakazam   | 454 |   3.78%
+Espathra   | 440 |   3.67%
+Meowstic   | 435 |   3.62%
+Chimecho   | 421 |   3.51%
+Gothitelle | 416 |   3.47%
+Beheeyem   | 415 |   3.46%
+Hypno      | 409 |   3.41%
+Musharna   | 405 |   3.38%
+Mr. Mimeg  | 331 |   2.76%
+Xatu       | 318 |   2.65%
+Rapidashg  | 315 |   2.62%
+Medichamm  | 313 |   2.61%
+Bronzong   | 306 |   2.55%
+Hatterene  | 302 |   2.52%
+Swoobat    | 296 |   2.47%
+Mr. Mime   | 284 |   2.37%
+Malamar    | 280 |   2.33%
+Solrock    | 280 |   2.33%
+Jynx       | 276 |   2.30%
+Lunatone   | 275 |   2.29%
+Braviaryh  | 271 |   2.26%
+Oricoriop  | 260 |   2.17%
+Claydol    | 251 |   2.09%
+Orbeetle   | 245 |   2.04%
+Girafarig  | 239 |   1.99%
+Sigilyph   | 238 |   1.98%
+Slowbro    | 232 |   1.93%
+Raichua    | 230 |   1.92%
+Calyrex    | 230 |   1.92%
+Bruxish    | 228 |   1.90%
+Rabsca     | 225 |   1.88%
+Slowkingg  | 222 |   1.85%
+Slowbrog   | 221 |   1.84%
+Slowking   | 204 |   1.70%
+Veluza     | 201 |   1.68%
+Indeedee   | 200 |   1.67%
+Indeedeef  | 198 |   1.65%
+Oranguru   | 197 |   1.64%
+Espeon     |   4 |   0.03%
+Wobbuffet  |   4 |   0.03%
+Kadabra    |   3 |   0.03%
+Cosmoem    |   3 |   0.03%
+Gallade    |   3 |   0.03%
+Metang     |   3 |   0.03%
+Ponytag    |   2 |   0.02%
+Exeggutor  |   2 |   0.02%
+Darmanitaz |   1 |   0.01%
+Gardevoir  |   1 |   0.01%
+Armarouge  |   1 |   0.01%
+Delphox    |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

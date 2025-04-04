@@ -1,0 +1,25 @@
+Evolutions from Tepig (out of approximately 12000):
+Pokémon    | Count | Percentage
+---------------------------
+Crocalor   | 1001 |   8.34%
+Braixen    |  970 |   8.08%
+Torracat   |  954 |   7.95%
+Castformf  |  929 |   7.74%
+Charmeleon |  900 |   7.50%
+Raboot     |  900 |   7.50%
+Quilava    |  890 |   7.42%
+Ponyta     |  889 |   7.41%
+Magcargo   |  810 |   6.75%
+Flechinder |  795 |   6.62%
+Combusken  |  761 |   6.34%
+Monferno   |  743 |   6.19%
+Marowaka   |  726 |   6.05%
+Carkol     |  720 |   6.00%
+Magby      |    5 |   0.04%
+Litleo     |    3 |   0.03%
+Torkoal    |    2 |   0.02%
+Larvesta   |    1 |   0.01%
+Lampent    |    1 |   0.01%
+---------------------------
+TOTAL      | 12000 | 100.00%
+

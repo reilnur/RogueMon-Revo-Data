@@ -1,0 +1,42 @@
+Evolutions from Bergmite2 (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Vanilluxe  | 693 |   5.78%
+Glalie     | 668 |   5.57%
+Beartic    | 649 |   5.41%
+Cetitan    | 618 |   5.15%
+Darmanitag | 610 |   5.08%
+Glaceon    | 596 |   4.97%
+Eiscue     | 571 |   4.76%
+Cryogonal  | 562 |   4.68%
+Eiscuen    | 561 |   4.67%
+Mr. Rime   | 470 |   3.92%
+Froslass   | 466 |   3.88%
+Darmanitzg | 452 |   3.77%
+Weavile    | 432 |   3.60%
+Mamoswine  | 417 |   3.48%
+Ninetalesa | 400 |   3.33%
+Aurorus    | 386 |   3.22%
+Crabminble | 377 |   3.14%
+Dewgong    | 376 |   3.13%
+Arctozolt  | 351 |   2.93%
+Lapras     | 349 |   2.91%
+Rotomfr    | 344 |   2.87%
+Cloyster   | 338 |   2.82%
+Walrein    | 336 |   2.80%
+Abomasnow  | 324 |   2.70%
+Frosmoth   | 314 |   2.62%
+Arctovish  | 307 |   2.56%
+Regice     |   6 |   0.05%
+Articuno   |   6 |   0.05%
+Glaliem    |   5 |   0.04%
+Chien-Pao  |   5 |   0.04%
+Sandslasha |   4 |   0.03%
+Glastrier  |   3 |   0.03%
+Ironbundle |   1 |   0.01%
+Mr. Mimeg  |   1 |   0.01%
+Jynx       |   1 |   0.01%
+Piloswine  |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

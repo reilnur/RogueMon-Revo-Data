@@ -1,0 +1,32 @@
+Evolutions from Geodudea (out of approximately 12000):
+Pokémon   | Count | Percentage
+-------------------------
+Omanyte   | 569 |   4.74%
+Eelektrik | 562 |   4.68%
+Plusle    | 551 |   4.59%
+Kabuto    | 535 |   4.46%
+Minun     | 533 |   4.44%
+Naclstack | 531 |   4.42%
+Pachirisu | 527 |   4.39%
+Tyrunt    | 526 |   4.38%
+Flaaffy   | 514 |   4.28%
+Tirtouga  | 499 |   4.16%
+Sudowoodo | 488 |   4.07%
+Luxio     | 483 |   4.03%
+Nosepass  | 474 |   3.95%
+Elekid    | 473 |   3.94%
+Boldore   | 471 |   3.92%
+Lileep    | 467 |   3.89%
+Amaura    | 462 |   3.85%
+Onix      | 425 |   3.54%
+Anorith   | 415 |   3.46%
+Graveler  | 414 |   3.45%
+Emolga    | 392 |   3.27%
+Archen    | 390 |   3.25%
+Pupitar   | 386 |   3.22%
+Carkol    | 332 |   2.77%
+Corsola   | 296 |   2.47%
+Charjabug | 285 |   2.38%
+-------------------------
+TOTAL     | 12000 | 100.00%
+

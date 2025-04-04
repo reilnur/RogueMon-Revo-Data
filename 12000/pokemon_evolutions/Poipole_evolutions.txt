@@ -1,0 +1,49 @@
+Evolutions from Poipole (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Nihilego   | 698 |   5.82%
+Munkidori  | 650 |   5.42%
+Fezandipti | 622 |   5.18%
+Okidogi    | 589 |   4.91%
+Iron Moth  | 573 |   4.78%
+Muk        | 517 |   4.31%
+Weezing    | 457 |   3.81%
+Dragalge   | 398 |   3.32%
+Weezingg   | 368 |   3.07%
+Revavroom  | 367 |   3.06%
+Muka       | 367 |   3.06%
+Crobat     | 365 |   3.04%
+Sneasler   | 365 |   3.04%
+Overqwil   | 360 |   3.00%
+Gengar     | 360 |   3.00%
+Toxicroak  | 348 |   2.90%
+Nidoqueen  | 341 |   2.84%
+Victreebel | 341 |   2.84%
+Glimmora   | 335 |   2.79%
+Drapion    | 316 |   2.63%
+Roserade   | 306 |   2.55%
+Venusaur   | 302 |   2.52%
+Toxtricity | 296 |   2.47%
+Nidoking   | 291 |   2.43%
+Tentacruel | 291 |   2.43%
+Vileplume  | 289 |   2.41%
+Toxtricitl | 289 |   2.41%
+Slowbrog   | 288 |   2.40%
+Slowkingg  | 279 |   2.33%
+Toxapex    | 262 |   2.18%
+Beedrillm  | 256 |   2.13%
+Pecharunt  |  38 |   0.32%
+Gengarm    |  36 |   0.30%
+Swalot     |  12 |   0.10%
+Garbodor   |  12 |   0.10%
+Skuntank   |   5 |   0.04%
+Arbok      |   2 |   0.02%
+Grafaiai   |   2 |   0.02%
+Amoonguss  |   2 |   0.02%
+Salazzle   |   2 |   0.02%
+Seviper    |   1 |   0.01%
+Qwilfishh  |   1 |   0.01%
+Scolipede  |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+

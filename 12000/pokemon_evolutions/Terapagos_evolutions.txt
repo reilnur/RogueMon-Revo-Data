@@ -1,0 +1,57 @@
+Evolutions from Terapagos (out of approximately 12000):
+Pokémon    | Count | Percentage
+--------------------------
+Terapagost | 874 |   7.28%
+Meloettap  | 767 |   6.39%
+Meloetta   | 718 |   5.98%
+Kangaskham | 691 |   5.76%
+Lopunnym   | 553 |   4.61%
+Pidgeotm   | 548 |   4.57%
+Silvally   | 533 |   4.44%
+Snorlax    | 495 |   4.12%
+Blissey    | 474 |   3.95%
+Porygon-Z  | 434 |   3.62%
+Type: Null | 428 |   3.57%
+Audinom    | 376 |   3.13%
+Lickilicky | 375 |   3.12%
+Ursalunab  | 375 |   3.12%
+Dudunsprce | 366 |   3.05%
+Porygon2   | 362 |   3.02%
+Ursaring   | 356 |   2.97%
+Stoutland  | 349 |   2.91%
+Cyclizar   | 346 |   2.88%
+Ursaluna   | 328 |   2.73%
+Braviary   | 313 |   2.61%
+Farigiraf  | 299 |   2.49%
+Bewear     | 297 |   2.48%
+Wyrdeer    | 285 |   2.38%
+Obstagoon  | 266 |   2.22%
+Zoroarkh   | 266 |   2.22%
+Pyroar     | 253 |   2.11%
+Arboliva   | 229 |   1.91%
+Zangoose   |   4 |   0.03%
+Furfrou    |   4 |   0.03%
+Miltank    |   3 |   0.03%
+Oinkologne |   3 |   0.03%
+Tauros     |   3 |   0.03%
+Audino     |   3 |   0.03%
+Chansey    |   2 |   0.02%
+Dodrio     |   2 |   0.02%
+Greedent   |   2 |   0.02%
+Kangaskhan |   2 |   0.02%
+Bouffalant |   2 |   0.02%
+Lopunny    |   2 |   0.02%
+Dubwool    |   2 |   0.02%
+Exploud    |   1 |   0.01%
+Maushold   |   1 |   0.01%
+Oranguru   |   1 |   0.01%
+Toucannon  |   1 |   0.01%
+Stantler   |   1 |   0.01%
+Pidgeot    |   1 |   0.01%
+Heliolisk  |   1 |   0.01%
+Komala     |   1 |   0.01%
+Ambipom    |   1 |   0.01%
+Purugly    |   1 |   0.01%
+--------------------------
+TOTAL      | 12000 | 100.00%
+
